@@ -32,22 +32,19 @@ jobs:
           import os
           import sys
 
-          # Fetch the string from the environment variables
-          urls_json = os.environ.get("REPO_URLS_ENV", "[]")
+          # Fetch the raw string from the environment
+          raw_urls = os.environ.get("REPO_URLS_ENV", "")
 
-          try:
-              # Safely parse the JSON string back into a Python list
-              URLS = json.loads(urls_json)
-          except json.JSONDecodeError:
-              print("Error: DALAMUD_REPO_URLS is not a valid JSON array string.")
+          # Split by newline and strip whitespace, removing any empty lines
+          URLS = [line.strip() for line in raw_urls.splitlines() if line.strip()]
+
+          if not URLS:
+              print("Error: DALAMUD_REPO_URLS environment variable is empty.")
               sys.exit(1)
 
-          if not isinstance(URLS, list) or not URLS:
-              print("Error: DALAMUD_REPO_URLS must be a non-empty JSON list.")
-              sys.exit(1)
+          print(f"Loaded {len(URLS)} repositories to fetch.")
 
           compiled_manifests = {}
-
           for url in URLS:
               try:
                   print(f"Fetching: {url}")
