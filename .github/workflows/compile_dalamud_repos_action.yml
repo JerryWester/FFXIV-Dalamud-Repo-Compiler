@@ -1,0 +1,104 @@
+name: Compile Custom Dalamud Repository
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch: # Allows you to run it manually from the Actions tab
+
+permissions:
+  contents: write # Required to push the updated repo.json back to the repository
+
+jobs:
+  compile-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-python: '3.x'
+
+      - name: Fetch and Merge Repositories
+        env:
+          # Pass the GitHub variable into the runner's environment
+          REPO_URLS_ENV: ${{ vars.DALAMUD_REPO_URLS }}
+        shell: python
+        run: |
+          import json
+          import urllib.request
+          import os
+          import sys
+
+          # Fetch the string from the environment variables
+          urls_json = os.environ.get("REPO_URLS_ENV", "[]")
+
+          try:
+              # Safely parse the JSON string back into a Python list
+              URLS = json.loads(urls_json)
+          except json.JSONDecodeError:
+              print("Error: DALAMUD_REPO_URLS is not a valid JSON array string.")
+              sys.exit(1)
+
+          if not isinstance(URLS, list) or not URLS:
+              print("Error: DALAMUD_REPO_URLS must be a non-empty JSON list.")
+              sys.exit(1)
+
+          compiled_manifests = {}
+
+          for url in URLS:
+              try:
+                  print(f"Fetching: {url}")
+                  req = urllib.request.Request(
+                      url, 
+                      headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) GitHub-Actions-Dalamud-Compiler'}
+                  )
+                  with urllib.request.urlopen(req) as response:
+                      data = json.loads(response.read().decode())
+                      
+                      if isinstance(data, list):
+                          for plugin in data:
+                              internal_name = plugin.get("InternalName")
+                              last_update = plugin.get("LastUpdate", 0)
+                              
+                              if not internal_name:
+                                  continue
+                              
+                              if internal_name not in compiled_manifests:
+                                  compiled_manifests[internal_name] = plugin
+                              else:
+                                  existing_plugin = compiled_manifests[internal_name]
+                                  existing_last_update = existing_plugin.get("LastUpdate", 0)
+                                  
+                                  if last_update > existing_last_update:
+                                      print(f"Conflict found for '{internal_name}'. Overwriting with newer version.")
+                                      compiled_manifests[internal_name] = plugin
+                                  else:
+                                      print(f"Conflict found for '{internal_name}'. Skipping older version.")
+                      else:
+                          print(f"Warning: Data from {url} was not a JSON array. Skipping.")
+              except Exception as e:
+                  print(f"Error fetching or parsing {url}: {e}")
+
+          final_array = list(compiled_manifests.values())
+
+          with open("repo.json", "w", encoding="utf-8") as f:
+              json.dump(final_array, f, indent=2, ensure_ascii=False)
+          
+          print(f"Successfully compiled {len(final_array)} unique plugins into repo.json")
+          
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Only commit if repo.json actually changed
+          if git diff --quiet repo.json; then
+            echo "No changes detected in repo.json. Skipping commit."
+          else
+            git add repo.json
+            git commit -m "chore: auto-update repo.json [skip ci]"
+            git push
+          fi
