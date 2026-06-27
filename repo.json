@@ -154,24 +154,6 @@
     "LastUpdate": "1777904465"
   },
   {
-    "Author": "kawaii, NightmareXIV",
-    "Name": "Orbwalker",
-    "Punchline": "S P A C E G L I D I N G",
-    "Description": "Locks player movement while casting and allows for maximum caster uptime during the course of a fight.",
-    "Tags": [],
-    "InternalName": "Orbwalker",
-    "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
-    "DownloadCount": 81776,
-    "LastUpdate": 1777528744,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/1.0.1.10/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/1.0.1.10/update/latest.zip",
-    "AssemblyVersion": "1.0.1.10",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "- 7.5",
-    "IconUrl": "https://puni.sh/api/plugins/icon/12"
-  },
-  {
     "Author": "Team Wrath",
     "Name": "Wrath Combo",
     "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
@@ -183,7 +165,7 @@
     ],
     "InternalName": "WrathCombo",
     "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-    "DownloadCount": 990292,
+    "DownloadCount": 990306,
     "LastUpdate": 1781446354,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.9/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.9/update/latest.zip",
@@ -197,6 +179,24 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/60"
   },
   {
+    "Author": "kawaii, NightmareXIV",
+    "Name": "Orbwalker",
+    "Punchline": "S P A C E G L I D I N G",
+    "Description": "Locks player movement while casting and allows for maximum caster uptime during the course of a fight.",
+    "Tags": [],
+    "InternalName": "Orbwalker",
+    "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
+    "DownloadCount": 81778,
+    "LastUpdate": 1777528744,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/1.0.1.10/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/1.0.1.10/update/latest.zip",
+    "AssemblyVersion": "1.0.1.10",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "- 7.5",
+    "IconUrl": "https://puni.sh/api/plugins/icon/12"
+  },
+  {
     "Author": "daemitus, kawaii",
     "Name": "Yes Already",
     "Punchline": "Clicks Yes in various dialogs you've specified.",
@@ -204,7 +204,7 @@
     "Tags": [],
     "InternalName": "YesAlready",
     "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-    "DownloadCount": 1256311,
+    "DownloadCount": 1256321,
     "LastUpdate": 1779781314,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.2.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.2.3/update/latest.zip",
@@ -219,27 +219,6 @@
   },
   {
     "Author": "kawaii, NightmareXIV",
-    "Name": "AutoRetainer",
-    "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
-    "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-    "Tags": [],
-    "InternalName": "AutoRetainer",
-    "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-    "DownloadCount": 2214043,
-    "LastUpdate": 1781700279,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.1.7/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.1.7/update/latest.zip",
-    "AssemblyVersion": "4.6.1.7",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "- Fixed errors while logged out",
-    "TestingAssemblyVersion": "4.6.1.8",
-    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.1.8/install/testing.zip",
-    "TestingDalamudApiLevel": "15",
-    "IconUrl": "https://puni.sh/api/plugins/icon/24"
-  },
-  {
-    "Author": "kawaii, NightmareXIV",
     "Name": "Avarice",
     "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
     "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
@@ -248,7 +227,7 @@
     ],
     "InternalName": "Avarice",
     "RepoUrl": "https://github.com/PunishXIV/Avarice",
-    "DownloadCount": 317626,
+    "DownloadCount": 317630,
     "LastUpdate": 1777497479,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.6/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.6/update/latest.zip",
@@ -274,7 +253,7 @@
     ],
     "InternalName": "PandorasBox",
     "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-    "DownloadCount": 1325785,
+    "DownloadCount": 1325798,
     "LastUpdate": 1780112081,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.4/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.4/update/latest.zip",
@@ -288,6 +267,50 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/8"
   },
   {
+    "Author": "kawaii, NightmareXIV",
+    "Name": "AutoRetainer",
+    "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
+    "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
+    "Tags": [],
+    "InternalName": "AutoRetainer",
+    "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
+    "DownloadCount": 2214082,
+    "LastUpdate": 1781700279,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.1.7/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.1.7/update/latest.zip",
+    "AssemblyVersion": "4.6.1.7",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "- Fixed errors while logged out",
+    "TestingAssemblyVersion": "4.6.1.8",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.1.8/install/testing.zip",
+    "TestingDalamudApiLevel": "15",
+    "IconUrl": "https://puni.sh/api/plugins/icon/24"
+  },
+  {
+    "Author": "kawaii, jukka",
+    "Name": "Palace Pal",
+    "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
+    "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
+    "Tags": [
+      "potd",
+      "hoh",
+      "splatoon",
+      "palace"
+    ],
+    "InternalName": "PalacePal",
+    "RepoUrl": "https://github.com/PunishXIV/PalacePal",
+    "DownloadCount": 238698,
+    "LastUpdate": 1777738875,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/update/latest.zip",
+    "AssemblyVersion": "4.16.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "",
+    "IconUrl": "https://puni.sh/api/plugins/icon/32"
+  },
+  {
     "Author": "Det, Taurenkey",
     "Name": "AutoHook",
     "Punchline": "Makes fishing less (or more) boring",
@@ -298,7 +321,7 @@
     ],
     "InternalName": "AutoHook",
     "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-    "DownloadCount": 1729306,
+    "DownloadCount": 1729487,
     "LastUpdate": 1782505904,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.0.57/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.0.57/update/latest.zip",
@@ -324,7 +347,7 @@
     ],
     "InternalName": "LazyLoot",
     "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-    "DownloadCount": 240492,
+    "DownloadCount": 240495,
     "LastUpdate": 1777584039,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.3/update/latest.zip",
@@ -333,29 +356,6 @@
     "DalamudApiLevel": "15",
     "Changelog": "- 7.5",
     "IconUrl": "https://puni.sh/api/plugins/icon/9"
-  },
-  {
-    "Author": "kawaii, jukka",
-    "Name": "Palace Pal",
-    "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
-    "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
-    "Tags": [
-      "potd",
-      "hoh",
-      "splatoon",
-      "palace"
-    ],
-    "InternalName": "PalacePal",
-    "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-    "DownloadCount": 238693,
-    "LastUpdate": 1777738875,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/update/latest.zip",
-    "AssemblyVersion": "4.16.0.0",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "",
-    "IconUrl": "https://puni.sh/api/plugins/icon/32"
   },
   {
     "Author": "Chalkos, NightmareXIV",
@@ -367,7 +367,7 @@
     ],
     "InternalName": "Marketbuddy",
     "RepoUrl": null,
-    "DownloadCount": 13211,
+    "DownloadCount": 13213,
     "LastUpdate": 1777575334,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/131/Marketbuddy/versions/0.2.4.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/131/Marketbuddy/versions/0.2.4.2/update/latest.zip",
@@ -388,7 +388,7 @@
     ],
     "InternalName": "Splatoon",
     "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-    "DownloadCount": 2033303,
+    "DownloadCount": 2033328,
     "LastUpdate": 1781980421,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.8/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.8/update/latest.zip",
@@ -414,7 +414,7 @@
     ],
     "InternalName": "Questionable",
     "RepoUrl": "https://github.com/PunishXIV/Questionable",
-    "DownloadCount": 1323397,
+    "DownloadCount": 1323612,
     "LastUpdate": 1782577813,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.303.0.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.303.0.2/update/latest.zip",
@@ -428,28 +428,6 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/94"
   },
   {
-    "Author": "Taurenkey, Kage, NightmareXIV",
-    "Name": "Saucy",
-    "Punchline": "When working for MGP is too much effort.",
-    "Description": "Automates certain Gold Saucer mini-games.",
-    "Tags": [
-      "gold saucer",
-      "mgp",
-      "automation"
-    ],
-    "InternalName": "Saucy",
-    "RepoUrl": "https://github.com/PunishXIV/Saucy",
-    "DownloadCount": 856871,
-    "LastUpdate": 1782087980,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.1.11/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.1.11/update/latest.zip",
-    "AssemblyVersion": "2.1.1.11",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "",
-    "IconUrl": "https://puni.sh/api/plugins/icon/7"
-  },
-  {
     "Author": "Taurenkey, kawaii, NightmareXIV",
     "Name": "Artisan",
     "Punchline": "A 'simple' crafting plugin.",
@@ -459,7 +437,7 @@
     ],
     "InternalName": "Artisan",
     "RepoUrl": "https://github.com/PunishXIV/Artisan",
-    "DownloadCount": 5577029,
+    "DownloadCount": 5577667,
     "LastUpdate": 1782110940,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.16/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.16/update/latest.zip",
@@ -471,6 +449,28 @@
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.16/install/testing.zip",
     "TestingDalamudApiLevel": "15",
     "IconUrl": "https://puni.sh/api/plugins/icon/6"
+  },
+  {
+    "Author": "Taurenkey, Kage, NightmareXIV",
+    "Name": "Saucy",
+    "Punchline": "When working for MGP is too much effort.",
+    "Description": "Automates certain Gold Saucer mini-games.",
+    "Tags": [
+      "gold saucer",
+      "mgp",
+      "automation"
+    ],
+    "InternalName": "Saucy",
+    "RepoUrl": "https://github.com/PunishXIV/Saucy",
+    "DownloadCount": 856908,
+    "LastUpdate": 1782087980,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.1.11/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.1.11/update/latest.zip",
+    "AssemblyVersion": "2.1.1.11",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "",
+    "IconUrl": "https://puni.sh/api/plugins/icon/7"
   },
   {
     "Author": "Haselnussbomber",
@@ -1082,7 +1082,7 @@
     "Tags": [],
     "InternalName": "SomethingNeedDoing",
     "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-    "DownloadCount": 772017,
+    "DownloadCount": 772038,
     "LastUpdate": 1782473257,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/15.6/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/15.6/update/latest.zip",
@@ -1104,7 +1104,7 @@
     ],
     "InternalName": "Automaton",
     "RepoUrl": "https://github.com/Jaksuhn/Automaton",
-    "DownloadCount": 758440,
+    "DownloadCount": 758475,
     "LastUpdate": 1782475006,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.191.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.191.0.0/update/latest.zip",
@@ -1146,7 +1146,7 @@
     "Tags": [],
     "InternalName": "vsatisfy",
     "RepoUrl": null,
-    "DownloadCount": 148847,
+    "DownloadCount": 148853,
     "LastUpdate": 1781106410,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/0.0.0.37/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/0.0.0.37/update/latest.zip",
@@ -1164,7 +1164,7 @@
     "Tags": [],
     "InternalName": "visland",
     "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-    "DownloadCount": 796346,
+    "DownloadCount": 796349,
     "LastUpdate": 1777499431,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.143/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.143/update/latest.zip",
@@ -1182,7 +1182,7 @@
     "Tags": [],
     "InternalName": "vfaux",
     "RepoUrl": "https://github.com/awgil/vfaux",
-    "DownloadCount": 94409,
+    "DownloadCount": 94411,
     "LastUpdate": 1777496806,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/29/vfaux/versions/0.0.0.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/29/vfaux/versions/0.0.0.12/update/latest.zip",
@@ -1200,7 +1200,7 @@
     "Tags": [],
     "InternalName": "BossMod",
     "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-    "DownloadCount": 2255188,
+    "DownloadCount": 2255257,
     "LastUpdate": 1782407886,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/7.5.1.14/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/7.5.1.14/update/latest.zip",
@@ -1226,7 +1226,7 @@
     "Tags": [],
     "InternalName": "vfallguy",
     "RepoUrl": null,
-    "DownloadCount": 54712,
+    "DownloadCount": 54713,
     "LastUpdate": 1777500971,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/41/vfallguy/versions/0.0.0.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/41/vfallguy/versions/0.0.0.12/update/latest.zip",
@@ -1244,7 +1244,7 @@
     "Tags": [],
     "InternalName": "vnavmesh",
     "RepoUrl": null,
-    "DownloadCount": 1622309,
+    "DownloadCount": 1622388,
     "LastUpdate": 1782319793,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/1.2.3.8/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/1.2.3.8/update/latest.zip",
@@ -1450,7 +1450,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Fixes for Summoner rotation by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1298\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.1.6...7.5.1.7",
-    "DownloadCount": 2725116
+    "DownloadCount": 2725736
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1484,7 +1484,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.11/latest.zip",
     "TestingAssemblyVersion": "7.4.5.11",
     "Changelog": "## What's Changed\r\n* Fix for config load issue by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1226\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.5.1.13...7.5.1.14",
-    "DownloadCount": 3125479
+    "DownloadCount": 3125730
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1513,7 +1513,7 @@
     "AssemblyVersion": "7.5.0.4",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.5.0.4/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Making the READMEs look the samesies. by @Nonunon in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/16\r\n\r\n## New Contributors\r\n* @Nonunon made their first contribution in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/16\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.5.0.3...7.5.0.4",
-    "DownloadCount": 32360
+    "DownloadCount": 32363
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1543,7 +1543,7 @@
     "AssemblyVersion": "7.5.0.3",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.5.0.3/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* Added pr buildtest by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/17\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.5.0.2...7.5.0.3",
-    "DownloadCount": 58118
+    "DownloadCount": 58128
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1582,7 +1582,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.5.17/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.5.17",
     "Changelog": "## What's Changed\r\n* Gbr scaling by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/644\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.0.13...7.5.1.0",
-    "DownloadCount": 991356
+    "DownloadCount": 991399
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1609,7 +1609,7 @@
     "AssemblyVersion": "7.5.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.5.0.0/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* api15 by @Shiori-Zephyr in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/16\r\n* API 15 compatibility by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/17\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.4.5.0...7.5.0.0",
-    "DownloadCount": 27875
+    "DownloadCount": 27880
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1641,7 +1641,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "## What's Changed\r\n* Add pr test and bump ecommons by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/8\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.5.0.0...7.5.0.1",
-    "DownloadCount": 16315
+    "DownloadCount": 16320
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1676,7 +1676,7 @@
     "AssemblyVersion": "7.5.1.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.5.1.0/latest.zip",
     "Changelog": "## What's Changed\r\n* Updated for 7.51, supports Dancing Mad Ultimate, updated passport checking process by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/21\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.5.0.11...7.5.1.0",
-    "DownloadCount": 21836
+    "DownloadCount": 21846
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1711,7 +1711,7 @@
     "AssemblyVersion": "7.5.0.2",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/NoSillyReborn/releases/download/7.5.0.2/latest.zip",
     "Changelog": "## What's Changed\r\n* Fix manifest mismatch and update ecommons, remove stg from build by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/NoSillyReborn/pull/4\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/NoSillyReborn/compare/7.5.0.1...7.5.0.2",
-    "DownloadCount": 4073
+    "DownloadCount": 4077
   },
   {
     "Author": "Churin",
@@ -1743,7 +1743,7 @@
     "AssemblyVersion": "1.0.0.8",
     "DownloadLinkUpdate": "https://github.com/aventurescence/Understudy/releases/download/v1.0.0.8/latest.zip",
     "Changelog": "### chore: update Dalamud API level to 15 in pluginmanifest\r\n\n\n---\n*Assembly version: 1.0.0.8*\n\n\n**Full Changelog**: https://github.com/aventurescence/Understudy/compare/v1.0.0.7...v1.0.0.8",
-    "DownloadCount": 2077
+    "DownloadCount": 2079
   },
   {
     "Author": "Risa and Contributors",
@@ -2042,7 +2042,7 @@
     ],
     "InternalName": "Hyperborea",
     "RepoUrl": "https://github.com/kawaii/Hyperborea",
-    "DownloadCount": 41989,
+    "DownloadCount": 41991,
     "LastUpdate": 1781710078,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.0.37/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.0.37/update/latest.zip",
@@ -2086,7 +2086,7 @@
     "Tags": [],
     "InternalName": "Dropbox",
     "RepoUrl": "https://github.com/kawaii/Dropbox",
-    "DownloadCount": 40292,
+    "DownloadCount": 40293,
     "LastUpdate": 1777528891,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.13/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.13/update/latest.zip",
@@ -2152,7 +2152,7 @@
     ],
     "InternalName": "ICE",
     "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-    "DownloadCount": 1110687,
+    "DownloadCount": 1110726,
     "LastUpdate": 1782323957,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/70/ICE/versions/0.0.78.26/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/70/ICE/versions/0.0.78.26/update/latest.zip",
@@ -2179,7 +2179,7 @@
     "Tags": [],
     "InternalName": "Henchman",
     "RepoUrl": "https://github.com/Knightmore/Henchman",
-    "DownloadCount": 129787,
+    "DownloadCount": 129788,
     "LastUpdate": 1781957993,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/85/Henchman/versions/2.0.6.6/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/85/Henchman/versions/2.0.6.6/update/latest.zip",
@@ -2331,7 +2331,7 @@
     ],
     "InternalName": "VIWI",
     "RepoUrl": null,
-    "DownloadCount": 41306,
+    "DownloadCount": 41308,
     "LastUpdate": 1780272595,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/108/VIWI/versions/0.0.0.62/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/108/VIWI/versions/0.0.0.62/update/latest.zip",
@@ -2369,7 +2369,7 @@
     "Tags": [],
     "InternalName": "AutoDuty",
     "RepoUrl": "https://github.com/erdelf/AutoDuty",
-    "DownloadCount": 1660628,
+    "DownloadCount": 1660641,
     "LastUpdate": 1781357662,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.316/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.316/update/latest.zip",
@@ -2939,7 +2939,7 @@
     "LastUpdate": 1782583310,
     "Changelog": "v0.0.0.40 release of XA-Slave",
     "IsTestingExclusive": false,
-    "DownloadCount": 2196,
+    "DownloadCount": 2197,
     "RepoTitle": "XA Enterprise",
     "RepoUrl": "https://github.com/xa-io/XA-Slave",
     "SourceRepoName": "XA-Slave",
@@ -3001,7 +3001,7 @@
     "LastUpdate": 1782407620,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 3506,
+    "DownloadCount": 3507,
     "RepoTitle": "Dhog Dumpsterfire",
     "RepoUrl": "https://github.com/McVaxius/FrenRider",
     "SourceRepoName": "FrenRider",
@@ -3047,7 +3047,7 @@
     "LastUpdate": 1782518058,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 5295,
+    "DownloadCount": 5297,
     "RepoTitle": "Dhog Dumpsterfire",
     "RepoUrl": "https://github.com/McVaxius/LootGoblin",
     "SourceRepoName": "LootGoblin",
@@ -3114,7 +3114,7 @@
     "LastUpdate": 1782344098,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 2569,
+    "DownloadCount": 2570,
     "RepoTitle": "Dhog Dumpsterfire",
     "RepoUrl": "https://github.com/McVaxius/VERMAXION",
     "SourceRepoName": "VERMAXION",
@@ -3144,7 +3144,7 @@
     "LastUpdate": 1782335794,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 1537,
+    "DownloadCount": 1538,
     "RepoTitle": "Dhog Dumpsterfire",
     "RepoUrl": "https://github.com/McVaxius/HelloFellowHuman",
     "SourceRepoName": "HelloFellowHuman",
@@ -3524,7 +3524,7 @@
     "LastUpdate": 1782591447,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 2111,
+    "DownloadCount": 2112,
     "RepoTitle": "Dhog Dumpsterfire",
     "RepoUrl": "https://github.com/McVaxius/ADS",
     "SourceRepoName": "ADS",
@@ -4099,7 +4099,7 @@
     "Description": "Gluttony Combo - lalalazy fork of Gluttony Combo. XIVCombo for very lazy players.",
     "InternalName": "GluttonyCombo",
     "AssemblyVersion": "1.0.4.54",
-    "Changelog": "v1.0.4.54 - Upstream sync: WrathCombo main 1.0.4.9 tip (3 commits: autorotation override-target handling)\n- Merged upstream 06877cca..1c7049c64; all Gluttony fork divergences preserved (15s raidwide-mit gate, Pyretic/Pacification/Silence handling, WHM Divine Caress ground-heal, BLU engine, SMN Aegis Uptime).\n- Autorotation: the override target is now cleared automatically when it points at a dead/invalid object, and wiped when autorotation is disabled, instead of being nulled at every early-exit. Fewer stale-target edge cases.\n- Autorotation: ability queueing now respects the configured queue window (AnimationLock <= QueueWindow) instead of requiring a zero animation lock, so weaved oGCDs fire more reliably.\n- Target: HasBattleTarget() is now null-safe and the override-target getter self-wipes dead targets.",
+    "Changelog": "v1.0.4.55 (TESTING) - Healer raidwide upgrades.\n- SGE/SCH now cast their AoE shield (Eukrasian Prognosis / Succor) FIRST on a raidwide or stack, then one mitigation - new 10s shield gate separate from the 15s mit gate; auto-rotation cancels an in-progress damage cast so the shield goes out instantly.\n- AST: Aspected Helios / Helios Conjunction regen is now timed to land right after the hit and works off Neutral Sect.\n- WHM: new 'RaidWide Medica II/III' option times Medica so its regen lands as the hit resolves.\n- SGE: new 'Tank Shield Upkeep' option keeps Eukrasian Diagnosis on a tank with >2 enemies and spends Addersting via Toxikon at cap.\n\nv1.0.4.54 - Upstream sync: WrathCombo main 1.0.4.9 tip (3 commits: autorotation override-target handling)\n- Merged upstream 06877cca..1c7049c64; all Gluttony fork divergences preserved (15s raidwide-mit gate, Pyretic/Pacification/Silence handling, WHM Divine Caress ground-heal, BLU engine, SMN Aegis Uptime).\n- Autorotation: the override target is now cleared automatically when it points at a dead/invalid object, and wiped when autorotation is disabled, instead of being nulled at every early-exit. Fewer stale-target edge cases.\n- Autorotation: ability queueing now respects the configured queue window (AnimationLock <= QueueWindow) instead of requiring a zero animation lock, so weaved oGCDs fire more reliably.\n- Target: HasBattleTarget() is now null-safe and the override-target getter self-wipes dead targets.",
     "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/src/GluttonyCombo",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -4107,7 +4107,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/GluttonyCombo/latest/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/GluttonyCombo/latest/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/GluttonyCombo/latest/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/GluttonyCombo/testing/latest.zip",
     "Tags": [
       "combo",
       "gluttony",
@@ -4126,7 +4126,8 @@
       ""
     ],
     "DownloadCount": 0,
-    "LastUpdate": "0"
+    "LastUpdate": "0",
+    "TestingAssemblyVersion": "1.0.4.55"
   },
   {
     "Author": "daemitus, MidoriKami, dajoey",
@@ -4198,8 +4199,8 @@
     "Punchline": "Fully automated FATE grinding utilizing vnavmesh, lifestream, and Gluttony Combo.",
     "Description": "Automates FATE grinding, including Zodiac Atma, Anima Luminous Crystals, Resistance Memories, Phantom Demiatmas, Yo-kai Watch Medals, and Bicolor Gemstones. Seamlessly integrates with vnavmesh for pathing and flight, lifestream for zone swapping, TextAdvance for dialogue skipping, and Gluttony Combo/BossMod for combat. Use /lazyfate to open.",
     "InternalName": "LazyFateAutomation",
-    "AssemblyVersion": "0.0.1.43",
-    "Changelog": "v0.0.1.43 - Release Gluttony on Stop\n- Stop now fully releases the Gluttony Combo lease (returns control to you) instead of just turning auto-rotation off.\n\nv0.0.1.42 - Preset name cleanup\n- Renamed the BossMod combat preset to just \"Gluttony\" (dropped the leftover \"CBT -\" prefix).\n\nv0.0.1.41 - Gluttony crash hotfix\n- Fixed a lease-registration loop that piled up duplicate Gluttony Combo leases, crashing Gluttony's UI/rotation and tanking FPS. The lease is now acquired exactly once and never churned.\n- Renamed the BossMod combat preset \"CBT - DwD\" to \"CBT - Gluttony\" so the status bar shows the right engine.\n- After updating, reload Gluttony Combo (or restart the game) once to clear orphaned registrations from v0.0.1.40.\n\nv0.0.1.40 - Gluttony Combo combat\n- Combat rotation and target selection are now handled by Gluttony Combo (lease-based Auto-Rotation) instead of BossMod's DwD autorotation.\n- BossMod is kept only for movement and danger avoidance, and yields target authority to Gluttony (Retarget=NoTarget, FATE priority).\n- Gluttony is configured for FATE grinding: nearest-target, FATE priority, always hard-target so movement follows, AoE at 3+.\n\nv0.0.1.38 - 2026-06-09\n- Prevented mounting and dismounting loops after FATE completion by keeping the bot in Engaging state (clearing remaining combat) before transitioning to BetweenFates or deactivating integrations.\n\nv0.0.1.35 - 2026-06-07\n- Stop movement and remove dismount/landing logic from `TeleportTo` pre-cast checks. Teleport casts will now initiate directly while remaining mounted.\n- Exclude city hubs (where mounting is disabled) from random zone swapping, gemstone allowed zones, relic allowed zones, and the UI zone selector.\n\nv0.0.1.34 - 2026-06-07\n- Added stuck check mitigation for combat/engage pathfinding fallbacks.\n- Wait for combat to end before mounting.\n\nv0.0.1.33 - 2026-06-07\n- Only dismount before teleporting if the player is flying (`Player.InFlight` is true). If the player is mounted on the ground, they will now remain mounted while teleporting, which makes travels faster and more natural.\n- Added robust mounting verification and retry loops inside `MoveTo()`. If the player is in combat, the bot stands still and waits for combat to end before attempting to mount.\n- Added mid-travel dismount checking inside `MoveTo()` pathfinding loops. If the player is dismounted mid-travel (e.g. from getting aggroed/hit), the bot halts movement, waits for combat to end, mounts up, and resumes pathfinding rather than walking on foot.\n- Rewrote combat/engage stuck detection in `HandleCombatStuckDetection()`. Instead of depending on `InCombat` (which is false when running between FATE mobs) or `IsMoving` (which returns false when stuck against a wall), it now tracks position changes relative to the current target and activates `vnavmesh` pathing fallback if progress towards a distant target stops for 1.5 seconds.\n- Added explicit landing and dismounting calls at the beginning of `TeleportTo()`, and wait for `!Player.IsBusy` to prevent teleport casts from immediately failing when mounted/flying.\n- Fixed task crashing on teleport failures by replacing `ErrorIf(!ActionManager.Teleport())` with a robust 3-attempt retry loop that falls back to the `/return` recovery gracefully.\n\nv0.0.1.26 - 2026-06-07\n- Added combat stuck detection and mitigation in `HandleCombatStuckDetection()`. If BossMod's straight-line movement gets the player stuck on trees/obstacles in combat for 1.5 seconds, the bot disables BossMod movement and uses `vnavmesh` to pathfind around the obstacle to the target.\n- Added auto-skipping for NPC dialogue SelectString option lists in `TaskBase.WaitUntilSkipping()`.\n- Gated teleporting and mounting on `!Svc.Condition[ConditionFlag.InCombat]` in `TaskBase.cs` to prevent getting stuck in combat.\n- Prevented rapid mounting and dismounting loops during chain FATEs while waiting for the next FATE to spawn.\n\nv0.0.1.23 - 2026-06-06\n- File logging now suppresses DBG/TRC scope tracing by default; only WRN/ERR are written to LazyFateAutomation.log. Set VerboseFileLogging to true in the plugin config (LazyFateAutomation.json) to restore full debug logging for troubleshooting. (Svc.cs LogToFile gate, Configuration.cs flag.)\n- Fixes ~28 MB log growth observed 2026-06-06 from FATE-grind DebugContext scope enter/exit tracing.",
+    "AssemblyVersion": "0.0.1.44",
+    "Changelog": "v0.0.1.44 - Stop halts vnavmesh\n- Stop now immediately cancels vnavmesh pathfinding and movement, instead of letting the bot finish walking/flying to its destination after you hit Stop.\n\nv0.0.1.43 - Release Gluttony on Stop\n- Stop now fully releases the Gluttony Combo lease (returns control to you) instead of just turning auto-rotation off.\n\nv0.0.1.42 - Preset name cleanup\n- Renamed the BossMod combat preset to just \"Gluttony\" (dropped the leftover \"CBT -\" prefix).\n\nv0.0.1.41 - Gluttony crash hotfix\n- Fixed a lease-registration loop that piled up duplicate Gluttony Combo leases, crashing Gluttony's UI/rotation and tanking FPS. The lease is now acquired exactly once and never churned.\n- Renamed the BossMod combat preset \"CBT - DwD\" to \"CBT - Gluttony\" so the status bar shows the right engine.\n- After updating, reload Gluttony Combo (or restart the game) once to clear orphaned registrations from v0.0.1.40.\n\nv0.0.1.40 - Gluttony Combo combat\n- Combat rotation and target selection are now handled by Gluttony Combo (lease-based Auto-Rotation) instead of BossMod's DwD autorotation.\n- BossMod is kept only for movement and danger avoidance, and yields target authority to Gluttony (Retarget=NoTarget, FATE priority).\n- Gluttony is configured for FATE grinding: nearest-target, FATE priority, always hard-target so movement follows, AoE at 3+.\n\nv0.0.1.38 - 2026-06-09\n- Prevented mounting and dismounting loops after FATE completion by keeping the bot in Engaging state (clearing remaining combat) before transitioning to BetweenFates or deactivating integrations.\n\nv0.0.1.35 - 2026-06-07\n- Stop movement and remove dismount/landing logic from `TeleportTo` pre-cast checks. Teleport casts will now initiate directly while remaining mounted.\n- Exclude city hubs (where mounting is disabled) from random zone swapping, gemstone allowed zones, relic allowed zones, and the UI zone selector.\n\nv0.0.1.34 - 2026-06-07\n- Added stuck check mitigation for combat/engage pathfinding fallbacks.\n- Wait for combat to end before mounting.\n\nv0.0.1.33 - 2026-06-07\n- Only dismount before teleporting if the player is flying (`Player.InFlight` is true). If the player is mounted on the ground, they will now remain mounted while teleporting, which makes travels faster and more natural.\n- Added robust mounting verification and retry loops inside `MoveTo()`. If the player is in combat, the bot stands still and waits for combat to end before attempting to mount.\n- Added mid-travel dismount checking inside `MoveTo()` pathfinding loops. If the player is dismounted mid-travel (e.g. from getting aggroed/hit), the bot halts movement, waits for combat to end, mounts up, and resumes pathfinding rather than walking on foot.\n- Rewrote combat/engage stuck detection in `HandleCombatStuckDetection()`. Instead of depending on `InCombat` (which is false when running between FATE mobs) or `IsMoving` (which returns false when stuck against a wall), it now tracks position changes relative to the current target and activates `vnavmesh` pathing fallback if progress towards a distant target stops for 1.5 seconds.\n- Added explicit landing and dismounting calls at the beginning of `TeleportTo()`, and wait for `!Player.IsBusy` to prevent teleport casts from immediately failing when mounted/flying.\n- Fixed task crashing on teleport failures by replacing `ErrorIf(!ActionManager.Teleport())` with a robust 3-attempt retry loop that falls back to the `/return` recovery gracefully.\n\nv0.0.1.26 - 2026-06-07\n- Added combat stuck detection and mitigation in `HandleCombatStuckDetection()`. If BossMod's straight-line movement gets the player stuck on trees/obstacles in combat for 1.5 seconds, the bot disables BossMod movement and uses `vnavmesh` to pathfind around the obstacle to the target.\n- Added auto-skipping for NPC dialogue SelectString option lists in `TaskBase.WaitUntilSkipping()`.\n- Gated teleporting and mounting on `!Svc.Condition[ConditionFlag.InCombat]` in `TaskBase.cs` to prevent getting stuck in combat.\n- Prevented rapid mounting and dismounting loops during chain FATEs while waiting for the next FATE to spawn.\n\nv0.0.1.23 - 2026-06-06\n- File logging now suppresses DBG/TRC scope tracing by default; only WRN/ERR are written to LazyFateAutomation.log. Set VerboseFileLogging to true in the plugin config (LazyFateAutomation.json) to restore full debug logging for troubleshooting. (Svc.cs LogToFile gate, Configuration.cs flag.)\n- Fixes ~28 MB log growth observed 2026-06-06 from FATE-grind DebugContext scope enter/exit tracing.",
     "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/src/LazyFateAutomation",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
