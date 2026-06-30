@@ -57,6 +57,9 @@ jobs:
                       
                       if isinstance(data, list):
                           for plugin in data:
+                              # Remove RepoUrl if present
+                              plugin.pop("RepoUrl", None)
+
                               internal_name = plugin.get("InternalName")
                               last_update = plugin.get("LastUpdate", 0)
                               
