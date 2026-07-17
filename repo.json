@@ -166,12 +166,34 @@
   },
   {
     "Author": "kawaii, NightmareXIV",
+    "Name": "Avarice",
+    "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+    "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+    "Tags": [
+      "combat"
+    ],
+    "InternalName": "Avarice",
+    "DownloadCount": 331370,
+    "LastUpdate": 1781709174,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.9/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.9/update/latest.zip",
+    "AssemblyVersion": "2.2.0.9",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "- Fix overlay drawing, update dependencies, add positional debug window",
+    "TestingAssemblyVersion": "2.2.0.10",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.10/install/testing.zip",
+    "TestingDalamudApiLevel": "15",
+    "IconUrl": "https://puni.sh/api/plugins/icon/11"
+  },
+  {
+    "Author": "kawaii, NightmareXIV",
     "Name": "AutoRetainer",
     "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
     "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
     "Tags": [],
     "InternalName": "AutoRetainer",
-    "DownloadCount": 2268200,
+    "DownloadCount": 2268273,
     "LastUpdate": 1783574960,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.1.10/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.1.10/update/latest.zip",
@@ -196,7 +218,7 @@
       "convenience"
     ],
     "InternalName": "PandorasBox",
-    "DownloadCount": 1330958,
+    "DownloadCount": 1330962,
     "LastUpdate": 1780112081,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.4/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.4/update/latest.zip",
@@ -210,28 +232,6 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/8"
   },
   {
-    "Author": "kawaii, NightmareXIV",
-    "Name": "Avarice",
-    "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-    "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-    "Tags": [
-      "combat"
-    ],
-    "InternalName": "Avarice",
-    "DownloadCount": 331334,
-    "LastUpdate": 1781709174,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.9/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.9/update/latest.zip",
-    "AssemblyVersion": "2.2.0.9",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "- Fix overlay drawing, update dependencies, add positional debug window",
-    "TestingAssemblyVersion": "2.2.0.10",
-    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.10/install/testing.zip",
-    "TestingDalamudApiLevel": "15",
-    "IconUrl": "https://puni.sh/api/plugins/icon/11"
-  },
-  {
     "Author": "Det, Taurenkey",
     "Name": "AutoHook",
     "Punchline": "Makes fishing less (or more) boring",
@@ -241,7 +241,7 @@
       "Fishing"
     ],
     "InternalName": "AutoHook",
-    "DownloadCount": 1952635,
+    "DownloadCount": 1952840,
     "LastUpdate": 1784137984,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.0.74/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.0.74/update/latest.zip",
@@ -255,26 +255,24 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/47"
   },
   {
-    "Author": "kawaii, jukka",
-    "Name": "Palace Pal",
-    "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
-    "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
-    "Tags": [
-      "potd",
-      "hoh",
-      "splatoon",
-      "palace"
-    ],
-    "InternalName": "PalacePal",
-    "DownloadCount": 241520,
-    "LastUpdate": 1777738875,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/update/latest.zip",
-    "AssemblyVersion": "4.16.0.0",
+    "Author": "daemitus, kawaii",
+    "Name": "Yes Already",
+    "Punchline": "Clicks Yes in various dialogs you've specified.",
+    "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
+    "Tags": [],
+    "InternalName": "YesAlready",
+    "DownloadCount": 1280382,
+    "LastUpdate": 1783944702,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.3.0/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.3.0/update/latest.zip",
+    "AssemblyVersion": "1.15.3.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Changelog": "",
-    "IconUrl": "https://puni.sh/api/plugins/icon/32"
+    "TestingAssemblyVersion": "1.10.4.0",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.10.4.0/install/testing.zip",
+    "TestingDalamudApiLevel": "12",
+    "IconUrl": "https://puni.sh/api/plugins/icon/26"
   },
   {
     "Author": "Taurenkey, Gid, NightmareXIV",
@@ -288,7 +286,7 @@
       "other"
     ],
     "InternalName": "LazyLoot",
-    "DownloadCount": 242202,
+    "DownloadCount": 242203,
     "LastUpdate": 1777584039,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.3/update/latest.zip",
@@ -299,24 +297,26 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/9"
   },
   {
-    "Author": "daemitus, kawaii",
-    "Name": "Yes Already",
-    "Punchline": "Clicks Yes in various dialogs you've specified.",
-    "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
-    "Tags": [],
-    "InternalName": "YesAlready",
-    "DownloadCount": 1280303,
-    "LastUpdate": 1783944702,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.3.0/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.3.0/update/latest.zip",
-    "AssemblyVersion": "1.15.3.0",
+    "Author": "kawaii, jukka",
+    "Name": "Palace Pal",
+    "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
+    "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
+    "Tags": [
+      "potd",
+      "hoh",
+      "splatoon",
+      "palace"
+    ],
+    "InternalName": "PalacePal",
+    "DownloadCount": 241522,
+    "LastUpdate": 1777738875,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/update/latest.zip",
+    "AssemblyVersion": "4.16.0.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Changelog": "",
-    "TestingAssemblyVersion": "1.10.4.0",
-    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.10.4.0/install/testing.zip",
-    "TestingDalamudApiLevel": "12",
-    "IconUrl": "https://puni.sh/api/plugins/icon/26"
+    "IconUrl": "https://puni.sh/api/plugins/icon/32"
   },
   {
     "Author": "Chalkos, NightmareXIV",
@@ -349,7 +349,7 @@
       "utility"
     ],
     "InternalName": "Questionable",
-    "DownloadCount": 1474245,
+    "DownloadCount": 1474297,
     "LastUpdate": 1783956564,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.306.0.8/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.306.0.8/update/latest.zip",
@@ -363,29 +363,6 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/94"
   },
   {
-    "Author": "NightmareXIV",
-    "Name": "Splatoon",
-    "Punchline": "Scriptable overlay engine for drawing mechanics, markers, and indicators in real-time",
-    "Description": "Splatoon is a scriptable telegraph and overlay engine for Final Fantasy XIV, built on the Dalamud plugin framework. It allows scripts to draw shapes, markers, labels, and indicators directly in the game world. These overlays can be attached to actors, positions, or events, and are rendered with precise positioning.\n\nSplatoon does not include presets or encounter logic by default. If you want presets, you must create them yourself or import them from others.\n\nIn short, Splatoon draws things. What it draws is up to you!",
-    "Tags": [
-      "Utility",
-      "Accessibility"
-    ],
-    "InternalName": "Splatoon",
-    "DownloadCount": 2128601,
-    "LastUpdate": 1783584957,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.19/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.19/update/latest.zip",
-    "AssemblyVersion": "3.9.2.19",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "- Added message sending service into scripts",
-    "TestingAssemblyVersion": "3.9.2.19",
-    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.19/install/testing.zip",
-    "TestingDalamudApiLevel": "15",
-    "IconUrl": "https://puni.sh/api/plugins/icon/10"
-  },
-  {
     "Author": "Team Wrath",
     "Name": "Wrath Combo",
     "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
@@ -396,7 +373,7 @@
       "pvp"
     ],
     "InternalName": "WrathCombo",
-    "DownloadCount": 1036654,
+    "DownloadCount": 1036748,
     "LastUpdate": 1784052384,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.14/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.14/update/latest.zip",
@@ -410,6 +387,29 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/60"
   },
   {
+    "Author": "NightmareXIV",
+    "Name": "Splatoon",
+    "Punchline": "Scriptable overlay engine for drawing mechanics, markers, and indicators in real-time",
+    "Description": "Splatoon is a scriptable telegraph and overlay engine for Final Fantasy XIV, built on the Dalamud plugin framework. It allows scripts to draw shapes, markers, labels, and indicators directly in the game world. These overlays can be attached to actors, positions, or events, and are rendered with precise positioning.\n\nSplatoon does not include presets or encounter logic by default. If you want presets, you must create them yourself or import them from others.\n\nIn short, Splatoon draws things. What it draws is up to you!",
+    "Tags": [
+      "Utility",
+      "Accessibility"
+    ],
+    "InternalName": "Splatoon",
+    "DownloadCount": 2128646,
+    "LastUpdate": 1783584957,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.19/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.19/update/latest.zip",
+    "AssemblyVersion": "3.9.2.19",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "- Added message sending service into scripts",
+    "TestingAssemblyVersion": "3.9.2.19",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.19/install/testing.zip",
+    "TestingDalamudApiLevel": "15",
+    "IconUrl": "https://puni.sh/api/plugins/icon/10"
+  },
+  {
     "Author": "Taurenkey, Kage, NightmareXIV",
     "Name": "Saucy",
     "Punchline": "When working for MGP is too much effort.",
@@ -420,7 +420,7 @@
       "automation"
     ],
     "InternalName": "Saucy",
-    "DownloadCount": 907238,
+    "DownloadCount": 907294,
     "LastUpdate": 1783724818,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.1.13/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.1.13/update/latest.zip",
@@ -439,7 +439,7 @@
       "crafting"
     ],
     "InternalName": "Artisan",
-    "DownloadCount": 5645177,
+    "DownloadCount": 5645222,
     "LastUpdate": 1782110940,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.16/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.16/update/latest.zip",
@@ -1134,7 +1134,7 @@
     "Description": "Now for more than crafting!",
     "Tags": [],
     "InternalName": "SomethingNeedDoing",
-    "DownloadCount": 783094,
+    "DownloadCount": 783113,
     "LastUpdate": 1783931961,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/15.7/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/15.7/update/latest.zip",
@@ -1155,7 +1155,7 @@
       "tweaks"
     ],
     "InternalName": "Automaton",
-    "DownloadCount": 786288,
+    "DownloadCount": 786594,
     "LastUpdate": 1784307648,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.194.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.194.0.0/update/latest.zip",
@@ -1174,7 +1174,7 @@
       "glamour"
     ],
     "InternalName": "GlamourLog",
-    "DownloadCount": 3825,
+    "DownloadCount": 3846,
     "LastUpdate": 1784314903,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/136/GlamourLog/versions/15.47/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/136/GlamourLog/versions/15.47/update/latest.zip",
@@ -1214,7 +1214,7 @@
     "Description": "Make custom deliveries less annoying by automating the process.",
     "Tags": [],
     "InternalName": "vsatisfy",
-    "DownloadCount": 150582,
+    "DownloadCount": 150583,
     "LastUpdate": 1781106410,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/0.0.0.37/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/0.0.0.37/update/latest.zip",
@@ -1231,7 +1231,7 @@
     "Description": "Automate gathering, workshop assignments, etc.",
     "Tags": [],
     "InternalName": "visland",
-    "DownloadCount": 831623,
+    "DownloadCount": 831909,
     "LastUpdate": 1784278730,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.149/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.149/update/latest.zip",
@@ -1265,7 +1265,7 @@
     "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
     "Tags": [],
     "InternalName": "BossMod",
-    "DownloadCount": 2311168,
+    "DownloadCount": 2311634,
     "LastUpdate": 1784306173,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/7.5.1.27/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/7.5.1.27/update/latest.zip",
@@ -1307,7 +1307,7 @@
     "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
     "Tags": [],
     "InternalName": "vnavmesh",
-    "DownloadCount": 1645212,
+    "DownloadCount": 1645228,
     "LastUpdate": 1782319793,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/1.2.3.8/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/1.2.3.8/update/latest.zip",
@@ -1503,7 +1503,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Added support for mouse control of orbwalking feature by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1310\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.1.14...7.5.1.15",
-    "DownloadCount": 2800524
+    "DownloadCount": 2800873
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1536,7 +1536,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.11/latest.zip",
     "TestingAssemblyVersion": "7.4.5.11",
     "Changelog": "## What's Changed\r\n* Add support for buiding on mac by @wen-ff in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1239\r\n* PreferedPartyRoles: Added an option to select a prefered role by @RageDeath in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1234\r\n* Fix Mist Dragon dragonbreath AOE in The Burn, misc cleanup and optimizations by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1240\r\n* merge vbm by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1241\r\n* Merge vbm by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1242\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.5.1.26...7.5.1.27",
-    "DownloadCount": 3215618
+    "DownloadCount": 3216007
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1631,7 +1631,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.5.17/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.5.17",
     "Changelog": "## What's Changed\r\n* Gbr scaling by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/644\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.0.13...7.5.1.0",
-    "DownloadCount": 998127
+    "DownloadCount": 998134
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1657,7 +1657,7 @@
     "AssemblyVersion": "7.5.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.5.0.0/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* api15 by @Shiori-Zephyr in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/16\r\n* API 15 compatibility by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/17\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.4.5.0...7.5.0.0",
-    "DownloadCount": 28608
+    "DownloadCount": 28610
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1722,7 +1722,7 @@
     "AssemblyVersion": "7.5.1.2",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.5.1.2/latest.zip",
     "Changelog": "## What's Changed\r\n* Add selectable names to tomestone page by @bilk in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/23\r\n\r\n## New Contributors\r\n* @bilk made their first contribution in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/23\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.5.1.1...7.5.1.2",
-    "DownloadCount": 28646
+    "DownloadCount": 28655
   },
   {
     "Author": "The Combat Reborn Team",
@@ -2094,7 +2094,7 @@
       "gpose"
     ],
     "InternalName": "Hyperborea",
-    "DownloadCount": 42919,
+    "DownloadCount": 42920,
     "LastUpdate": 1781710078,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.0.37/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.0.37/update/latest.zip",
@@ -2136,7 +2136,7 @@
     "Description": "Your personal vending machine.",
     "Tags": [],
     "InternalName": "Dropbox",
-    "DownloadCount": 44946,
+    "DownloadCount": 44964,
     "LastUpdate": 1783980806,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.15/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.15/update/latest.zip",
@@ -2159,7 +2159,7 @@
       "Sanctuary"
     ],
     "InternalName": "ExplorersIcebox",
-    "DownloadCount": 50299,
+    "DownloadCount": 50300,
     "LastUpdate": 1779884677,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/64/ExplorersIcebox/versions/1.1.0.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/64/ExplorersIcebox/versions/1.1.0.3/update/latest.zip",
@@ -2180,7 +2180,7 @@
       "Gatherers"
     ],
     "InternalName": "ChilledLeves",
-    "DownloadCount": 104127,
+    "DownloadCount": 104128,
     "LastUpdate": 1777774705,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/68/ChilledLeves/versions/1.0.1.24/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/68/ChilledLeves/versions/1.0.1.24/update/latest.zip",
@@ -2199,7 +2199,7 @@
       "Gatherers"
     ],
     "InternalName": "ICE",
-    "DownloadCount": 1176646,
+    "DownloadCount": 1176832,
     "LastUpdate": 1784212096,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/70/ICE/versions/1.0.0.1/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/70/ICE/versions/1.0.0.1/update/latest.zip",
@@ -2225,7 +2225,7 @@
     "Description": "Your personal Henchman doing all the heavy lifting for you!\n\n- A/B Rank Farmer\n- Hunt Logs\n- Hunt Bills\n- Retainer Creation\n- Character Creation\n- Multi Account Trading\n- Ocean Fishing\n- Chocobokeeps\nand more to come.",
     "Tags": [],
     "InternalName": "Henchman",
-    "DownloadCount": 136368,
+    "DownloadCount": 136389,
     "LastUpdate": 1784200402,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/85/Henchman/versions/3.0.1.1/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/85/Henchman/versions/3.0.1.1/update/latest.zip",
@@ -2245,7 +2245,7 @@
     "Description": "Better Grand Company Deliveries",
     "Tags": [],
     "InternalName": "Deliveroo",
-    "DownloadCount": 16928,
+    "DownloadCount": 16929,
     "LastUpdate": 1777864065,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/79/Deliveroo/versions/7.5.0.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/79/Deliveroo/versions/7.5.0.2/update/latest.zip",
@@ -2266,7 +2266,7 @@
       "missions"
     ],
     "InternalName": "Squadronista",
-    "DownloadCount": 7683,
+    "DownloadCount": 7684,
     "LastUpdate": 1778554077,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/101/Squadronista/versions/7.5.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/101/Squadronista/versions/7.5.0.0/update/latest.zip",
@@ -2325,7 +2325,7 @@
       "gearsets"
     ],
     "InternalName": "Gearsetter",
-    "DownloadCount": 30853,
+    "DownloadCount": 30854,
     "LastUpdate": 1777759856,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/98/Gearsetter/versions/4.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/98/Gearsetter/versions/4.3/update/latest.zip",
@@ -2415,7 +2415,7 @@
       "erdelf"
     ],
     "InternalName": "AutoDuty",
-    "DownloadCount": 1707310,
+    "DownloadCount": 1707647,
     "LastUpdate": 1784269521,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.326/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.326/update/latest.zip",
@@ -2947,7 +2947,7 @@
     "LastUpdate": 1783183496,
     "Changelog": "v0.0.0.39 release of XA-Database",
     "IsTestingExclusive": false,
-    "DownloadCount": 1928,
+    "DownloadCount": 1929,
     "RepoTitle": "XA Enterprise",
     "SourceRepoName": "XA-Database",
     "SourceRepoUrl": "https://github.com/xa-io/XA-Database",
@@ -3036,7 +3036,7 @@
     "LastUpdate": 1784304329,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 3870,
+    "DownloadCount": 3871,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "FrenRider",
     "SourceRepoUrl": "https://github.com/McVaxius/FrenRider",
@@ -3114,7 +3114,7 @@
     "LastUpdate": 1783905481,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 3689,
+    "DownloadCount": 3691,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "MOGTOME",
     "SourceRepoUrl": "https://github.com/McVaxius/MOGTOME",
@@ -3354,7 +3354,7 @@
     "LastUpdate": 1782961113,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 795,
+    "DownloadCount": 796,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "ChokeAbo",
     "SourceRepoUrl": "https://github.com/McVaxius/ChokeAbo",
@@ -3810,7 +3810,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 1380,
+    "DownloadCount": 1381,
     "LastUpdate": "1782674013"
   },
   {
@@ -3875,7 +3875,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 2173,
+    "DownloadCount": 2175,
     "LastUpdate": "1784063540"
   },
   {
@@ -3904,7 +3904,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 3018,
+    "DownloadCount": 3020,
     "LastUpdate": "1784065954"
   },
   {
@@ -3933,7 +3933,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 1799,
+    "DownloadCount": 1800,
     "LastUpdate": "1781204915"
   },
   {
@@ -3966,7 +3966,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-Aetherphone/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 879,
+    "DownloadCount": 881,
     "LastUpdate": "1784149457"
   },
   {
@@ -4334,7 +4334,7 @@
     "Author": "Sevii",
     "DalamudApiLevel": 15,
     "Description": "Auto updates mods and allows for more customization such as color and compositing onto other files",
-    "DownloadCount": 249414,
+    "DownloadCount": 249417,
     "DownloadLinkInstall": "https://aetherment.sevii.dev/plugin/install",
     "DownloadLinkTesting": "https://aetherment.sevii.dev/plugin/install",
     "DownloadLinkUpdate": "https://aetherment.sevii.dev/plugin/update",
