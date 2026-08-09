@@ -154,7 +154,7 @@
     "Description": "Locks player movement while casting and allows for maximum caster uptime during the course of a fight.",
     "Tags": [],
     "InternalName": "Orbwalker",
-    "DownloadCount": 84116,
+    "DownloadCount": 84120,
     "LastUpdate": 1777528744,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/1.0.1.10/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/1.0.1.10/update/latest.zip",
@@ -176,7 +176,7 @@
       "convenience"
     ],
     "InternalName": "PandorasBox",
-    "DownloadCount": 1337526,
+    "DownloadCount": 1337532,
     "LastUpdate": 1780112081,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.4/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.4/update/latest.zip",
@@ -198,7 +198,7 @@
       "combat"
     ],
     "InternalName": "Avarice",
-    "DownloadCount": 365764,
+    "DownloadCount": 365777,
     "LastUpdate": 1785467258,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.12/update/latest.zip",
@@ -212,13 +212,58 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/11"
   },
   {
+    "Author": "Det, croizat",
+    "Name": "AutoHook",
+    "Punchline": "Makes fishing less (or more) boring",
+    "Description": "It hooks the fish for you, can you believe it?",
+    "Tags": [
+      "Gathering",
+      "Fishing"
+    ],
+    "InternalName": "AutoHook",
+    "DownloadCount": 2244494,
+    "LastUpdate": 1786265170,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.0.89/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.0.89/update/latest.zip",
+    "AssemblyVersion": "6.0.0.89",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "",
+    "TestingAssemblyVersion": "6.0.0.36",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.0.36/install/testing.zip",
+    "TestingDalamudApiLevel": "15",
+    "IconUrl": "https://puni.sh/api/plugins/icon/47"
+  },
+  {
+    "Author": "kawaii, jukka",
+    "Name": "Palace Pal",
+    "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
+    "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
+    "Tags": [
+      "potd",
+      "hoh",
+      "splatoon",
+      "palace"
+    ],
+    "InternalName": "PalacePal",
+    "DownloadCount": 244813,
+    "LastUpdate": 1777738875,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/update/latest.zip",
+    "AssemblyVersion": "4.16.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "",
+    "IconUrl": "https://puni.sh/api/plugins/icon/32"
+  },
+  {
     "Author": "daemitus, croizat",
     "Name": "Yes Already",
     "Punchline": "Clicks Yes in various dialogs you've specified.",
     "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
     "Tags": [],
     "InternalName": "YesAlready",
-    "DownloadCount": 1298911,
+    "DownloadCount": 1298925,
     "LastUpdate": 1783944702,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.3.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.3.0/update/latest.zip",
@@ -243,7 +288,7 @@
       "other"
     ],
     "InternalName": "LazyLoot",
-    "DownloadCount": 244143,
+    "DownloadCount": 244147,
     "LastUpdate": 1777584039,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.3/update/latest.zip",
@@ -254,51 +299,6 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/9"
   },
   {
-    "Author": "kawaii, jukka",
-    "Name": "Palace Pal",
-    "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
-    "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
-    "Tags": [
-      "potd",
-      "hoh",
-      "splatoon",
-      "palace"
-    ],
-    "InternalName": "PalacePal",
-    "DownloadCount": 244807,
-    "LastUpdate": 1777738875,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/update/latest.zip",
-    "AssemblyVersion": "4.16.0.0",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "",
-    "IconUrl": "https://puni.sh/api/plugins/icon/32"
-  },
-  {
-    "Author": "Det, croizat",
-    "Name": "AutoHook",
-    "Punchline": "Makes fishing less (or more) boring",
-    "Description": "It hooks the fish for you, can you believe it?",
-    "Tags": [
-      "Gathering",
-      "Fishing"
-    ],
-    "InternalName": "AutoHook",
-    "DownloadCount": 2243417,
-    "LastUpdate": 1786265170,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.0.89/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.0.89/update/latest.zip",
-    "AssemblyVersion": "6.0.0.89",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "",
-    "TestingAssemblyVersion": "6.0.0.36",
-    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.0.36/install/testing.zip",
-    "TestingDalamudApiLevel": "15",
-    "IconUrl": "https://puni.sh/api/plugins/icon/47"
-  },
-  {
     "Author": "Chalkos, NightmareXIV",
     "Name": "Marketbuddy",
     "Punchline": "Less clicks, more gil!",
@@ -307,7 +307,7 @@
       "marketboard"
     ],
     "InternalName": "Marketbuddy",
-    "DownloadCount": 17536,
+    "DownloadCount": 17538,
     "LastUpdate": 1777575334,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/131/Marketbuddy/versions/0.2.4.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/131/Marketbuddy/versions/0.2.4.2/update/latest.zip",
@@ -324,7 +324,7 @@
     "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
     "Tags": [],
     "InternalName": "AutoRetainer",
-    "DownloadCount": 2389018,
+    "DownloadCount": 2389080,
     "LastUpdate": 1785813536,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.1.24/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.1.24/update/latest.zip",
@@ -349,7 +349,7 @@
       "utility"
     ],
     "InternalName": "Questionable",
-    "DownloadCount": 1744882,
+    "DownloadCount": 1745224,
     "LastUpdate": 1786243330,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.306.1.49/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.306.1.49/update/latest.zip",
@@ -373,7 +373,7 @@
       "pvp"
     ],
     "InternalName": "WrathCombo",
-    "DownloadCount": 1105823,
+    "DownloadCount": 1105867,
     "LastUpdate": 1785261152,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.19/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.19/update/latest.zip",
@@ -396,7 +396,7 @@
       "Accessibility"
     ],
     "InternalName": "Splatoon",
-    "DownloadCount": 2190295,
+    "DownloadCount": 2190315,
     "LastUpdate": 1784771545,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.21/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.21/update/latest.zip",
@@ -418,7 +418,7 @@
       "crafting"
     ],
     "InternalName": "Artisan",
-    "DownloadCount": 5745798,
+    "DownloadCount": 5745839,
     "LastUpdate": 1784551419,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.17/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.17/update/latest.zip",
@@ -442,7 +442,7 @@
       "automation"
     ],
     "InternalName": "Saucy",
-    "DownloadCount": 965071,
+    "DownloadCount": 965136,
     "LastUpdate": 1786057962,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.1.15/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.1.15/update/latest.zip",
@@ -1033,27 +1033,6 @@
     "DownloadLinkUpdate": "https://github.com/Aida-Enna/XIVPlugins/blob/main/Plogon/PortraitFixer.zip?raw=true"
   },
   {
-    "Author": "attick, daemitus, alymphocyte, grammernatzi",
-    "Name": "XIV Combo Expandedest",
-    "Punchline": "Condenses combos and mutually exclusive abilities onto a single button. Plus extras.",
-    "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
-    "Changelog": "New features unlikely to be added until Evercold releases. Bug fixes will still happen, though.\r\n    \r\n    1.5.0.91: \r\n    * Removed Burst Strike/Fated Circle to Bloodfest as you now cannot overcap with Bloodfest.\r\n    * Added Bloodfest to No Mercy.\r\n    * Fixed a bug where Blizzard/Fire switcher did not work without Enochian unlocked.\r\n\r\n    1.5.0.90: \r\n    * Updated to 7.4.\r\n    * Some more changes coming soon but emergency maintenance started RIP\r\n    \r\n    1.5.0.82:\r\n    * Reawakened Fangs Feature now also applies to Steel Maw.\r\n    \r\n    1.5.0.79:\r\n    * Phlegma into Eukrasian Dyskrasia added.\r\n    \r\n    1.5.0.73:\r\n    * Meisui/Tenri priority fixed and DWaD to Meisui added.\r\n    * Monk's Draconic Leap feature now properly syncs below level 50 when you don't have a form.\r\n    * Raise Hard Target Lockout Feature added.\r\n    \r\n    1.5.0.72:\r\n    * Double Down features now account for its new cost.\r\n    * New option for Royal Authority to Atonement where it will only activate if you are about to overwrite Sword Oath in your combo.\r\n    * Empyreal Arrow will no longer turn into Pitch Perfect under any circumstances.\r\n    \r\n    1.5.0.71:\r\n    * Updated for 7.1 compatibility.\r\n    * Devilment to Starfall Dance feature removed as it is now vanilla.\r\n    * Removed Jump to Mirage Dive due to it being vanilla, as I completely forgot to earlier.\r\n    * Added an 'Only When Full' option to Sidewinder to Pitch Perfect.\r\n\r\n    1.5.0.70:\r\n    * Added Comet Overwrite Prevention feature. Or did I?\r\n    * Removed Holy overcap features (it made no sense when you gain, not lose, DPS by letting it overcap).\r\n    \r\n    1.5.0.69 (Nice):\r\n    * Sacrificium Feature added.\r\n    * Despair to Flare Star added.\r\n    * Dragon Kick to Forbidden Chakra added.\r\n    \r\n    1.5.0.67:\r\n    * Blizzard 3 & 2 to Flare Star feature added.\r\n    \r\n    1.5.0.61:\r\n    * Lucid Dreaming Reminders now have a configurable MP threshold, as well as a configurable cooldown remaining offset where they stop replacing the cooldown.\r\n    \r\n    1.5.0.60:\r\n    * Combos to Saber Dance during Devilment feature added.\r\n    * Some other stuff added to Dancer, too. Maybe.\r\n    * Phlegma to Psyche added.\r\n    \r\n    1.5.0.59:\r\n    * Isle Sprint feature added.\r\n    \r\n    1.5.0.53:\r\n    * Reaving Steel added from regular XIVComboExpanded. Maybe something else, too? Tis a secret.\r\n    * Hooking Hooksets and Chummy Cast added.\r\n    \r\n    1.5.0.51:\r\n    * Chaotic Glide added.\r\n    \r\n    1.5.0.49:\r\n    * Standard Step into Technical Step added.\r\n    \r\n    1.5.0.41:\r\n    * Viper features added. Please look forward to it (happening right now).",
-    "InternalName": "XIVComboExpandedest",
-    "AssemblyVersion": "1.5.0.95",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 15,
-    "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/grammernatzi/XIVComboPluginExpandedest/master/res/icon.png",
-    "ImageUrls": [],
-    "DownloadLinkInstall": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
-    "DownloadCount": 0,
-    "LastUpdate": "1777673938"
-  },
-  {
     "Author": "attick, daemitus, Khayle",
     "Name": "XIV Combo Expanded",
     "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
@@ -1113,7 +1092,7 @@
     "Description": "Now for more than crafting!",
     "Tags": [],
     "InternalName": "SomethingNeedDoing",
-    "DownloadCount": 795107,
+    "DownloadCount": 795126,
     "LastUpdate": 1785939473,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/15.8/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/15.8/update/latest.zip",
@@ -1134,7 +1113,7 @@
       "tweaks"
     ],
     "InternalName": "Automaton",
-    "DownloadCount": 855627,
+    "DownloadCount": 855667,
     "LastUpdate": 1786039509,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.204/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.204/update/latest.zip",
@@ -1153,7 +1132,7 @@
       "glamour"
     ],
     "InternalName": "GlamourLog",
-    "DownloadCount": 17105,
+    "DownloadCount": 17106,
     "LastUpdate": 1786149436,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/136/GlamourLog/versions/15.62/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/136/GlamourLog/versions/15.62/update/latest.zip",
@@ -1193,7 +1172,7 @@
     "Description": "Make custom deliveries less annoying by automating the process.",
     "Tags": [],
     "InternalName": "vsatisfy",
-    "DownloadCount": 152334,
+    "DownloadCount": 152336,
     "LastUpdate": 1781106410,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/0.0.0.37/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/0.0.0.37/update/latest.zip",
@@ -1210,7 +1189,7 @@
     "Description": "Automate gathering, workshop assignments, etc.",
     "Tags": [],
     "InternalName": "visland",
-    "DownloadCount": 862184,
+    "DownloadCount": 862198,
     "LastUpdate": 1784403322,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.150/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.150/update/latest.zip",
@@ -1227,7 +1206,7 @@
     "Description": "Based on ezFauxHollows, but uses known patterns instead of general-purpose solver.",
     "Tags": [],
     "InternalName": "vfaux",
-    "DownloadCount": 96419,
+    "DownloadCount": 96422,
     "LastUpdate": 1777496806,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/29/vfaux/versions/0.0.0.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/29/vfaux/versions/0.0.0.12/update/latest.zip",
@@ -1244,7 +1223,7 @@
     "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
     "Tags": [],
     "InternalName": "BossMod",
-    "DownloadCount": 2419060,
+    "DownloadCount": 2419155,
     "LastUpdate": 1785944091,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/7.5.1.38/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/7.5.1.38/update/latest.zip",
@@ -1269,7 +1248,7 @@
     "Description": "Bot that does fall guys event automatically.",
     "Tags": [],
     "InternalName": "vfallguy",
-    "DownloadCount": 55917,
+    "DownloadCount": 55919,
     "LastUpdate": 1777500971,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/41/vfallguy/versions/0.0.0.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/41/vfallguy/versions/0.0.0.12/update/latest.zip",
@@ -1286,7 +1265,7 @@
     "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
     "Tags": [],
     "InternalName": "vnavmesh",
-    "DownloadCount": 1804807,
+    "DownloadCount": 1804893,
     "LastUpdate": 1785942852,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/1.2.3.13/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/1.2.3.13/update/latest.zip",
@@ -1482,7 +1461,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.5.25...7.5.5.26",
-    "DownloadCount": 2968089
+    "DownloadCount": 2968530
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1515,7 +1494,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.11/latest.zip",
     "TestingAssemblyVersion": "7.4.5.11",
     "Changelog": "## What's Changed\r\n* Tiny Terror Colour by @Equilius in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1291\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.5.5.35...7.5.5.36",
-    "DownloadCount": 3408303
+    "DownloadCount": 3408746
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1543,7 +1522,7 @@
     "AssemblyVersion": "7.5.5.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.5.5.0/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Update for 7.55 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/17\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.5.0.4...7.5.5.0",
-    "DownloadCount": 34890
+    "DownloadCount": 34891
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1572,7 +1551,7 @@
     "AssemblyVersion": "7.5.0.3",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.5.0.3/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* Added pr buildtest by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/17\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.5.0.2...7.5.0.3",
-    "DownloadCount": 60105
+    "DownloadCount": 60107
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1610,7 +1589,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.5.17/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.5.17",
     "Changelog": "## What's Changed\r\n* Raph/upstream by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/657\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.1.1...7.5.5.0",
-    "DownloadCount": 1042194
+    "DownloadCount": 1042211
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1667,7 +1646,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "## What's Changed\r\n* Add pr test and bump ecommons by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/8\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.5.0.0...7.5.0.1",
-    "DownloadCount": 18062
+    "DownloadCount": 18064
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1701,7 +1680,7 @@
     "AssemblyVersion": "7.5.5.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.5.5.1/latest.zip",
     "Changelog": "## What's Changed\r\n* Correctly resolve weird player names by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/27\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.5.5.0...7.5.5.1",
-    "DownloadCount": 40476
+    "DownloadCount": 40480
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1735,7 +1714,7 @@
     "AssemblyVersion": "7.5.0.2",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/NoSillyReborn/releases/download/7.5.0.2/latest.zip",
     "Changelog": "## What's Changed\r\n* Fix manifest mismatch and update ecommons, remove stg from build by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/NoSillyReborn/pull/4\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/NoSillyReborn/compare/7.5.0.1...7.5.0.2",
-    "DownloadCount": 5196
+    "DownloadCount": 5198
   },
   {
     "Author": "Churin",
@@ -1766,7 +1745,7 @@
     "AssemblyVersion": "1.0.0.8",
     "DownloadLinkUpdate": "https://github.com/aventurescence/Understudy/releases/download/v1.0.0.8/latest.zip",
     "Changelog": "### chore: update Dalamud API level to 15 in pluginmanifest\r\n\n\n---\n*Assembly version: 1.0.0.8*\n\n\n**Full Changelog**: https://github.com/aventurescence/Understudy/compare/v1.0.0.7...v1.0.0.8",
-    "DownloadCount": 2752
+    "DownloadCount": 2753
   },
   {
     "Author": "Risa and Contributors",
@@ -2073,7 +2052,7 @@
       "gpose"
     ],
     "InternalName": "Hyperborea",
-    "DownloadCount": 43540,
+    "DownloadCount": 43541,
     "LastUpdate": 1781710078,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.0.37/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.0.37/update/latest.zip",
@@ -2098,7 +2077,7 @@
       "mgp"
     ],
     "InternalName": "Chocoholic",
-    "DownloadCount": 5013,
+    "DownloadCount": 5015,
     "LastUpdate": 1778089832,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/update/latest.zip",
@@ -2138,7 +2117,7 @@
       "Sanctuary"
     ],
     "InternalName": "ExplorersIcebox",
-    "DownloadCount": 51246,
+    "DownloadCount": 51248,
     "LastUpdate": 1779884677,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/64/ExplorersIcebox/versions/1.1.0.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/64/ExplorersIcebox/versions/1.1.0.3/update/latest.zip",
@@ -2178,7 +2157,7 @@
       "Gatherers"
     ],
     "InternalName": "ICE",
-    "DownloadCount": 1197659,
+    "DownloadCount": 1197665,
     "LastUpdate": 1784212096,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/70/ICE/versions/1.0.0.1/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/70/ICE/versions/1.0.0.1/update/latest.zip",
@@ -2204,7 +2183,7 @@
     "Description": "Your personal Henchman doing all the heavy lifting for you!\n\n- A/B Rank Farmer\n- Hunt Logs\n- Hunt Bills\n- Retainer Creation\n- Character Creation\n- Multi Account Trading\n- Ocean Fishing\n- Chocobokeeps\nand more to come.",
     "Tags": [],
     "InternalName": "Henchman",
-    "DownloadCount": 149735,
+    "DownloadCount": 149738,
     "LastUpdate": 1785771250,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/85/Henchman/versions/3.0.1.10/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/85/Henchman/versions/3.0.1.10/update/latest.zip",
@@ -2304,7 +2283,7 @@
       "gearsets"
     ],
     "InternalName": "Gearsetter",
-    "DownloadCount": 32415,
+    "DownloadCount": 32418,
     "LastUpdate": 1777759856,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/98/Gearsetter/versions/4.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/98/Gearsetter/versions/4.3/update/latest.zip",
@@ -2394,7 +2373,7 @@
       "erdelf"
     ],
     "InternalName": "AutoDuty",
-    "DownloadCount": 1817753,
+    "DownloadCount": 1817815,
     "LastUpdate": 1785566739,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.330/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.330/update/latest.zip",
@@ -2597,7 +2576,7 @@
       "Lifestream"
     ],
     "InternalName": "ActiveVenueFinder",
-    "DownloadCount": 494,
+    "DownloadCount": 495,
     "LastUpdate": 1785713245,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/129/ActiveVenueFinder/versions/2.1.0.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/129/ActiveVenueFinder/versions/2.1.0.2/update/latest.zip",
@@ -2621,7 +2600,7 @@
       "Chat"
     ],
     "InternalName": "BlackJackButtler",
-    "DownloadCount": 2053,
+    "DownloadCount": 2054,
     "LastUpdate": 1784155435,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/118/BlackJackButtler/versions/1.8.4.9/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/118/BlackJackButtler/versions/1.8.4.9/update/latest.zip",
@@ -2958,7 +2937,7 @@
     "LastUpdate": 1785612337,
     "Changelog": "v0.0.0.43 release of XA-Slave",
     "IsTestingExclusive": false,
-    "DownloadCount": 2775,
+    "DownloadCount": 2776,
     "RepoTitle": "XA Enterprise",
     "SourceRepoName": "XA-Slave",
     "SourceRepoUrl": "https://github.com/xa-io/XA-Slave",
@@ -2990,7 +2969,7 @@
     "LastUpdate": 1785272508,
     "Changelog": "v0.0.0.8 release of XA-HUD-Navigator",
     "IsTestingExclusive": false,
-    "DownloadCount": 1261,
+    "DownloadCount": 1262,
     "RepoTitle": "XA Enterprise",
     "SourceRepoName": "XA-HUD-Navigator",
     "SourceRepoUrl": "https://github.com/xa-io/XA-HUD-Navigator"
@@ -3018,7 +2997,7 @@
     "LastUpdate": 1786259015,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 4406,
+    "DownloadCount": 4407,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "FrenRider",
     "SourceRepoUrl": "https://github.com/McVaxius/FrenRider",
@@ -3128,7 +3107,7 @@
     "LastUpdate": 1786241965,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 3652,
+    "DownloadCount": 3653,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "VERMAXION",
     "SourceRepoUrl": "https://github.com/McVaxius/VERMAXION",
@@ -3402,7 +3381,7 @@
     "LastUpdate": 1784752600,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 548,
+    "DownloadCount": 549,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "botology",
     "SourceRepoUrl": "https://github.com/McVaxius/botology",
@@ -3858,7 +3837,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 3298,
+    "DownloadCount": 3299,
     "LastUpdate": "1784063540"
   },
   {
@@ -3887,7 +3866,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 6459,
+    "DownloadCount": 6487,
     "LastUpdate": "1786210683"
   },
   {
@@ -3949,7 +3928,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-Aetherphone/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 81415,
+    "DownloadCount": 81486,
     "LastUpdate": "1786183079"
   },
   {
@@ -4394,7 +4373,7 @@
     "Author": "Sevii",
     "DalamudApiLevel": 15,
     "Description": "Auto updates mods and allows for more customization such as color and compositing onto other files",
-    "DownloadCount": 257423,
+    "DownloadCount": 257426,
     "DownloadLinkInstall": "https://aetherment.sevii.dev/plugin/install",
     "DownloadLinkTesting": "https://aetherment.sevii.dev/plugin/install",
     "DownloadLinkUpdate": "https://aetherment.sevii.dev/plugin/update",
