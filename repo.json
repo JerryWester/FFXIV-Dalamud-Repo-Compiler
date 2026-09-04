@@ -154,7 +154,7 @@
     "Description": "Locks player movement while casting and allows for maximum caster uptime during the course of a fight.",
     "Tags": [],
     "InternalName": "Orbwalker",
-    "DownloadCount": 86064,
+    "DownloadCount": 86069,
     "LastUpdate": 1777528744,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/1.0.1.10/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/1.0.1.10/update/latest.zip",
@@ -165,31 +165,6 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/12"
   },
   {
-    "Author": "Taurenkey, NightmareXIV, croizat",
-    "Name": "Pandora's Box",
-    "Punchline": "Do you dare to open Pandora's Box?",
-    "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
-    "Tags": [
-      "qol",
-      "tweaks",
-      "automation",
-      "convenience"
-    ],
-    "InternalName": "PandorasBox",
-    "DownloadCount": 1345200,
-    "LastUpdate": 1780112081,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.4/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.4/update/latest.zip",
-    "AssemblyVersion": "1.6.4.4",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "- Update open all coffers to work when inventory is hidden (such as with inventory replacement plugins).\n- Fix Pandora Gathering UI.",
-    "TestingAssemblyVersion": "1.6.4.2",
-    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.2/install/testing.zip",
-    "TestingDalamudApiLevel": "15",
-    "IconUrl": "https://puni.sh/api/plugins/icon/8"
-  },
-  {
     "Author": "kawaii, NightmareXIV",
     "Name": "Avarice",
     "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
@@ -198,7 +173,7 @@
       "combat"
     ],
     "InternalName": "Avarice",
-    "DownloadCount": 375197,
+    "DownloadCount": 375216,
     "LastUpdate": 1785467258,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.12/update/latest.zip",
@@ -212,24 +187,51 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/11"
   },
   {
-    "Author": "daemitus, croizat",
-    "Name": "Yes Already",
-    "Punchline": "Clicks Yes in various dialogs you've specified.",
-    "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
-    "Tags": [],
-    "InternalName": "YesAlready",
-    "DownloadCount": 1306767,
-    "LastUpdate": 1783944702,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.3.0/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.3.0/update/latest.zip",
-    "AssemblyVersion": "1.15.3.0",
+    "Author": "Taurenkey, NightmareXIV, croizat",
+    "Name": "Pandora's Box",
+    "Punchline": "Do you dare to open Pandora's Box?",
+    "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
+    "Tags": [
+      "qol",
+      "tweaks",
+      "automation",
+      "convenience"
+    ],
+    "InternalName": "PandorasBox",
+    "DownloadCount": 1345224,
+    "LastUpdate": 1780112081,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.4/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.4/update/latest.zip",
+    "AssemblyVersion": "1.6.4.4",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
-    "Changelog": "",
-    "TestingAssemblyVersion": "1.10.4.0",
-    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.10.4.0/install/testing.zip",
-    "TestingDalamudApiLevel": "12",
-    "IconUrl": "https://puni.sh/api/plugins/icon/26"
+    "Changelog": "- Update open all coffers to work when inventory is hidden (such as with inventory replacement plugins).\n- Fix Pandora Gathering UI.",
+    "TestingAssemblyVersion": "1.6.4.2",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.2/install/testing.zip",
+    "TestingDalamudApiLevel": "15",
+    "IconUrl": "https://puni.sh/api/plugins/icon/8"
+  },
+  {
+    "Author": "Taurenkey, Gid, NightmareXIV",
+    "Name": "LazyLoot",
+    "Punchline": "Dungeon Loot but Lazy.",
+    "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
+    "Tags": [
+      "plugin",
+      "loot",
+      "utility",
+      "other"
+    ],
+    "InternalName": "LazyLoot",
+    "DownloadCount": 247015,
+    "LastUpdate": 1777584039,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.3/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.3/update/latest.zip",
+    "AssemblyVersion": "5.3.3.3",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "- 7.5",
+    "IconUrl": "https://puni.sh/api/plugins/icon/9"
   },
   {
     "Author": "kawaii, jukka",
@@ -243,7 +245,7 @@
       "palace"
     ],
     "InternalName": "PalacePal",
-    "DownloadCount": 249429,
+    "DownloadCount": 249446,
     "LastUpdate": 1777738875,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/update/latest.zip",
@@ -263,7 +265,7 @@
       "Fishing"
     ],
     "InternalName": "AutoHook",
-    "DownloadCount": 2444749,
+    "DownloadCount": 2444895,
     "LastUpdate": 1787851448,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.0.95/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.0.95/update/latest.zip",
@@ -277,46 +279,24 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/47"
   },
   {
-    "Author": "Taurenkey, Gid, NightmareXIV",
-    "Name": "LazyLoot",
-    "Punchline": "Dungeon Loot but Lazy.",
-    "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
-    "Tags": [
-      "plugin",
-      "loot",
-      "utility",
-      "other"
-    ],
-    "InternalName": "LazyLoot",
-    "DownloadCount": 247008,
-    "LastUpdate": 1777584039,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.3/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.3/update/latest.zip",
-    "AssemblyVersion": "5.3.3.3",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "- 7.5",
-    "IconUrl": "https://puni.sh/api/plugins/icon/9"
-  },
-  {
-    "Author": "kawaii, NightmareXIV",
-    "Name": "AutoRetainer",
-    "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
-    "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
+    "Author": "daemitus, croizat",
+    "Name": "Yes Already",
+    "Punchline": "Clicks Yes in various dialogs you've specified.",
+    "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
     "Tags": [],
-    "InternalName": "AutoRetainer",
-    "DownloadCount": 2470069,
-    "LastUpdate": 1788386232,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.1.34/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.1.34/update/latest.zip",
-    "AssemblyVersion": "4.6.1.34",
+    "InternalName": "YesAlready",
+    "DownloadCount": 1306786,
+    "LastUpdate": 1783944702,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.3.0/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.3.0/update/latest.zip",
+    "AssemblyVersion": "1.15.3.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
-    "Changelog": "- Add Clear list button to inventory management lists",
-    "TestingAssemblyVersion": "4.6.1.33",
-    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.1.33/install/testing.zip",
-    "TestingDalamudApiLevel": "15",
-    "IconUrl": "https://puni.sh/api/plugins/icon/24"
+    "Changelog": "",
+    "TestingAssemblyVersion": "1.10.4.0",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.10.4.0/install/testing.zip",
+    "TestingDalamudApiLevel": "12",
+    "IconUrl": "https://puni.sh/api/plugins/icon/26"
   },
   {
     "Author": "the Puni.sh Quest Squad",
@@ -330,7 +310,7 @@
       "utility"
     ],
     "InternalName": "Questionable",
-    "DownloadCount": 2041579,
+    "DownloadCount": 2042353,
     "LastUpdate": 1788495942,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.306.3.34/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.306.3.34/update/latest.zip",
@@ -344,6 +324,26 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/94"
   },
   {
+    "Author": "kawaii, NightmareXIV",
+    "Name": "AutoRetainer",
+    "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
+    "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
+    "Tags": [],
+    "InternalName": "AutoRetainer",
+    "DownloadCount": 2470615,
+    "LastUpdate": 1788386232,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.1.34/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.1.34/update/latest.zip",
+    "AssemblyVersion": "4.6.1.34",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "- Add Clear list button to inventory management lists",
+    "TestingAssemblyVersion": "4.6.1.33",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.1.33/install/testing.zip",
+    "TestingDalamudApiLevel": "15",
+    "IconUrl": "https://puni.sh/api/plugins/icon/24"
+  },
+  {
     "Author": "Chalkos, NightmareXIV",
     "Name": "Marketbuddy",
     "Punchline": "Less clicks, more gil!",
@@ -352,7 +352,7 @@
       "marketboard"
     ],
     "InternalName": "Marketbuddy",
-    "DownloadCount": 20730,
+    "DownloadCount": 20740,
     "LastUpdate": 1777575334,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/131/Marketbuddy/versions/0.2.4.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/131/Marketbuddy/versions/0.2.4.2/update/latest.zip",
@@ -373,7 +373,7 @@
       "pvp"
     ],
     "InternalName": "WrathCombo",
-    "DownloadCount": 1175879,
+    "DownloadCount": 1175992,
     "LastUpdate": 1788017040,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.23/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.23/update/latest.zip",
@@ -396,7 +396,7 @@
       "Accessibility"
     ],
     "InternalName": "Splatoon",
-    "DownloadCount": 2228383,
+    "DownloadCount": 2228484,
     "LastUpdate": 1787793609,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.25/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.25/update/latest.zip",
@@ -418,7 +418,7 @@
       "crafting"
     ],
     "InternalName": "Artisan",
-    "DownloadCount": 5894523,
+    "DownloadCount": 5895172,
     "LastUpdate": 1788272491,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.19/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.19/update/latest.zip",
@@ -442,7 +442,7 @@
       "automation"
     ],
     "InternalName": "Saucy",
-    "DownloadCount": 1077726,
+    "DownloadCount": 1077925,
     "LastUpdate": 1788197704,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.2.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.2.2/update/latest.zip",
@@ -1111,7 +1111,7 @@
     "Description": "Now for more than crafting!",
     "Tags": [],
     "InternalName": "SomethingNeedDoing",
-    "DownloadCount": 799968,
+    "DownloadCount": 799975,
     "LastUpdate": 1785939473,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/15.8/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/15.8/update/latest.zip",
@@ -1132,7 +1132,7 @@
       "tweaks"
     ],
     "InternalName": "Automaton",
-    "DownloadCount": 916092,
+    "DownloadCount": 916188,
     "LastUpdate": 1788176242,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.211/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.211/update/latest.zip",
@@ -1151,7 +1151,7 @@
       "glamour"
     ],
     "InternalName": "GlamourLog",
-    "DownloadCount": 27802,
+    "DownloadCount": 27814,
     "LastUpdate": 1787563321,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/136/GlamourLog/versions/15.66/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/136/GlamourLog/versions/15.66/update/latest.zip",
@@ -1191,7 +1191,7 @@
     "Description": "Make custom deliveries less annoying by automating the process.",
     "Tags": [],
     "InternalName": "vsatisfy",
-    "DownloadCount": 154433,
+    "DownloadCount": 154439,
     "LastUpdate": 1781106410,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/0.0.0.37/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/0.0.0.37/update/latest.zip",
@@ -1208,7 +1208,7 @@
     "Description": "Automate gathering, workshop assignments, etc.",
     "Tags": [],
     "InternalName": "visland",
-    "DownloadCount": 868644,
+    "DownloadCount": 868666,
     "LastUpdate": 1784403322,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.150/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.150/update/latest.zip",
@@ -1225,7 +1225,7 @@
     "Description": "Based on ezFauxHollows, but uses known patterns instead of general-purpose solver.",
     "Tags": [],
     "InternalName": "vfaux",
-    "DownloadCount": 97789,
+    "DownloadCount": 97793,
     "LastUpdate": 1777496806,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/29/vfaux/versions/0.0.0.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/29/vfaux/versions/0.0.0.12/update/latest.zip",
@@ -1242,7 +1242,7 @@
     "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
     "Tags": [],
     "InternalName": "BossMod",
-    "DownloadCount": 2493374,
+    "DownloadCount": 2493450,
     "LastUpdate": 1787005305,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/7.5.5.8/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/7.5.5.8/update/latest.zip",
@@ -1267,7 +1267,7 @@
     "Description": "Bot that does fall guys event automatically.",
     "Tags": [],
     "InternalName": "vfallguy",
-    "DownloadCount": 56896,
+    "DownloadCount": 56898,
     "LastUpdate": 1777500971,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/41/vfallguy/versions/0.0.0.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/41/vfallguy/versions/0.0.0.12/update/latest.zip",
@@ -1284,7 +1284,7 @@
     "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
     "Tags": [],
     "InternalName": "vnavmesh",
-    "DownloadCount": 1876464,
+    "DownloadCount": 1876642,
     "LastUpdate": 1787843275,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/1.2.3.14/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/1.2.3.14/update/latest.zip",
@@ -1480,7 +1480,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Fixes for GNB and stronger status list check guards by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1361\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.5.39...7.5.5.40",
-    "DownloadCount": 3128117
+    "DownloadCount": 3129814
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1513,7 +1513,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.11/latest.zip",
     "TestingAssemblyVersion": "7.4.5.11",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.5.5.69...7.5.5.70",
-    "DownloadCount": 3605611
+    "DownloadCount": 3606684
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1541,7 +1541,7 @@
     "AssemblyVersion": "7.5.5.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.5.5.1/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Move texture loading to the main thread, ran code cleanup by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/19\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.5.5.0...7.5.5.1",
-    "DownloadCount": 37503
+    "DownloadCount": 37511
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1570,7 +1570,7 @@
     "AssemblyVersion": "7.5.0.3",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.5.0.3/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* Added pr buildtest by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/17\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.5.0.2...7.5.0.3",
-    "DownloadCount": 61721
+    "DownloadCount": 61726
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1608,7 +1608,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.5.17/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.5.17",
     "Changelog": "## What's Changed\r\n* Raph/upstream by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/657\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.1.1...7.5.5.0",
-    "DownloadCount": 1052376
+    "DownloadCount": 1052419
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1634,7 +1634,7 @@
     "AssemblyVersion": "7.5.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.5.0.0/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* api15 by @Shiori-Zephyr in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/16\r\n* API 15 compatibility by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/17\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.4.5.0...7.5.0.0",
-    "DownloadCount": 30573
+    "DownloadCount": 30580
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1665,7 +1665,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "## What's Changed\r\n* Add pr test and bump ecommons by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/8\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.5.0.0...7.5.0.1",
-    "DownloadCount": 19579
+    "DownloadCount": 19586
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1699,7 +1699,7 @@
     "AssemblyVersion": "7.5.5.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.5.5.1/latest.zip",
     "Changelog": "## What's Changed\r\n* Correctly resolve weird player names by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/27\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.5.5.0...7.5.5.1",
-    "DownloadCount": 42982
+    "DownloadCount": 42997
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1733,7 +1733,7 @@
     "AssemblyVersion": "7.5.5.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/NoSillyReborn/releases/download/7.5.5.0/latest.zip",
     "Changelog": "## What's Changed\r\n* Update for 7.55 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/NoSillyReborn/pull/5\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/NoSillyReborn/compare/7.5.0.2...7.5.5.0",
-    "DownloadCount": 7070
+    "DownloadCount": 7076
   },
   {
     "Author": "Churin",
@@ -1764,7 +1764,7 @@
     "AssemblyVersion": "1.0.0.8",
     "DownloadLinkUpdate": "https://github.com/aventurescence/Understudy/releases/download/v1.0.0.8/latest.zip",
     "Changelog": "### chore: update Dalamud API level to 15 in pluginmanifest\r\n\n\n---\n*Assembly version: 1.0.0.8*\n\n\n**Full Changelog**: https://github.com/aventurescence/Understudy/compare/v1.0.0.7...v1.0.0.8",
-    "DownloadCount": 3425
+    "DownloadCount": 3429
   },
   {
     "Author": "Risa and Contributors",
@@ -2074,7 +2074,7 @@
       "mgp"
     ],
     "InternalName": "Chocoholic",
-    "DownloadCount": 5465,
+    "DownloadCount": 5467,
     "LastUpdate": 1778089832,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/update/latest.zip",
@@ -2093,7 +2093,7 @@
       "gpose"
     ],
     "InternalName": "Hyperborea",
-    "DownloadCount": 47989,
+    "DownloadCount": 48000,
     "LastUpdate": 1787504034,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.1.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.1.2/update/latest.zip",
@@ -2116,7 +2116,7 @@
     "Description": "Your personal vending machine.",
     "Tags": [],
     "InternalName": "Dropbox",
-    "DownloadCount": 48828,
+    "DownloadCount": 48833,
     "LastUpdate": 1783980806,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.15/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.15/update/latest.zip",
@@ -2139,7 +2139,7 @@
       "Sanctuary"
     ],
     "InternalName": "ExplorersIcebox",
-    "DownloadCount": 52439,
+    "DownloadCount": 52444,
     "LastUpdate": 1779884677,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/64/ExplorersIcebox/versions/1.1.0.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/64/ExplorersIcebox/versions/1.1.0.3/update/latest.zip",
@@ -2160,7 +2160,7 @@
       "Gatherers"
     ],
     "InternalName": "ChilledLeves",
-    "DownloadCount": 106196,
+    "DownloadCount": 106198,
     "LastUpdate": 1777774705,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/68/ChilledLeves/versions/1.0.1.24/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/68/ChilledLeves/versions/1.0.1.24/update/latest.zip",
@@ -2179,7 +2179,7 @@
       "Gatherers"
     ],
     "InternalName": "ICE",
-    "DownloadCount": 1230160,
+    "DownloadCount": 1230217,
     "LastUpdate": 1787363615,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/70/ICE/versions/1.0.0.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/70/ICE/versions/1.0.0.2/update/latest.zip",
@@ -2205,7 +2205,7 @@
     "Description": "Your personal Henchman doing all the heavy lifting for you!\n\n- A/B Rank Farmer\n- Hunt Logs\n- Hunt Bills\n- Retainer Creation\n- Character Creation\n- Multi Account Trading\n- Ocean Fishing\n- Chocobokeeps\nand more to come.",
     "Tags": [],
     "InternalName": "Henchman",
-    "DownloadCount": 181079,
+    "DownloadCount": 181471,
     "LastUpdate": 1788540101,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/85/Henchman/versions/3.0.1.26/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/85/Henchman/versions/3.0.1.26/update/latest.zip",
@@ -2225,7 +2225,7 @@
     "Description": "Better Grand Company Deliveries",
     "Tags": [],
     "InternalName": "Deliveroo",
-    "DownloadCount": 18007,
+    "DownloadCount": 18013,
     "LastUpdate": 1777864065,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/79/Deliveroo/versions/7.5.0.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/79/Deliveroo/versions/7.5.0.2/update/latest.zip",
@@ -2247,7 +2247,7 @@
       "yeet"
     ],
     "InternalName": "ARDiscard",
-    "DownloadCount": 4482,
+    "DownloadCount": 4485,
     "LastUpdate": 1777603212,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/80/ARDiscard/versions/8.5/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/80/ARDiscard/versions/8.5/update/latest.zip",
@@ -2322,7 +2322,7 @@
       "gearsets"
     ],
     "InternalName": "Gearsetter",
-    "DownloadCount": 34842,
+    "DownloadCount": 34848,
     "LastUpdate": 1777759856,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/98/Gearsetter/versions/4.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/98/Gearsetter/versions/4.3/update/latest.zip",
@@ -2343,7 +2343,7 @@
       "missions"
     ],
     "InternalName": "Squadronista",
-    "DownloadCount": 8450,
+    "DownloadCount": 8451,
     "LastUpdate": 1778554077,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/101/Squadronista/versions/7.5.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/101/Squadronista/versions/7.5.0.0/update/latest.zip",
@@ -2369,7 +2369,7 @@
       "\"AoE\""
     ],
     "InternalName": "VIWI",
-    "DownloadCount": 43382,
+    "DownloadCount": 43383,
     "LastUpdate": 1780272595,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/108/VIWI/versions/0.0.0.62/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/108/VIWI/versions/0.0.0.62/update/latest.zip",
@@ -2395,7 +2395,7 @@
       "erdelf"
     ],
     "InternalName": "AutoDuty",
-    "DownloadCount": 1871591,
+    "DownloadCount": 1871658,
     "LastUpdate": 1786992730,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.335/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.335/update/latest.zip",
@@ -2428,7 +2428,7 @@
       "erdelf"
     ],
     "InternalName": "FCTracker",
-    "DownloadCount": 3836,
+    "DownloadCount": 3837,
     "LastUpdate": 1786699308,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/135/FCTracker/versions/0.0.0.38/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/135/FCTracker/versions/0.0.0.38/update/latest.zip",
@@ -2516,7 +2516,7 @@
       "venture lists"
     ],
     "InternalName": "ARControl",
-    "DownloadCount": 4224,
+    "DownloadCount": 4226,
     "LastUpdate": 1787594633,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/99/ARControl/versions/8.7/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/99/ARControl/versions/8.7/update/latest.zip",
@@ -2537,7 +2537,7 @@
       "Ready"
     ],
     "InternalName": "IAmReady",
-    "DownloadCount": 191,
+    "DownloadCount": 192,
     "LastUpdate": 1778900353,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/121/IAmReady/versions/1.1.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/121/IAmReady/versions/1.1.0.0/update/latest.zip",
@@ -2622,7 +2622,7 @@
       "Chat"
     ],
     "InternalName": "BlackJackButtler",
-    "DownloadCount": 2637,
+    "DownloadCount": 2638,
     "LastUpdate": 1787778911,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/118/BlackJackButtler/versions/1.9.1.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/118/BlackJackButtler/versions/1.9.1.0/update/latest.zip",
@@ -2645,7 +2645,7 @@
       "automation"
     ],
     "InternalName": "CopeSeetheMeld",
-    "DownloadCount": 6523,
+    "DownloadCount": 6524,
     "LastUpdate": 1783019821,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/69/CopeSeetheMeld/versions/0.0.3.1/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/69/CopeSeetheMeld/versions/0.0.3.1/update/latest.zip",
@@ -2670,7 +2670,7 @@
       "dungeon"
     ],
     "InternalName": "NecroLens",
-    "DownloadCount": 76731,
+    "DownloadCount": 76735,
     "LastUpdate": 1777738526,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/53/NecroLens/versions/1.0.8.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/53/NecroLens/versions/1.0.8.12/update/latest.zip",
@@ -2697,7 +2697,7 @@
       "achievement"
     ],
     "InternalName": "HoardFarm",
-    "DownloadCount": 15606,
+    "DownloadCount": 15607,
     "LastUpdate": 1766600220,
     "TestingAssemblyVersion": "1.6.0.2",
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/52/HoardFarm/versions/1.6.0.2/install/testing.zip",
@@ -2833,7 +2833,7 @@
       "Cutscene"
     ],
     "InternalName": "Skippy",
-    "DownloadCount": 3023,
+    "DownloadCount": 3024,
     "LastUpdate": 1778506288,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/130/Skippy/versions/2.2.4.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/130/Skippy/versions/2.2.4.2/update/latest.zip",
@@ -3019,7 +3019,7 @@
     "LastUpdate": 1788382454,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 6905,
+    "DownloadCount": 6906,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "FrenRider",
     "SourceRepoUrl": "https://github.com/McVaxius/FrenRider",
@@ -3064,7 +3064,7 @@
     "LastUpdate": 1788014292,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 8755,
+    "DownloadCount": 8756,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "LootGoblin",
     "SourceRepoUrl": "https://github.com/McVaxius/LootGoblin",
@@ -3129,7 +3129,7 @@
     "LastUpdate": 1788214748,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 5677,
+    "DownloadCount": 5678,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "VERMAXION",
     "SourceRepoUrl": "https://github.com/McVaxius/VERMAXION",
@@ -3249,7 +3249,7 @@
     "LastUpdate": 1787887230,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 1841,
+    "DownloadCount": 1842,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "DPS",
     "SourceRepoUrl": "https://github.com/McVaxius/DPS",
@@ -3527,7 +3527,7 @@
     "LastUpdate": 1788443168,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 4892,
+    "DownloadCount": 4895,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "ADS",
     "SourceRepoUrl": "https://github.com/McVaxius/ADS",
@@ -3628,7 +3628,7 @@
       "automation"
     ],
     "InternalName": "FCCH",
-    "DownloadCount": 2434,
+    "DownloadCount": 2439,
     "LastUpdate": 1788388208,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/149/FCCH/versions/2.5.1.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/149/FCCH/versions/2.5.1.0/update/latest.zip",
@@ -4398,9 +4398,9 @@
     "Description": "Catalogs every recipe you can craft, buckets them by how much effort the missing materials take, prices them with Universalis, and hands the missing-material work to Artisan / GBR / ARC / Lifestream.",
     "InternalName": "LazyCrafter",
     "AssemblyVersion": "0.0.0.0",
-    "TestingAssemblyVersion": "0.1.2.0",
+    "TestingAssemblyVersion": "0.1.3.0",
     "TestingDalamudApiLevel": 15,
-    "Changelog": "v0.1.2.0 (2026-09-03)\n\n\n\n- **Retainer withdrawal, by reflection into Artisan 4.0.5.19** â€” new `Adapters/Dispatch/RetainerFetch.cs`, behind `ReflectionGuard` with a version pin of `[4.0.5, 4.1)` and 10 pinned members. It wraps `Artisan.IPC.RetainerInfo.RestockFromRetainers(uint itemId, int howManyToGet)` (public static), which enqueues the whole session on Artisan's own `TaskManager`: lock YesAlready, target and interact with the nearest summoning bell, then per retainer holding the item â€” select it, \"Entrust Items\", open the item's context menu, type the quantity into `InputNumeric`, close, quit â€” aborting as soon as the bags hold enough. It suppresses AutoRetainer for the duration (`AutoRetainer.SetSuppressed`), so the two do not fight over the bell. Also exposes `Blocker()` (a one-sentence, actionable reason a fetch cannot run: AllaganTools off, no bell in range, already busy), `Available(itemId)` (refreshes Artisan's `RetainerData` via `GetRetainerItemCount(id, tryCache:false)` â€” which is also what makes `RestockFromRetainers` able to do anything, since it returns immediately when that cache has no entry for the item), `Busy()` and `Abort()`.\n- **Two new dispatch phases, `Retrieve` and `WaitRetrieve`, ahead of everything else** (`Adapters/DispatchService.cs`), so the order is now Retrieve â†’ ARC â†’ GBR â†’ Artisan. Per material: ask Artisan what it can actually see on the retainers, start the withdrawal, wait for its task queue to drain, then **measure the bag-count delta** â€” Artisan going idle is not proof anything moved, the same lesson as `WaitCraftEnd` in 0.1.1.0. A partial pull is expected, because `RestockFromRetainers` stops as soon as one retainer's pass satisfies its own bag check, so the remainder is re-queued, bounded at 4 attempts per item. A 4-minute watchdog aborts a stuck session and reports why.\n- **Post-fetch re-plan** (`DispatchService.AfterRetrieve`) â€” once anything has actually landed in the bags, the cart is re-planned against the new inventory, so crafts that were deferred purely because their materials sat on a retainer become real crafts. This is the difference between `crafts finished 0/0, 4 still to retrieve` and `crafts finished 107/107`. Deferrals caused by a retrieval we are about to perform are no longer printed up front â€” the player is not told a craft is blocked and then told it ran; whatever is still stuck after the fetch is reported once, at the end.\n- `DispatchService.RetrieveOne(itemId, quantity)` and `DispatchService.RetrieveOnly(retrievals)` â€” the fetch machinery without the crafting, for the tree button and `/lcraft fetch`.\n- `Configuration.cs` â€” `RetrieveFromRetainers` (config v4), **ON by default**: an existing config that never had the field gets the new behaviour, because that is the fix that was asked for. It is opt-out, not opt-in.\n- `UI/SettingsTab.cs` â€” checkbox \"Fetch missing materials from your retainers before crafting (needs a summoning bell)\" with a help marker naming the requirements, plus `RetainerFetch.Pin` in the reflection-pin health list.\n- `UI/IngredientTree.cs` â€” a **Retrieve** button on any leaf whose stock is owned but outside the bags, plus a `Places()` helper for its tooltip. It sits before the `leaf.Missing == 0` early-out on purpose: a leaf can be fully \"have\" and still be unreachable, which is exactly the case the old UI had no button for.\n- `Plugin.cs` â€” `/lcraft fetch`: retrieve the cart's out-of-bags materials and stop there. `/lcraft guard` now also lists and verifies the Artisan retainer-fetch pin.\n- `tests/LazyCrafter.Harness/RetrieveTests.cs` (new, 8 cases; harness now **111/111**, was 103) â€” the decision logic around the fetch: a regression case that reproduces the 0.1.1.0 nag loop (same cart, same inventory, replanned twice â†’ identical refusal both times), the post-fetch re-plan turning a deferral into a craft, partial-pull remainder arithmetic, the execution-time guard clearing once stock lands, saddlebag stock still being named rather than promised, and Joey's actual cart shape at 107 runs ending in one Artisan craft of 107 rather than four retrieve lines.\n- `tests/LazyCrafter.GuardProbe/` â€” `RetainerFetch.Pin` is verified offline against the installed Artisan DLL alongside GBR and ARC (its csproj now compiles `RetainerFetch.cs`), including the simulated version-mismatch and renamed-member paths.\n\n\n- `Adapters/DispatchService.cs` (`Finish`) â€” the summary carries `retrieved M/N` and, when applicable, `, K could not be retrieved`; both are measured from bag deltas rather than from a success return.\n- `Adapters/DispatchService.cs` (`Stop`) â€” also aborts Artisan's retainer task queue when stopped mid-fetch.\n\n\n- **Why this drives Artisan and not AutoRetainer, despite AutoRetainer being the card's first choice.** Read from the installed `AutoRetainer.dll` 4.6.1.34 with ILSpy 11.0.0.9375 â€” decompiled, not guessed from the string table. Its 27 IPC names are all venture / postprocess / multi-mode and none withdraws an item. The only reverse-direction code it has is `AutoRetainer.Scheduler.Tasks.TaskEntrustDuplicates.EnqueueNewReverse(EntrustPlan)`, public static, and it is the wrong shape three times over. (1) Its first queued step is literally *\"Wait until addon SelectString ready\"*: it assumes a retainer session is **already open**, and contains no bell interaction and no retainer selection, so it cannot start from a standing player. (2) It is driven by an `EntrustPlan` whose `EntrustItemsAmountToKeep` is an amount-to-keep-at-the-far-end, not an amount-to-fetch, and it moves whole slots via `MoveSlotFromToRetainerInventoryUnsafe` rather than a requested quantity. (3) `RetrieveFromRetainer` â€” the promising-looking name in the string table â€” is a literal of the `RetainerItemCommand` enum, not a callable. So the card's stated fallback applies, and Artisan's restock does the entire job including the bell.\n- **`howManyToGet` has two meanings inside Artisan**, verified in the decompiled body: a *delta* inside `ExtractSingular` (`value = Min(howManyToGet, foundInThisStack)`, then `howManyToGet -= value`) but an *absolute bag target* in the per-retainer abort check (`NumberOfIngredient(item) >= howManyToGet`). Passing the delta withdraws the delta and then stops, which is what we want, but it can also stop early after a partial pull â€” hence the measure-and-return loop rather than trusting the call.\n- **A summoning bell is required, and only retainers are reachable.** The chocobo saddlebag, the armoury chest and the glamour dresser are not bell inventories, so stock sitting there is still named and refused â€” once, with the reason â€” rather than silently retried. Same for AllaganTools being absent (Artisan's retainer features are a no-op without it) and for the toggle being off. Every refusal now says what to do about it instead of repeating itself.\n- The guard-style refusal from 0.1.1.0 is untouched and still the safety net: a craft whose materials are not in the bags at the instant of hand-off is never sent to Artisan.\n- Bullets in this entry are deliberately unwrapped single lines. `tools/Package-Plugin.ps1`'s CHANGELOG parser only keeps lines starting with `-`, `**` or a digit, so a hard-wrapped bullet loses everything after its first line in the user-facing `Changelog` field (visible in older entries above).\n\nv0.1.1.0 (2026-09-03)\n\n\n- `Adapters/DispatchService.cs` (`WaitCraftEnd`) â€” **no more false success.** Artisan going idle was counted as a\n- `Adapters/DispatchService.cs` (`Crafts` phase) â€” **guard-style refusal.** Before every hand-off the bags are\n- `Core/DispatchPlan.cs` â€” **Retrieve step.** `Build(...)` takes the inventory it was assessed against and splits the\n- `Core/Interfaces.cs` â€” `IInventory` grew `CountInBags(itemId)` and `StoredWhere(itemId)`, both **default interface\n- `Core/Model/StoredElsewhere.cs` (new) â€” `{Where, Quantity}` with a `Phrase` that reads \"107 on retainer Cid\" /\n- `Adapters/AllaganInventory.cs` â€” implements the split. `CountInBags` reads the client's own\n\n- `UI/CartPanel.cs` â€” the Dispatch hover preview leads with\n- `Plugin.cs` â€” `/lcraft plan` prints a `retrieve [...]` group alongside ARC / GBR / Artisan.\n- `DispatchService.Start` â€” prints one `retrieve before crafting: <item> xN from <place> (N on retainer <name>)` chat\n- Harness `tests/LazyCrafter.Harness/DispatchPlanTests.cs` â€” 9 new cases (**103/103**, was 94): material entirely on a\n\n- Automated retrieval (Artisan's retainer-retrieval, AutoRetainer) is deliberately **not** implemented â€” the plugin\n- No config migration. Users who keep everything in their bags see no behaviour change at all.\n- Fixes the defect filed as t_60a1f11c from V2 verify (skeptic t_398d1b66, comment 533) off Joey's 21:29 ET run.\n- Ships together with 0.1.0.1's packaging fix (`Sylvan.Data.Csv`, t_1a91db8f); this build contains both.\n\nv0.1.0.1 (2026-09-03)\n\n\n- `LazyCrafter.csproj` (`PruneOutputDlls` target) - **ship `Sylvan.Data.Csv.dll`**. The prune list kept only\n\n- `tests/LazyCrafter.ZipProbe` - packaging test that catches this whole class of defect without the game.\n**negative control** first (same zip contents with `Sylvan.Data.Csv.dll` deleted) that must reproduce the\n0.1.0.0 failure - so a pass can only mean the zip itself is sufficient. Also refuses to run if `Hooks\\dev`\n- `Adapters/LuminaGameData.cs` - `SupplementalFailures` (one line per resource that failed or came back empty)\n- `UI/SettingsTab.cs` - data-health line at the top of the tab: red block listing each failed resource when\n\n- Fixes the defect filed as t_1a91db8f from the V2 verify's read of omasky's `dalamud.log`; Joey reported\n- Behaviour change for users: none beyond the data actually loading. No config migration.\n\nv0.1.0.0 (2026-09-03)\n\n\n- `Core/DispatchPlan.cs` - `Build(lines, totals, graph, ventures, retainers)` routes an assessed cart to the hand-off\n- `Adapters/ReflectionGuard.cs` - the version pin + loud failure behind every reflection hand-off (Scope Â§0). A `Pin`\n- `Adapters/Dispatch/GbrDispatch.cs` - reflection: `GatherBuddy.Crafting.CraftingGatherBridge.CreatePersistentGatherList(\"LazyCrafter\",\n- `Adapters/Dispatch/ArcDispatch.cs` - reflection into ARC's live object graph (it has no IPC and clobbers on-disk edits):\n- `Adapters/Dispatch/ArtisanDispatch.cs` - IPC `Artisan.CraftItem(ushort,int)`, `Artisan.IsBusy`, `Artisan.SetStopRequest` /\n- `Adapters/VendorLocator.cs` + `Adapters/Dispatch/LifestreamDispatch.cs` - gil vendor: item â†’ `GilShopItem` shops â†’\n- `Adapters/Dispatch/DagobertDispatch.cs` - after a cart finishes and `Config.DagobertAfterCraft` is on: prints what was\n- `Adapters/DispatchService.cs` - runs a plan on `IFramework.Update` in small polled steps, **ARC â†’ GBR â†’ Artisan**:\n- `Plugin.cs` - `Dispatch` service, `IGameGui`; `/lcraft plan` (what Dispatch would do), `/lcraft dispatch`,\n- `UI/CartPanel.cs` - **Dispatch** is live (hover = the routed plan), becomes **Stop** + status while running;\n- `tests/LazyCrafter.GuardProbe` - loads the installed `GatherBuddyReborn.dll` / `ARControl.dll` in an\n\n- Not run in-game (ffxivdev may not launch the client). Reflection targets verified against the installed DLLs by\n- VendorLocator coverage: LuminaSupplemental 4.3.0 `ENpcPlace` + the `Level` sheet place 299 of the 777 gil shops'\n- Sub-craft routing when the branch needs an ARC venture: the craft is deferred (printed), not queued - retainers take\n\n- `Core/Tiering.cs` - `AssessCart(lines, inv)` -> `CartAssessment {Tier, Lines, Totals, Missing}`: several recipes\n- `Core/IngredientTree.cs` - `Build(leaves)` rebuilds the nested tree from a walk's flat leaf list using `Depth`;\n- `Core/TeamcraftExport.cs` - `Link(lines)` = `https://ffxivteamcraft.com/import/` + base64 of\n- `Catalog/CatalogRow.cs` - `CatalogRow` (one recipe as the UI sees it: name, job, level, job level, tier, HowMany,\n- `Catalog/CatalogView.cs` - `CatalogTab` (Now / Easy / SomeEffort / RealEffort / Leveling / LogCompletion /\n- `Catalog/CatalogBuilder.cs` - the row-building pass with no Dalamud types (Core + `LuminaGameData` only) so\n- `Catalog/CatalogService.cs` - **all computation on one background worker, never in Draw** (Plan Â§Phase 4 task 6):\n- `UI/MainWindow.cs` - tab bar with count badges, filter bar (search, job combo - doubles as the job to level on\n- `UI/CatalogTable.cs` - the 13 Plan Â§Phase 4 columns (item Â· job Â· lvl Â· craftable Â· margin cash Â· margin market Â·\n- `UI/IngredientTree.cs` - header (tier, can-craft, revenue/tax/cash cost/market cost, margins, /day, velocity,\n- `UI/CartPanel.cs` - collapsible; lines (recipe, editable crafts, tier, cash cost, remove), aggregated missing\n- `UI/SettingsTab.cs` - the 7 inventory-source toggles (FC chest off), revenue basis, price by world, refresh\n**Dagobert list-after-craft** and **vnavmesh walk-to-vendor** - both exist and both default **OFF**. Every change\n- `Configuration.cs` v3 - `RevenueBasis`, `ShowAboveLevel` (false), `UndersuppliedMinVelocity` (3) /\n- `Adapters/LuminaGameData.cs` - `CanBeHq(itemId)` (`Item.CanBeHq`; the HQ price row is only evaluated for these)\n- `Plugin.cs` - owns the `CatalogService`; `OnInventoryChanged`, `OnLogin`, the Universalis warm-up and\n- `tests/LazyCrafter.Probe` - now also runs the Phase 4 pass offline: `CatalogBuilder` over all 13,892 recipes\n\n- **Not exercised in-game** (ffxivdev may not launch the client): the ImGui widgets compiled against\n- Thread model: the draw thread only reads `volatile` snapshot references and calls the poke methods; the worker\n- Fulfil / Dispatch buttons are intentionally disabled placeholders; Phase 5 replaces them with the IPC /\n\n- `Adapters/LuminaGameData.cs` - `IGameData` over the Excel sheets, indexed once in `Load(GameData, log, gbr?)`\n- `Adapters/GbrData.cs` - reflection reader for a loaded GatherBuddyReborn (`GatherBuddy.GameData.Gatherables`\n-> `NodeType` / `Level` / `GatheringType`), used as an overlay on the sheet node types when GBR is present; any\n- `Adapters/InventorySource.cs` + `Adapters/AllaganInventory.cs` - `IInventory` over the AllaganTools IPC\n**all on by default except FCChest**. Counts are memoised per item until an inventory event (2 s debounce ->\n- `Adapters/UniversalisClient.cs` - `IPriceSource` grown from Dagobert's client: batched\n- `Adapters/PlayerState.cs` - `ICraftingLog` (`QuestManager.IsRecipeComplete`), crafter/gatherer levels via\n- `Configuration.cs` v2 - `EnabledSources` keyed by `InventorySource` name (migration fills missing keys),\n- `Plugin.cs` - wires the adapters; game data loads on a background `Task`; on login the price scope is set to the\n- `tests/LazyCrafter.Probe` - offline console that opens the installed client's sqpack with a bare Lumina\n\n- `LuminaGameData` / `UniversalisClient` take a bare `Lumina.GameData` / `Action<string>` logger rather than\n- 244 distinct ingredients classify as `Unknown` with the current lookups (Cosmic Container, the airship/submarine\n- Not in `pluginmaster.json`; nothing is shipped. Release plumbing is Phase 7.\n\n- `Core/ProfitModel.cs` `UnitCost`: a material listed on the board **only as HQ** (all NQ price columns null,\n- `Core/ProfitModel.cs` `Evaluate`: a `NaN` (or infinite) velocity from a broken quote passed\n- `Core/Model/PriceQuote.cs`: invariant doc-note for the Phase 3 UniversalisClient - velocities finite and >= 0\n- Harness: the two V1 probes are now permanent `AdversarialTests` cases (RED 71/73 against 2d9e7428a, GREEN 73/73).\n\n- `Core/ProfitModel.cs` + `Core/Model/ProfitEstimate.cs` - `Evaluate(recipeId, inv, prices, taxPct, hq, crafts)`\n-> `ProfitEstimate`. Two cost columns always: **cash** (only missing units priced; on-hand stock consumed\n- `Core/ScripValue.cs` - `Evaluate(itemId, jobLevel)` -> `ScripEstimate` (scrip per collectability tier,\n- `Core/DesynthValue.cs` - `Evaluate(itemId, prices)` -> `DesynthEstimate` (sum of chance x qty x market min\n- `Core/LevelingScore.cs` - `ExpPerCraft(jobLevel, recipeLevel)` = floor(floor(base[rlvl] / 3) x mod[diff] / 100)\n- `Core/UndersuppliedFinder.cs` - `Find(candidates, prices)` / `FindCraftable(prices)`: marketable items with\n- `Core/CraftingLogFilter.cs` + `ICraftingLog` - `NotYetCrafted(recipeId)`, `Predicate`, `Remaining(job, maxLevel,\n- `Core/Interfaces.cs` - `IGameData.Collectable(itemId)` -> `CollectableInfo` (CollectablesShopItem +\n- Harness: `ProfitModelTests.cs`, `ScripDesynthTests.cs`, `ExtrasTests.cs`; `FakeGameData.Collectable()` /\n\n- `Core/RecipeGraph.cs` - `Expand(recipeId)` builds the `RecipeNode` tree (sub-recipe on the\n- `Core/VentureResolver.cs` - `Resolve` / `ResolveAll` / `ResolveBest(itemId, retainers)`\n- `Core/SourceClassifier.cs` - `Classify(itemId, need, have)` -> `SourceKind[]`: `OnHand` is\n- `Core/Tiering.cs` - `Assess(recipeId, inv, crafts)` -> `RecipeAssessment { Tier, HowMany, Leaves }`.\n- `Core/Interfaces.cs` - `VentureRow.RewardThresholds` (the four `RetainerTaskParameter`\n- `tests/LazyCrafter.Harness` - `Fakes.cs` (`FakeGameData`, `FakeInventory`, `FakePrices`),\n\n- Project scaffold (Phase 0 of `Projects/FFXIV LazyCrafter Plan`): `LazyCrafter.csproj`\n- `Core/Interfaces.cs` (`IGameData`, `IInventory`, `IPriceSource` + the plain records they exchange),\n- `tests/LazyCrafter.Harness` - plain net10.0 console that compiles `src/LazyCrafter/Core/**`\n\n- Not in `pluginmaster.json` yet; nothing is shipped. Release plumbing is Phase 7.",
+    "Changelog": "v0.1.3.0 (2026-09-04)\n\n\n- Batch retainer fetch: when a dispatch needs retainer stock, ONE Artisan session (`RestockFromRetainers(NewCraftingList)`, decompiled + pinned) walks the retainers once for the whole cart instead of one bell cycle per material (file: `Adapters/Dispatch/RetainerFetch.cs`, function: `BeginBatch`; queue selection: `Core/RetainerBatch.Queue`)\n- Fallback preserved: items with no recipe row, and any remainder after the batch pass, still go through the 0.1.2.0 per-item path (file: `Adapters/DispatchService.cs`, phases: `BatchRetrieve`/`BatchWait` before `Retrieve`)\n\n\n- `RetrieveFromRetainers` setting was a no-op - a nested `if` in `WhyNoFetch` made the config check dead, so switching retrieval off still fetched; the toggle now gates every fetch path (file: `Adapters/DispatchService.cs`, function: `WhyNoFetch`)\n\n\n- The batch session is measured, not assumed: bag counts per demanded item are snapshotted at queue time and compared when Artisan goes idle, and anything still short stays in the per-item queue (trimmed to the remainder).\n- Both overloads are proved offline by `tests/LazyCrafter.GuardProbe` (the list overload rides on the pin as an alias - `Adapters/ReflectionGuardExtensions.cs`) against the installed Artisan 4.0.5.19 (SHA-256 of the decompiled DLL matches omasky's installed copy).\n- Queue decision tests: `tests/LazyCrafter.Harness/RetainerBatchQueueTests.cs` (deferred-because-of-retrieval crafts queue their rows; mixed-reason deferrals queue; non-retrieval deferrals stay out; unknown rows are dropped).\n- ARC reflection pin ceiling raised 8.7 -> 8.8: omasky ships ARControl 8.7 and the exclusive ceiling flagged the installed build as unverified even though every pinned member resolves on it (GuardProbe against omasky's installed DLLs, 2026-09-04).\n\nv0.1.2.0 (2026-09-03)\n\n\n\n\n\n\n\n- The guard-style refusal from 0.1.1.0 is untouched and still the safety net: a craft whose materials are not in the bags at the instant of hand-off is never sent to Artisan.\n- Bullets in this entry are deliberately unwrapped single lines. `tools/Package-Plugin.ps1`'s CHANGELOG parser only keeps lines starting with `-`, `**` or a digit, so a hard-wrapped bullet loses everything after its first line in the user-facing `Changelog` field (visible in older entries above).\n\nv0.1.1.0 (2026-09-03)",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IsHide": false,
@@ -4434,7 +4434,7 @@
     "Author": "Sevii",
     "DalamudApiLevel": 15,
     "Description": "Auto updates mods and allows for more customization such as color and compositing onto other files",
-    "DownloadCount": 261149,
+    "DownloadCount": 261159,
     "DownloadLinkInstall": "https://aetherment.sevii.dev/plugin/install",
     "DownloadLinkTesting": "https://aetherment.sevii.dev/plugin/install",
     "DownloadLinkUpdate": "https://aetherment.sevii.dev/plugin/update",
