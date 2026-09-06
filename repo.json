@@ -94,7 +94,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.24/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.24/latest.zip",
-    "DownloadCount": 80468,
+    "DownloadCount": 80558,
     "LastUpdate": "1777510404"
   },
   {
@@ -119,7 +119,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.5.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.5.1/latest.zip",
-    "DownloadCount": 23888,
+    "DownloadCount": 23909,
     "LastUpdate": "1777513055"
   },
   {
@@ -144,7 +144,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.1.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.1.2/latest.zip",
-    "DownloadCount": 53160,
+    "DownloadCount": 53234,
     "LastUpdate": "1777904465"
   },
   {
@@ -154,7 +154,7 @@
     "Description": "Locks player movement while casting and allows for maximum caster uptime during the course of a fight.",
     "Tags": [],
     "InternalName": "Orbwalker",
-    "DownloadCount": 86155,
+    "DownloadCount": 86156,
     "LastUpdate": 1777528744,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/1.0.1.10/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/1.0.1.10/update/latest.zip",
@@ -163,28 +163,6 @@
     "DalamudApiLevel": "15",
     "Changelog": "- 7.5",
     "IconUrl": "https://puni.sh/api/plugins/icon/12"
-  },
-  {
-    "Author": "kawaii, NightmareXIV",
-    "Name": "Avarice",
-    "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-    "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-    "Tags": [
-      "combat"
-    ],
-    "InternalName": "Avarice",
-    "DownloadCount": 375671,
-    "LastUpdate": 1785467258,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.12/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.12/update/latest.zip",
-    "AssemblyVersion": "2.2.0.12",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "- Added new settings",
-    "TestingAssemblyVersion": "2.2.0.13",
-    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.13/install/testing.zip",
-    "TestingDalamudApiLevel": "15",
-    "IconUrl": "https://puni.sh/api/plugins/icon/11"
   },
   {
     "Author": "Taurenkey, NightmareXIV, croizat",
@@ -198,7 +176,7 @@
       "convenience"
     ],
     "InternalName": "PandorasBox",
-    "DownloadCount": 1345700,
+    "DownloadCount": 1345736,
     "LastUpdate": 1780112081,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.4/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.4/update/latest.zip",
@@ -212,46 +190,26 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/8"
   },
   {
-    "Author": "daemitus, croizat",
-    "Name": "Yes Already",
-    "Punchline": "Clicks Yes in various dialogs you've specified.",
-    "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
-    "Tags": [],
-    "InternalName": "YesAlready",
-    "DownloadCount": 1307174,
-    "LastUpdate": 1783944702,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.3.0/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.3.0/update/latest.zip",
-    "AssemblyVersion": "1.15.3.0",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "",
-    "TestingAssemblyVersion": "1.10.4.0",
-    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.10.4.0/install/testing.zip",
-    "TestingDalamudApiLevel": "12",
-    "IconUrl": "https://puni.sh/api/plugins/icon/26"
-  },
-  {
-    "Author": "kawaii, jukka",
-    "Name": "Palace Pal",
-    "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
-    "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
+    "Author": "kawaii, NightmareXIV",
+    "Name": "Avarice",
+    "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+    "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
     "Tags": [
-      "potd",
-      "hoh",
-      "splatoon",
-      "palace"
+      "combat"
     ],
-    "InternalName": "PalacePal",
-    "DownloadCount": 249725,
-    "LastUpdate": 1777738875,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/update/latest.zip",
-    "AssemblyVersion": "4.16.0.0",
+    "InternalName": "Avarice",
+    "DownloadCount": 375713,
+    "LastUpdate": 1785467258,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.12/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.12/update/latest.zip",
+    "AssemblyVersion": "2.2.0.12",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
-    "Changelog": "",
-    "IconUrl": "https://puni.sh/api/plugins/icon/32"
+    "Changelog": "- Added new settings",
+    "TestingAssemblyVersion": "2.2.0.13",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.13/install/testing.zip",
+    "TestingDalamudApiLevel": "15",
+    "IconUrl": "https://puni.sh/api/plugins/icon/11"
   },
   {
     "Author": "Det, croizat",
@@ -263,7 +221,7 @@
       "Fishing"
     ],
     "InternalName": "AutoHook",
-    "DownloadCount": 2447121,
+    "DownloadCount": 2447325,
     "LastUpdate": 1787851448,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.0.95/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.0.95/update/latest.zip",
@@ -288,7 +246,7 @@
       "other"
     ],
     "InternalName": "LazyLoot",
-    "DownloadCount": 247177,
+    "DownloadCount": 247180,
     "LastUpdate": 1777584039,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.3/update/latest.zip",
@@ -297,6 +255,48 @@
     "DalamudApiLevel": "15",
     "Changelog": "- 7.5",
     "IconUrl": "https://puni.sh/api/plugins/icon/9"
+  },
+  {
+    "Author": "kawaii, jukka",
+    "Name": "Palace Pal",
+    "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
+    "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
+    "Tags": [
+      "potd",
+      "hoh",
+      "splatoon",
+      "palace"
+    ],
+    "InternalName": "PalacePal",
+    "DownloadCount": 249738,
+    "LastUpdate": 1777738875,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/update/latest.zip",
+    "AssemblyVersion": "4.16.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "",
+    "IconUrl": "https://puni.sh/api/plugins/icon/32"
+  },
+  {
+    "Author": "daemitus, croizat",
+    "Name": "Yes Already",
+    "Punchline": "Clicks Yes in various dialogs you've specified.",
+    "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
+    "Tags": [],
+    "InternalName": "YesAlready",
+    "DownloadCount": 1307195,
+    "LastUpdate": 1783944702,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.3.0/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.3.0/update/latest.zip",
+    "AssemblyVersion": "1.15.3.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "",
+    "TestingAssemblyVersion": "1.10.4.0",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.10.4.0/install/testing.zip",
+    "TestingDalamudApiLevel": "12",
+    "IconUrl": "https://puni.sh/api/plugins/icon/26"
   },
   {
     "Author": "the Puni.sh Quest Squad",
@@ -310,7 +310,7 @@
       "utility"
     ],
     "InternalName": "Questionable",
-    "DownloadCount": 2060904,
+    "DownloadCount": 2061825,
     "LastUpdate": 1788624180,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.306.3.37/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.306.3.37/update/latest.zip",
@@ -324,13 +324,32 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/94"
   },
   {
+    "Author": "Chalkos, NightmareXIV",
+    "Name": "Marketbuddy",
+    "Punchline": "Less clicks, more gil!",
+    "Description": "Helper for your day-to-day market operations.",
+    "Tags": [
+      "marketboard"
+    ],
+    "InternalName": "Marketbuddy",
+    "DownloadCount": 20919,
+    "LastUpdate": 1777575334,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/131/Marketbuddy/versions/0.2.4.2/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/131/Marketbuddy/versions/0.2.4.2/update/latest.zip",
+    "AssemblyVersion": "0.2.4.2",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "- 7.5",
+    "IconUrl": "https://puni.sh/api/plugins/icon/131"
+  },
+  {
     "Author": "kawaii, NightmareXIV",
     "Name": "AutoRetainer",
     "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
     "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
     "Tags": [],
     "InternalName": "AutoRetainer",
-    "DownloadCount": 2476876,
+    "DownloadCount": 2477301,
     "LastUpdate": 1788386232,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.1.34/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.1.34/update/latest.zip",
@@ -344,25 +363,6 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/24"
   },
   {
-    "Author": "Chalkos, NightmareXIV",
-    "Name": "Marketbuddy",
-    "Punchline": "Less clicks, more gil!",
-    "Description": "Helper for your day-to-day market operations.",
-    "Tags": [
-      "marketboard"
-    ],
-    "InternalName": "Marketbuddy",
-    "DownloadCount": 20905,
-    "LastUpdate": 1777575334,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/131/Marketbuddy/versions/0.2.4.2/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/131/Marketbuddy/versions/0.2.4.2/update/latest.zip",
-    "AssemblyVersion": "0.2.4.2",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "- 7.5",
-    "IconUrl": "https://puni.sh/api/plugins/icon/131"
-  },
-  {
     "Author": "Team Wrath",
     "Name": "Wrath Combo",
     "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
@@ -373,7 +373,7 @@
       "pvp"
     ],
     "InternalName": "WrathCombo",
-    "DownloadCount": 1177737,
+    "DownloadCount": 1177898,
     "LastUpdate": 1788017040,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.23/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.23/update/latest.zip",
@@ -396,7 +396,7 @@
       "Accessibility"
     ],
     "InternalName": "Splatoon",
-    "DownloadCount": 2230098,
+    "DownloadCount": 2230241,
     "LastUpdate": 1787793609,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.25/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.25/update/latest.zip",
@@ -410,27 +410,6 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/10"
   },
   {
-    "Author": "Taurenkey, Kage, NightmareXIV",
-    "Name": "Saucy",
-    "Punchline": "When working for MGP is too much effort.",
-    "Description": "Automates certain Gold Saucer mini-games.",
-    "Tags": [
-      "gold saucer",
-      "mgp",
-      "automation"
-    ],
-    "InternalName": "Saucy",
-    "DownloadCount": 1080496,
-    "LastUpdate": 1788197704,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.2.2/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.2.2/update/latest.zip",
-    "AssemblyVersion": "2.1.2.2",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "fix jumbo cactpot",
-    "IconUrl": "https://puni.sh/api/plugins/icon/7"
-  },
-  {
     "Author": "Taurenkey, kawaii, NightmareXIV",
     "Name": "Artisan",
     "Punchline": "A 'simple' crafting plugin.",
@@ -439,7 +418,7 @@
       "crafting"
     ],
     "InternalName": "Artisan",
-    "DownloadCount": 5904197,
+    "DownloadCount": 5904834,
     "LastUpdate": 1788272491,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.19/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.19/update/latest.zip",
@@ -451,6 +430,27 @@
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.16/install/testing.zip",
     "TestingDalamudApiLevel": "15",
     "IconUrl": "https://puni.sh/api/plugins/icon/6"
+  },
+  {
+    "Author": "Taurenkey, Kage, NightmareXIV",
+    "Name": "Saucy",
+    "Punchline": "When working for MGP is too much effort.",
+    "Description": "Automates certain Gold Saucer mini-games.",
+    "Tags": [
+      "gold saucer",
+      "mgp",
+      "automation"
+    ],
+    "InternalName": "Saucy",
+    "DownloadCount": 1080673,
+    "LastUpdate": 1788197704,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.2.2/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.2.2/update/latest.zip",
+    "AssemblyVersion": "2.1.2.2",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "fix jumbo cactpot",
+    "IconUrl": "https://puni.sh/api/plugins/icon/7"
   },
   {
     "Author": "Haselnussbomber",
@@ -467,7 +467,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Updated: The AtkResNode highlight now supports transformations. (Thanks to @MidoriKami)\n- Updated: The GameObject highlight now draws a line even if the object is out of field of view.\n- Updated: The GameObject highlight now draws an oriented bounding box, if available.\n- Updated: ClientStructs now at 5af9ff4c (compare).",
-    "DownloadCount": 292,
+    "DownloadCount": 298,
     "LastUpdate": 1788362395,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.73.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.73.0/latest.zip"
@@ -580,7 +580,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Tweak removed: Scrollable Tabs\n\nThis is now a standalone plugin on the Dalamud main repository. Please install Scrollable Tabs via the Plugin Installer.\n\nTweak removed: Shop Item Icons\n\nThis is now a standalone plugin on the Dalamud main repository. Please install Shop Item Icons via the Plugin Installer.",
-    "DownloadCount": 9967,
+    "DownloadCount": 10088,
     "LastUpdate": 1787917117,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v50.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v50.0.0/latest.zip"
@@ -601,7 +601,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "Update for 7.5 (Dalamud API 15).",
-    "DownloadCount": 5235,
+    "DownloadCount": 5237,
     "LastUpdate": 1777545202,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.6/latest.zip"
@@ -1099,7 +1099,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 1777765848,
-    "DownloadCount": 77831,
+    "DownloadCount": 77924,
     "DownloadLinkInstall": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.7.4.1/BDTHPlugin.zip",
     "DownloadLinkTesting": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.7.4.1/BDTHPlugin.zip",
     "DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.7.4.1/BDTHPlugin.zip"
@@ -1111,7 +1111,7 @@
     "Description": "Now for more than crafting!",
     "Tags": [],
     "InternalName": "SomethingNeedDoing",
-    "DownloadCount": 800131,
+    "DownloadCount": 800142,
     "LastUpdate": 1785939473,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/15.8/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/15.8/update/latest.zip",
@@ -1132,7 +1132,7 @@
       "tweaks"
     ],
     "InternalName": "Automaton",
-    "DownloadCount": 917576,
+    "DownloadCount": 917699,
     "LastUpdate": 1788176242,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.211/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.211/update/latest.zip",
@@ -1151,7 +1151,7 @@
       "glamour"
     ],
     "InternalName": "GlamourLog",
-    "DownloadCount": 28002,
+    "DownloadCount": 28016,
     "LastUpdate": 1787563321,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/136/GlamourLog/versions/15.66/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/136/GlamourLog/versions/15.66/update/latest.zip",
@@ -1191,7 +1191,7 @@
     "Description": "Make custom deliveries less annoying by automating the process.",
     "Tags": [],
     "InternalName": "vsatisfy",
-    "DownloadCount": 154551,
+    "DownloadCount": 154566,
     "LastUpdate": 1781106410,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/0.0.0.37/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/0.0.0.37/update/latest.zip",
@@ -1208,7 +1208,7 @@
     "Description": "Automate gathering, workshop assignments, etc.",
     "Tags": [],
     "InternalName": "visland",
-    "DownloadCount": 868957,
+    "DownloadCount": 868989,
     "LastUpdate": 1784403322,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.150/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.150/update/latest.zip",
@@ -1225,7 +1225,7 @@
     "Description": "Based on ezFauxHollows, but uses known patterns instead of general-purpose solver.",
     "Tags": [],
     "InternalName": "vfaux",
-    "DownloadCount": 97853,
+    "DownloadCount": 97856,
     "LastUpdate": 1777496806,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/29/vfaux/versions/0.0.0.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/29/vfaux/versions/0.0.0.12/update/latest.zip",
@@ -1242,7 +1242,7 @@
     "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
     "Tags": [],
     "InternalName": "BossMod",
-    "DownloadCount": 2494775,
+    "DownloadCount": 2494913,
     "LastUpdate": 1787005305,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/7.5.5.8/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/7.5.5.8/update/latest.zip",
@@ -1267,7 +1267,7 @@
     "Description": "Bot that does fall guys event automatically.",
     "Tags": [],
     "InternalName": "vfallguy",
-    "DownloadCount": 56942,
+    "DownloadCount": 56944,
     "LastUpdate": 1777500971,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/41/vfallguy/versions/0.0.0.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/41/vfallguy/versions/0.0.0.12/update/latest.zip",
@@ -1284,7 +1284,7 @@
     "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
     "Tags": [],
     "InternalName": "vnavmesh",
-    "DownloadCount": 1879309,
+    "DownloadCount": 1879554,
     "LastUpdate": 1787843275,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/1.2.3.14/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/1.2.3.14/update/latest.zip",
@@ -1480,7 +1480,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Fix for BLU Exuviation not being used as AOE heal by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1362\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.5.40...7.5.5.41",
-    "DownloadCount": 3143142
+    "DownloadCount": 3143823
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1513,7 +1513,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.11/latest.zip",
     "TestingAssemblyVersion": "7.4.5.11",
     "Changelog": "## What's Changed\r\n* Fix: SE helpers stack by @Equilius in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1334\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.5.5.70...7.5.5.71",
-    "DownloadCount": 3617529
+    "DownloadCount": 3618103
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1541,7 +1541,7 @@
     "AssemblyVersion": "7.5.5.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.5.5.1/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Move texture loading to the main thread, ran code cleanup by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/19\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.5.5.0...7.5.5.1",
-    "DownloadCount": 37573
+    "DownloadCount": 37577
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1570,7 +1570,7 @@
     "AssemblyVersion": "7.5.0.3",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.5.0.3/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* Added pr buildtest by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/17\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.5.0.2...7.5.0.3",
-    "DownloadCount": 61809
+    "DownloadCount": 61816
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1608,7 +1608,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.5.17/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.5.17",
     "Changelog": "## What's Changed\r\n* QuickSynth fix by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/664\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.5.1...7.5.5.2",
-    "DownloadCount": 1063515
+    "DownloadCount": 1064979
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1634,7 +1634,7 @@
     "AssemblyVersion": "7.5.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.5.0.0/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* api15 by @Shiori-Zephyr in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/16\r\n* API 15 compatibility by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/17\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.4.5.0...7.5.0.0",
-    "DownloadCount": 30638
+    "DownloadCount": 30644
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1665,7 +1665,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "## What's Changed\r\n* Add pr test and bump ecommons by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/8\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.5.0.0...7.5.0.1",
-    "DownloadCount": 19666
+    "DownloadCount": 19671
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1699,7 +1699,7 @@
     "AssemblyVersion": "7.5.5.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.5.5.1/latest.zip",
     "Changelog": "## What's Changed\r\n* Correctly resolve weird player names by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/27\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.5.5.0...7.5.5.1",
-    "DownloadCount": 43098
+    "DownloadCount": 43107
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1733,7 +1733,7 @@
     "AssemblyVersion": "7.5.5.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/NoSillyReborn/releases/download/7.5.5.0/latest.zip",
     "Changelog": "## What's Changed\r\n* Update for 7.55 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/NoSillyReborn/pull/5\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/NoSillyReborn/compare/7.5.0.2...7.5.5.0",
-    "DownloadCount": 7130
+    "DownloadCount": 7131
   },
   {
     "Author": "Churin",
@@ -1764,7 +1764,7 @@
     "AssemblyVersion": "1.0.0.8",
     "DownloadLinkUpdate": "https://github.com/aventurescence/Understudy/releases/download/v1.0.0.8/latest.zip",
     "Changelog": "### chore: update Dalamud API level to 15 in pluginmanifest\r\n\n\n---\n*Assembly version: 1.0.0.8*\n\n\n**Full Changelog**: https://github.com/aventurescence/Understudy/compare/v1.0.0.7...v1.0.0.8",
-    "DownloadCount": 3455
+    "DownloadCount": 3456
   },
   {
     "Author": "Risa and Contributors",
@@ -1955,7 +1955,7 @@
     "AssemblyVersion": "0.8.0.11",
     "TestingAssemblyVersion": "0.8.0.11",
     "ApplicableVersion": "any",
-    "DownloadCount": 2373211,
+    "DownloadCount": 2373713,
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
     "DownloadLinkInstall": "https://github.com/Etheirys/Brio/releases/download/v0.8.0.11/Brio.zip",
@@ -2071,7 +2071,7 @@
       "gpose"
     ],
     "InternalName": "Hyperborea",
-    "DownloadCount": 48109,
+    "DownloadCount": 48115,
     "LastUpdate": 1787504034,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.1.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.1.2/update/latest.zip",
@@ -2099,7 +2099,7 @@
       "mgp"
     ],
     "InternalName": "Chocoholic",
-    "DownloadCount": 5503,
+    "DownloadCount": 5504,
     "LastUpdate": 1778089832,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/update/latest.zip",
@@ -2116,7 +2116,7 @@
     "Description": "Your personal vending machine.",
     "Tags": [],
     "InternalName": "Dropbox",
-    "DownloadCount": 48897,
+    "DownloadCount": 48900,
     "LastUpdate": 1783980806,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.15/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.15/update/latest.zip",
@@ -2139,7 +2139,7 @@
       "Sanctuary"
     ],
     "InternalName": "ExplorersIcebox",
-    "DownloadCount": 52511,
+    "DownloadCount": 52518,
     "LastUpdate": 1779884677,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/64/ExplorersIcebox/versions/1.1.0.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/64/ExplorersIcebox/versions/1.1.0.3/update/latest.zip",
@@ -2160,7 +2160,7 @@
       "Gatherers"
     ],
     "InternalName": "ChilledLeves",
-    "DownloadCount": 106284,
+    "DownloadCount": 106293,
     "LastUpdate": 1777774705,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/68/ChilledLeves/versions/1.0.1.24/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/68/ChilledLeves/versions/1.0.1.24/update/latest.zip",
@@ -2179,7 +2179,7 @@
       "Gatherers"
     ],
     "InternalName": "ICE",
-    "DownloadCount": 1231005,
+    "DownloadCount": 1231071,
     "LastUpdate": 1787363615,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/70/ICE/versions/1.0.0.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/70/ICE/versions/1.0.0.2/update/latest.zip",
@@ -2205,7 +2205,7 @@
     "Description": "Your personal Henchman doing all the heavy lifting for you!\n\n- A/B Rank Farmer\n- Hunt Logs\n- Hunt Bills\n- Retainer Creation\n- Character Creation\n- Multi Account Trading\n- Ocean Fishing\n- Chocobokeeps\nand more to come.",
     "Tags": [],
     "InternalName": "Henchman",
-    "DownloadCount": 183877,
+    "DownloadCount": 183966,
     "LastUpdate": 1788540101,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/85/Henchman/versions/3.0.1.26/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/85/Henchman/versions/3.0.1.26/update/latest.zip",
@@ -2225,7 +2225,7 @@
     "Description": "Your personal shopper who will take care of all your currency spendings!\n\nKnightshopper: because even knights deserve a squire for their shopping.",
     "Tags": [],
     "InternalName": "Knightshopper",
-    "DownloadCount": 2,
+    "DownloadCount": 12,
     "LastUpdate": 1788697049,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/173/Knightshopper/versions/1.0.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/173/Knightshopper/versions/1.0.0.0/update/latest.zip",
@@ -2242,7 +2242,7 @@
     "Description": "Better Grand Company Deliveries",
     "Tags": [],
     "InternalName": "Deliveroo",
-    "DownloadCount": 18047,
+    "DownloadCount": 18054,
     "LastUpdate": 1777864065,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/79/Deliveroo/versions/7.5.0.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/79/Deliveroo/versions/7.5.0.2/update/latest.zip",
@@ -2264,7 +2264,7 @@
       "yeet"
     ],
     "InternalName": "ARDiscard",
-    "DownloadCount": 4503,
+    "DownloadCount": 4504,
     "LastUpdate": 1777603212,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/80/ARDiscard/versions/8.5/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/80/ARDiscard/versions/8.5/update/latest.zip",
@@ -2339,7 +2339,7 @@
       "gearsets"
     ],
     "InternalName": "Gearsetter",
-    "DownloadCount": 34989,
+    "DownloadCount": 35003,
     "LastUpdate": 1777759856,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/98/Gearsetter/versions/4.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/98/Gearsetter/versions/4.3/update/latest.zip",
@@ -2360,7 +2360,7 @@
       "missions"
     ],
     "InternalName": "Squadronista",
-    "DownloadCount": 8472,
+    "DownloadCount": 8475,
     "LastUpdate": 1778554077,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/101/Squadronista/versions/7.5.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/101/Squadronista/versions/7.5.0.0/update/latest.zip",
@@ -2412,7 +2412,7 @@
       "erdelf"
     ],
     "InternalName": "AutoDuty",
-    "DownloadCount": 1872756,
+    "DownloadCount": 1872855,
     "LastUpdate": 1786992730,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.335/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.335/update/latest.zip",
@@ -2445,7 +2445,7 @@
       "erdelf"
     ],
     "InternalName": "FCTracker",
-    "DownloadCount": 3858,
+    "DownloadCount": 3859,
     "LastUpdate": 1786699308,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/135/FCTracker/versions/0.0.0.38/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/135/FCTracker/versions/0.0.0.38/update/latest.zip",
@@ -2533,7 +2533,7 @@
       "venture lists"
     ],
     "InternalName": "ARControl",
-    "DownloadCount": 4246,
+    "DownloadCount": 4250,
     "LastUpdate": 1787594633,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/99/ARControl/versions/8.7/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/99/ARControl/versions/8.7/update/latest.zip",
@@ -2662,7 +2662,7 @@
       "automation"
     ],
     "InternalName": "CopeSeetheMeld",
-    "DownloadCount": 6535,
+    "DownloadCount": 6536,
     "LastUpdate": 1783019821,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/69/CopeSeetheMeld/versions/0.0.3.1/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/69/CopeSeetheMeld/versions/0.0.3.1/update/latest.zip",
@@ -2687,7 +2687,7 @@
       "dungeon"
     ],
     "InternalName": "NecroLens",
-    "DownloadCount": 76781,
+    "DownloadCount": 76784,
     "LastUpdate": 1777738526,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/53/NecroLens/versions/1.0.8.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/53/NecroLens/versions/1.0.8.12/update/latest.zip",
@@ -2733,7 +2733,7 @@
     "Description": "Advanced inventory management with safety filters and auto-discard",
     "Tags": [],
     "InternalName": "wahventory",
-    "DownloadCount": 61558,
+    "DownloadCount": 61559,
     "LastUpdate": 1780756377,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/91/wahventory/versions/4.6.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/91/wahventory/versions/4.6.0.0/update/latest.zip",
@@ -2749,7 +2749,7 @@
     "Description": "Jumping Puzzle Directory for the Strange Housing Discord",
     "Tags": [],
     "InternalName": "WahJumps",
-    "DownloadCount": 2608,
+    "DownloadCount": 2610,
     "LastUpdate": 1785625039,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/93/WahJumps/versions/1.0.11.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/93/WahJumps/versions/1.0.11.0/update/latest.zip",
@@ -2850,7 +2850,7 @@
       "Cutscene"
     ],
     "InternalName": "Skippy",
-    "DownloadCount": 3055,
+    "DownloadCount": 3058,
     "LastUpdate": 1778506288,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/130/Skippy/versions/2.2.4.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/130/Skippy/versions/2.2.4.2/update/latest.zip",
@@ -2947,7 +2947,7 @@
     "LastUpdate": 1785271279,
     "Changelog": "v0.0.0.40 release of XA-Database",
     "IsTestingExclusive": false,
-    "DownloadCount": 2231,
+    "DownloadCount": 2232,
     "RepoTitle": "XA Enterprise",
     "SourceRepoName": "XA-Database",
     "SourceRepoUrl": "https://github.com/xa-io/XA-Database",
@@ -2976,7 +2976,7 @@
     "LastUpdate": 1785612337,
     "Changelog": "v0.0.0.43 release of XA-Slave",
     "IsTestingExclusive": false,
-    "DownloadCount": 2938,
+    "DownloadCount": 2941,
     "RepoTitle": "XA Enterprise",
     "SourceRepoName": "XA-Slave",
     "SourceRepoUrl": "https://github.com/xa-io/XA-Slave",
@@ -3036,7 +3036,7 @@
     "LastUpdate": 1788382454,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 6936,
+    "DownloadCount": 6938,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "FrenRider",
     "SourceRepoUrl": "https://github.com/McVaxius/FrenRider",
@@ -3146,7 +3146,7 @@
     "LastUpdate": 1788214748,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 5686,
+    "DownloadCount": 5690,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "VERMAXION",
     "SourceRepoUrl": "https://github.com/McVaxius/VERMAXION",
@@ -3176,7 +3176,7 @@
     "LastUpdate": 1784771353,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 1767,
+    "DownloadCount": 1769,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "HelloFellowHuman",
     "SourceRepoUrl": "https://github.com/McVaxius/HelloFellowHuman",
@@ -3266,7 +3266,7 @@
     "LastUpdate": 1787887230,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 1846,
+    "DownloadCount": 1847,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "DPS",
     "SourceRepoUrl": "https://github.com/McVaxius/DPS",
@@ -3483,7 +3483,7 @@
     "LastUpdate": 1788307669,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 162,
+    "DownloadCount": 163,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "Coppelia",
     "SourceRepoUrl": "https://github.com/McVaxius/Coppelia",
@@ -3544,7 +3544,7 @@
     "LastUpdate": 1788443168,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 4919,
+    "DownloadCount": 4921,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "ADS",
     "SourceRepoUrl": "https://github.com/McVaxius/ADS",
@@ -3617,7 +3617,7 @@
       "automation"
     ],
     "InternalName": "Mogmail",
-    "DownloadCount": 2458,
+    "DownloadCount": 2459,
     "LastUpdate": 1787390610,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/148/Mogmail/versions/1.2.6.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/148/Mogmail/versions/1.2.6.0/update/latest.zip",
@@ -3645,7 +3645,7 @@
       "automation"
     ],
     "InternalName": "FCCH",
-    "DownloadCount": 2498,
+    "DownloadCount": 2500,
     "LastUpdate": 1788388208,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/149/FCCH/versions/2.5.1.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/149/FCCH/versions/2.5.1.0/update/latest.zip",
@@ -3812,7 +3812,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 8663,
+    "DownloadCount": 8683,
     "LastUpdate": "1787083573"
   },
   {
@@ -3840,7 +3840,7 @@
     "Punchline": "Doman Mahjong, solved for you.",
     "Description": "Reads your Doman Mahjong hand and either suggests the best discard or plays the match for you.",
     "Changelog": "v0.1.2.3: Fix the in-game suggestion highlight after a call. Once you called pon, chi, or kan, the highlight could jump to the wall along the top of the board or land on the wrong tile, because it located your hand by geometry and the shrunken hand let the perfectly-aligned wall slots win. It now anchors to the bottom-most row (your hand is always at the bottom) and ignores melded tiles, so the outline stays on the suggested discard. The hand reading and suggestion were always correct; only the on-tile outline was affected.",
-    "DownloadCount": 7042,
+    "DownloadCount": 7045,
     "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
@@ -3877,7 +3877,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 11101,
+    "DownloadCount": 11293,
     "LastUpdate": "1788659313"
   },
   {
@@ -3906,7 +3906,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 19647,
+    "DownloadCount": 19977,
     "LastUpdate": "1788659343"
   },
   {
@@ -3935,7 +3935,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 7811,
+    "DownloadCount": 7949,
     "LastUpdate": "1788689530"
   },
   {
@@ -3968,7 +3968,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-Aetherphone/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 253161,
+    "DownloadCount": 253246,
     "LastUpdate": "1788209776"
   },
   {
@@ -4114,7 +4114,7 @@
     "Description": "Gluttony Combo - lalalazy fork of Gluttony Combo. XIVCombo for very lazy players.",
     "InternalName": "GluttonyCombo",
     "AssemblyVersion": "1.0.4.169",
-    "Changelog": "v1.0.4.174 (2026-09-05) [testing]\n\n- Auto-rotation (healer) \"Require Swiftcast/Dualcast\" for auto-resurrect is now one checkbox per raising job instead of a single global toggle: WHM/CNJ, SCH, AST, SGE, SMN, BLU and RDM each get their own row under Settings -> Auto Rotation -> Auto-Resurrect. Your existing setting is carried onto the six jobs it used to govern by a one-time migration, so nothing changes on update. (files: `GluttonyCombo/AutoRotation/AutoRotationConfig.cs` `HealerSettings.AutoRezRequireSwift{WHM,SCH,AST,SGE,SMN,BLU,RDM}` + `RequireSwiftFor(Job)`, `GluttonyCombo/Window/Tabs/AutoRotationTab.cs`, `GluttonyCombo/Core/ConfigMigration.cs`)\n- RDM can now hard-cast Verraise under auto-rotation, which was previously impossible. The new RDM row is ticked by default and that is the old behaviour - RDM only raises instantly, off Dualcast or Swiftcast. Untick it and auto-rotation will start a 10-second hard-cast Verraise when no instant is available; it only begins the cast while you are standing still, and an instant is still always preferred. Before this version RDM's requirement was hardcoded on and the old global tick could not reach it at all. (file: `GluttonyCombo/AutoRotation/AutoRotationController.cs`, function: `RezParty`)\n\n- The per-job setting is resolved from the job you are playing, never from the raise spell. SCH and SMN both raise with Resurrection, so a spell-keyed lookup would have silently fused those two jobs into one setting that could never be separated again; CNJ and WHM deliberately do share one row, being the same job either side of level 30. (file: `GluttonyCombo/AutoRotation/AutoRotationConfig.cs`, function: `RequireSwiftFor`)\n- The RDM raise path gained the same movement guard the other jobs already had. It never needed one before, because it could only ever fire an instant; without it, unticking the new RDM row would have started and instantly cancelled a 10s Verraise on loop while running. (file: `GluttonyCombo/AutoRotation/AutoRotationController.cs`)\n- `AutoRezRequireSwift` on the IPC surface is kept alive and now answers for the job currently being played, so any third-party consumer still compiles and still gets a meaningful answer. It returns false rather than throwing when there is no player. (file: `GluttonyCombo/AutoRotation/AutoRotationConfigIPCWrapper.cs`)\n- All seven checkboxes are drawn with no IPC \"controlled by another plugin\" indicator, like Handle Raidwides and Handle Detected Tankbusters. These are fork-only settings that no plugin can lease, and asking the indicator about a name it cannot parse is exactly what broke the Auto-Rotation tab in v1.0.4.171. (file: `GluttonyCombo/Window/Tabs/AutoRotationTab.cs`)\n\n- Config schema v8. The migration reads your old saved value through a legacy JSON shadow, copies it onto the six jobs once, then stops writing the dead key - so it can never run twice, and unticking a job afterwards sticks. RDM is asserted ON by the migration rather than inherited from a default, so a future refactor cannot silently start hard-casting Verraise for everyone.\n- `tests/GluttonyCombo.ConfigMigrateHarness` now compiles the real `HealerSettings` and the real migration ladder against the real Newtonsoft serializer and asserts both: 73 cases, including the negative control that an existing user with the tick OFF still gets RDM ON, and a truth table proving SCH and SMN resolve to different fields. It caught a real defect in this release before it shipped.\n- No combo or rotation behaviour changes beyond the auto-rez paths described above.\n\nv1.0.4.173 (2026-09-05) [testing]\n\n- The Auto-Rotation settings tab no longer dies part-way through drawing. `TankbustersBeyondParty` - the fork-only healer setting added in v1.0.4.171 - was asked \"are you being controlled by another plugin?\", but only the ~two dozen upstream Auto-Rotation options can be, so the lookup threw an exception straight out of the tab's draw. Everything below that point silently stopped rendering: the \"Also shield tankbusters outside your party\" checkbox itself, the Advanced throttle delay, the Orbwalker section, and the tab's own save call - so changes made in the Healing Settings section were not being written to disk. The setting is now drawn like its neighbours Handle Raidwides and Handle Detected Tankbusters, with no control indicator. (file: `GluttonyCombo/Window/Tabs/AutoRotationTab.cs`)\n- The same lookup no longer throws for any unrecognised option name anywhere. It now degrades to \"not controlled by anything\" and draws the normal, editable widget, which is the correct answer for an option no plugin can lease; an unknown name is reported once as a warning rather than once per frame. Previously it was a hard parse that threw on every single rendered frame. (file: `GluttonyCombo/Services/IPC/UIHelper.cs`, function: `AutoRotationConfigControlled`)\n- \"Include Shields in HP Percent Sliders\" (healer) stopped logging an error on every frame the Auto-Rotation tab was open. It reached this fork in an upstream merge on 2026-08-30, but our bundled copy of the IPC options list had not been re-synced with upstream and did not contain it, so the option genuinely did not exist as far as the lookup was concerned - 4,257 error lines in a 26-minute session, peaking at 3,461 in a single minute. The options list is now back in sync with upstream and carries both `UnTargetAndDisableForPenalty` and `IncludeShields`. (files: `WrathCombo.API/Enum/AutoRotationConfigOption.cs`, `GluttonyCombo/Services/IPC/ProvideAutoRotConfig.cs`)\n- Reading an Auto-Rotation option over IPC no longer fails for `IgnoreRangeInBoss`, `UnTargetAndDisableForPenalty` or `IncludeShields`; all three were missing from the read switch and returned nothing. (file: `GluttonyCombo/Services/IPC/ProvideAutoRotConfig.cs`)\n\n- \"Also shield tankbusters outside your party\" is now turned ON for existing installs by a one-time settings migration. It shipped OFF in v1.0.4.171, but a changed default only ever reaches brand-new installs - an existing config saves every setting and loads its own saved value back over the new default - so nobody who already had the plugin would have seen it. It is a one-time nudge, not a policy: if you untick it, it stays unticked. (files: `GluttonyCombo/Core/ConfigMigration.cs` (new), `GluttonyCombo/GluttonyCombo.cs`, `GluttonyCombo/Core/Configuration.cs`)\n- Both `IncludeShields` and `UnTargetAndDisableForPenalty` can now actually be driven by another plugin over IPC, matching upstream: the rotation reads the leased value when one is set instead of always reading your local checkbox. (file: `GluttonyCombo/AutoRotation/AutoRotationConfigIPCWrapper.cs`)\n- The IPC log channel is rate-limited: at most 3 identical lines per 5 minutes, with the number of dropped duplicates reported on the next line that gets through. Log levels are deliberately unchanged - the lines are wanted, the volume was the bug - and the stack trace attached to an error line is now only built for lines actually written, instead of on every suppressed call. Replaying the real 2026-09-05 frame stream through it turns 4,257 lines into 18. (files: `GluttonyCombo/Services/IPC/LogEmitGate.cs` (new), `GluttonyCombo/Services/IPC/Helper.cs`)\n\n- No rotation or combat behaviour changes in this release; it is a UI, IPC and logging fix only. If you had the Auto-Rotation tab open on v1.0.4.171 or v1.0.4.172 and a healer setting did not stick, set it again on this version - it will save now.\n- Two new offline test projects, both compiling the real shipping code with no Dalamud: `tests/GluttonyCombo.IpcLogGateHarness` replays the measured incident (26 minutes at 58 fps) and asserts both that the volume collapses and that genuinely different errors still each get their own budget (22 cases); `tests/GluttonyCombo.ConfigMigrateHarness` replays the settings migration and asserts it runs once and never overrides a user who turns the setting back off (19 cases). All 41 passing.\n\nv1.0.4.172 (2026-09-05) [testing]\n\n- Occult Quick is now genuinely held when the full RDM melee combo is ready to go. v1.0.4.170 only closed one of the two doors it can come out of: the damage-buff press was moved onto the new `RDM.MeleeComboImminent` lookahead, but the Occult Crescent Comet block - which presses Occult Quick itself, to make its 8s cast instant - was left gated on the older `RDM.InMeleeChain`, which is only true once the chain has already started. At combo-entry mana the buff press was correctly held, execution fell through to the Comet speed-prep, and that fired Occult Quick anyway - so from the outside the v1.0.4.170 hold looked applied and changed nothing. (file: `GluttonyCombo/Combos/PvE/Content/OccultCrescent/OccultCrescent.cs`)\n- Occult Slowga, the filler directly beneath Comet in the same handler, moved onto the same lookahead for the same reason: gating Comet alone would have handed Slowga the GCD one step later. Both gates now move together, which is the invariant that was broken.\n\n- No new options and no behaviour change below combo-entry mana: the Quick window still opens there and is spent on instant Verthunder III / Veraero III as before. Occult Dispel stays deliberately ungated - this file's rule is that utility sits ahead of the gate and only filler sits below it.\n\nv1.0.4.171 (2026-09-05) [testing]\n\n- Auto-rotation (healer) \"Also shield tankbusters outside your party\", OFF by default: when Handle Detected Tankbusters is on, SGE tankbuster shields (Taurochole, Eukrasian Diagnosis and friends) now also target the victim of a detected tankbuster outside your own party - alliance members and trusted NPCs in the Occult Crescent - instead of silently doing nothing because the target is not a party member. Turn it on under Settings -> Auto Rotation -> healer section. (files: `CustomCombo/Functions/VFX.cs` `TryGetTankBusterTarget(out, includeOutOfParty)`, `AutoRotation/AutoRotationConfig.cs` `HealerSettings.TankbustersBeyondParty`, `AutoRotation/AutoRotationController.cs`, `Window/Tabs/AutoRotationTab.cs`, `Resources/Localization/UI/AutoRotation/*`)\n\nv1.0.4.170 (2026-09-05) [testing]\n\n- Occult Quick (phantom Time Mage) is now held while the full RDM melee damage combo is executable, not only while it is already running: at combo-entry mana, the window would otherwise open on the GCD before Enchanted Riposte and spend its whole 20s of spell-instants on the six-odd instant weaponskills of Riposte -> Redoublement -> Verholy/Verflare -> Scorch/Resolution. (files: `GluttonyCombo/Combos/PvE/RDM/RDM_Helper.cs`, `GluttonyCombo/Combos/PvE/Content/OccultCrescent/OccultCrescent.cs`, functions: `RDM.MeleeComboImminent` (new), `OccultCrescent.ShouldHoldOccultQuick`)\n- The \"combo is imminent\" check reuses the rotation's own entry conditions - mana at `RDM.HasEnoughManaToStart` (which carries Embolden-phase pooling via `ManaLevel()`), an existing chain (`RDM.InMeleeChain`), or Magicked Swordplay up - so it tracks whatever the melee-entry thresholds do; AoE Moulinet entry is covered by the same mana gate. Behaviour below combo-entry mana is unchanged: the window still opens there and is spent on instant Verthunder III / Veraero III. (file: `GluttonyCombo/Combos/PvE/RDM/RDM_Helper.cs`)\n\n- Extends the v1.0.4.150 hold by one GCD of lookahead; nothing is removed. Manafication stays held under a live Quick window (v1.0.4.154) unchanged, so Quick-hold and combo-hold compose instead of fighting.\n\nv1.0.4.169 (2026-09-05)\n\n- Added the in-game \"What's new\" popup. After Gluttony Combo updates, its changelog now opens once inside the game so you can see what changed without going to GitHub. It waits until you are logged in and out of combat, duty, cutscenes and zoning; closing it (Got it, X or Escape) marks it read. Type `/gluttony changelog` any time to reopen it.\n- No change to combos, autorotation or any preset: the seen-version is kept in its own small file next to the settings, so nightly WrathCombo merges are unaffected.",
+    "Changelog": "v1.0.4.175 (2026-09-06) [testing]\n\n- The tankbuster TTS line and on-screen toast now follow \"Also shield tankbusters outside your party\" like the shield already did. Since v1.0.4.171 the auto-rotation would shield the victim of a tankbuster outside your party while the alert stayed completely silent, because the shield honoured the setting and the alert was hardcoded to party members only - the plugin acted on an event it did not announce. One setting now governs both the action and its announcement. (file: `GluttonyCombo/CustomCombo/Functions/VFX.cs`, function: `PlayTankbusterAlert`)\n- Tankbuster detection outside your party now actually reaches trusted and Occult Crescent NPCs, which is half of what v1.0.4.171 promised and did not deliver. That version filtered every candidate through a role check that reads the target's job off the object table, and an NPC's job is simply not there - this fork already works around the same hole for NPCs in your party by reading the job out of the party info proxy instead. An out-of-party NPC is in neither place, so it resolved as \"no combat role\" and was silently dropped before the shield ever saw it. Alliance players were unaffected and always worked. (files: `GluttonyCombo/CustomCombo/Functions/VFX.cs`, `GluttonyCombo/Core/TankbusterScope.cs` (new))\n\n- The shield and the alert now share a single scope test instead of carrying a copy each, which is what let them drift apart in the first place. `CustomCombo/Functions/VFX.cs` has one `InTankbusterScope` predicate and both callers use it. (file: `GluttonyCombo/CustomCombo/Functions/VFX.cs`, function: `InTankbusterScope`)\n\n- Party-member behaviour is unchanged in every case, whether the setting is on or off. With the setting off the plugin behaves exactly as before for everyone. An alliance healer or DPS carrying a tankbuster marker is still correctly ignored - roles that do resolve are still respected, and only a target whose role cannot be determined at all now gets the benefit of the doubt.\n- The out-of-party arm is gated on the target being friendly, which the plugin tests by checking whether it could actually land a heal on it. An enemy or an unhealable object is never in scope no matter what marker it carries.\n- The decision itself lives in `GluttonyCombo/Core/TankbusterScope.cs`, deliberately free of every game type so it can be proven offline. `tests/GluttonyCombo.TankbusterScopeHarness` compiles that exact shipping file with no Dalamud and asserts all 24 combinations of in-party, friendly, role and setting - 26 cases including two negative controls, one proving the table is not a constant and one proving the setting actually changes an outcome. All passing.\n- Fork-only file, kept out of the upstream-owned classes, so nightly WrathCombo merges are unaffected.\n\nv1.0.4.174 (2026-09-05) [testing]\n\n- Auto-rotation (healer) \"Require Swiftcast/Dualcast\" for auto-resurrect is now one checkbox per raising job instead of a single global toggle: WHM/CNJ, SCH, AST, SGE, SMN, BLU and RDM each get their own row under Settings -> Auto Rotation -> Auto-Resurrect. Your existing setting is carried onto the six jobs it used to govern by a one-time migration, so nothing changes on update. (files: `GluttonyCombo/AutoRotation/AutoRotationConfig.cs` `HealerSettings.AutoRezRequireSwift{WHM,SCH,AST,SGE,SMN,BLU,RDM}` + `RequireSwiftFor(Job)`, `GluttonyCombo/Window/Tabs/AutoRotationTab.cs`, `GluttonyCombo/Core/ConfigMigration.cs`)\n- RDM can now hard-cast Verraise under auto-rotation, which was previously impossible. The new RDM row is ticked by default and that is the old behaviour - RDM only raises instantly, off Dualcast or Swiftcast. Untick it and auto-rotation will start a 10-second hard-cast Verraise when no instant is available; it only begins the cast while you are standing still, and an instant is still always preferred. Before this version RDM's requirement was hardcoded on and the old global tick could not reach it at all. (file: `GluttonyCombo/AutoRotation/AutoRotationController.cs`, function: `RezParty`)\n\n- The per-job setting is resolved from the job you are playing, never from the raise spell. SCH and SMN both raise with Resurrection, so a spell-keyed lookup would have silently fused those two jobs into one setting that could never be separated again; CNJ and WHM deliberately do share one row, being the same job either side of level 30. (file: `GluttonyCombo/AutoRotation/AutoRotationConfig.cs`, function: `RequireSwiftFor`)\n- The RDM raise path gained the same movement guard the other jobs already had. It never needed one before, because it could only ever fire an instant; without it, unticking the new RDM row would have started and instantly cancelled a 10s Verraise on loop while running. (file: `GluttonyCombo/AutoRotation/AutoRotationController.cs`)\n- `AutoRezRequireSwift` on the IPC surface is kept alive and now answers for the job currently being played, so any third-party consumer still compiles and still gets a meaningful answer. It returns false rather than throwing when there is no player. (file: `GluttonyCombo/AutoRotation/AutoRotationConfigIPCWrapper.cs`)\n- All seven checkboxes are drawn with no IPC \"controlled by another plugin\" indicator, like Handle Raidwides and Handle Detected Tankbusters. These are fork-only settings that no plugin can lease, and asking the indicator about a name it cannot parse is exactly what broke the Auto-Rotation tab in v1.0.4.171. (file: `GluttonyCombo/Window/Tabs/AutoRotationTab.cs`)\n\n- Config schema v8. The migration reads your old saved value through a legacy JSON shadow, copies it onto the six jobs once, then stops writing the dead key - so it can never run twice, and unticking a job afterwards sticks. RDM is asserted ON by the migration rather than inherited from a default, so a future refactor cannot silently start hard-casting Verraise for everyone.\n- `tests/GluttonyCombo.ConfigMigrateHarness` now compiles the real `HealerSettings` and the real migration ladder against the real Newtonsoft serializer and asserts both: 73 cases, including the negative control that an existing user with the tick OFF still gets RDM ON, and a truth table proving SCH and SMN resolve to different fields. It caught a real defect in this release before it shipped.\n- No combo or rotation behaviour changes beyond the auto-rez paths described above.\n\nv1.0.4.173 (2026-09-05) [testing]\n\n- The Auto-Rotation settings tab no longer dies part-way through drawing. `TankbustersBeyondParty` - the fork-only healer setting added in v1.0.4.171 - was asked \"are you being controlled by another plugin?\", but only the ~two dozen upstream Auto-Rotation options can be, so the lookup threw an exception straight out of the tab's draw. Everything below that point silently stopped rendering: the \"Also shield tankbusters outside your party\" checkbox itself, the Advanced throttle delay, the Orbwalker section, and the tab's own save call - so changes made in the Healing Settings section were not being written to disk. The setting is now drawn like its neighbours Handle Raidwides and Handle Detected Tankbusters, with no control indicator. (file: `GluttonyCombo/Window/Tabs/AutoRotationTab.cs`)\n- The same lookup no longer throws for any unrecognised option name anywhere. It now degrades to \"not controlled by anything\" and draws the normal, editable widget, which is the correct answer for an option no plugin can lease; an unknown name is reported once as a warning rather than once per frame. Previously it was a hard parse that threw on every single rendered frame. (file: `GluttonyCombo/Services/IPC/UIHelper.cs`, function: `AutoRotationConfigControlled`)\n- \"Include Shields in HP Percent Sliders\" (healer) stopped logging an error on every frame the Auto-Rotation tab was open. It reached this fork in an upstream merge on 2026-08-30, but our bundled copy of the IPC options list had not been re-synced with upstream and did not contain it, so the option genuinely did not exist as far as the lookup was concerned - 4,257 error lines in a 26-minute session, peaking at 3,461 in a single minute. The options list is now back in sync with upstream and carries both `UnTargetAndDisableForPenalty` and `IncludeShields`. (files: `WrathCombo.API/Enum/AutoRotationConfigOption.cs`, `GluttonyCombo/Services/IPC/ProvideAutoRotConfig.cs`)\n- Reading an Auto-Rotation option over IPC no longer fails for `IgnoreRangeInBoss`, `UnTargetAndDisableForPenalty` or `IncludeShields`; all three were missing from the read switch and returned nothing. (file: `GluttonyCombo/Services/IPC/ProvideAutoRotConfig.cs`)\n\n- \"Also shield tankbusters outside your party\" is now turned ON for existing installs by a one-time settings migration. It shipped OFF in v1.0.4.171, but a changed default only ever reaches brand-new installs - an existing config saves every setting and loads its own saved value back over the new default - so nobody who already had the plugin would have seen it. It is a one-time nudge, not a policy: if you untick it, it stays unticked. (files: `GluttonyCombo/Core/ConfigMigration.cs` (new), `GluttonyCombo/GluttonyCombo.cs`, `GluttonyCombo/Core/Configuration.cs`)\n- Both `IncludeShields` and `UnTargetAndDisableForPenalty` can now actually be driven by another plugin over IPC, matching upstream: the rotation reads the leased value when one is set instead of always reading your local checkbox. (file: `GluttonyCombo/AutoRotation/AutoRotationConfigIPCWrapper.cs`)\n- The IPC log channel is rate-limited: at most 3 identical lines per 5 minutes, with the number of dropped duplicates reported on the next line that gets through. Log levels are deliberately unchanged - the lines are wanted, the volume was the bug - and the stack trace attached to an error line is now only built for lines actually written, instead of on every suppressed call. Replaying the real 2026-09-05 frame stream through it turns 4,257 lines into 18. (files: `GluttonyCombo/Services/IPC/LogEmitGate.cs` (new), `GluttonyCombo/Services/IPC/Helper.cs`)\n\n- No rotation or combat behaviour changes in this release; it is a UI, IPC and logging fix only. If you had the Auto-Rotation tab open on v1.0.4.171 or v1.0.4.172 and a healer setting did not stick, set it again on this version - it will save now.\n- Two new offline test projects, both compiling the real shipping code with no Dalamud: `tests/GluttonyCombo.IpcLogGateHarness` replays the measured incident (26 minutes at 58 fps) and asserts both that the volume collapses and that genuinely different errors still each get their own budget (22 cases); `tests/GluttonyCombo.ConfigMigrateHarness` replays the settings migration and asserts it runs once and never overrides a user who turns the setting back off (19 cases). All 41 passing.\n\nv1.0.4.172 (2026-09-05) [testing]\n\n- Occult Quick is now genuinely held when the full RDM melee combo is ready to go. v1.0.4.170 only closed one of the two doors it can come out of: the damage-buff press was moved onto the new `RDM.MeleeComboImminent` lookahead, but the Occult Crescent Comet block - which presses Occult Quick itself, to make its 8s cast instant - was left gated on the older `RDM.InMeleeChain`, which is only true once the chain has already started. At combo-entry mana the buff press was correctly held, execution fell through to the Comet speed-prep, and that fired Occult Quick anyway - so from the outside the v1.0.4.170 hold looked applied and changed nothing. (file: `GluttonyCombo/Combos/PvE/Content/OccultCrescent/OccultCrescent.cs`)\n- Occult Slowga, the filler directly beneath Comet in the same handler, moved onto the same lookahead for the same reason: gating Comet alone would have handed Slowga the GCD one step later. Both gates now move together, which is the invariant that was broken.\n\n- No new options and no behaviour change below combo-entry mana: the Quick window still opens there and is spent on instant Verthunder III / Veraero III as before. Occult Dispel stays deliberately ungated - this file's rule is that utility sits ahead of the gate and only filler sits below it.\n\nv1.0.4.171 (2026-09-05) [testing]\n\n- Auto-rotation (healer) \"Also shield tankbusters outside your party\", OFF by default: when Handle Detected Tankbusters is on, SGE tankbuster shields (Taurochole, Eukrasian Diagnosis and friends) now also target the victim of a detected tankbuster outside your own party - alliance members and trusted NPCs in the Occult Crescent - instead of silently doing nothing because the target is not a party member. Turn it on under Settings -> Auto Rotation -> healer section. (files: `CustomCombo/Functions/VFX.cs` `TryGetTankBusterTarget(out, includeOutOfParty)`, `AutoRotation/AutoRotationConfig.cs` `HealerSettings.TankbustersBeyondParty`, `AutoRotation/AutoRotationController.cs`, `Window/Tabs/AutoRotationTab.cs`, `Resources/Localization/UI/AutoRotation/*`)\n\nv1.0.4.170 (2026-09-05) [testing]\n\n- Occult Quick (phantom Time Mage) is now held while the full RDM melee damage combo is executable, not only while it is already running: at combo-entry mana, the window would otherwise open on the GCD before Enchanted Riposte and spend its whole 20s of spell-instants on the six-odd instant weaponskills of Riposte -> Redoublement -> Verholy/Verflare -> Scorch/Resolution. (files: `GluttonyCombo/Combos/PvE/RDM/RDM_Helper.cs`, `GluttonyCombo/Combos/PvE/Content/OccultCrescent/OccultCrescent.cs`, functions: `RDM.MeleeComboImminent` (new), `OccultCrescent.ShouldHoldOccultQuick`)\n- The \"combo is imminent\" check reuses the rotation's own entry conditions - mana at `RDM.HasEnoughManaToStart` (which carries Embolden-phase pooling via `ManaLevel()`), an existing chain (`RDM.InMeleeChain`), or Magicked Swordplay up - so it tracks whatever the melee-entry thresholds do; AoE Moulinet entry is covered by the same mana gate. Behaviour below combo-entry mana is unchanged: the window still opens there and is spent on instant Verthunder III / Veraero III. (file: `GluttonyCombo/Combos/PvE/RDM/RDM_Helper.cs`)\n\n- Extends the v1.0.4.150 hold by one GCD of lookahead; nothing is removed. Manafication stays held under a live Quick window (v1.0.4.154) unchanged, so Quick-hold and combo-hold compose instead of fighting.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IsHide": false,
@@ -4141,7 +4141,7 @@
     ],
     "DownloadCount": 0,
     "LastUpdate": "1785138374",
-    "TestingAssemblyVersion": "1.0.4.174",
+    "TestingAssemblyVersion": "1.0.4.175",
     "TestingDalamudApiLevel": 15
   },
   {
@@ -4391,9 +4391,9 @@
     "Description": "Catalogs every recipe you can craft, buckets them by how much effort the missing materials take, prices them with Universalis, and hands the missing-material work to Artisan / GBR / ARC / Lifestream.",
     "InternalName": "LazyCrafter",
     "AssemblyVersion": "0.1.6.2",
-    "TestingAssemblyVersion": "0.1.6.5",
+    "TestingAssemblyVersion": "0.1.6.6",
     "TestingDalamudApiLevel": 15,
-    "Changelog": "v0.1.6.5 (2026-09-05)\n\n- `/lcraft spike` - a one-off test command that walks you to five gil vendors and reports what happened. It exists so the walk-to-vendor feature can be judged from a real run instead of guessed at: type `/lcraft spike all` anywhere, in any job, with nothing in your cart, and LazyCrafter teleports to Limsa, Ul'dah and Gridania in turn, walks to a named shopkeeper in each, and opens their shop. It takes roughly three to five minutes for all five. Then `/lcraft spike results` prints a short block and copies it to your clipboard - paste that back and it decides whether the real feature gets built (files: `Spike/VendorSpike.cs`, `Core/SpikeReport.cs`)\n- The result block names every vendor separately: pass or fail, how long it took, and on a failure the exact step that broke - the teleport, the zone loading, the navmesh, the walk, the shop menu, or the shop window itself. A bare score with no reasons is no use to anyone (file: `Core/SpikeReport.cs`)\n- `/lcraft spike list` names the five vendors, `/lcraft spike 1`..`5` runs just one, `/lcraft spike stop` aborts the current one\n\n- **Nothing else changed.** The spike command is inert: no cart run, dispatch, shopping list, map flag or vendor hand-off behaves any differently from 0.1.6.4, and LazyCrafter still never teleports or walks you anywhere during a normal run. This build exists only to carry the test command (file: `Plugin.cs`; the two `teleport: false` hand-offs in `Adapters/DispatchService.cs` are untouched)\n- vnavmesh and Lifestream are both required. If either is missing or not answering, the command says so in one plain sentence naming the plugin and stops - it never silently does nothing, and a missing plugin is never counted as a failed vendor (file: `Spike/VendorSpike.cs`, `Preflight`)\n- The shop menu entry is now chosen by its TEXT, using each NPC's own shop names read from the game's data files, instead of by position in the list. The earlier draft picked the first entry, which is wrong for four of these five NPCs - Bango Zango's first entry is a quest, and Rianne has no \"Purchase Items\" entry at all (file: `Spike/VendorSpike.cs`, `SelectShopEntry`)\n- All five vendor positions were re-verified against the installed game data from two independent sources, which agreed to within 0.1 yalms. Two of them - Bango Zango and Gerulf - are not in the file the first draft read, so those coordinates had never actually been checked\n- The `Walk to vendors with vnavmesh` setting stays absent. It comes back only if all five vendors pass; four out of five is not enough\n- Tests: 12 new offline checks on the result block, including controls proving four-of-five never reads as a pass and that a failure always names its step (file: `tests/LazyCrafter.Harness/SpikeReportTests.cs`; 209/209 passing, was 197/197)\n\nv0.1.6.4 (2026-09-05)\n\n- Fixed: a `retrieve` line could send you to the market board for materials that were actually sitting on a retainer. If you had more of an item listed for sale than the retainer was holding, LazyCrafter named the listing as the place to fetch from - so a run said things like `8x from the market board (listed by retainer Hussypants)` when those 8 were on retainer Dojarat and could be pulled at any summoning bell (file: `Core/DispatchPlan.cs`, function: `PlacesFor`)\n- Nothing was miscounted: the amount, the `have` total and the routing were all correct, and no craft was blocked that should not have been. Only the place name was wrong - but it reads exactly like the older bug where listings counted as stock you had, so it cost time to diagnose every time it appeared in a log\n- The cause was that the places were sorted purely by how much each held, with no notion of whether you can go and get it, so a big listing outranked a small retainer stack. Places you can actually fetch from are now always offered first, and a listing is named only when nothing reachable holds the item (file: `Core/DispatchPlan.cs`, function: `PlacesFor`; `Core/Model/StoredElsewhere.cs`, new `Fetchable` flag)\n- Your listings are still shown exactly as before - the fix changes which place is chosen, not what you are told about (file: `Adapters/AllaganInventory.cs`, function: `StoredWhere`)\n- The ingredient tree's Retrieve button no longer counts listed stock towards what it offers to fetch, so it cannot offer a retrieval the run would then refuse; the same correction applies to a single-item Retrieve and to materials re-queued after a retainer pass (files: `UI/IngredientTree.cs`, `Adapters/DispatchService.cs`)\n- Tests: 10 new harness checks, including the reported case, a control at the size where the old code happened to be right, a control proving a listing alone is still never a retrieval, and one proving a listing is still named - so this cannot be `fixed` by hiding listings (file: `tests/LazyCrafter.Harness/MarketListingTests.cs`)\n\nv0.1.6.3 (2026-09-05)\n\n- The cart run and the `Flag on map` / `Vendor` buttons could send you to two DIFFERENT vendors for the same item, and whichever printed last won your map flag: on a 2026-09-05 run the chat block said Engerrand in Limsa Lominsa while the map flag landed on a traveling material supplier in The Azim Steppe, both for Tallow Candle. There was one vendor picker for cart runs (which ranked by lowest internal NPC id, so on a single-item list it never looked at distance at all) and a different one for the per-item buttons (which ranked by map distance to the nearest aetheryte). There is now exactly ONE ranking and every button and every chat line goes through it (file: `Core/VendorChoice.cs`, `Adapters/VendorLocator.cs`).\n- Vendor choice now considers where YOU are standing: a vendor in the zone you are already in wins outright, then the cheapest teleport (read from your own attuned aetheryte list, so somewhere you have not attuned never wins), then the shortest walk after you land. Previously `nearest` meant `nearest to some aetheryte`, which happily sent you to Stormblood for a candle you could buy in the city you were standing in (file: `Core/VendorChoice.cs`, `Adapters/VendorContextProvider.cs`).\n- The vendor named in the Run tab's blocked list is now the same vendor the chat line and the map flag name. It was resolved separately per item, so grouping several items onto one stop could leave the tab pointing somewhere else (file: `Adapters/DispatchService.cs`, `BuildBlocked`).\n\n- The Settings checkbox `Walk to vendors with vnavmesh after a Lifestream teleport (experimental)`. Nothing ever read it: the vnavmesh walk-to-vendor spike was skipped, so there was no walking to switch on, and the checkbox has been tickable and inert since it shipped. Its own help text claimed it was gated on that spike passing. If the walk feature is ever built the toggle comes back with it (file: `UI/SettingsTab.cs`; the config field is kept, unused, so existing settings still load).\n\n- Ranking degrades safely: not logged in, or if the teleport list cannot be read, it falls back to the old walk-from-aetheryte order rather than failing the hand-off.\n- Covered by 25 new offline regression tests (`tests/LazyCrafter.Harness`, suite `vendor`), including the exact Tallow Candle fixture from the 2026-09-05 run and two negative controls that fail if the two old rankings are ever reintroduced.\n\nv0.1.6.2 (2026-09-05)\n\n- Fixed: putting more than one item in the cart could send materials you can obviously gather or craft to the \"needs a manual source\" list, and then refuse to craft anything that used them. In the reported run, Iron Ore, Silver Ore, Moko Grass and Adamantite Nugget were all declared manual and 49 recipes were deferred behind them - the exact same items had been gathered normally by a single-item cart thirteen minutes earlier (file: `Core/Tiering.cs`, function: `AssessCart`)\n- The cause was a label being reused, not a quantity being counted twice. When two cart lines need the same material, LazyCrafter merges them into one total. If the first line was fully covered by stock, that line's verdict - \"you already have this\" - was kept for the merged total even after the second line made it short. Nothing else in the plan knows where to get a material you supposedly already have, so it fell through to manual, and every recipe above it was blocked (file: `Core/Tiering.cs`)\n- Each merged total is now re-checked against the combined amount you need and the combined amount you have, so a material short across the whole cart is sourced the same way it would be in a cart of one (file: `Core/Tiering.cs`, function: `AssessCart`)\n- Single-item carts were never affected - there was nothing to merge - which is why this only showed up when adding several things at once\n- Tests: 4 new harness checks, including a control proving the routing code itself was never wrong, so the fix had to be made where the bad label is produced (file: `tests/LazyCrafter.Harness/CartTests.cs`)\n\nv0.1.6.1 (2026-09-05)\n\n- Fixed: an item you had listed for sale on the market board counted as stock you already had, which could stop a whole cart. LazyCrafter saw the listing, decided nothing was missing, and asked you to \"retrieve\" it from the board - something a summoning bell cannot do - so every craft above that item sat waiting forever. A run for one Alpine Chandelier stalled on a single listed Hardsilver Nugget it could simply have made (file: `Adapters/InventorySource.cs`, `InventorySources.RetainerTypes`)\n- Your listings are still shown, just no longer counted: the plan says \"on the market board (listed by retainer X)\" as information, and the item is treated as one you still need - so it gets crafted, gathered or bought like anything else (file: `Adapters/AllaganInventory.cs`, function: `StoredWhere`)\n- Fixed: many gatherable materials were being sent to the market board instead of to GatherBuddy. Node contents are listed in two places in the game data and LazyCrafter only read one of them, so 79 items - Titanium Ore and Hardsilver Ore among them - looked like they had no node at all. The same Alpine Chandelier run was told to buy 15 Titanium Ore it could have mined (file: `Adapters/LuminaGameData.cs`, function: `LoadGathering`)\n- Materials from the two retired Diadem versions (the Grade 2 and Grade 3 Skybuilders' sets, 70 items) are no longer offered as gathers, matching what GatherBuddy itself will accept; the two Oddly Delicate items that are still gatherable there are kept (file: `Adapters/LuminaGameData.cs`)\n- The startup line about GatherBuddy data now says how many of its entries actually have a reachable node, instead of a raw total that could not be compared with anything (file: `Adapters/GbrData.cs`)\n- Tests: 24 new harness checks covering both fixes, including negative controls that reproduce the original stall and confirm each fix is needed on its own (files: `tests/LazyCrafter.Harness/MarketListingTests.cs`, `tests/LazyCrafter.Harness/CartReplayTests.cs`)\n\nv0.1.6.0 (2026-09-05)\n\n- Fixed the stutter while LazyCrafter-directed gathering: picking up items used to force a full catalog recompute that froze the game for about a fifth of a second every ~30 seconds - the crafting-log re-read (all 13,892 recipes) now happens once per login instead of on every inventory change (files: `Catalog/CatalogService.cs`, `Plugin.cs`)\n- Inventory changes now refresh only item counts and the rows built from them - gather an item and its row still updates within a couple of seconds, without touching the crafting log at all (file: `Catalog/CatalogService.cs` `RefreshCountsAsync`)\n- While a dispatch is running, the inventory watcher waits 10 seconds of quiet (instead of 2) before refreshing the catalog, so a gathering route no longer queues a refresh per node; it returns to 2 seconds when the run ends (file: `Adapters/AllaganInventory.cs`)\n- Crafting a recipe for the first time still updates its crafting-log status immediately - the completed flag for just that recipe is re-read after each successful craft, so the Log Completion list needs no relog and no full refresh (file: `Adapters/DispatchService.cs`)\n- The Refresh button in the window still does a full recount and re-read of everything, crafting log included - only the automatic background passes got cheaper (file: `UI/MainWindow.cs`)",
+    "Changelog": "v0.1.6.6 (2026-09-06)\n\n- **When a cart is blocked because you have the material listed for sale, LazyCrafter now tells you exactly which retainer to visit and how many units to pull off sale.** One line per retainer, so a single summoning-bell trip clears the whole group: `Hussypants: Silver Ore x7, Iron Ore x6, Cloud Mica x3`. Previously you were told a count and nothing else, and had to work out for yourself which of a dozen materials was actually stuck and where it had gone (files: `Core/BlockedListings.cs`, `Adapters/DispatchService.cs` `ReportBlockedListings`)\n- `/lcraft blocked` prints the full per-item detail of the last run's blocked list on demand - every material, its units, the retainer holding it, and the verbatim reason for anything blocked for some other cause. It keeps working after the run has ended, so the end-of-run block can stay short (files: `Plugin.cs` `PrintBlockedListings`, `Core/BlockedListings.cs` `Detail`)\n- **After a run ends blocked on your own listings, LazyCrafter walks you to the nearest summoning bell** via Lifestream's own \"go to market board\" (`/li mb`) - the bells stand with the market boards at every aetheryte plaza. New setting, ON by default: *\"When a run ends blocked on your own market listings, walk to the nearest summoning bell\"*. It fires ONLY when a run has ENDED and something really is listing-blocked - never mid-craft, never on a clean run, never for a material that was merely slow (files: `Configuration.cs` `WalkToBellWhenBlocked`, `UI/SettingsTab.cs`, `Adapters/DispatchService.cs` `WalkToBell`, `Adapters/Dispatch/LifestreamDispatch.cs` `GoToMarketBoard`)\n\n- **The finishing path threw the whole explanation away.** A run that FINISHED rendered only `\", 12 could not be retrieved\"` while the retainer names, item ids and quantities sat in memory and were discarded; a run that STOPPED rendered the full detail. The two endings disagreed because `Finish` and `FinishBlocked` each rendered the blocked list their own way and only one of them had been taught about retrievals. Both now call one shared `BlockedListings.MergeIntoBlocked` in Core, so `/lcraft status`, the Run tab and the chat block say the same thing whichever way the run ended (file: `Adapters/DispatchService.cs`, `Finish` and `FinishBlocked`; `Core/BlockedListings.cs` `MergeIntoBlocked`)\n- **A material that was merely slow was about to be reported as \"go unlist something\".** The unfetched list mixes six unrelated causes - a market listing, a settings/preflight blocker, a 10-minute batch session timeout, an Artisan start error, a 4-minute per-item timeout, and an exhausted partial pull - and only the first means anything is listed for sale. The \"pull these off sale\" instruction is now decided from the DATA (every place holding the stock is unreachable, which only a market-board listing ever is), not from the wording of the reason. Everything else is reported separately, under its own heading, explicitly marked as NOT listed for sale (file: `Core/BlockedListings.cs` `IsListingBlocked`)\n- **An item that came back partially could be counted twice.** A partial retainer pull re-queues the remainder, so the same material could appear in the blocked list twice with different quantities. Entries are now folded per item and reported once. The kept figure is the larger of the two, not their total: the second entry is a *remainder of* the first, so adding them would overstate what you have to pull (file: `Core/BlockedListings.cs` `Summarise`)\n\n- **The twelve-line wall is gone.** A cart short of twelve materials printed twelve near-identical multi-clause warnings, each in error red, and the actual instruction was in none of them. Each refusal is now one short line at normal level - kept, because silence during a long run reads as a hang - and the one actionable summary prints once at the end (files: `Adapters/DispatchService.cs` `Phase.Retrieve`, `Core/BlockedListings.cs` `RefusalLine`)\n- `StoredElsewhere` carries the retainer's bare name alongside the display text, so the summary can group by retainer without parsing a sentence back apart. Set by the producer in `AllaganInventory` (both the retainer-bags and the market-listing splits); falls back to the place name when the retainer names could not be read (files: `Core/Model/StoredElsewhere.cs`, `Adapters/AllaganInventory.cs` `SplitRetainers` / `SplitListings`)\n- Config version 5 -> 6. Nothing is rewritten; `WalkToBellWhenBlocked` is new and existing configs take its ON default (file: `Configuration.cs` `MigrateIfNeeded`)\n\n- **This build takes no game actions and unlists nothing.** It names what to pull and walks you to a bell; opening the retainer window and taking the item off sale is still yours to do. Assisted pulls (Tier 2) and automatic unlisting (Tier 3) were deliberately left out of this build.\n- **HQ vs NQ is not distinguished, and that is a known limitation.** The AllaganTools inventory bridge has no HQ dimension, so the advice reads \"pull 7 Silver Ore from Hussypants\" and cannot tell you to pull the HQ ones specifically.\n- The bell walk adds no navigation of its own. Lifestream exposes no summoning-bell IPC - there is no \"bell\" string anywhere in its assembly - so this reuses the existing `/li mb` market-board destination, which puts you at the same plaza. No vnavmesh, and if Lifestream is missing or busy the destination is printed and the walk is skipped rather than faked.\n- Proved offline before shipping: 231/231 in `tests/LazyCrafter.Harness` (was 209/209), with 22 new checks that assert on the RENDERED report rather than on an internal value - the defect being fixed was a renderer defect, and a test on the internal list would have stayed green throughout it. Each of the three fixes was individually reverted and exactly the matching checks were confirmed to fail (A: 3 checks, B: 4 checks, C: 4 checks).\n\nv0.1.6.5 (2026-09-05)\n\n- `/lcraft spike` - a one-off test command that walks you to five gil vendors and reports what happened. It exists so the walk-to-vendor feature can be judged from a real run instead of guessed at: type `/lcraft spike all` anywhere, in any job, with nothing in your cart, and LazyCrafter teleports to Limsa, Ul'dah and Gridania in turn, walks to a named shopkeeper in each, and opens their shop. It takes roughly three to five minutes for all five. Then `/lcraft spike results` prints a short block and copies it to your clipboard - paste that back and it decides whether the real feature gets built (files: `Spike/VendorSpike.cs`, `Core/SpikeReport.cs`)\n- The result block names every vendor separately: pass or fail, how long it took, and on a failure the exact step that broke - the teleport, the zone loading, the navmesh, the walk, the shop menu, or the shop window itself. A bare score with no reasons is no use to anyone (file: `Core/SpikeReport.cs`)\n- `/lcraft spike list` names the five vendors, `/lcraft spike 1`..`5` runs just one, `/lcraft spike stop` aborts the current one\n\n- **Nothing else changed.** The spike command is inert: no cart run, dispatch, shopping list, map flag or vendor hand-off behaves any differently from 0.1.6.4, and LazyCrafter still never teleports or walks you anywhere during a normal run. This build exists only to carry the test command (file: `Plugin.cs`; the two `teleport: false` hand-offs in `Adapters/DispatchService.cs` are untouched)\n- vnavmesh and Lifestream are both required. If either is missing or not answering, the command says so in one plain sentence naming the plugin and stops - it never silently does nothing, and a missing plugin is never counted as a failed vendor (file: `Spike/VendorSpike.cs`, `Preflight`)\n- The shop menu entry is now chosen by its TEXT, using each NPC's own shop names read from the game's data files, instead of by position in the list. The earlier draft picked the first entry, which is wrong for four of these five NPCs - Bango Zango's first entry is a quest, and Rianne has no \"Purchase Items\" entry at all (file: `Spike/VendorSpike.cs`, `SelectShopEntry`)\n- All five vendor positions were re-verified against the installed game data from two independent sources, which agreed to within 0.1 yalms. Two of them - Bango Zango and Gerulf - are not in the file the first draft read, so those coordinates had never actually been checked\n- The `Walk to vendors with vnavmesh` setting stays absent. It comes back only if all five vendors pass; four out of five is not enough\n- Tests: 12 new offline checks on the result block, including controls proving four-of-five never reads as a pass and that a failure always names its step (file: `tests/LazyCrafter.Harness/SpikeReportTests.cs`; 209/209 passing, was 197/197)\n\nv0.1.6.4 (2026-09-05)\n\n- Fixed: a `retrieve` line could send you to the market board for materials that were actually sitting on a retainer. If you had more of an item listed for sale than the retainer was holding, LazyCrafter named the listing as the place to fetch from - so a run said things like `8x from the market board (listed by retainer Hussypants)` when those 8 were on retainer Dojarat and could be pulled at any summoning bell (file: `Core/DispatchPlan.cs`, function: `PlacesFor`)\n- Nothing was miscounted: the amount, the `have` total and the routing were all correct, and no craft was blocked that should not have been. Only the place name was wrong - but it reads exactly like the older bug where listings counted as stock you had, so it cost time to diagnose every time it appeared in a log\n- The cause was that the places were sorted purely by how much each held, with no notion of whether you can go and get it, so a big listing outranked a small retainer stack. Places you can actually fetch from are now always offered first, and a listing is named only when nothing reachable holds the item (file: `Core/DispatchPlan.cs`, function: `PlacesFor`; `Core/Model/StoredElsewhere.cs`, new `Fetchable` flag)\n- Your listings are still shown exactly as before - the fix changes which place is chosen, not what you are told about (file: `Adapters/AllaganInventory.cs`, function: `StoredWhere`)\n- The ingredient tree's Retrieve button no longer counts listed stock towards what it offers to fetch, so it cannot offer a retrieval the run would then refuse; the same correction applies to a single-item Retrieve and to materials re-queued after a retainer pass (files: `UI/IngredientTree.cs`, `Adapters/DispatchService.cs`)\n- Tests: 10 new harness checks, including the reported case, a control at the size where the old code happened to be right, a control proving a listing alone is still never a retrieval, and one proving a listing is still named - so this cannot be `fixed` by hiding listings (file: `tests/LazyCrafter.Harness/MarketListingTests.cs`)\n\nv0.1.6.3 (2026-09-05)\n\n- The cart run and the `Flag on map` / `Vendor` buttons could send you to two DIFFERENT vendors for the same item, and whichever printed last won your map flag: on a 2026-09-05 run the chat block said Engerrand in Limsa Lominsa while the map flag landed on a traveling material supplier in The Azim Steppe, both for Tallow Candle. There was one vendor picker for cart runs (which ranked by lowest internal NPC id, so on a single-item list it never looked at distance at all) and a different one for the per-item buttons (which ranked by map distance to the nearest aetheryte). There is now exactly ONE ranking and every button and every chat line goes through it (file: `Core/VendorChoice.cs`, `Adapters/VendorLocator.cs`).\n- Vendor choice now considers where YOU are standing: a vendor in the zone you are already in wins outright, then the cheapest teleport (read from your own attuned aetheryte list, so somewhere you have not attuned never wins), then the shortest walk after you land. Previously `nearest` meant `nearest to some aetheryte`, which happily sent you to Stormblood for a candle you could buy in the city you were standing in (file: `Core/VendorChoice.cs`, `Adapters/VendorContextProvider.cs`).\n- The vendor named in the Run tab's blocked list is now the same vendor the chat line and the map flag name. It was resolved separately per item, so grouping several items onto one stop could leave the tab pointing somewhere else (file: `Adapters/DispatchService.cs`, `BuildBlocked`).\n\n- The Settings checkbox `Walk to vendors with vnavmesh after a Lifestream teleport (experimental)`. Nothing ever read it: the vnavmesh walk-to-vendor spike was skipped, so there was no walking to switch on, and the checkbox has been tickable and inert since it shipped. Its own help text claimed it was gated on that spike passing. If the walk feature is ever built the toggle comes back with it (file: `UI/SettingsTab.cs`; the config field is kept, unused, so existing settings still load).\n\n- Ranking degrades safely: not logged in, or if the teleport list cannot be read, it falls back to the old walk-from-aetheryte order rather than failing the hand-off.\n- Covered by 25 new offline regression tests (`tests/LazyCrafter.Harness`, suite `vendor`), including the exact Tallow Candle fixture from the 2026-09-05 run and two negative controls that fail if the two old rankings are ever reintroduced.\n\nv0.1.6.2 (2026-09-05)\n\n- Fixed: putting more than one item in the cart could send materials you can obviously gather or craft to the \"needs a manual source\" list, and then refuse to craft anything that used them. In the reported run, Iron Ore, Silver Ore, Moko Grass and Adamantite Nugget were all declared manual and 49 recipes were deferred behind them - the exact same items had been gathered normally by a single-item cart thirteen minutes earlier (file: `Core/Tiering.cs`, function: `AssessCart`)\n- The cause was a label being reused, not a quantity being counted twice. When two cart lines need the same material, LazyCrafter merges them into one total. If the first line was fully covered by stock, that line's verdict - \"you already have this\" - was kept for the merged total even after the second line made it short. Nothing else in the plan knows where to get a material you supposedly already have, so it fell through to manual, and every recipe above it was blocked (file: `Core/Tiering.cs`)\n- Each merged total is now re-checked against the combined amount you need and the combined amount you have, so a material short across the whole cart is sourced the same way it would be in a cart of one (file: `Core/Tiering.cs`, function: `AssessCart`)\n- Single-item carts were never affected - there was nothing to merge - which is why this only showed up when adding several things at once\n- Tests: 4 new harness checks, including a control proving the routing code itself was never wrong, so the fix had to be made where the bad label is produced (file: `tests/LazyCrafter.Harness/CartTests.cs`)\n\nv0.1.6.1 (2026-09-05)\n\n- Fixed: an item you had listed for sale on the market board counted as stock you already had, which could stop a whole cart. LazyCrafter saw the listing, decided nothing was missing, and asked you to \"retrieve\" it from the board - something a summoning bell cannot do - so every craft above that item sat waiting forever. A run for one Alpine Chandelier stalled on a single listed Hardsilver Nugget it could simply have made (file: `Adapters/InventorySource.cs`, `InventorySources.RetainerTypes`)\n- Your listings are still shown, just no longer counted: the plan says \"on the market board (listed by retainer X)\" as information, and the item is treated as one you still need - so it gets crafted, gathered or bought like anything else (file: `Adapters/AllaganInventory.cs`, function: `StoredWhere`)\n- Fixed: many gatherable materials were being sent to the market board instead of to GatherBuddy. Node contents are listed in two places in the game data and LazyCrafter only read one of them, so 79 items - Titanium Ore and Hardsilver Ore among them - looked like they had no node at all. The same Alpine Chandelier run was told to buy 15 Titanium Ore it could have mined (file: `Adapters/LuminaGameData.cs`, function: `LoadGathering`)\n- Materials from the two retired Diadem versions (the Grade 2 and Grade 3 Skybuilders' sets, 70 items) are no longer offered as gathers, matching what GatherBuddy itself will accept; the two Oddly Delicate items that are still gatherable there are kept (file: `Adapters/LuminaGameData.cs`)\n- The startup line about GatherBuddy data now says how many of its entries actually have a reachable node, instead of a raw total that could not be compared with anything (file: `Adapters/GbrData.cs`)\n- Tests: 24 new harness checks covering both fixes, including negative controls that reproduce the original stall and confirm each fix is needed on its own (files: `tests/LazyCrafter.Harness/MarketListingTests.cs`, `tests/LazyCrafter.Harness/CartReplayTests.cs`)",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IsHide": false,
@@ -4530,7 +4530,7 @@
     "Author": "Sevii",
     "DalamudApiLevel": 15,
     "Description": "Auto updates mods and allows for more customization such as color and compositing onto other files",
-    "DownloadCount": 261277,
+    "DownloadCount": 261288,
     "DownloadLinkInstall": "https://aetherment.sevii.dev/plugin/install",
     "DownloadLinkTesting": "https://aetherment.sevii.dev/plugin/install",
     "DownloadLinkUpdate": "https://aetherment.sevii.dev/plugin/update",
