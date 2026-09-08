@@ -154,7 +154,7 @@
     "Description": "Locks player movement while casting and allows for maximum caster uptime during the course of a fight.",
     "Tags": [],
     "InternalName": "Orbwalker",
-    "DownloadCount": 86198,
+    "DownloadCount": 86199,
     "LastUpdate": 1777528744,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/1.0.1.10/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/1.0.1.10/update/latest.zip",
@@ -165,31 +165,6 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/12"
   },
   {
-    "Author": "Taurenkey, NightmareXIV, croizat",
-    "Name": "Pandora's Box",
-    "Punchline": "Do you dare to open Pandora's Box?",
-    "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
-    "Tags": [
-      "qol",
-      "tweaks",
-      "automation",
-      "convenience"
-    ],
-    "InternalName": "PandorasBox",
-    "DownloadCount": 1346030,
-    "LastUpdate": 1780112081,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.4/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.4/update/latest.zip",
-    "AssemblyVersion": "1.6.4.4",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "- Update open all coffers to work when inventory is hidden (such as with inventory replacement plugins).\n- Fix Pandora Gathering UI.",
-    "TestingAssemblyVersion": "1.6.4.2",
-    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.2/install/testing.zip",
-    "TestingDalamudApiLevel": "15",
-    "IconUrl": "https://puni.sh/api/plugins/icon/8"
-  },
-  {
     "Author": "kawaii, NightmareXIV",
     "Name": "Avarice",
     "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
@@ -198,7 +173,7 @@
       "combat"
     ],
     "InternalName": "Avarice",
-    "DownloadCount": 376015,
+    "DownloadCount": 376031,
     "LastUpdate": 1785467258,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.12/update/latest.zip",
@@ -212,27 +187,29 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/11"
   },
   {
-    "Author": "Det, croizat",
-    "Name": "AutoHook",
-    "Punchline": "Makes fishing less (or more) boring",
-    "Description": "It hooks the fish for you, can you believe it?",
+    "Author": "Taurenkey, NightmareXIV, croizat",
+    "Name": "Pandora's Box",
+    "Punchline": "Do you dare to open Pandora's Box?",
+    "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
     "Tags": [
-      "Gathering",
-      "Fishing"
+      "qol",
+      "tweaks",
+      "automation",
+      "convenience"
     ],
-    "InternalName": "AutoHook",
-    "DownloadCount": 2448831,
-    "LastUpdate": 1787851448,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.0.95/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.0.95/update/latest.zip",
-    "AssemblyVersion": "6.0.0.95",
+    "InternalName": "PandorasBox",
+    "DownloadCount": 1346056,
+    "LastUpdate": 1780112081,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.4/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.4/update/latest.zip",
+    "AssemblyVersion": "1.6.4.4",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
-    "Changelog": "",
-    "TestingAssemblyVersion": "6.0.0.36",
-    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.0.36/install/testing.zip",
+    "Changelog": "- Update open all coffers to work when inventory is hidden (such as with inventory replacement plugins).\n- Fix Pandora Gathering UI.",
+    "TestingAssemblyVersion": "1.6.4.2",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.2/install/testing.zip",
     "TestingDalamudApiLevel": "15",
-    "IconUrl": "https://puni.sh/api/plugins/icon/47"
+    "IconUrl": "https://puni.sh/api/plugins/icon/8"
   },
   {
     "Author": "kawaii, jukka",
@@ -246,7 +223,7 @@
       "palace"
     ],
     "InternalName": "PalacePal",
-    "DownloadCount": 249903,
+    "DownloadCount": 249908,
     "LastUpdate": 1777738875,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/update/latest.zip",
@@ -263,7 +240,7 @@
     "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
     "Tags": [],
     "InternalName": "YesAlready",
-    "DownloadCount": 1307417,
+    "DownloadCount": 1307442,
     "LastUpdate": 1783944702,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.3.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.3.0/update/latest.zip",
@@ -288,7 +265,7 @@
       "other"
     ],
     "InternalName": "LazyLoot",
-    "DownloadCount": 247263,
+    "DownloadCount": 247268,
     "LastUpdate": 1777584039,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.3/update/latest.zip",
@@ -299,6 +276,29 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/9"
   },
   {
+    "Author": "Det, croizat",
+    "Name": "AutoHook",
+    "Punchline": "Makes fishing less (or more) boring",
+    "Description": "It hooks the fish for you, can you believe it?",
+    "Tags": [
+      "Gathering",
+      "Fishing"
+    ],
+    "InternalName": "AutoHook",
+    "DownloadCount": 2448963,
+    "LastUpdate": 1787851448,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.0.95/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.0.95/update/latest.zip",
+    "AssemblyVersion": "6.0.0.95",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "",
+    "TestingAssemblyVersion": "6.0.0.36",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.0.36/install/testing.zip",
+    "TestingDalamudApiLevel": "15",
+    "IconUrl": "https://puni.sh/api/plugins/icon/47"
+  },
+  {
     "Author": "Chalkos, NightmareXIV",
     "Name": "Marketbuddy",
     "Punchline": "Less clicks, more gil!",
@@ -307,7 +307,7 @@
       "marketboard"
     ],
     "InternalName": "Marketbuddy",
-    "DownloadCount": 21015,
+    "DownloadCount": 21025,
     "LastUpdate": 1777575334,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/131/Marketbuddy/versions/0.2.4.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/131/Marketbuddy/versions/0.2.4.2/update/latest.zip",
@@ -324,7 +324,7 @@
     "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
     "Tags": [],
     "InternalName": "AutoRetainer",
-    "DownloadCount": 2480421,
+    "DownloadCount": 2480619,
     "LastUpdate": 1788386232,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.1.34/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.1.34/update/latest.zip",
@@ -349,7 +349,7 @@
       "utility"
     ],
     "InternalName": "Questionable",
-    "DownloadCount": 2066544,
+    "DownloadCount": 2066783,
     "LastUpdate": 1788624180,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.306.3.37/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.306.3.37/update/latest.zip",
@@ -373,7 +373,7 @@
       "pvp"
     ],
     "InternalName": "WrathCombo",
-    "DownloadCount": 1179034,
+    "DownloadCount": 1179113,
     "LastUpdate": 1788017040,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.23/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.23/update/latest.zip",
@@ -396,7 +396,7 @@
       "Accessibility"
     ],
     "InternalName": "Splatoon",
-    "DownloadCount": 2231205,
+    "DownloadCount": 2231274,
     "LastUpdate": 1787793609,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.25/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.25/update/latest.zip",
@@ -418,7 +418,7 @@
       "crafting"
     ],
     "InternalName": "Artisan",
-    "DownloadCount": 5909981,
+    "DownloadCount": 5910348,
     "LastUpdate": 1788272491,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.19/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.19/update/latest.zip",
@@ -442,7 +442,7 @@
       "automation"
     ],
     "InternalName": "Saucy",
-    "DownloadCount": 1082165,
+    "DownloadCount": 1082270,
     "LastUpdate": 1788197704,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.2.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.2.2/update/latest.zip",
@@ -1111,7 +1111,7 @@
     "Description": "Now for more than crafting!",
     "Tags": [],
     "InternalName": "SomethingNeedDoing",
-    "DownloadCount": 803980,
+    "DownloadCount": 804119,
     "LastUpdate": 1788728171,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/15.9/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/15.9/update/latest.zip",
@@ -1132,7 +1132,7 @@
       "tweaks"
     ],
     "InternalName": "Automaton",
-    "DownloadCount": 925541,
+    "DownloadCount": 925794,
     "LastUpdate": 1788723289,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.212/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.212/update/latest.zip",
@@ -1151,7 +1151,7 @@
       "glamour"
     ],
     "InternalName": "GlamourLog",
-    "DownloadCount": 28184,
+    "DownloadCount": 28189,
     "LastUpdate": 1787563321,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/136/GlamourLog/versions/15.66/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/136/GlamourLog/versions/15.66/update/latest.zip",
@@ -1191,7 +1191,7 @@
     "Description": "Make custom deliveries less annoying by automating the process.",
     "Tags": [],
     "InternalName": "vsatisfy",
-    "DownloadCount": 154640,
+    "DownloadCount": 154646,
     "LastUpdate": 1781106410,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/0.0.0.37/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/0.0.0.37/update/latest.zip",
@@ -1208,7 +1208,7 @@
     "Description": "Automate gathering, workshop assignments, etc.",
     "Tags": [],
     "InternalName": "visland",
-    "DownloadCount": 869181,
+    "DownloadCount": 869193,
     "LastUpdate": 1784403322,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.150/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.150/update/latest.zip",
@@ -1242,7 +1242,7 @@
     "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
     "Tags": [],
     "InternalName": "BossMod",
-    "DownloadCount": 2495926,
+    "DownloadCount": 2496002,
     "LastUpdate": 1787005305,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/7.5.5.8/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/7.5.5.8/update/latest.zip",
@@ -1284,7 +1284,7 @@
     "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
     "Tags": [],
     "InternalName": "vnavmesh",
-    "DownloadCount": 1881438,
+    "DownloadCount": 1881582,
     "LastUpdate": 1787843275,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/1.2.3.14/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/1.2.3.14/update/latest.zip",
@@ -1480,7 +1480,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Fix for BLU Exuviation not being used as AOE heal by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1362\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.5.40...7.5.5.41",
-    "DownloadCount": 3148448
+    "DownloadCount": 3148961
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1513,7 +1513,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.11/latest.zip",
     "TestingAssemblyVersion": "7.4.5.11",
     "Changelog": "",
-    "DownloadCount": 3625834
+    "DownloadCount": 3626887
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1541,7 +1541,7 @@
     "AssemblyVersion": "7.5.5.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.5.5.1/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Move texture loading to the main thread, ran code cleanup by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/19\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.5.5.0...7.5.5.1",
-    "DownloadCount": 37611
+    "DownloadCount": 37616
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1570,7 +1570,7 @@
     "AssemblyVersion": "7.5.0.3",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.5.0.3/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* Added pr buildtest by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/17\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.5.0.2...7.5.0.3",
-    "DownloadCount": 61842
+    "DownloadCount": 61845
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1608,7 +1608,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.5.17/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.5.17",
     "Changelog": "## What's Changed\r\n* Validator/Food setting by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/665\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.5.2...7.5.5.3",
-    "DownloadCount": 1076264
+    "DownloadCount": 1077411
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1634,7 +1634,7 @@
     "AssemblyVersion": "7.5.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.5.0.0/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* api15 by @Shiori-Zephyr in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/16\r\n* API 15 compatibility by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/17\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.4.5.0...7.5.0.0",
-    "DownloadCount": 30665
+    "DownloadCount": 30667
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1665,7 +1665,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "## What's Changed\r\n* Add pr test and bump ecommons by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/8\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.5.0.0...7.5.0.1",
-    "DownloadCount": 19714
+    "DownloadCount": 19720
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1699,7 +1699,7 @@
     "AssemblyVersion": "7.5.5.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.5.5.1/latest.zip",
     "Changelog": "## What's Changed\r\n* Correctly resolve weird player names by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/27\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.5.5.0...7.5.5.1",
-    "DownloadCount": 43160
+    "DownloadCount": 43169
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1773,7 +1773,7 @@
     "Punchline": "Customize your character beyond FFXIV's limitations.",
     "InternalName": "CustomizePlus",
     "AssemblyVersion": "2.2.0.3",
-    "TestingAssemblyVersion": "2.2.0.5",
+    "TestingAssemblyVersion": "2.2.0.6",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
@@ -1784,7 +1784,7 @@
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/Aether-Tools/CustomizePlus/releases/download/2.2.0.3/CustomizePlus.zip",
     "DownloadLinkUpdate": "https://github.com/Aether-Tools/CustomizePlus/releases/download/2.2.0.3/CustomizePlus.zip",
-    "DownloadLinkTesting": "https://github.com/Aether-Tools/CustomizePlus/releases/download/testing_2.2.0.5/CustomizePlus.zip",
+    "DownloadLinkTesting": "https://github.com/Aether-Tools/CustomizePlus/releases/download/testing_2.2.0.6/CustomizePlus.zip",
     "IconUrl": "https://raw.githubusercontent.com/Aether-Tools/CustomizePlus/main/Data/icon.png",
     "Tags": [
       "Anamnesis",
@@ -2063,6 +2063,28 @@
     "_Dip17Channel": null
   },
   {
+    "Author": "kawaii",
+    "Name": "Chocoholic",
+    "Punchline": "Kweh!",
+    "Description": "Chocoholic is a plugin to automatically queue for and complete Chocobo races in FFXIV.",
+    "Tags": [
+      "chocobo",
+      "gold saucer",
+      "race",
+      "mgp"
+    ],
+    "InternalName": "Chocoholic",
+    "DownloadCount": 5531,
+    "LastUpdate": 1778089832,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/update/latest.zip",
+    "AssemblyVersion": "0.0.0.3",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "Update for Dalamud API 15 and 2026.04.21.0000.0000.",
+    "IconUrl": "https://puni.sh/api/plugins/icon/116"
+  },
+  {
     "Author": "kawaii, NightmareXIV",
     "Name": "Hyperborea",
     "Punchline": "What if we GPosed in the Mordion Gaol?",
@@ -2071,7 +2093,7 @@
       "gpose"
     ],
     "InternalName": "Hyperborea",
-    "DownloadCount": 48210,
+    "DownloadCount": 48216,
     "LastUpdate": 1787504034,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.1.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.1.2/update/latest.zip",
@@ -2089,34 +2111,12 @@
   },
   {
     "Author": "kawaii",
-    "Name": "Chocoholic",
-    "Punchline": "Kweh!",
-    "Description": "Chocoholic is a plugin to automatically queue for and complete Chocobo races in FFXIV.",
-    "Tags": [
-      "chocobo",
-      "gold saucer",
-      "race",
-      "mgp"
-    ],
-    "InternalName": "Chocoholic",
-    "DownloadCount": 5527,
-    "LastUpdate": 1778089832,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/update/latest.zip",
-    "AssemblyVersion": "0.0.0.3",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "Update for Dalamud API 15 and 2026.04.21.0000.0000.",
-    "IconUrl": "https://puni.sh/api/plugins/icon/116"
-  },
-  {
-    "Author": "kawaii",
     "Name": "Dropbox",
     "Punchline": "Your personal vending machine.",
     "Description": "Your personal vending machine.",
     "Tags": [],
     "InternalName": "Dropbox",
-    "DownloadCount": 48954,
+    "DownloadCount": 48955,
     "LastUpdate": 1783980806,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.15/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.15/update/latest.zip",
@@ -2139,7 +2139,7 @@
       "Sanctuary"
     ],
     "InternalName": "ExplorersIcebox",
-    "DownloadCount": 52571,
+    "DownloadCount": 52573,
     "LastUpdate": 1779884677,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/64/ExplorersIcebox/versions/1.1.0.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/64/ExplorersIcebox/versions/1.1.0.3/update/latest.zip",
@@ -2160,7 +2160,7 @@
       "Gatherers"
     ],
     "InternalName": "ChilledLeves",
-    "DownloadCount": 106348,
+    "DownloadCount": 106351,
     "LastUpdate": 1777774705,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/68/ChilledLeves/versions/1.0.1.24/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/68/ChilledLeves/versions/1.0.1.24/update/latest.zip",
@@ -2179,7 +2179,7 @@
       "Gatherers"
     ],
     "InternalName": "ICE",
-    "DownloadCount": 1231694,
+    "DownloadCount": 1231742,
     "LastUpdate": 1787363615,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/70/ICE/versions/1.0.0.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/70/ICE/versions/1.0.0.2/update/latest.zip",
@@ -2205,7 +2205,7 @@
     "Description": "Your personal Henchman doing all the heavy lifting for you!\n\n- A/B Rank Farmer\n- Hunt Logs\n- Hunt Bills\n- Retainer Creation\n- Character Creation\n- Multi Account Trading\n- Ocean Fishing\n- Chocobokeeps\nand more to come.",
     "Tags": [],
     "InternalName": "Henchman",
-    "DownloadCount": 184504,
+    "DownloadCount": 184534,
     "LastUpdate": 1788540101,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/85/Henchman/versions/3.0.1.26/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/85/Henchman/versions/3.0.1.26/update/latest.zip",
@@ -2225,14 +2225,14 @@
     "Description": "Your personal shopper who will take care of all your currency spendings!\n\nKnightshopper: because even knights deserve a squire for their shopping.",
     "Tags": [],
     "InternalName": "Knightshopper",
-    "DownloadCount": 118,
-    "LastUpdate": 1788815282,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/173/Knightshopper/versions/1.0.0.2/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/173/Knightshopper/versions/1.0.0.2/update/latest.zip",
-    "AssemblyVersion": "1.0.0.2",
+    "DownloadCount": 140,
+    "LastUpdate": 1788822289,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/173/Knightshopper/versions/1.0.0.3/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/173/Knightshopper/versions/1.0.0.3/update/latest.zip",
+    "AssemblyVersion": "1.0.0.3",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
-    "Changelog": "- Added that an item can be added multiple times for different sub currencies\n- Fixed partial purchase calculations",
+    "Changelog": "- Fixed exhausted subcurrencies not stopping purchase of other subcurrencies down the list",
     "IconUrl": "https://puni.sh/api/plugins/icon/173"
   },
   {
@@ -2242,7 +2242,7 @@
     "Description": "Better Grand Company Deliveries",
     "Tags": [],
     "InternalName": "Deliveroo",
-    "DownloadCount": 18080,
+    "DownloadCount": 18083,
     "LastUpdate": 1777864065,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/79/Deliveroo/versions/7.5.0.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/79/Deliveroo/versions/7.5.0.2/update/latest.zip",
@@ -2339,7 +2339,7 @@
       "gearsets"
     ],
     "InternalName": "Gearsetter",
-    "DownloadCount": 35111,
+    "DownloadCount": 35118,
     "LastUpdate": 1777759856,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/98/Gearsetter/versions/4.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/98/Gearsetter/versions/4.3/update/latest.zip",
@@ -2386,7 +2386,7 @@
       "\"AoE\""
     ],
     "InternalName": "VIWI",
-    "DownloadCount": 43460,
+    "DownloadCount": 43461,
     "LastUpdate": 1780272595,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/108/VIWI/versions/0.0.0.62/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/108/VIWI/versions/0.0.0.62/update/latest.zip",
@@ -2412,7 +2412,7 @@
       "erdelf"
     ],
     "InternalName": "AutoDuty",
-    "DownloadCount": 1873565,
+    "DownloadCount": 1873619,
     "LastUpdate": 1786992730,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.335/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.335/update/latest.zip",
@@ -2445,7 +2445,7 @@
       "erdelf"
     ],
     "InternalName": "FCTracker",
-    "DownloadCount": 3878,
+    "DownloadCount": 3880,
     "LastUpdate": 1786699308,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/135/FCTracker/versions/0.0.0.38/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/135/FCTracker/versions/0.0.0.38/update/latest.zip",
@@ -2533,7 +2533,7 @@
       "venture lists"
     ],
     "InternalName": "ARControl",
-    "DownloadCount": 4272,
+    "DownloadCount": 4275,
     "LastUpdate": 1787594633,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/99/ARControl/versions/8.7/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/99/ARControl/versions/8.7/update/latest.zip",
@@ -2662,7 +2662,7 @@
       "automation"
     ],
     "InternalName": "CopeSeetheMeld",
-    "DownloadCount": 6539,
+    "DownloadCount": 6541,
     "LastUpdate": 1783019821,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/69/CopeSeetheMeld/versions/0.0.3.1/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/69/CopeSeetheMeld/versions/0.0.3.1/update/latest.zip",
@@ -2687,7 +2687,7 @@
       "dungeon"
     ],
     "InternalName": "NecroLens",
-    "DownloadCount": 76818,
+    "DownloadCount": 76819,
     "LastUpdate": 1777738526,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/53/NecroLens/versions/1.0.8.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/53/NecroLens/versions/1.0.8.12/update/latest.zip",
@@ -2749,7 +2749,7 @@
     "Description": "Jumping Puzzle Directory for the Strange Housing Discord",
     "Tags": [],
     "InternalName": "WahJumps",
-    "DownloadCount": 2618,
+    "DownloadCount": 2619,
     "LastUpdate": 1785625039,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/93/WahJumps/versions/1.0.11.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/93/WahJumps/versions/1.0.11.0/update/latest.zip",
@@ -2872,7 +2872,7 @@
       "Cutscene"
     ],
     "InternalName": "Skippy",
-    "DownloadCount": 3088,
+    "DownloadCount": 3091,
     "LastUpdate": 1778506288,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/130/Skippy/versions/2.2.4.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/130/Skippy/versions/2.2.4.2/update/latest.zip",
@@ -3058,7 +3058,7 @@
     "LastUpdate": 1788382454,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 6951,
+    "DownloadCount": 6952,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "FrenRider",
     "SourceRepoUrl": "https://github.com/McVaxius/FrenRider",
@@ -3103,7 +3103,7 @@
     "LastUpdate": 1788014292,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 8773,
+    "DownloadCount": 8775,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "LootGoblin",
     "SourceRepoUrl": "https://github.com/McVaxius/LootGoblin",
@@ -3136,7 +3136,7 @@
     "LastUpdate": 1787916485,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 4032,
+    "DownloadCount": 4034,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "MOGTOME",
     "SourceRepoUrl": "https://github.com/McVaxius/MOGTOME",
@@ -3168,7 +3168,7 @@
     "LastUpdate": 1788214748,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 5704,
+    "DownloadCount": 5705,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "VERMAXION",
     "SourceRepoUrl": "https://github.com/McVaxius/VERMAXION",
@@ -3257,7 +3257,7 @@
     "LastUpdate": 1777533612,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 1043,
+    "DownloadCount": 1044,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "DhogGPT",
     "SourceRepoUrl": "https://github.com/McVaxius/DhogGPT",
@@ -3288,7 +3288,7 @@
     "LastUpdate": 1787887230,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 1849,
+    "DownloadCount": 1850,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "DPS",
     "SourceRepoUrl": "https://github.com/McVaxius/DPS",
@@ -3318,7 +3318,7 @@
     "LastUpdate": 1784771348,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 761,
+    "DownloadCount": 762,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "dheacon",
     "SourceRepoUrl": "https://github.com/McVaxius/dheacon",
@@ -3377,7 +3377,7 @@
     "LastUpdate": 1787939642,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 918,
+    "DownloadCount": 919,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "ChokeAbo",
     "SourceRepoUrl": "https://github.com/McVaxius/ChokeAbo",
@@ -3598,7 +3598,7 @@
     "LastUpdate": 1788380783,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 314,
+    "DownloadCount": 315,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "dad",
     "SourceRepoUrl": "https://github.com/McVaxius/dad",
@@ -3667,7 +3667,7 @@
       "automation"
     ],
     "InternalName": "FCCH",
-    "DownloadCount": 2523,
+    "DownloadCount": 2525,
     "LastUpdate": 1788388208,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/149/FCCH/versions/2.5.1.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/149/FCCH/versions/2.5.1.0/update/latest.zip",
@@ -3834,7 +3834,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 8839,
+    "DownloadCount": 8873,
     "LastUpdate": "1787083573"
   },
   {
@@ -3862,7 +3862,7 @@
     "Punchline": "Doman Mahjong, solved for you.",
     "Description": "Reads your Doman Mahjong hand and either suggests the best discard or plays the match for you.",
     "Changelog": "v0.1.2.3: Fix the in-game suggestion highlight after a call. Once you called pon, chi, or kan, the highlight could jump to the wall along the top of the board or land on the wrong tile, because it located your hand by geometry and the shrunken hand let the perfectly-aligned wall slots win. It now anchors to the bottom-most row (your hand is always at the bottom) and ignores melded tiles, so the outline stays on the suggested discard. The hand reading and suggestion were always correct; only the on-tile outline was affected.",
-    "DownloadCount": 7109,
+    "DownloadCount": 7115,
     "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
@@ -3899,7 +3899,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 12129,
+    "DownloadCount": 12401,
     "LastUpdate": "1788805415"
   },
   {
@@ -3928,7 +3928,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 21495,
+    "DownloadCount": 21970,
     "LastUpdate": "1788805420"
   },
   {
@@ -3957,7 +3957,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 8527,
+    "DownloadCount": 8678,
     "LastUpdate": "1788805445"
   },
   {
@@ -3990,7 +3990,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-Aetherphone/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 254105,
+    "DownloadCount": 254190,
     "LastUpdate": "1788209776"
   },
   {
@@ -4376,9 +4376,9 @@
     "Description": "Catalogs every recipe you can craft, buckets them by how much effort the missing materials take, prices them with Universalis, and hands the missing-material work to Artisan / GBR / ARC / Lifestream.",
     "InternalName": "LazyCrafter",
     "AssemblyVersion": "0.1.6.2",
-    "TestingAssemblyVersion": "0.1.6.15",
+    "TestingAssemblyVersion": "0.1.6.16",
     "TestingDalamudApiLevel": 15,
-    "Changelog": "v0.1.6.15 (2026-09-07)\n\n- **A cart that needs a gil vendor is now walked to the VENDOR before the retainer-bell errand starts - the 0.1.6.14 run that froze at the market board instead cannot recur.** The bell walk and the vendor walk both fire from the same live question (\"is the character free right now\"), so the two navigations can no longer both believe they are first; when a cart needs shopping AND a fetch, the vendor stop goes out first and the fetch phase re-fires its walk when it reaches the bell gate, and every stop still says its own line (files: `Adapters/DispatchService.cs` `StartWave`, `StartVendorWalk`)\n- **The summoning-bell walk no longer goes through the market board - it goes to the inn room's bell.** The old `/li mb` trip was never a bell trip: Lifestream's own market-board shortcut ends by interacting with the board, i.e. by OPENING it, which is what put the character at the market board mid-run while the status claimed a bell errand. The bell trip is now `/li inn` (verified in Lifestream's own task code: it ends at the inn keeper without interacting, and a summoning bell stands in every inn room), and a board already open from shopping is closed first so the trip can start (files: `Adapters/Dispatch/LifestreamDispatch.cs` new `GoToSummoningBell` / `CloseMarketBoard`, `Adapters/DispatchService.cs` `FireBellWalkIfDue`, `WalkToBell`)\n- **\"waiting - close the market board to continue\" can no longer fire when the plan has zero market stops.** That wait was the 0.1.6.14 run's 49-second freeze: the line is a shopping instruction, and a bell errand on a plan with no market shopping can never make it right. A board open on such a plan is the wrong-NPC state - one log line, the board is closed with the game's own close path, and the fetch carries on without asking anything of the player. A board the trip itself passed on a plan WITH market shopping gets its own wording and one bounded beat before the same close-and-carry-on, so no wait on it can ever reach the red five-minute timeout (files: `Adapters/DispatchService.cs` `FetchClientHold`, `Core/FetchGatePolicy.cs`)\n- **The board the run itself opened is no longer described as the player's problem.** While a cart run is waiting to shop, the market board hold says the shopping is the run's own errand (\"buy the items, then close it to continue\") instead of the close-it line, and a resume pressed while the game still reports the just-closed window no longer asks the player to close it a second time - the 0.1.6.14 run's \"was closed\" followed by \"close it\" read as a lie (files: `Adapters/DispatchService.cs` `Phase.WaitClientFree`, `Resume`, `Core/ClientWaitPolicy.cs` `BoardBelongsToFetch`)\n\n- The dispatch plan's channel order was already right - the vendor stop was announced before the deferred work; the defect was two independent senders believing they owned the character. The single-winner gate is one shared live check, no settings change.\n- Closing the market board uses the window's own close path (the same call the X button makes), only when the window is actually visible, and never as an error - a window that will not close keeps the plain close-it hold, which still names it.\n- Proved offline before shipping: the board classification lives in `Core/ClientWaitPolicy.cs` (pure) and the walk sentences in `Core/FetchGatePolicy.cs`, both pinned by `tests/LazyCrafter.Harness` (ClientWaitTests board15 checks, FetchGateTests fetchgate15 checks) - the zero-market-stop case is pinned as a machine outcome (closed immediately, no chat line, no hold), not just as a wording.\n\nv0.1.6.14 (2026-09-07)\n\n- **The cart run now walks to gil vendors - one vendor per stop, buy, press Resume, next vendor.** When a cart is missing gil-vendor items the run sends the character to the vendor NPCs itself instead of only flagging them on the map: the first stop is a Lifestream teleport to the aetheryte nearest the NPC plus the map flag and the shopping line, each remaining stop gets its own chat line naming its NPC and items, and the character walks to them one at a time - buy at the NPC, press Resume, the run re-plans from the bags and walks to the next vendor (files: `Adapters/DispatchService.cs` new `StartVendorWalk`, called from `StartWave` and `PrintBlockedBlock`)\n- **New setting \"Walk to gil vendors during a cart run\" (on by default).** Off restores the previous behaviour exactly: vendors are flagged on the map and named in chat, buying and walking stay manual (files: `Configuration.cs` config v8 `WalkToVendorsOnCart`, `UI/SettingsTab.cs`)\n\n- The walk reuses the per-item vendor hand-off unchanged - same map flag, same clickable shopping list, same refusal behaviour - and never buys anything: the character is brought to the counter, the purchase and the Resume tap stay with the player. A refused walk (Lifestream missing or busy, teleport refused, not attuned) degrades to flag-and-name for that stop, so a cart is never stranded by the walk; it is a convenience, not a dependency.\n- A wave whose fetch or gather phases steer the character themselves (the bell walk, Gatheringway) leaves the vendor walking to the run's Blocked stop, where the stop-and-resume cadence lives - two navigations steering at once is how a run gets lost. When a Blocked run is also blocked on the player's own market listings, the vendor stop goes out first and the bell trip degrades to its busy line: first trip wins, never both.\n\nv0.1.6.13 (2026-09-07)\n\n- **The retainer fetch no longer queues blind mid-teleport and then idles silently.** A run that walks the character to the summoning bell now holds until the trip has actually landed: while Lifestream is mid-trip nothing is queued, and if Artisan's retainer state cannot even be inspected (its own bell scan threw mid-teleport in the 2026-09-07 13:01 run, which then sat at 0/7 until manually stopped) the gate treats that as a hold with the bell walk and a 3-minute cap - never as a green light (files: `Adapters/DispatchService.cs` `BellGateAtQueue`, new `Core/FetchGatePolicy.cs`)\n- **An open window now holds the fetch phases exactly as it holds crafting.** If the market board (or any other window) owns the client when the retainer fetch is about to queue or just after a session ends, the run says `waiting - close the market board to continue`, holds, and resumes by itself the moment the window is gone; five minutes of a still-open window stops the run cleanly with the cart held for Resume (files: `Adapters/DispatchService.cs` `FetchClientHold` across `Phase.BatchRetrieve` / `BatchWait` / `Retrieve` / `WaitRetrieve`)\n- **A batch retainer session that moves nothing now stops with the reason instead of idling.** Two minutes of continuous Artisan busyness with zero change in every demanded material's bag count aborts the session and blocks the run with the reason (cart held, press Resume); a session that is withdrawing normally resets the guard with every change and is untouched, as is the existing 10-minute abort (files: `Adapters/DispatchService.cs` `Phase.BatchWait` stall guard, `Core/FetchGatePolicy.cs` `BatchStallLimit`)\n\n- The fetch hold deliberately ignores the windows and states a working retainer session opens or rides on - the retainer list, a retainer's inventory, the quantity prompt, dialogue clicks, and the zone-change flag of the summoning-bell trip itself - because gating on those would deadlock the dispatcher against its own session. Everything a player opens is named and waited on.\n- Proved offline before shipping: the decision table lives in `Core/FetchGatePolicy.cs` and is pinned by `tests/LazyCrafter.Harness` (FetchGateTests) - preflight-throw holds, Lifestream-busy holds, the 3-minute and 2-minute caps, the refusal wordings, and the ignored-label set - with the cap and wording mutations each turned red before being restored to green. The dispatcher wiring itself is proved by the shipped-DLL artifact scan, as in 0.1.6.8.\n\nv0.1.6.12 (2026-09-07)\n\n- Pressing Dispatch no longer prints a wall of red errors when the only problem is where the character is standing: a cart that needs retainer stock is queued and the character is WALKED to the nearest summoning bell (the same Lifestream market-board trip the end-of-run walk uses), the fetch starts once a bell is actually reachable, and red errors are reserved for real dead ends - retrieval switched off in the settings, Artisan missing, or the bell still unreachable after 3 minutes (files: `Adapters/DispatchService.cs` `StartWave` gate now `BellWalkGate`, fetch phases gate at queue time via `BellGateAtQueue` with `FireBellWalkIfDue` firing the walk)\n- On a cart run, the per-recipe \"not crafting X yet\" lines at press time are no longer red: the loop re-plans after every wave and the end-of-run report still names whatever is genuinely stuck, once, in red; single-craft commands keep the red line (files: `Adapters/DispatchService.cs` `StartWave` deferral block)\n- The bell-walk setting now covers both trips - fetching materials at the start of a run and pulling the character's own market listings at the end - with a Settings label that says so (files: `Configuration.cs` `WalkToBellWhenBlocked`, `UI/SettingsTab.cs` checkbox label)\n\n- The waiting shows in the run status pane (\"walking to a summoning bell to fetch your materials\") and as one normal chat line when the walk starts; a walk that cannot even start stops trying after three refused launches, and the 3-minute cap ends the hold with a single red refusal.\n\nv0.1.6.11 (2026-09-06)\n\n- **LazyCrafter now reports when a material is sold by a currency vendor, and can route there instead of the market board.** A cart short of Emery used to say `needs market Emery` and nothing else; it now says `Emery x1 - or Ixali vendor (North Shroud) for 7 Ixali Oaknots`. Beast-tribe traders, Grand Company quartermasters, scrip and token counters are all read the same way (files: `Core/SpecialShop.cs`, `Adapters/LuminaGameData.cs` `LoadShops`, `Adapters/VendorLocator.cs` `SpecialShopCandidates`)\n- New setting, ON by default: *\"Prefer a currency shop over the market board when you can already afford it\"*. The cheapest affordable offer wins, so 7 Ixali Oaknots beats a 1,500-seal price for the same item. Turning it off keeps the naming and just leaves purchases on the market board (files: `Configuration.cs` `PreferCurrencyShops`, `UI/SettingsTab.cs`)\n- Currency-shop items get their own line in the blocked report, their own row in the Run tab with a **Flag on map** button, and their own entry in `/lcraft plan` - the instruction is \"walk to this NPC and trade\", which is not the same instruction as \"buy this on the board\" (files: `Core/PlanReport.cs`, `Core/RunReport.cs` `BlockedLines`, `UI/RunTab.cs` `FlagCurrencyShop`, `Adapters/Dispatch/LifestreamDispatch.cs` `GoToCurrencyShop`)\n- A craft waiting on one now says `needs currency shop Emery` rather than `needs market Emery`, so the deferral names the counter that actually has to be visited (file: `Core/DispatchPlan.cs` `VisitIngredient`)\n\n- **The plugin knew nothing about currency vendors, and the sheets had the answer all along.** `LoadShops` read every `SpecialShop` row, kept the item ids in a `HashSet`, and threw away the shop, the NPC and the price - so the most it could ever say was \"some special shop gives this out\". It now keeps the shop id, the receive quantity and the cost items, and the shop id is what lets the existing gil-vendor placement chain (shop -> NPC -> map coordinates -> aetheryte) be reused unchanged for currency vendors (files: `Adapters/LuminaGameData.cs` lines 183-193 as was, `Adapters/VendorLocator.cs`)\n- Prices use the game's own plural, so a cost reads `1,500 Storm Seals` and not `1,500 Storm Seal`. Taken from `Item.Plural` rather than derived with an English rule, which would be wrong for exactly the irregular names a currency list is full of (files: `Adapters/LuminaGameData.cs` `ItemPlural`, `Core/SpecialShop.cs` `SpecialShopCost.Phrase`)\n\n- 0.1.6.10's zip embedded the notes under the previous version's heading in the installer list. 0.1.6.11 is the same build with the manifest corrected - nothing in the plugin changed\n- The market and manual shopping lines are now rendered in Core (`PlanReport`) instead of inline in the dispatcher, so the offline harness asserts on the sentence that actually reaches chat. Both of the last two defects on this feature were renderer bugs where the right answer sat in memory and was dropped on the way to chat, and a test on the internal value stayed green through both (files: `Core/PlanReport.cs`, `Adapters/DispatchService.cs`, `Adapters/Dispatch/LifestreamDispatch.cs` `GoToMarket`)\n- A currency-shop item counts towards the wave loop's progress check, so a run cannot end early declaring \"nothing changed\" while one is being fetched (file: `Core/DispatchLoop.cs` `ItemsOf` / `Describe`)\n- Config version 6 -> 7. Nothing is rewritten; `PreferCurrencyShops` is new and existing configs take its ON default (file: `Configuration.cs` `MigrateIfNeeded`)\n\n- **It will never make a trade that cannot be paid for, and never leaves a material with no source.** The currency shop is preferred only when all of the following hold: the item resolves to a named NPC, that NPC is placed, the placement is in a zone with a teleportable aetheryte, the price is known, the balance of that currency can be read, and it already covers the cost. If any one of those fails, the item stays on the market board exactly as it did in 0.1.6.6 - and the vendor is still named. A balance that cannot be read counts as \"cannot afford\", so the only way the currency read can be wrong is by falling back to the market board.\n- **That fallback is the normal path, not an edge case.** Measured against the installed game data: 12,886 items are receivable from a special shop, 6,364 have any handler NPC, and only 668 have one that is actually placed somewhere standable. The great majority of currency-shop items therefore keep their existing routing untouched.\n- **This is not the \"move SpecialShop above Market\" change it was originally described as, and that change would have made things worse.** There was no special-shop route to reorder: `SourceKind.SpecialShop` mapped to `Route.Manual`, the fall-through, so promoting it above Market would have turned an actionable market listing into `needs a manual source: Emery x1`, a dead end. A real route had to be built, with the fallback as its load-bearing behaviour. There is a harness check pinning exactly that regression.\n- **It never opens a shop window or makes a trade.** It names the vendor, flags them on the map and prints the price; spending the seals remains a manual decision, and the plugin has no exchange rate between a currency and gil to make it with.\n- Grand Company quartermasters do not appear for Emery specifically - the sheets list only the Ixali vendor (7 Ixali Oaknots) and Talan (1 Fluorite Lens), and Talan is in no placement table at all, so only the Ixali vendor is offered for it. The quartermaster path exists for the many items where the sheets do carry it.\n- Proved offline before shipping: 290/290 in `tests/LazyCrafter.Harness` (40 new checks for this change, on top of the suites that shipped in 0.1.6.7 and 0.1.6.8 earlier today) that assert on the RENDERED plan and report text rather than on an internal value. Every fix was individually reverted and the matching checks confirmed to fail before being restored to green, including the two that matter most: the naive \"reorder\" (which reds 14 checks, among them the market-board fallback) and the removal of the affordability gate (10 checks). Verified against the live sheets on the incident's own worked example - Emery 7601, needed x1 for Iolite r30406.\n\nv0.1.6.9 (2026-09-06)\n\n\n- Superseded within the hour by 0.1.6.10, then 0.1.6.11 - the same build republished with corrected version headers (0.1.6.9's header carried a doubled date). All fixes from 0.1.6.7/0.1.6.8 remain present. (file: `CHANGELOG.md`)",
+    "Changelog": "v0.1.6.16 (2026-09-07)\n\n- **The fetch phases now wait out the wave's own navigation before queueing a bell session.** The 18:03 run's pass-2 re-plan announced the vendor stop AND queued the batch fetch in the same second: <c>Lifestream.Teleport</c> returns the moment it is ACCEPTED, so <c>IsBusy()</c> still read false mid-flight, the session answered 1.5 s later with nothing moved, the run printed \"0 material(s) moved\", pass-3 read that as \"no progress this pass\", and the vendor stop re-emitted on top - three contradictory sends in one second. A new wave-start gate holds <c>Phase.BatchRetrieve</c> and <c>Phase.Retrieve</c> from the moment any navigation fires (vendor teleport, market trip) until the trip is over AND a 5-second settle beat has passed, capped at 3 minutes; the character standing AT a bell, in a retainer's inventory or at a quantity prompt does NOT hold - those are the fetch phases' own ignored states (files: Core/ShoppingStopGate.cs new, Adapters/DispatchService.cs StartWave, StartVendorWalk, Phase.BatchRetrieve, Phase.Retrieve)\n- **A batch session that ends INSTANTLY with zero materials moved is now a blocked run naming the bell, not \"no progress this pass\".** The 0.1.6.13 stall guard only catches a HUNG session (2-min zero-change while Busy); an instant zero-move session (Busy false ~1.5 s after the queue, mid-teleport in the field) sailed through it. The run now stops with the bell named and the cart held for Resume, and never re-emits the vendor stop on top of it (files: Core/ShoppingStopGate.cs BatchMovedNothing, Adapters/DispatchService.cs Phase.BatchWait)\n\n- Proved offline before shipping: the gate is pure Core, pinned by \tests/LazyCrafter.Harness (ShoppingStopGateTests, 16 checks: the just-fired trip holds even while Lifestream still reads idle, the settle beat, the at-the-bell cases do NOT hold, the cap forces Proceed, the zero-move sentence never says \"no progress\"). The dispatcher wiring is proved by the shipped-DLL artifact scan (as in 0.1.6.8/0.1.6.13). The pre-fix gate (hold on ANY busy state) was mutation-tested: it reds exactly the three at-the-bell checks.\n- Full harness: 342/342 PASS (326 prior + 16 new).\n\nv0.1.6.15 (2026-09-07)\n\n- **A cart that needs a gil vendor is now walked to the VENDOR before the retainer-bell errand starts - the 0.1.6.14 run that froze at the market board instead cannot recur.** The bell walk and the vendor walk both fire from the same live question (\"is the character free right now\"), so the two navigations can no longer both believe they are first; when a cart needs shopping AND a fetch, the vendor stop goes out first and the fetch phase re-fires its walk when it reaches the bell gate, and every stop still says its own line (files: `Adapters/DispatchService.cs` `StartWave`, `StartVendorWalk`)\n- **The summoning-bell walk no longer goes through the market board - it goes to the inn room's bell.** The old `/li mb` trip was never a bell trip: Lifestream's own market-board shortcut ends by interacting with the board, i.e. by OPENING it, which is what put the character at the market board mid-run while the status claimed a bell errand. The bell trip is now `/li inn` (verified in Lifestream's own task code: it ends at the inn keeper without interacting, and a summoning bell stands in every inn room), and a board already open from shopping is closed first so the trip can start (files: `Adapters/Dispatch/LifestreamDispatch.cs` new `GoToSummoningBell` / `CloseMarketBoard`, `Adapters/DispatchService.cs` `FireBellWalkIfDue`, `WalkToBell`)\n- **\"waiting - close the market board to continue\" can no longer fire when the plan has zero market stops.** That wait was the 0.1.6.14 run's 49-second freeze: the line is a shopping instruction, and a bell errand on a plan with no market shopping can never make it right. A board open on such a plan is the wrong-NPC state - one log line, the board is closed with the game's own close path, and the fetch carries on without asking anything of the player. A board the trip itself passed on a plan WITH market shopping gets its own wording and one bounded beat before the same close-and-carry-on, so no wait on it can ever reach the red five-minute timeout (files: `Adapters/DispatchService.cs` `FetchClientHold`, `Core/FetchGatePolicy.cs`)\n- **The board the run itself opened is no longer described as the player's problem.** While a cart run is waiting to shop, the market board hold says the shopping is the run's own errand (\"buy the items, then close it to continue\") instead of the close-it line, and a resume pressed while the game still reports the just-closed window no longer asks the player to close it a second time - the 0.1.6.14 run's \"was closed\" followed by \"close it\" read as a lie (files: `Adapters/DispatchService.cs` `Phase.WaitClientFree`, `Resume`, `Core/ClientWaitPolicy.cs` `BoardBelongsToFetch`)\n\n- The dispatch plan's channel order was already right - the vendor stop was announced before the deferred work; the defect was two independent senders believing they owned the character. The single-winner gate is one shared live check, no settings change.\n- Closing the market board uses the window's own close path (the same call the X button makes), only when the window is actually visible, and never as an error - a window that will not close keeps the plain close-it hold, which still names it.\n- Proved offline before shipping: the board classification lives in `Core/ClientWaitPolicy.cs` (pure) and the walk sentences in `Core/FetchGatePolicy.cs`, both pinned by `tests/LazyCrafter.Harness` (ClientWaitTests board15 checks, FetchGateTests fetchgate15 checks) - the zero-market-stop case is pinned as a machine outcome (closed immediately, no chat line, no hold), not just as a wording.\n\nv0.1.6.14 (2026-09-07)\n\n- **The cart run now walks to gil vendors - one vendor per stop, buy, press Resume, next vendor.** When a cart is missing gil-vendor items the run sends the character to the vendor NPCs itself instead of only flagging them on the map: the first stop is a Lifestream teleport to the aetheryte nearest the NPC plus the map flag and the shopping line, each remaining stop gets its own chat line naming its NPC and items, and the character walks to them one at a time - buy at the NPC, press Resume, the run re-plans from the bags and walks to the next vendor (files: `Adapters/DispatchService.cs` new `StartVendorWalk`, called from `StartWave` and `PrintBlockedBlock`)\n- **New setting \"Walk to gil vendors during a cart run\" (on by default).** Off restores the previous behaviour exactly: vendors are flagged on the map and named in chat, buying and walking stay manual (files: `Configuration.cs` config v8 `WalkToVendorsOnCart`, `UI/SettingsTab.cs`)\n\n- The walk reuses the per-item vendor hand-off unchanged - same map flag, same clickable shopping list, same refusal behaviour - and never buys anything: the character is brought to the counter, the purchase and the Resume tap stay with the player. A refused walk (Lifestream missing or busy, teleport refused, not attuned) degrades to flag-and-name for that stop, so a cart is never stranded by the walk; it is a convenience, not a dependency.\n- A wave whose fetch or gather phases steer the character themselves (the bell walk, Gatheringway) leaves the vendor walking to the run's Blocked stop, where the stop-and-resume cadence lives - two navigations steering at once is how a run gets lost. When a Blocked run is also blocked on the player's own market listings, the vendor stop goes out first and the bell trip degrades to its busy line: first trip wins, never both.\n\nv0.1.6.13 (2026-09-07)\n\n- **The retainer fetch no longer queues blind mid-teleport and then idles silently.** A run that walks the character to the summoning bell now holds until the trip has actually landed: while Lifestream is mid-trip nothing is queued, and if Artisan's retainer state cannot even be inspected (its own bell scan threw mid-teleport in the 2026-09-07 13:01 run, which then sat at 0/7 until manually stopped) the gate treats that as a hold with the bell walk and a 3-minute cap - never as a green light (files: `Adapters/DispatchService.cs` `BellGateAtQueue`, new `Core/FetchGatePolicy.cs`)\n- **An open window now holds the fetch phases exactly as it holds crafting.** If the market board (or any other window) owns the client when the retainer fetch is about to queue or just after a session ends, the run says `waiting - close the market board to continue`, holds, and resumes by itself the moment the window is gone; five minutes of a still-open window stops the run cleanly with the cart held for Resume (files: `Adapters/DispatchService.cs` `FetchClientHold` across `Phase.BatchRetrieve` / `BatchWait` / `Retrieve` / `WaitRetrieve`)\n- **A batch retainer session that moves nothing now stops with the reason instead of idling.** Two minutes of continuous Artisan busyness with zero change in every demanded material's bag count aborts the session and blocks the run with the reason (cart held, press Resume); a session that is withdrawing normally resets the guard with every change and is untouched, as is the existing 10-minute abort (files: `Adapters/DispatchService.cs` `Phase.BatchWait` stall guard, `Core/FetchGatePolicy.cs` `BatchStallLimit`)\n\n- The fetch hold deliberately ignores the windows and states a working retainer session opens or rides on - the retainer list, a retainer's inventory, the quantity prompt, dialogue clicks, and the zone-change flag of the summoning-bell trip itself - because gating on those would deadlock the dispatcher against its own session. Everything a player opens is named and waited on.\n- Proved offline before shipping: the decision table lives in `Core/FetchGatePolicy.cs` and is pinned by `tests/LazyCrafter.Harness` (FetchGateTests) - preflight-throw holds, Lifestream-busy holds, the 3-minute and 2-minute caps, the refusal wordings, and the ignored-label set - with the cap and wording mutations each turned red before being restored to green. The dispatcher wiring itself is proved by the shipped-DLL artifact scan, as in 0.1.6.8.\n\nv0.1.6.12 (2026-09-07)\n\n- Pressing Dispatch no longer prints a wall of red errors when the only problem is where the character is standing: a cart that needs retainer stock is queued and the character is WALKED to the nearest summoning bell (the same Lifestream market-board trip the end-of-run walk uses), the fetch starts once a bell is actually reachable, and red errors are reserved for real dead ends - retrieval switched off in the settings, Artisan missing, or the bell still unreachable after 3 minutes (files: `Adapters/DispatchService.cs` `StartWave` gate now `BellWalkGate`, fetch phases gate at queue time via `BellGateAtQueue` with `FireBellWalkIfDue` firing the walk)\n- On a cart run, the per-recipe \"not crafting X yet\" lines at press time are no longer red: the loop re-plans after every wave and the end-of-run report still names whatever is genuinely stuck, once, in red; single-craft commands keep the red line (files: `Adapters/DispatchService.cs` `StartWave` deferral block)\n- The bell-walk setting now covers both trips - fetching materials at the start of a run and pulling the character's own market listings at the end - with a Settings label that says so (files: `Configuration.cs` `WalkToBellWhenBlocked`, `UI/SettingsTab.cs` checkbox label)\n\n- The waiting shows in the run status pane (\"walking to a summoning bell to fetch your materials\") and as one normal chat line when the walk starts; a walk that cannot even start stops trying after three refused launches, and the 3-minute cap ends the hold with a single red refusal.\n\nv0.1.6.11 (2026-09-06)\n\n- **LazyCrafter now reports when a material is sold by a currency vendor, and can route there instead of the market board.** A cart short of Emery used to say `needs market Emery` and nothing else; it now says `Emery x1 - or Ixali vendor (North Shroud) for 7 Ixali Oaknots`. Beast-tribe traders, Grand Company quartermasters, scrip and token counters are all read the same way (files: `Core/SpecialShop.cs`, `Adapters/LuminaGameData.cs` `LoadShops`, `Adapters/VendorLocator.cs` `SpecialShopCandidates`)\n- New setting, ON by default: *\"Prefer a currency shop over the market board when you can already afford it\"*. The cheapest affordable offer wins, so 7 Ixali Oaknots beats a 1,500-seal price for the same item. Turning it off keeps the naming and just leaves purchases on the market board (files: `Configuration.cs` `PreferCurrencyShops`, `UI/SettingsTab.cs`)\n- Currency-shop items get their own line in the blocked report, their own row in the Run tab with a **Flag on map** button, and their own entry in `/lcraft plan` - the instruction is \"walk to this NPC and trade\", which is not the same instruction as \"buy this on the board\" (files: `Core/PlanReport.cs`, `Core/RunReport.cs` `BlockedLines`, `UI/RunTab.cs` `FlagCurrencyShop`, `Adapters/Dispatch/LifestreamDispatch.cs` `GoToCurrencyShop`)\n- A craft waiting on one now says `needs currency shop Emery` rather than `needs market Emery`, so the deferral names the counter that actually has to be visited (file: `Core/DispatchPlan.cs` `VisitIngredient`)\n\n- **The plugin knew nothing about currency vendors, and the sheets had the answer all along.** `LoadShops` read every `SpecialShop` row, kept the item ids in a `HashSet`, and threw away the shop, the NPC and the price - so the most it could ever say was \"some special shop gives this out\". It now keeps the shop id, the receive quantity and the cost items, and the shop id is what lets the existing gil-vendor placement chain (shop -> NPC -> map coordinates -> aetheryte) be reused unchanged for currency vendors (files: `Adapters/LuminaGameData.cs` lines 183-193 as was, `Adapters/VendorLocator.cs`)\n- Prices use the game's own plural, so a cost reads `1,500 Storm Seals` and not `1,500 Storm Seal`. Taken from `Item.Plural` rather than derived with an English rule, which would be wrong for exactly the irregular names a currency list is full of (files: `Adapters/LuminaGameData.cs` `ItemPlural`, `Core/SpecialShop.cs` `SpecialShopCost.Phrase`)\n\n- 0.1.6.10's zip embedded the notes under the previous version's heading in the installer list. 0.1.6.11 is the same build with the manifest corrected - nothing in the plugin changed\n- The market and manual shopping lines are now rendered in Core (`PlanReport`) instead of inline in the dispatcher, so the offline harness asserts on the sentence that actually reaches chat. Both of the last two defects on this feature were renderer bugs where the right answer sat in memory and was dropped on the way to chat, and a test on the internal value stayed green through both (files: `Core/PlanReport.cs`, `Adapters/DispatchService.cs`, `Adapters/Dispatch/LifestreamDispatch.cs` `GoToMarket`)\n- A currency-shop item counts towards the wave loop's progress check, so a run cannot end early declaring \"nothing changed\" while one is being fetched (file: `Core/DispatchLoop.cs` `ItemsOf` / `Describe`)\n- Config version 6 -> 7. Nothing is rewritten; `PreferCurrencyShops` is new and existing configs take its ON default (file: `Configuration.cs` `MigrateIfNeeded`)\n\n- **It will never make a trade that cannot be paid for, and never leaves a material with no source.** The currency shop is preferred only when all of the following hold: the item resolves to a named NPC, that NPC is placed, the placement is in a zone with a teleportable aetheryte, the price is known, the balance of that currency can be read, and it already covers the cost. If any one of those fails, the item stays on the market board exactly as it did in 0.1.6.6 - and the vendor is still named. A balance that cannot be read counts as \"cannot afford\", so the only way the currency read can be wrong is by falling back to the market board.\n- **That fallback is the normal path, not an edge case.** Measured against the installed game data: 12,886 items are receivable from a special shop, 6,364 have any handler NPC, and only 668 have one that is actually placed somewhere standable. The great majority of currency-shop items therefore keep their existing routing untouched.\n- **This is not the \"move SpecialShop above Market\" change it was originally described as, and that change would have made things worse.** There was no special-shop route to reorder: `SourceKind.SpecialShop` mapped to `Route.Manual`, the fall-through, so promoting it above Market would have turned an actionable market listing into `needs a manual source: Emery x1`, a dead end. A real route had to be built, with the fallback as its load-bearing behaviour. There is a harness check pinning exactly that regression.\n- **It never opens a shop window or makes a trade.** It names the vendor, flags them on the map and prints the price; spending the seals remains a manual decision, and the plugin has no exchange rate between a currency and gil to make it with.\n- Grand Company quartermasters do not appear for Emery specifically - the sheets list only the Ixali vendor (7 Ixali Oaknots) and Talan (1 Fluorite Lens), and Talan is in no placement table at all, so only the Ixali vendor is offered for it. The quartermaster path exists for the many items where the sheets do carry it.\n- Proved offline before shipping: 290/290 in `tests/LazyCrafter.Harness` (40 new checks for this change, on top of the suites that shipped in 0.1.6.7 and 0.1.6.8 earlier today) that assert on the RENDERED plan and report text rather than on an internal value. Every fix was individually reverted and the matching checks confirmed to fail before being restored to green, including the two that matter most: the naive \"reorder\" (which reds 14 checks, among them the market-board fallback) and the removal of the affordability gate (10 checks). Verified against the live sheets on the incident's own worked example - Emery 7601, needed x1 for Iolite r30406.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IsHide": false,
@@ -4412,9 +4412,9 @@
     "Description": "Keep an Auto-Market list of items you always sell. The companion lists them through your retainers in the stack size you choose (keeping a reserve in your bags if you want), prices every listing by matching the lowest board price instead of undercutting, and can do all of it inside AutoRetainer's venture cycle. Also re-prices existing listings (Auto Pinch). Successor to Dagobert Price Matcher; your old settings are imported automatically.",
     "InternalName": "LazyMarketCompanion",
     "AssemblyVersion": "0.1.16.3",
-    "TestingAssemblyVersion": "0.1.23.0",
+    "TestingAssemblyVersion": "0.1.25.0",
     "TestingDalamudApiLevel": 15,
-    "Changelog": "v0.1.23.0 (2026-09-07)\n\n\n- **A sweep that was about to vendor its first-ever below-threshold items stopped itself 181 ms into the retainer sell-list close: \"the retainer bell menu is open but has no 'Entrust or withdraw items' entry\".** The vendor leg's menu matcher compared the Addon sheet's TEMPLATE (\"Entrust or withdraw items. (Slots filled: 0)\") against the RENDERED menu entry with a whole-text StartsWith - and the bracketed number is a live count of the retainer's occupied market slots, so on a full board the entry reads \"(Slots filled: 20)\" and the comparison fails even though the menu is perfect. The leg now compares the stable prefix before any bracketed payload, so every board state matches (files: `AutoMarket/MarketGate.cs` MatchMenuEntry new; `Plugin.cs` MenuText new; `MarketAutomation.cs` ClickRetainerEntrust/ClickSellItems).\n- **That same failure carried a secondary crash: \"Object reference not set to an instance of an object at ECommons.Automation.LegacyTaskManager.TaskManager.Tick\", 3 ms after the stop.** The stop-on-failure path tore the whole task queue down from INSIDE the step the task manager was executing; the task manager's next line read its just-nulled current task for a completion log line and threw. The NRE was caught and the abort still landed, so the stop worked - but it logged a crash that was not one. The teardown now runs from the plugin's own per-frame watcher, one frame later, outside any task-manager iteration (files: `MarketAutomation.cs` StopOnVendorFailure/Draw watcher, new deferred-teardown state).\n- **A first-tick \"menu is up but has no entry\" is now a WAIT, not a verdict.** The 15:06 stop fired 181 ms after the sell-list close was queued - mid menu transition, when the entrust menu may simply not be back yet. A mismatch now waits out a 2-second grace window before the verdict; only a mismatch that survives it stops the sweep, so the named stop line fires on a genuinely wrong menu, never 181 ms into a close (files: `AutoMarket/MarketGate.cs` MenuGraceWindowMs; `MarketAutomation.cs` ClickRetainerEntrust).\n- **The value gate's \"no price data\" announce was itself miscalibrated: on a fully sighted sweep it warned \"no price data for ~230 of 257 item(s)\" and the clean \"every item is above the threshold\" line was unreachable.** The sight count ran over the WHOLE enabled list; the gate's own 0.1.19.0 fetch asks only about items with stock to sell, and an item with nothing to sell can never be listed or vendored, so it is not blindness to have no price for it. The count (and both announce branches) now runs over the stocked set, the log line reports the stocked count explicitly, and no-stock rules can no longer make a good sweep print a warning (files: `AutoMarket/MarketGate.cs` CountSight stocked-only; `AutoMarket/AutoMarketService.cs` ApplyValueGate announce).\n\n\n- The gate's uncertainty polarity is untouched: no price data still LISTS (never vendors), vendoring still fires only on a confirmed, fresh, quality-matched price, and a missing-entrust menu that survives the grace window still stops the sweep on purpose with the same named reason.\n- Offline suite: new case 49 pins the menu matcher (rendered full-board/empty-board/bare-sheet text against the template, with wrong-menu and empty-sheet controls), the 2 s grace window constant, the unchanged decision table, and the stocked-set sight count (fully sighted reads Unpriceable 0, null quotes still read fully blind, partial blindness still named, and the old whole-list shape is pinned as the no-stock-map control).\n\nv0.1.22.0 (2026-09-07)\n\n\n- **Bag-marker dots could land on empty slots: each dot window kept the default ImGui window padding, shifting every dot a full padding-size off its own cell corner onto the neighbour cell.** Each dot is its own borderless overlay window positioned at its cell corner, and unlike the retainer-button overlay (MarketAutomation.cs ImGuiSetup) the marker windows never zeroed WindowPadding/WindowBorderSize, so the drawn circle started down-right of the intended corner - on the neighbouring cell, which in a half-empty bag is an empty slot. The marker windows now pin both to zero around every dot, so each dot lands inside its own cell corner (files: AutoMarketMarkers.cs DrawForGrid style vars).\n\nv0.1.21.0 (2026-09-07)\n\n\n- **Bag markers now cover EVERY marketable item, not just Auto-Market list items - two-dot system.** A marketable stack with no dot meant \"this cannot go on the board\", but most stacks in a bag CAN be put on the market board, so most of the bag showed nothing and the feature read as broken. Now every stack in the player's four bags carries exactly one of: a GREEN dot (this stack is on the Auto-Market list, enabled - the meaning from 0.1.17.0, unchanged), a GREY dot (this stack can go on the market board but is not on the Auto-Market list), or no dot at all (the item cannot be listed ever - untradable or no board category). Grey is derived from the same marketability test the inventory right-click menu uses (`!item.IsUntradable && item.ItemSearchCategory.RowId != 0`); an on-list stack stays green even if the item sheet calls it untradable, so a config-entry bug is shown rather than hidden. An entry that is on the list but DISABLED reads as not-on-the-list: grey when the item is marketable, no dot when it is not. The summary line now reports both colours, e.g. \"3 on-list (green) + 27 marketable not listed (grey) of 35 stacks on InventoryGrid0E (Inventory1)\". The marker still draws only on the player's four bags, never on a retainer's inventory view (files: `AutoMarket/MarkerMatch.cs` MarkKind/Classify new, `AutoMarketMarkers.cs` BuildMarketableScratch/two-colour draw, offline suite case 48).\n\nv0.1.20.0 (2026-09-07)\n\n\n- **Release-notes correction, no plugin code changed from 0.1.19.0 - the offline test count in the 0.1.19.0 notes said 372; the shipped suite measures 366 PASS / 0 FAIL.** These notes are what the in-game update popup shows, so the number is corrected and the build republished under a new version number (never a same-version zip overwrite - clients cache by version). The fix itself is unchanged: the value gate no longer goes silently blind (0.1.19.0).\n- The offline test file itself also failed to compile as shipped in 0.1.19.0 - two fixture mistakes in the new blind-gate case (a one-unit stack read as nothing-to-sell with partial listings off, and a sighted-run expectation that ignored the fixture's own two no-stock rules) plus a lowercase helper call. The case now compiles and passes: the suite measures 366 PASS / 0 FAIL with all ten blind-gate checks green, including the controls (a stale quote does not count as judged; a fresh quote without a listing of the needed quality does not judge an HQ rule) (files: `tests/LazyMarketCompanion.Harness/Program.cs`, case 47).\n\nv0.1.19.0 (2026-09-07)\n\n\n- **The Auto-Market value gate could run BLIND and say nothing about it - below-threshold items were listed at the market price (the 1-gil listings) while the gate announced \"every item is above the 100 gil net threshold\".** On 2026-09-07 the gate's single Universalis request (which carried every enabled list id - 243 of them) timed out at the gateway on 9 of 10 sweeps; the wait step expired, the plan was built with no price data, and under the gate's uncertainty rule every item LISTED. The same blind run printed the fully-checked announce, so nothing anywhere said the threshold had not actually been judged. Items the gate had itself priced under the threshold hours earlier (item 19990 at ~79 gil net, 12593 at ~23) were listed and sold at 1 gil. The gate now asks only about items that have stock to sell (243 ids down to the ~25 stocked ones), asks in chunks of 50 so one dead request cannot blind the whole gate, waits up to 25 s instead of 10 s, and - when items went unchecked - says so: \"value gate: no price data for N of M item(s); they will list unchecked - vendoring still only fires on a confirmed price\" (files: `AutoMarket/MarketGate.cs` GateFetchIds/CountSight/UsableQuote new; `UniversalisPriceProvider.cs` GetRuleQuotes chunked; `MarketAutomation.cs` StartGateLookup/GateWait).\n- **A timed-out gate request died in total silence - the designed warning line could never fire.** The HTTP client's own timeout throws a cancellation-shaped exception, which the old lookup code caught with a bare \"cancelled - return\" arm that also matched it: no warning was logged, the wait step was never told the fetch had failed, and it burned its full limit polling a dead request. The cancel arm now only matches a genuine cancel (a new lookup superseding this one, or the sweep aborting); a timeout is logged as the lookup failure it is and completes the wait with no data - a declared blind gate, never a silent one (files: `MarketAutomation.cs`, StartGateLookup catch filter; `UniversalisPriceProvider.cs`, per-chunk catch).\n\n\n- Vendoring still only fires on a confirmed, fresh, quality-matched price - a blind or partially blind gate lists unchecked items exactly as before, by design (uncertainty lists, never vendors). What changed is that the run now SAYS which items were unchecked, and the fetch is small enough to actually land on days Universalis is struggling.\n- Offline test suite at 372 checks including the new case. The new case pins the blind-gate facts: the fetch list is stocked-only (and agrees with the verdict's own sellable arithmetic, including partial-stack flooring), and the sight count distinguishes a fully-judged run (old announce wording kept) from a partially or fully blind one (the new no-data line). Control cases: a stale quote does not count as judged, and a fresh quote without a listing of the needed quality does not judge an HQ rule (files: `tests/LazyMarketCompanion.Harness/Program.cs`, case 47).\n\nv0.1.18.0 (2026-09-07)\n\n\n- **Auto-Market bag markers drew over the wrong bag page: dots could land on gear and furnishings that are not on the Auto-Market list while actual Auto-Market items got none.** The markers paired each bag-grid window with an inventory container using a fixed table that was wrong in both display modes: in the expanded (armoire-style) view each expanded grid page was treated as a different bag page than the one it shows, and in the normal tabbed view the single panel was treated as four fixed pages when it actually shows whichever page the inventory tab is on. The pairing now lives in `AutoMarket/GridMap.cs` (new, offline-tested) and follows the display mode: expanded grids pair with their pages by name, the tabbed panel follows the parent Inventory window's selected tab, and a grid that cannot be resolved draws no dot at all rather than guessing. The markers summary line in the log now also names the container it marked (\\\"... on InventoryGrid0E (Inventory1)\\\") so the pairing is visible when verifying (files: `AutoMarketMarkers.cs` `Draw`/`DrawForGrid`, `AutoMarket/GridMap.cs` new, offline suite case 46).",
+    "Changelog": "v0.1.25.0 (2026-09-07)\n\n\n- Closed the marker-gate bypass left by v0.1.24.0: the per-binding root-node visibility check ran only while the \"InventoryExpansion\" parent window resolved and was ready (AutoMarketMarkers.cs Draw), so a frame where that parent could not be resolved drew dots over every resolved grid with no visibility check - the same Key Items & Crystals bleed-through the gate was meant to stop. The check is now unconditional per resolved binding (AutoMarketMarkers.cs Draw gate), with no dependency on the parent unit resolving that frame.\n\n\n- No change to GridMap.cs, dot semantics, the padding fix, or the per-grid marker log line; this release only removes the conditional around the visibility check introduced in v0.1.24.0.\n\nv0.1.24.0 (2026-09-07)\n\n\n- **Bag-marker dots bled through onto the \"Key Items & Crystals\" page of the 7.x inventory window: with that page open, dots for the player's four bags were drawn across the key-item and crystal slots.** The 7.x window owns every grid (all four bags plus the key-item/crystal grids) as CHILD addons, and switching pages only hides the hidden grids' root NODE - the hidden grid's addon itself stays alive, ready, and even reports IsVisible, so the marker pass still found it, still read the right container, and drew its dots at the stale node positions of a grid that was not on screen (which is exactly where the key-item page's cells now sit). Each resolved grid is now gated on its own RootNode's Visible flag (AtkResNode::IsVisible, the same per-node flag the game toggles per page) before any dot is drawn, so a dot only ever appears over a grid that is actually on screen this frame; the \"Key Items & Crystals\" page carries none, and every visible bag page is unchanged (files: `AutoMarketMarkers.cs` Draw per-binding RootNode gate + InventoryExpansionAddon const, doc comment).\n\nv0.1.23.0 (2026-09-07)\n\n\n- **A sweep that was about to vendor its first-ever below-threshold items stopped itself 181 ms into the retainer sell-list close: \"the retainer bell menu is open but has no 'Entrust or withdraw items' entry\".** The vendor leg's menu matcher compared the Addon sheet's TEMPLATE (\"Entrust or withdraw items. (Slots filled: 0)\") against the RENDERED menu entry with a whole-text StartsWith - and the bracketed number is a live count of the retainer's occupied market slots, so on a full board the entry reads \"(Slots filled: 20)\" and the comparison fails even though the menu is perfect. The leg now compares the stable prefix before any bracketed payload, so every board state matches (files: `AutoMarket/MarketGate.cs` MatchMenuEntry new; `Plugin.cs` MenuText new; `MarketAutomation.cs` ClickRetainerEntrust/ClickSellItems).\n- **That same failure carried a secondary crash: \"Object reference not set to an instance of an object at ECommons.Automation.LegacyTaskManager.TaskManager.Tick\", 3 ms after the stop.** The stop-on-failure path tore the whole task queue down from INSIDE the step the task manager was executing; the task manager's next line read its just-nulled current task for a completion log line and threw. The NRE was caught and the abort still landed, so the stop worked - but it logged a crash that was not one. The teardown now runs from the plugin's own per-frame watcher, one frame later, outside any task-manager iteration (files: `MarketAutomation.cs` StopOnVendorFailure/Draw watcher, new deferred-teardown state).\n- **A first-tick \"menu is up but has no entry\" is now a WAIT, not a verdict.** The 15:06 stop fired 181 ms after the sell-list close was queued - mid menu transition, when the entrust menu may simply not be back yet. A mismatch now waits out a 2-second grace window before the verdict; only a mismatch that survives it stops the sweep, so the named stop line fires on a genuinely wrong menu, never 181 ms into a close (files: `AutoMarket/MarketGate.cs` MenuGraceWindowMs; `MarketAutomation.cs` ClickRetainerEntrust).\n- **The value gate's \"no price data\" announce was itself miscalibrated: on a fully sighted sweep it warned \"no price data for ~230 of 257 item(s)\" and the clean \"every item is above the threshold\" line was unreachable.** The sight count ran over the WHOLE enabled list; the gate's own 0.1.19.0 fetch asks only about items with stock to sell, and an item with nothing to sell can never be listed or vendored, so it is not blindness to have no price for it. The count (and both announce branches) now runs over the stocked set, the log line reports the stocked count explicitly, and no-stock rules can no longer make a good sweep print a warning (files: `AutoMarket/MarketGate.cs` CountSight stocked-only; `AutoMarket/AutoMarketService.cs` ApplyValueGate announce).\n\n\n- The gate's uncertainty polarity is untouched: no price data still LISTS (never vendors), vendoring still fires only on a confirmed, fresh, quality-matched price, and a missing-entrust menu that survives the grace window still stops the sweep on purpose with the same named reason.\n- Offline suite: new case 49 pins the menu matcher (rendered full-board/empty-board/bare-sheet text against the template, with wrong-menu and empty-sheet controls), the 2 s grace window constant, the unchanged decision table, and the stocked-set sight count (fully sighted reads Unpriceable 0, null quotes still read fully blind, partial blindness still named, and the old whole-list shape is pinned as the no-stock-map control).\n\nv0.1.22.0 (2026-09-07)\n\n\n- **Bag-marker dots could land on empty slots: each dot window kept the default ImGui window padding, shifting every dot a full padding-size off its own cell corner onto the neighbour cell.** Each dot is its own borderless overlay window positioned at its cell corner, and unlike the retainer-button overlay (MarketAutomation.cs ImGuiSetup) the marker windows never zeroed WindowPadding/WindowBorderSize, so the drawn circle started down-right of the intended corner - on the neighbouring cell, which in a half-empty bag is an empty slot. The marker windows now pin both to zero around every dot, so each dot lands inside its own cell corner (files: AutoMarketMarkers.cs DrawForGrid style vars).\n\nv0.1.21.0 (2026-09-07)\n\n\n- **Bag markers now cover EVERY marketable item, not just Auto-Market list items - two-dot system.** A marketable stack with no dot meant \"this cannot go on the board\", but most stacks in a bag CAN be put on the market board, so most of the bag showed nothing and the feature read as broken. Now every stack in the player's four bags carries exactly one of: a GREEN dot (this stack is on the Auto-Market list, enabled - the meaning from 0.1.17.0, unchanged), a GREY dot (this stack can go on the market board but is not on the Auto-Market list), or no dot at all (the item cannot be listed ever - untradable or no board category). Grey is derived from the same marketability test the inventory right-click menu uses (`!item.IsUntradable && item.ItemSearchCategory.RowId != 0`); an on-list stack stays green even if the item sheet calls it untradable, so a config-entry bug is shown rather than hidden. An entry that is on the list but DISABLED reads as not-on-the-list: grey when the item is marketable, no dot when it is not. The summary line now reports both colours, e.g. \"3 on-list (green) + 27 marketable not listed (grey) of 35 stacks on InventoryGrid0E (Inventory1)\". The marker still draws only on the player's four bags, never on a retainer's inventory view (files: `AutoMarket/MarkerMatch.cs` MarkKind/Classify new, `AutoMarketMarkers.cs` BuildMarketableScratch/two-colour draw, offline suite case 48).\n\nv0.1.20.0 (2026-09-07)\n\n\n- **Release-notes correction, no plugin code changed from 0.1.19.0 - the offline test count in the 0.1.19.0 notes said 372; the shipped suite measures 366 PASS / 0 FAIL.** These notes are what the in-game update popup shows, so the number is corrected and the build republished under a new version number (never a same-version zip overwrite - clients cache by version). The fix itself is unchanged: the value gate no longer goes silently blind (0.1.19.0).\n- The offline test file itself also failed to compile as shipped in 0.1.19.0 - two fixture mistakes in the new blind-gate case (a one-unit stack read as nothing-to-sell with partial listings off, and a sighted-run expectation that ignored the fixture's own two no-stock rules) plus a lowercase helper call. The case now compiles and passes: the suite measures 366 PASS / 0 FAIL with all ten blind-gate checks green, including the controls (a stale quote does not count as judged; a fresh quote without a listing of the needed quality does not judge an HQ rule) (files: `tests/LazyMarketCompanion.Harness/Program.cs`, case 47).",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IsHide": false,
@@ -4550,7 +4550,7 @@
     "Author": "Sevii",
     "DalamudApiLevel": 15,
     "Description": "Auto updates mods and allows for more customization such as color and compositing onto other files",
-    "DownloadCount": 261427,
+    "DownloadCount": 261434,
     "DownloadLinkInstall": "https://aetherment.sevii.dev/plugin/install",
     "DownloadLinkTesting": "https://aetherment.sevii.dev/plugin/install",
     "DownloadLinkUpdate": "https://aetherment.sevii.dev/plugin/update",
