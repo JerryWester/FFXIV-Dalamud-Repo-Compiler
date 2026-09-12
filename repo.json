@@ -154,7 +154,7 @@
     "Description": "Locks player movement while casting and allows for maximum caster uptime during the course of a fight.",
     "Tags": [],
     "InternalName": "Orbwalker",
-    "DownloadCount": 86349,
+    "DownloadCount": 86350,
     "LastUpdate": 1777528744,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/1.0.1.10/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/1.0.1.10/update/latest.zip",
@@ -176,7 +176,7 @@
       "convenience"
     ],
     "InternalName": "PandorasBox",
-    "DownloadCount": 1347198,
+    "DownloadCount": 1347223,
     "LastUpdate": 1780112081,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.4/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.4/update/latest.zip",
@@ -198,16 +198,16 @@
       "combat"
     ],
     "InternalName": "Avarice",
-    "DownloadCount": 377298,
-    "LastUpdate": 1785467258,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.12/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.12/update/latest.zip",
-    "AssemblyVersion": "2.2.0.12",
+    "DownloadCount": 378294,
+    "LastUpdate": 1785546003,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.13/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.13/update/latest.zip",
+    "AssemblyVersion": "2.2.0.13",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
-    "Changelog": "- Added new settings",
-    "TestingAssemblyVersion": "2.2.0.13",
-    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.13/install/testing.zip",
+    "Changelog": "- Update RSR IPC",
+    "TestingAssemblyVersion": "2.2.0.15",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.15/install/testing.zip",
     "TestingDalamudApiLevel": "15",
     "IconUrl": "https://puni.sh/api/plugins/icon/11"
   },
@@ -223,7 +223,7 @@
       "palace"
     ],
     "InternalName": "PalacePal",
-    "DownloadCount": 250490,
+    "DownloadCount": 250499,
     "LastUpdate": 1777738875,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/update/latest.zip",
@@ -232,28 +232,6 @@
     "DalamudApiLevel": "15",
     "Changelog": "",
     "IconUrl": "https://puni.sh/api/plugins/icon/32"
-  },
-  {
-    "Author": "Taurenkey, Gid, NightmareXIV",
-    "Name": "LazyLoot",
-    "Punchline": "Dungeon Loot but Lazy.",
-    "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
-    "Tags": [
-      "plugin",
-      "loot",
-      "utility",
-      "other"
-    ],
-    "InternalName": "LazyLoot",
-    "DownloadCount": 247574,
-    "LastUpdate": 1777584039,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.3/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.3/update/latest.zip",
-    "AssemblyVersion": "5.3.3.3",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "- 7.5",
-    "IconUrl": "https://puni.sh/api/plugins/icon/9"
   },
   {
     "Author": "Det, croizat",
@@ -265,7 +243,7 @@
       "Fishing"
     ],
     "InternalName": "AutoHook",
-    "DownloadCount": 2492297,
+    "DownloadCount": 2493105,
     "LastUpdate": 1789142683,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.0.98/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.0.98/update/latest.zip",
@@ -279,68 +257,26 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/47"
   },
   {
-    "Author": "the Puni.sh Quest Squad",
-    "Name": "Questionable",
-    "Punchline": "A tiny quest helper plugin.",
-    "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
+    "Author": "Taurenkey, Gid, NightmareXIV",
+    "Name": "LazyLoot",
+    "Punchline": "Dungeon Loot but Lazy.",
+    "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
     "Tags": [
-      "quest",
-      "msq",
-      "qol",
-      "utility"
+      "plugin",
+      "loot",
+      "utility",
+      "other"
     ],
-    "InternalName": "Questionable",
-    "DownloadCount": 2128687,
-    "LastUpdate": 1789217789,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.756.2.5/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.756.2.5/update/latest.zip",
-    "AssemblyVersion": "15.756.2.5",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "- Change: Comment field becomes scrollable if more than 5 lines -alydev",
-    "TestingAssemblyVersion": "15.293.1.0",
-    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.293.1.0/install/testing.zip",
-    "TestingDalamudApiLevel": "15",
-    "IconUrl": "https://puni.sh/api/plugins/icon/94"
-  },
-  {
-    "Author": "Chalkos, NightmareXIV",
-    "Name": "Marketbuddy",
-    "Punchline": "Less clicks, more gil!",
-    "Description": "Helper for your day-to-day market operations.",
-    "Tags": [
-      "marketboard"
-    ],
-    "InternalName": "Marketbuddy",
-    "DownloadCount": 21374,
-    "LastUpdate": 1777575334,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/131/Marketbuddy/versions/0.2.4.2/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/131/Marketbuddy/versions/0.2.4.2/update/latest.zip",
-    "AssemblyVersion": "0.2.4.2",
+    "InternalName": "LazyLoot",
+    "DownloadCount": 247584,
+    "LastUpdate": 1777584039,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.3/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.3/update/latest.zip",
+    "AssemblyVersion": "5.3.3.3",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Changelog": "- 7.5",
-    "IconUrl": "https://puni.sh/api/plugins/icon/131"
-  },
-  {
-    "Author": "daemitus, croizat",
-    "Name": "Yes Already",
-    "Punchline": "Clicks Yes in various dialogs you've specified.",
-    "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
-    "Tags": [],
-    "InternalName": "YesAlready",
-    "DownloadCount": 1362625,
-    "LastUpdate": 1789167096,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.4.3/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.4.3/update/latest.zip",
-    "AssemblyVersion": "1.15.4.3",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "",
-    "TestingAssemblyVersion": "1.10.4.0",
-    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.10.4.0/install/testing.zip",
-    "TestingDalamudApiLevel": "12",
-    "IconUrl": "https://puni.sh/api/plugins/icon/26"
+    "IconUrl": "https://puni.sh/api/plugins/icon/9"
   },
   {
     "Author": "kawaii, NightmareXIV",
@@ -349,7 +285,7 @@
     "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
     "Tags": [],
     "InternalName": "AutoRetainer",
-    "DownloadCount": 2493404,
+    "DownloadCount": 2493523,
     "LastUpdate": 1788386232,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.1.34/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.1.34/update/latest.zip",
@@ -363,6 +299,70 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/24"
   },
   {
+    "Author": "daemitus, croizat",
+    "Name": "Yes Already",
+    "Punchline": "Clicks Yes in various dialogs you've specified.",
+    "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
+    "Tags": [],
+    "InternalName": "YesAlready",
+    "DownloadCount": 1363410,
+    "LastUpdate": 1789167096,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.4.3/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.4.3/update/latest.zip",
+    "AssemblyVersion": "1.15.4.3",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "",
+    "TestingAssemblyVersion": "1.10.4.0",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.10.4.0/install/testing.zip",
+    "TestingDalamudApiLevel": "12",
+    "IconUrl": "https://puni.sh/api/plugins/icon/26"
+  },
+  {
+    "Author": "Chalkos, NightmareXIV",
+    "Name": "Marketbuddy",
+    "Punchline": "Less clicks, more gil!",
+    "Description": "Helper for your day-to-day market operations.",
+    "Tags": [
+      "marketboard"
+    ],
+    "InternalName": "Marketbuddy",
+    "DownloadCount": 21380,
+    "LastUpdate": 1777575334,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/131/Marketbuddy/versions/0.2.4.2/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/131/Marketbuddy/versions/0.2.4.2/update/latest.zip",
+    "AssemblyVersion": "0.2.4.2",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "- 7.5",
+    "IconUrl": "https://puni.sh/api/plugins/icon/131"
+  },
+  {
+    "Author": "the Puni.sh Quest Squad",
+    "Name": "Questionable",
+    "Punchline": "A tiny quest helper plugin.",
+    "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
+    "Tags": [
+      "quest",
+      "msq",
+      "qol",
+      "utility"
+    ],
+    "InternalName": "Questionable",
+    "DownloadCount": 2129978,
+    "LastUpdate": 1789217789,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.756.2.5/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.756.2.5/update/latest.zip",
+    "AssemblyVersion": "15.756.2.5",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "- Change: Comment field becomes scrollable if more than 5 lines -alydev",
+    "TestingAssemblyVersion": "15.293.1.0",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.293.1.0/install/testing.zip",
+    "TestingDalamudApiLevel": "15",
+    "IconUrl": "https://puni.sh/api/plugins/icon/94"
+  },
+  {
     "Author": "Team Wrath",
     "Name": "Wrath Combo",
     "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
@@ -373,7 +373,7 @@
       "pvp"
     ],
     "InternalName": "WrathCombo",
-    "DownloadCount": 1184228,
+    "DownloadCount": 1184305,
     "LastUpdate": 1788017040,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.23/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.23/update/latest.zip",
@@ -396,7 +396,7 @@
       "Accessibility"
     ],
     "InternalName": "Splatoon",
-    "DownloadCount": 2236853,
+    "DownloadCount": 2236914,
     "LastUpdate": 1787793609,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.25/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.25/update/latest.zip",
@@ -420,7 +420,7 @@
       "automation"
     ],
     "InternalName": "Saucy",
-    "DownloadCount": 1088368,
+    "DownloadCount": 1088445,
     "LastUpdate": 1788197704,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.2.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.2.2/update/latest.zip",
@@ -439,7 +439,7 @@
       "crafting"
     ],
     "InternalName": "Artisan",
-    "DownloadCount": 5930893,
+    "DownloadCount": 5931114,
     "LastUpdate": 1788272491,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.19/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.19/update/latest.zip",
@@ -1111,7 +1111,7 @@
     "Description": "Now for more than crafting!",
     "Tags": [],
     "InternalName": "SomethingNeedDoing",
-    "DownloadCount": 808516,
+    "DownloadCount": 808540,
     "LastUpdate": 1788728171,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/15.9/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/15.9/update/latest.zip",
@@ -1132,7 +1132,7 @@
       "tweaks"
     ],
     "InternalName": "Automaton",
-    "DownloadCount": 954982,
+    "DownloadCount": 955118,
     "LastUpdate": 1789032249,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.215/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.215/update/latest.zip",
@@ -1151,7 +1151,7 @@
       "glamour"
     ],
     "InternalName": "GlamourLog",
-    "DownloadCount": 31558,
+    "DownloadCount": 31585,
     "LastUpdate": 1788935774,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/136/GlamourLog/versions/15.68/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/136/GlamourLog/versions/15.68/update/latest.zip",
@@ -1191,7 +1191,7 @@
     "Description": "Make custom deliveries less annoying by automating the process.",
     "Tags": [],
     "InternalName": "vsatisfy",
-    "DownloadCount": 154894,
+    "DownloadCount": 154896,
     "LastUpdate": 1781106410,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/0.0.0.37/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/0.0.0.37/update/latest.zip",
@@ -1208,7 +1208,7 @@
     "Description": "Automate gathering, workshop assignments, etc.",
     "Tags": [],
     "InternalName": "visland",
-    "DownloadCount": 869997,
+    "DownloadCount": 870012,
     "LastUpdate": 1784403322,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.150/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.150/update/latest.zip",
@@ -1225,7 +1225,7 @@
     "Description": "Based on ezFauxHollows, but uses known patterns instead of general-purpose solver.",
     "Tags": [],
     "InternalName": "vfaux",
-    "DownloadCount": 98041,
+    "DownloadCount": 98042,
     "LastUpdate": 1777496806,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/29/vfaux/versions/0.0.0.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/29/vfaux/versions/0.0.0.12/update/latest.zip",
@@ -1242,7 +1242,7 @@
     "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
     "Tags": [],
     "InternalName": "BossMod",
-    "DownloadCount": 2554763,
+    "DownloadCount": 2555514,
     "LastUpdate": 1789161428,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/7.5.6.5/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/7.5.6.5/update/latest.zip",
@@ -1267,7 +1267,7 @@
     "Description": "Bot that does fall guys event automatically.",
     "Tags": [],
     "InternalName": "vfallguy",
-    "DownloadCount": 57070,
+    "DownloadCount": 57071,
     "LastUpdate": 1777500971,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/41/vfallguy/versions/0.0.0.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/41/vfallguy/versions/0.0.0.12/update/latest.zip",
@@ -1284,7 +1284,7 @@
     "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
     "Tags": [],
     "InternalName": "vnavmesh",
-    "DownloadCount": 1890105,
+    "DownloadCount": 1890209,
     "LastUpdate": 1787843275,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/1.2.3.14/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/1.2.3.14/update/latest.zip",
@@ -1480,7 +1480,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Tempered Release fix by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1369\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.6.3...7.5.6.4",
-    "DownloadCount": 3193218
+    "DownloadCount": 3194344
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1513,7 +1513,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.11/latest.zip",
     "TestingAssemblyVersion": "7.4.5.11",
     "Changelog": "## What's Changed\r\n* First pass on Crucible Board 1 complete. by @wen-ff in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1344\r\n* Board 3 pathway done + some first master board bosses by @Equilius in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1346\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.5.6.4...7.5.6.5",
-    "DownloadCount": 3670745
+    "DownloadCount": 3672594
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1541,7 +1541,7 @@
     "AssemblyVersion": "7.5.5.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.5.5.1/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Move texture loading to the main thread, ran code cleanup by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/19\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.5.5.0...7.5.5.1",
-    "DownloadCount": 37740
+    "DownloadCount": 37746
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1570,7 +1570,7 @@
     "AssemblyVersion": "7.5.0.3",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.5.0.3/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* Added pr buildtest by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/17\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.5.0.2...7.5.0.3",
-    "DownloadCount": 62015
+    "DownloadCount": 62020
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1608,7 +1608,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.5.17/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.5.17",
     "Changelog": "## What's Changed\r\n* Validator/Food setting by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/665\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.5.2...7.5.5.3",
-    "DownloadCount": 1090336
+    "DownloadCount": 1090502
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1634,7 +1634,7 @@
     "AssemblyVersion": "7.5.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.5.0.0/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* api15 by @Shiori-Zephyr in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/16\r\n* API 15 compatibility by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/17\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.4.5.0...7.5.0.0",
-    "DownloadCount": 30789
+    "DownloadCount": 30791
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1665,7 +1665,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "## What's Changed\r\n* Add pr test and bump ecommons by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/8\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.5.0.0...7.5.0.1",
-    "DownloadCount": 19871
+    "DownloadCount": 19877
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1699,7 +1699,7 @@
     "AssemblyVersion": "7.5.6.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.5.6.0/latest.zip",
     "Changelog": "## What's Changed\r\n* Update for patch 7.56 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/28\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.5.5.1...7.5.6.0",
-    "DownloadCount": 46555
+    "DownloadCount": 46599
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1733,7 +1733,7 @@
     "AssemblyVersion": "7.5.5.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/NoSillyReborn/releases/download/7.5.5.0/latest.zip",
     "Changelog": "## What's Changed\r\n* Update for 7.55 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/NoSillyReborn/pull/5\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/NoSillyReborn/compare/7.5.0.2...7.5.5.0",
-    "DownloadCount": 7273
+    "DownloadCount": 7275
   },
   {
     "Author": "Churin",
@@ -1764,7 +1764,7 @@
     "AssemblyVersion": "1.0.0.8",
     "DownloadLinkUpdate": "https://github.com/aventurescence/Understudy/releases/download/v1.0.0.8/latest.zip",
     "Changelog": "### chore: update Dalamud API level to 15 in pluginmanifest\r\n\n\n---\n*Assembly version: 1.0.0.8*\n\n\n**Full Changelog**: https://github.com/aventurescence/Understudy/compare/v1.0.0.7...v1.0.0.8",
-    "DownloadCount": 3485
+    "DownloadCount": 3486
   },
   {
     "Author": "Risa and Contributors",
@@ -2063,28 +2063,6 @@
     "_Dip17Channel": null
   },
   {
-    "Author": "kawaii",
-    "Name": "Chocoholic",
-    "Punchline": "Kweh!",
-    "Description": "Chocoholic is a plugin to automatically queue for and complete Chocobo races in FFXIV.",
-    "Tags": [
-      "chocobo",
-      "gold saucer",
-      "race",
-      "mgp"
-    ],
-    "InternalName": "Chocoholic",
-    "DownloadCount": 5608,
-    "LastUpdate": 1778089832,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/update/latest.zip",
-    "AssemblyVersion": "0.0.0.3",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "Update for Dalamud API 15 and 2026.04.21.0000.0000.",
-    "IconUrl": "https://puni.sh/api/plugins/icon/116"
-  },
-  {
     "Author": "kawaii, NightmareXIV",
     "Name": "Hyperborea",
     "Punchline": "What if we GPosed in the Mordion Gaol?",
@@ -2093,7 +2071,7 @@
       "gpose"
     ],
     "InternalName": "Hyperborea",
-    "DownloadCount": 48608,
+    "DownloadCount": 48614,
     "LastUpdate": 1787504034,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.1.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.1.2/update/latest.zip",
@@ -2111,12 +2089,34 @@
   },
   {
     "Author": "kawaii",
+    "Name": "Chocoholic",
+    "Punchline": "Kweh!",
+    "Description": "Chocoholic is a plugin to automatically queue for and complete Chocobo races in FFXIV.",
+    "Tags": [
+      "chocobo",
+      "gold saucer",
+      "race",
+      "mgp"
+    ],
+    "InternalName": "Chocoholic",
+    "DownloadCount": 5609,
+    "LastUpdate": 1778089832,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/update/latest.zip",
+    "AssemblyVersion": "0.0.0.3",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "Update for Dalamud API 15 and 2026.04.21.0000.0000.",
+    "IconUrl": "https://puni.sh/api/plugins/icon/116"
+  },
+  {
+    "Author": "kawaii",
     "Name": "Dropbox",
     "Punchline": "Your personal vending machine.",
     "Description": "Your personal vending machine.",
     "Tags": [],
     "InternalName": "Dropbox",
-    "DownloadCount": 49126,
+    "DownloadCount": 49130,
     "LastUpdate": 1783980806,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.15/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.15/update/latest.zip",
@@ -2160,7 +2160,7 @@
       "Gatherers"
     ],
     "InternalName": "ChilledLeves",
-    "DownloadCount": 106548,
+    "DownloadCount": 106554,
     "LastUpdate": 1777774705,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/68/ChilledLeves/versions/1.0.1.24/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/68/ChilledLeves/versions/1.0.1.24/update/latest.zip",
@@ -2179,7 +2179,7 @@
       "Gatherers"
     ],
     "InternalName": "ICE",
-    "DownloadCount": 1234556,
+    "DownloadCount": 1234580,
     "LastUpdate": 1787363615,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/70/ICE/versions/1.0.0.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/70/ICE/versions/1.0.0.2/update/latest.zip",
@@ -2205,7 +2205,7 @@
     "Description": "Your personal Henchman doing all the heavy lifting for you!\n\n- A/B Rank Farmer\n- Hunt Logs\n- Hunt Bills\n- Retainer Creation\n- Character Creation\n- Multi Account Trading\n- Ocean Fishing\n- Chocobokeeps\nand more to come.",
     "Tags": [],
     "InternalName": "Henchman",
-    "DownloadCount": 185951,
+    "DownloadCount": 185964,
     "LastUpdate": 1788540101,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/85/Henchman/versions/3.0.1.26/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/85/Henchman/versions/3.0.1.26/update/latest.zip",
@@ -2225,7 +2225,7 @@
     "Description": "Your personal shopper who will take care of all your currency spendings!\n\nKnightshopper: because even knights deserve a squire for their shopping.",
     "Tags": [],
     "InternalName": "Knightshopper",
-    "DownloadCount": 719,
+    "DownloadCount": 720,
     "LastUpdate": 1789069475,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/173/Knightshopper/versions/1.0.0.5/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/173/Knightshopper/versions/1.0.0.5/update/latest.zip",
@@ -2242,7 +2242,7 @@
     "Description": "Better Grand Company Deliveries",
     "Tags": [],
     "InternalName": "Deliveroo",
-    "DownloadCount": 18194,
+    "DownloadCount": 18198,
     "LastUpdate": 1777864065,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/79/Deliveroo/versions/7.5.0.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/79/Deliveroo/versions/7.5.0.2/update/latest.zip",
@@ -2339,7 +2339,7 @@
       "gearsets"
     ],
     "InternalName": "Gearsetter",
-    "DownloadCount": 35521,
+    "DownloadCount": 35532,
     "LastUpdate": 1777759856,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/98/Gearsetter/versions/4.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/98/Gearsetter/versions/4.3/update/latest.zip",
@@ -2360,7 +2360,7 @@
       "missions"
     ],
     "InternalName": "Squadronista",
-    "DownloadCount": 8598,
+    "DownloadCount": 8600,
     "LastUpdate": 1778554077,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/101/Squadronista/versions/7.5.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/101/Squadronista/versions/7.5.0.0/update/latest.zip",
@@ -2386,7 +2386,7 @@
       "\"AoE\""
     ],
     "InternalName": "VIWI",
-    "DownloadCount": 43591,
+    "DownloadCount": 43594,
     "LastUpdate": 1780272595,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/108/VIWI/versions/0.0.0.62/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/108/VIWI/versions/0.0.0.62/update/latest.zip",
@@ -2412,7 +2412,7 @@
       "erdelf"
     ],
     "InternalName": "AutoDuty",
-    "DownloadCount": 1877135,
+    "DownloadCount": 1877193,
     "LastUpdate": 1786992730,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.335/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.335/update/latest.zip",
@@ -2533,7 +2533,7 @@
       "venture lists"
     ],
     "InternalName": "ARControl",
-    "DownloadCount": 4343,
+    "DownloadCount": 4344,
     "LastUpdate": 1787594633,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/99/ARControl/versions/8.7/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/99/ARControl/versions/8.7/update/latest.zip",
@@ -2687,7 +2687,7 @@
       "dungeon"
     ],
     "InternalName": "NecroLens",
-    "DownloadCount": 76935,
+    "DownloadCount": 76936,
     "LastUpdate": 1777738526,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/53/NecroLens/versions/1.0.8.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/53/NecroLens/versions/1.0.8.12/update/latest.zip",
@@ -2733,7 +2733,7 @@
     "Description": "Advanced inventory management with safety filters and auto-discard",
     "Tags": [],
     "InternalName": "wahventory",
-    "DownloadCount": 61619,
+    "DownloadCount": 61620,
     "LastUpdate": 1780756377,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/91/wahventory/versions/4.6.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/91/wahventory/versions/4.6.0.0/update/latest.zip",
@@ -2749,7 +2749,7 @@
     "Description": "Jumping Puzzle Directory for the Strange Housing Discord",
     "Tags": [],
     "InternalName": "WahJumps",
-    "DownloadCount": 2657,
+    "DownloadCount": 2658,
     "LastUpdate": 1785625039,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/93/WahJumps/versions/1.0.11.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/93/WahJumps/versions/1.0.11.0/update/latest.zip",
@@ -2789,7 +2789,7 @@
       "wah"
     ],
     "InternalName": "PaissaWah",
-    "DownloadCount": 416,
+    "DownloadCount": 418,
     "LastUpdate": 1778548030,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/139/PaissaWah/versions/1.0.0.7/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/139/PaissaWah/versions/1.0.0.7/update/latest.zip",
@@ -2811,7 +2811,7 @@
       "quality of life"
     ],
     "InternalName": "RepairDeez",
-    "DownloadCount": 39,
+    "DownloadCount": 40,
     "LastUpdate": 1788733203,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/175/RepairDeez/versions/0.3.1.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/175/RepairDeez/versions/0.3.1.0/update/latest.zip",
@@ -2832,7 +2832,7 @@
       "travel"
     ],
     "InternalName": "BstHelper",
-    "DownloadCount": 227,
+    "DownloadCount": 262,
     "LastUpdate": 1789231486,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/176/BstHelper/versions/0.1.7.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/176/BstHelper/versions/0.1.7.0/update/latest.zip",
@@ -2893,7 +2893,7 @@
       "Cutscene"
     ],
     "InternalName": "Skippy",
-    "DownloadCount": 3205,
+    "DownloadCount": 3206,
     "LastUpdate": 1778506288,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/130/Skippy/versions/2.2.4.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/130/Skippy/versions/2.2.4.2/update/latest.zip",
@@ -3045,7 +3045,7 @@
     "LastUpdate": 1789161126,
     "Changelog": "v0.0.0.45 release of XA Slave.",
     "IsTestingExclusive": false,
-    "DownloadCount": 3397,
+    "DownloadCount": 3408,
     "RepoTitle": "XA Enterprise",
     "SourceRepoName": "XA-Slave",
     "SourceRepoUrl": "https://github.com/xa-io/XA-Slave",
@@ -3105,7 +3105,7 @@
     "LastUpdate": 1788958212,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 7301,
+    "DownloadCount": 7302,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "FrenRider",
     "SourceRepoUrl": "https://github.com/McVaxius/FrenRider",
@@ -3150,7 +3150,7 @@
     "LastUpdate": 1788924410,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 9013,
+    "DownloadCount": 9014,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "LootGoblin",
     "SourceRepoUrl": "https://github.com/McVaxius/LootGoblin",
@@ -3183,7 +3183,7 @@
     "LastUpdate": 1789012943,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 4396,
+    "DownloadCount": 4399,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "MOGTOME",
     "SourceRepoUrl": "https://github.com/McVaxius/MOGTOME",
@@ -3215,7 +3215,7 @@
     "LastUpdate": 1789182853,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 5920,
+    "DownloadCount": 5925,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "VERMAXION",
     "SourceRepoUrl": "https://github.com/McVaxius/VERMAXION",
@@ -3245,7 +3245,7 @@
     "LastUpdate": 1788893862,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 1884,
+    "DownloadCount": 1885,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "HelloFellowHuman",
     "SourceRepoUrl": "https://github.com/McVaxius/HelloFellowHuman",
@@ -3534,7 +3534,7 @@
     "Description": "HealBot has four operating roles: Off, Stand-alone, Helper, and Newb. Stand-alone runs HealBot, healer-first JOAT, or BRD/MCH PowerlevelBot without networking. Helper listens for one authenticated Newb and activates JOAT for remote healing and chase; Newb connects asynchronously and performs no local healing or attacking. Pairing traffic is authenticated but not encrypted, so names and coordinates remain visible on the network. Use /healbot, /hb, or /copellia to open.",
     "InternalName": "Coppelia",
     "IconUrl": "https://raw.githubusercontent.com/McVaxius/Coppelia/main/Coppelia/images/icon.png",
-    "AssemblyVersion": "2.3.0.0",
+    "AssemblyVersion": "2.3.0.1",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Tags": [
@@ -3547,12 +3547,12 @@
     "CategoryTags": [
       "utility"
     ],
-    "DownloadLinkInstall": "https://github.com/McVaxius/Coppelia/releases/download/v2.3.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/Coppelia/releases/download/v2.3.0.0/latest.zip",
-    "LastUpdate": 1789018184,
+    "DownloadLinkInstall": "https://github.com/McVaxius/Coppelia/releases/download/v2.3.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/Coppelia/releases/download/v2.3.0.1/latest.zip",
+    "LastUpdate": 1789241398,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 219,
+    "DownloadCount": 221,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "Coppelia",
     "SourceRepoUrl": "https://github.com/McVaxius/Coppelia",
@@ -3595,7 +3595,7 @@
     "Punchline": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?",
     "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
     "InternalName": "ADS",
-    "AssemblyVersion": "0.9.1.3",
+    "AssemblyVersion": "0.9.1.4",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Tags": [
@@ -3608,12 +3608,12 @@
     "CategoryTags": [
       "utility"
     ],
-    "DownloadLinkInstall": "https://github.com/McVaxius/ADS/releases/download/v0.9.1.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/ADS/releases/download/v0.9.1.3/latest.zip",
-    "LastUpdate": 1789088867,
+    "DownloadLinkInstall": "https://github.com/McVaxius/ADS/releases/download/v0.9.1.4/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/ADS/releases/download/v0.9.1.4/latest.zip",
+    "LastUpdate": 1789241393,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 5293,
+    "DownloadCount": 5300,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "ADS",
     "SourceRepoUrl": "https://github.com/McVaxius/ADS",
@@ -3686,7 +3686,7 @@
       "automation"
     ],
     "InternalName": "Mogmail",
-    "DownloadCount": 2513,
+    "DownloadCount": 2515,
     "LastUpdate": 1787390610,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/148/Mogmail/versions/1.2.6.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/148/Mogmail/versions/1.2.6.0/update/latest.zip",
@@ -3714,7 +3714,7 @@
       "automation"
     ],
     "InternalName": "FCCH",
-    "DownloadCount": 2605,
+    "DownloadCount": 2606,
     "LastUpdate": 1788388208,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/149/FCCH/versions/2.5.1.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/149/FCCH/versions/2.5.1.0/update/latest.zip",
@@ -3881,7 +3881,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 9370,
+    "DownloadCount": 9382,
     "LastUpdate": "1787083573"
   },
   {
@@ -3909,7 +3909,7 @@
     "Punchline": "Doman Mahjong, solved for you.",
     "Description": "Reads your Doman Mahjong hand and either suggests the best discard or plays the match for you.",
     "Changelog": "v0.1.2.3: Fix the in-game suggestion highlight after a call. Once you called pon, chi, or kan, the highlight could jump to the wall along the top of the board or land on the wrong tile, because it located your hand by geometry and the shrunken hand let the perfectly-aligned wall slots win. It now anchors to the bottom-most row (your hand is always at the bottom) and ignores melded tiles, so the outline stays on the suggested discard. The hand reading and suggestion were always correct; only the on-tile outline was affected.",
-    "DownloadCount": 7302,
+    "DownloadCount": 7307,
     "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
@@ -3946,7 +3946,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 14259,
+    "DownloadCount": 14281,
     "LastUpdate": "1788805415"
   },
   {
@@ -3975,7 +3975,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 28918,
+    "DownloadCount": 29049,
     "LastUpdate": "1789137218"
   },
   {
@@ -4004,7 +4004,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 9638,
+    "DownloadCount": 9651,
     "LastUpdate": "1788805445"
   },
   {
@@ -4037,7 +4037,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-Aetherphone/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 284169,
+    "DownloadCount": 285352,
     "LastUpdate": "1789041447"
   },
   {
@@ -4284,7 +4284,7 @@
     "Description": "Automates FATE grinding, including Zodiac Atma, Anima Luminous Crystals, Resistance Memories, Phantom Demiatmas, Yo-kai Watch Medals, and Bicolor Gemstones. Seamlessly integrates with vnavmesh for pathing and flight, lifestream for zone swapping, TextAdvance for dialogue skipping, and Gluttony Combo/BossMod for combat. Use /lazyfate to open.",
     "InternalName": "LazyFateAutomation",
     "AssemblyVersion": "0.0.2.0",
-    "Changelog": "v0.0.3.0 (2026-09-07)\n\n\n- Dashboard snapshot endpoint: the plugin now serves a read-only JSON snapshot of FATE and hunt state at http://127.0.0.1:10505/fates on the game host (new FateSnapshot.cs, FateSnapshotServer + FateSnapshotService). Loopback-only, no settings. The home dashboard relay polls it; nothing in the plugin's FATE automation behaviour changes.\n- The snapshot lists each active FATE with progress, seconds remaining, bonus flag, and whether the player is inside it, capped at the 12 most relevant (joined FATE first, soonest to expire next).\n- The snapshot carries a session counter of FATEs completed (a joined FATE that reaches 100% and then ends counts once) and the number of unlocked hunt bills with their total monster kills so far.\n- The snapshot names one live elite hunt mark present in the current zone (the game's own hunt-target check, MobHunt.IsHuntTarget); no name when none is up.\n- New debug command: \"/lazyfate snapshot\" prints the current snapshot state to the plugin log for troubleshooting.\n\n\n- The snapshot endpoint answers 503 only before the first character loads (title screen); afterwards it always serves the latest snapshot, matching LazyRetainerLive's behaviour.\n\nv0.0.2.0 (2026-09-05)\n\n- Added the in-game \"What's new\" popup. After Lazy Fate Automation updates, its changelog now opens once inside the game so the changes are visible without a trip to GitHub. It waits until the character is logged in and out of combat, duty, cutscenes and zoning; closing it (Got it, X or Escape) marks it read. Type `/lazyfate changelog` any time to reopen it.\n- No change to FATE grinding: zone swapping, the duty pause, the Gluttony lease and every sort/blacklist setting are unchanged.\n\nv0.0.1.45 - 2026-08-17\n- **Pauses inside instanced content and RELEASES the Gluttony lease.** `FateGrind` had no duty gate: queuing\n- **Auto-Rotation control actually works now.** `GluttonyComboIPC.Enable()` called `SetAutoRotationConfigState`\n- **`InvalidLease` handled on every IPC call** (`SetAutoRotationState`, `SetAutoRotationConfigState`,\n- IPC warnings are throttled to one per 10s.\n\nv0.0.1.44 - 2026-06-27\n- **Stop now halts vnavmesh immediately.** Hitting Stop (or `/lazyfate stop`) while the bot was pathfinding/flying to a FATE previously left vnavmesh navigating to the destination on its own - cancelling the plugin's task does not stop vnav's in-flight movement. `FateToolKit` Running=false and the `FateGrind` task teardown now call `Svc.Navmesh.PathfindCancelAll()` + `Svc.Navmesh.Stop()` (cancel any in-progress pathfind AND stop following the current path), so the character stops the moment Stop is pressed.\n\nv0.0.1.43 - 2026-06-27\n- **Stop now fully releases the Gluttony Combo lease** instead of only disabling auto-rotation. Previously, Stop (and `/lazyfate stop`, and auto-complete) left Gluttony \"controlled by Lazy Fate Automation\" with the lease still held, so manual/macro control of Gluttony stayed locked out. `FateToolKit` Running=false now calls `GluttonyComboIPC.Release()` (which calls `ReleaseControl`) instead of `Disable()`; a fresh lease is acquired on the next grind start. Between-FATE pauses still use `Disable()` (keep the lease, just stop the rotation).\n\nv0.0.1.42 - 2026-06-27\n- Renamed the BossMod combat preset `CBT - Gluttony` -> `Gluttony` (dropped the leftover \"CBT -\" prefix that came from the original \"CBT - DwD\" community preset). The status bar now reads just \"Gluttony\".",
+    "Changelog": "v0.0.3.1 (2026-09-12)\n\n\n- Combat now prioritizes a Forlorn Maiden or the Forlorn (the rare bonus mob that can spawn mid-FATE and despawns quickly if not killed) over the FATE's normal targets. When one is present it becomes the automation's hard target until it is defeated or disappears; normal nearest-target behaviour resumes automatically afterward. New setting \"Prioritize Forlorn Maidens\" (on by default).\n- Debug log line when a Forlorn is detected or clears, for troubleshooting.\n\n\n- The fate-priority sort order list could grow duplicate entries over repeated updates (harmless to ordering, just clutter in the settings window). Existing installs are cleaned up automatically on the next load.\n\nv0.0.3.0 (2026-09-07)\n\n\n- Dashboard snapshot endpoint: the plugin now serves a read-only JSON snapshot of FATE and hunt state at http://127.0.0.1:10505/fates on the game host (new FateSnapshot.cs, FateSnapshotServer + FateSnapshotService). Loopback-only, no settings. The home dashboard relay polls it; nothing in the plugin's FATE automation behaviour changes.\n- The snapshot lists each active FATE with progress, seconds remaining, bonus flag, and whether the player is inside it, capped at the 12 most relevant (joined FATE first, soonest to expire next).\n- The snapshot carries a session counter of FATEs completed (a joined FATE that reaches 100% and then ends counts once) and the number of unlocked hunt bills with their total monster kills so far.\n- The snapshot names one live elite hunt mark present in the current zone (the game's own hunt-target check, MobHunt.IsHuntTarget); no name when none is up.\n- New debug command: \"/lazyfate snapshot\" prints the current snapshot state to the plugin log for troubleshooting.\n\n\n- The snapshot endpoint answers 503 only before the first character loads (title screen); afterwards it always serves the latest snapshot, matching LazyRetainerLive's behaviour.\n\nv0.0.2.0 (2026-09-05)\n\n- Added the in-game \"What's new\" popup. After Lazy Fate Automation updates, its changelog now opens once inside the game so the changes are visible without a trip to GitHub. It waits until the character is logged in and out of combat, duty, cutscenes and zoning; closing it (Got it, X or Escape) marks it read. Type `/lazyfate changelog` any time to reopen it.\n- No change to FATE grinding: zone swapping, the duty pause, the Gluttony lease and every sort/blacklist setting are unchanged.\n\nv0.0.1.45 - 2026-08-17\n- **Pauses inside instanced content and RELEASES the Gluttony lease.** `FateGrind` had no duty gate: queuing\n- **Auto-Rotation control actually works now.** `GluttonyComboIPC.Enable()` called `SetAutoRotationConfigState`\n- **`InvalidLease` handled on every IPC call** (`SetAutoRotationState`, `SetAutoRotationConfigState`,\n- IPC warnings are throttled to one per 10s.\n\nv0.0.1.44 - 2026-06-27\n- **Stop now halts vnavmesh immediately.** Hitting Stop (or `/lazyfate stop`) while the bot was pathfinding/flying to a FATE previously left vnavmesh navigating to the destination on its own - cancelling the plugin's task does not stop vnav's in-flight movement. `FateToolKit` Running=false and the `FateGrind` task teardown now call `Svc.Navmesh.PathfindCancelAll()` + `Svc.Navmesh.Stop()` (cancel any in-progress pathfind AND stop following the current path), so the character stops the moment Stop is pressed.\n\nv0.0.1.43 - 2026-06-27\n- **Stop now fully releases the Gluttony Combo lease** instead of only disabling auto-rotation. Previously, Stop (and `/lazyfate stop`, and auto-complete) left Gluttony \"controlled by Lazy Fate Automation\" with the lease still held, so manual/macro control of Gluttony stayed locked out. `FateToolKit` Running=false now calls `GluttonyComboIPC.Release()` (which calls `ReleaseControl`) instead of `Disable()`; a fresh lease is acquired on the next grind start. Between-FATE pauses still use `Disable()` (keep the lease, just stop the rotation).",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IsHide": false,
@@ -4309,7 +4309,7 @@
     ],
     "DownloadCount": 0,
     "LastUpdate": "0",
-    "TestingAssemblyVersion": "0.0.3.0",
+    "TestingAssemblyVersion": "0.0.3.1",
     "TestingDalamudApiLevel": 15
   },
   {
@@ -4459,9 +4459,9 @@
     "Description": "Keep an Auto-Market list of items you always sell. The companion lists them through your retainers in the stack size you choose (keeping a reserve in your bags if you want), prices every listing by matching the lowest board price instead of undercutting, and can do all of it inside AutoRetainer's venture cycle. Also re-prices existing listings (Auto Pinch). Successor to Dagobert Price Matcher; your old settings are imported automatically.",
     "InternalName": "LazyMarketCompanion",
     "AssemblyVersion": "0.1.16.3",
-    "TestingAssemblyVersion": "0.1.43.0",
+    "TestingAssemblyVersion": "0.1.45.0",
     "TestingDalamudApiLevel": 15,
-    "Changelog": "v0.1.43.0 (2026-09-12)\n\n\n- **An Auto-Market-enabled item in the bags whose market-board category has no Category Routing rule is now named instead of passed over in silence.** The mover only relocates stock whose category is assigned to a retainer, so an enabled, marketable, non-excluded bags stack with no matching rule was never moved and never mentioned - the 2026-09-12 sweep deposited 195 stacks \"nearly flawlessly\" while one Heavy Metal Culverin (Machinist's Arms) sat in the bags, marked for Auto-Market, touched by nothing. Such stacks are still never moved (with no rule there is no destination, and the listing gate keeps them eligible on every retainer, fail-open as always), but the sweep now logs and announces them once by name so the missing rule is visible: \"routing: N marked item(s) match no category rule (left in bags, still listed when a slot frees): ...\" (files: `AutoMarket/RoutingMove.cs` `RoutingMovePlan.UnroutedBagsStacks`, `MarketAutomation.cs` `BuildListingStepsNow`).\n\n\n- The remedy for a reported item is one row in the Category Routing section: assign its category to a retainer and the next sweep deposits and lists it there like the rest of the routed stock.\n- Offline suite: cases 75-78 pin the report - a marked, marketable, non-excluded bags stack with no category rule is reported and never moved; retainer-side unrouted stock, and excluded, unmarketable, or rule-disabled stacks, are not; and PlanDepositsOnly reports the same gap for the final lap (files: `tests/LazyMarketCompanion.Harness/Program.cs`, cases 75-78).\n\nv0.1.42.0 (2026-09-12)\n\n\n- **Routed stock pulled during a later retainer's session no longer strands in the bags until the next sweep.** The mover ran only inside each retainer's own Auto-Market session, but the sweep visits each retainer exactly once: stock pulled out of a later retainer (everything pulled during the last retainer's session, for instance) had no later session to deposit it, so it sat in the bags. The 2026-09-12 02:32 EDT sweep pulled 71 stacks and deposited only 16 while its closing line claimed \"87 routed into place\" - the count totalled raw moves, not items that reached their assigned retainer. The sweep now ends with a final deposit lap: after the last retainer's session, each retainer with assigned bags stock still waiting is reopened and runs the mover in deposit-only mode, so pulled stock reaches its home in the same sweep (file: `MarketAutomation.cs` `SweepAllRetainers`/`EnqueueFinalDepositLap`, `AutoMarket/AutoMarketService.cs`, `AutoMarket/RoutingMove.cs`).\n\n\n- The lap is deposit-only by design: it never pulls, so it cannot strand anything itself. A retainer whose pages fill up is skipped with a log line, not an error - the stock deposits on a later sweep.\n- The AutoRetainer-driven path is unchanged: AutoRetainer decides which retainer is last in its own cycle, and this plugin cannot append sessions to it.\n\nv0.1.41.0 (2026-09-12)\n\n\n- **Category-routing moves now land in a real empty slot instead of swapping through one slot.** The 0.1.40.0 mover fired every move at destination slot 0 of the first destination container, treating it as a hint for the game to resolve. The slot is literal: when slot 0 held a different stack, the game swapped the two, so a run of pull-outs churned a single bag slot and pushed each earlier item back into the retainer, and a deposit could shove a retainer stack into the bags. The executor now resolves a concrete destination at execution time - an existing same-item stack that can absorb the whole move, else the first empty slot - and skips the move (with a log line) when neither exists (file: `AutoMarket/AutoMarketService.cs` `ExecuteRoutingMove`).\n- **A routing move now only counts as a success when its source slot is empty after the move.** 0.1.40.0 accepted \"the source slot no longer holds this item\", which a swap satisfies because the displaced stack sits there instead - so a chain of swaps graded itself as 45 successful moves. Anything still sitting in the source after the call is now a failure and the stack is left where it is (file: `AutoMarket/AutoMarketService.cs` `ExecuteRoutingMove`).\n\n\n- Items that appeared to shuffle in place during a 0.1.40.0 run were swaps, not losses: every stack is still in a retainer or the bags, and the next sweep with this build re-routes them correctly.\n\nv0.1.40.0 (2026-09-12)\n\n\n- **Category Routing now MOVES items between retainers, not just gates where they may list.** Since 0.1.37.0 a category assigned to a retainer could only be LISTED on that retainer - an enabled item sitting in a different retainer's inventory was silently skipped there and invisible during the assigned retainer's session, so routed stock in the wrong place never sold anywhere and never said why. During each retainer's Auto-Market session the new mover now pulls routed-elsewhere items out of that retainer's pages into the bags and deposits routed-to-it items from the bags into its pages, before the listing plan is built, so the division the routing rules describe physically happens (file: `AutoMarket/RoutingMove.cs`, new).\n- Every move is logged and counted: one INFO line per move (`routing move:` prefix), a per-session chat summary (`routing: moved N stack(s) as assigned`), and the run's closing line now carries `N routed into place` (files: `MarketAutomation.cs` `BuildListingStepsNow`, `AutoMarket/DoneLine.cs`, `Communicator.cs`).\n\n\n- Movement is whole-stack only, by the game's own inventory-move call: `InventoryManager.MoveItemSlot` moves an entire stack (there is no quantity-split form of that call), so a keep floor that would leave part of a stack behind keeps the whole stack put instead (file: `AutoMarket/RoutingMove.cs` `Plan`).\n- The mover never touches: items without an enabled Auto-Market entry, non-marketable items, items with the per-item \"Skip routing\" checkbox set, crystal/shard/cluster stacks (they move and stack through their own containers), and stacks whose rule's stock source excludes the destination side - each of these keeps exactly the behaviour it had in 0.1.39.0 (file: `AutoMarket/RoutingMove.cs` `Plan`).\n- Full bags stop the pull-out leg and full retainer pages stop the deposit leg for that session, each announced in the log; neither ever stops the sweep or the listing pass (file: `AutoMarket/RoutingMove.cs` `Plan`).\n\n\n- Ship testing channel only, pending in-game verification. What to look for: with categories assigned and routed stock sitting in the wrong place, the next Auto-Market sweep should log `routing move:` lines pulling those stacks into the bags, and the assigned retainer's session should deposit and list them; the closing line should count them as `routed into place`. A retainer whose pages are full keeps its stock until a later sweep - that is the designed stop, not a failure.\n\nv0.1.39.0 (2026-09-11)\n\n\n- **The Category Routing list in the Auto-Market config window could grow tall enough to push the item table (prices, stack limits, and the other columns) off-screen or squeeze it down to almost nothing, once enough categories were represented on the Auto-Market list** - each category rendered as a full-height row in the same unscrolled column as the item table below it, with no height limit, unlike the search-results list just above it which already caps its own height (file: `Windows/ConfigWindow.cs`, `DrawCategoryRouting`).\n- Category Routing now scrolls inside its own fixed-height box (capped around 200 pixels) no matter how many categories are on the list, so the item table below it always gets the rest of the window (file: `Windows/ConfigWindow.cs`, `DrawCategoryRouting`).\n\n\n- Ship testing channel only, pending in-game verification. What to look for: opening the Auto-Market tab with many categories routed should show Category Routing as a small scrollable box, with the item table (On / Item / Skip routing / Stack / Keep bags / Keep ret. / Max/ret. / Source / Fixed price columns) visible and usable below it, even at the window's minimum size.\n\nv0.1.38.0 (2026-09-10)\n\n\n- **A retainer session that both vendored below-threshold items and pinched new listings could hang for 10 seconds and wipe the rest of the run's queued work, leaving the newly-listed items stranded at the 999,999,999 gil placeholder price.** ECommons' `TaskManager.Insert()` always pushes to the front of the task queue (last-in-first-out), so whichever of the pinch pass or the vendoring leg called `Insert()` LAST in the `PinchAfterMarket` step's code ended up running FIRST at runtime - the reverse of what the surrounding code comment assumed. Since 0.1.28.0 the vendoring leg's trigger was inserted after the pinch pass's own steps in source order, which put the vendoring leg first in the actual queue: it closed the retainer sell list on its way to the bell menu before the pinch pass's `OpenItemContextMenu` step ever got to read it. That step then retried against a closed sell list for its full 10-second time limit before the task manager gave up, logged \"Clearing N remaining tasks because of timeout\", and discarded the rest of the session - including the pinch rows for the items this run had just listed (files: `MarketAutomation.cs` `PinchAfterMarket` step, `AutoMarket/PinchScope.cs`).\n- The vendoring leg's trigger is now queued before the pinch pass's steps in source order, which places it correctly AFTER the pinch pass in the actual run-time queue: the pinch pass now always sees the sell list still open, and the vendoring leg closes it afterward exactly as intended (files: `MarketAutomation.cs` `PinchAfterMarket` step).\n\n\n- Ship testing channel only, pending in-game verification. What to look for: a retainer that both vendors below-threshold items (Auto-Market value gate on) and lists new items to the market board in the same pass should show the pinch pre-flight's log line completing normally, followed by the vendoring leg, with no \"Clearing N remaining tasks because of timeout\" line and no listing left at the 999,999,999 gil placeholder afterward.\n- Any listing stranded at the placeholder price from a session before this fix is not retroactively corrected; running Auto Pinch (or another Auto-Market pass) on that retainer will price it normally.\n- Offline suite: case 61 (new) reproduces the exact `Insert()` call shape both orderings use and asserts the resulting queue order directly, plus a control proving the pre-fix source order really does put the vendoring leg first - so a future edit that silently reverts the call order trips a test instead of shipping broken again (files: `tests/LazyMarketCompanion.Harness/Program.cs`, case 61).",
+    "Changelog": "v0.1.46.0 (2026-09-12)\n\n\n- **Auto-Market no longer moves items between retainers when the open retainer's market board cannot accept a listing.** With all four boards full, every sweep planned and executed ~150 routing moves that produced no listing at all - \"plan: no free market slots\" on every session all day - and because a deposit into retainer pages can be rolled back while the retainer-switch window is still closing (the rc=0 success grade only verifies the local view, and the next sweep found the same stacks back at the same slots), the identical stock was pulled out and re-deposited on every sweep - the \"each time I go to automarket it looks like it just moves stuff around, the same stuff\" report. The mover now snapshots the open board before planning and, when there is no free slot beyond the configured reserve, skips every move for that session with one log line; stock stays exactly where it is until a slot actually frees, and the move that then runs ends in a real listing in the same session (files: `AutoMarket/AutoMarketPlanner.cs` `AutoMarketPlanner.HasListingBudget`, `MarketAutomation.cs` `BuildListingStepsNow` and `RunLapDepositMover`).\n\n\n- The final deposit lap follows the same gate: a retainer whose board is full receives no deposits this sweep - bags stock lists directly from the bags the session a slot frees, so nothing is stranded by skipping (file: `MarketAutomation.cs` `RunLapDepositMover`).\n- An unreadable board snapshot (the retainer market container not loaded) fails closed - no moves - so a half-open session can never re-open the shuffle loop.\n- Offline suite: cases 91-94 pin the gate - a full board is gated, one empty slot allows moves, the reserve eats the last empty exactly as the listing planner counts it, and unloaded or short snapshots fail closed (files: `tests/LazyMarketCompanion.Harness/Program.cs`, cases 91-94).\n\nv0.1.45.0 (2026-09-12)\n\n\n- **Category Routing now fills its own gaps: an uncovered category is auto-assigned to the least-loaded retainer, no manual rows.** A sweep that finds marked, marketable, non-excluded bags stock whose market-board category has no routing rule no longer stops at naming it - the category is assigned to the sweep-enabled retainer already carrying the fewest routed categories, the rule is saved, and the stock is deposited and listed in the same pass, exactly as if the row had existed all along (files: `AutoMarket/CategoryRouting.cs` `CategoryRouter.AutoAssignMissing` + `CategoryRouter.UnroutedCategories`, `AutoMarket/CategoryAutoAssignService.cs` (new), `MarketAutomation.cs` `BuildListingStepsNow`).\n- **A switch in the Category Routing settings turns the auto-fill off and returns to report-only.** The added row is an ordinary CategoryRetainerRule afterwards - reassign or clear it in the list like a hand-made row. New config key, on by default, no Version bump (files: `Configuration.cs` `AutoAssignUnroutedCategories`, `Windows/ConfigWindow.cs` `DrawCategoryRouting`).\n\n\n- **Routed stock can never again be stranded by an assignment the sweep cannot reach.** Auto-fill only ever picks a retainer the sweep actually visits: a rule pointed at a disabled or unknown retainer would block the category's stock on every visited retainer while no session ever deposits it - the exact invisible-stock failure category routing was built to end, strictly worse than uncovered (file: `AutoMarket/CategoryAutoAssignService.cs` `EnabledSweepRetainers`).\n\n\n- The mover's 0.1.43.0 uncovered report is the probe: the auto-fill runs before the routing plan is built, so the same pass moves the stock the new rule just assigned (files: `AutoMarket/RoutingMove.cs` report, `MarketAutomation.cs` `BuildListingStepsNow`).\n- Offline suite: cases 84-90 pin the projection, least-loaded gap-fill, the deterministic tie-break, never-duplicating an existing row, no-candidates-means-nothing-added, off-candidate rules not disturbing the pick, and the end-to-end probe-assign-plan deposit (files: `tests/LazyMarketCompanion.Harness/Program.cs`, cases 84-90).\n\nv0.1.44.0 (2026-09-12)\n\n\n- **Auto-Market's item-moving now waits for a retainer's inventory to finish loading before moving anything, instead of firing on a fixed delay.** The mover planned its moves from whatever retainer pages happened to be loaded when the session started - right after the sweep clicks the next retainer, that is still the PREVIOUS retainer's pages. Moves fired against them appeared to succeed and were rolled back when the game swapped the real inventory in, so the same stacks were pulled out and re-deposited every pass - the \"keeps shifting my retainer inventories around\" report. Every mover entry point (each retainer's session and the final deposit lap) now waits, up to 10 seconds, until the open retainer's name matches the session and all seven of its inventory pages are loaded and unchanged for a quarter second before planning a single move (file: `MarketAutomation.cs` `BuildListingStepsNow`/`RunLapDepositMover`, `AutoMarket/AutoMarketService.cs` `RetainerSessionSettled`).\n- **Every routing move now re-verifies which retainer is open at the moment it fires.** A move planned during one retainer's session is refused outright if a different retainer is active when it executes - the retainer-switch window where moves landed against the wrong pages - instead of firing and being rolled back (file: `AutoMarket/AutoMarketService.cs` `ExecuteRoutingMove`, rc=-3).\n- **A stack is never pulled out of a retainer more than once per sweep.** Even when a deposit is rolled back mid-switch and a stack reappears where it came from, later passes and the final lap leave it in place for that sweep - the cycle that shuffled the same ~150 stacks forever is broken by construction. The next sweep, with fresh state, retries normally (file: `AutoMarket/RoutingMove.cs` `Plan(movedThisRun)`, `MarketAutomation.cs` `_routingPulledThisRun`).\n\n\n- When the settle window expires without the session stabilising (very slow load), the mover still plans from the live containers and every individual move remains protected by the per-move identity check - the sweep never stops over this.\n- A stack skipped by the once-per-run guard says so in the log (\"already pulled to bags once this run\"), so a rolled-back deposit is visible instead of silent.\n- Offline suite: cases 79-83 pin the guard - a pulled stack is never re-pulled, deposits are never blocked, skips are explained, the key format is pinned against a wrong-format control, and the session stamp defaults empty (files: `tests/LazyMarketCompanion.Harness/Program.cs`, cases 79-83).\n\nv0.1.43.0 (2026-09-12)\n\n\n- **An Auto-Market-enabled item in the bags whose market-board category has no Category Routing rule is now named instead of passed over in silence.** The mover only relocates stock whose category is assigned to a retainer, so an enabled, marketable, non-excluded bags stack with no matching rule was never moved and never mentioned - the 2026-09-12 sweep deposited 195 stacks \"nearly flawlessly\" while one Heavy Metal Culverin (Machinist's Arms) sat in the bags, marked for Auto-Market, touched by nothing. Such stacks are still never moved (with no rule there is no destination, and the listing gate keeps them eligible on every retainer, fail-open as always), but the sweep now logs and announces them once by name so the missing rule is visible: \"routing: N marked item(s) match no category rule (left in bags, still listed when a slot frees): ...\" (files: `AutoMarket/RoutingMove.cs` `RoutingMovePlan.UnroutedBagsStacks`, `MarketAutomation.cs` `BuildListingStepsNow`).\n\n\n- The remedy for a reported item is one row in the Category Routing section: assign its category to a retainer and the next sweep deposits and lists it there like the rest of the routed stock.\n- Offline suite: cases 75-78 pin the report - a marked, marketable, non-excluded bags stack with no category rule is reported and never moved; retainer-side unrouted stock, and excluded, unmarketable, or rule-disabled stacks, are not; and PlanDepositsOnly reports the same gap for the final lap (files: `tests/LazyMarketCompanion.Harness/Program.cs`, cases 75-78).\n\nv0.1.42.0 (2026-09-12)\n\n\n- **Routed stock pulled during a later retainer's session no longer strands in the bags until the next sweep.** The mover ran only inside each retainer's own Auto-Market session, but the sweep visits each retainer exactly once: stock pulled out of a later retainer (everything pulled during the last retainer's session, for instance) had no later session to deposit it, so it sat in the bags. The 2026-09-12 02:32 EDT sweep pulled 71 stacks and deposited only 16 while its closing line claimed \"87 routed into place\" - the count totalled raw moves, not items that reached their assigned retainer. The sweep now ends with a final deposit lap: after the last retainer's session, each retainer with assigned bags stock still waiting is reopened and runs the mover in deposit-only mode, so pulled stock reaches its home in the same sweep (file: `MarketAutomation.cs` `SweepAllRetainers`/`EnqueueFinalDepositLap`, `AutoMarket/AutoMarketService.cs`, `AutoMarket/RoutingMove.cs`).\n\n\n- The lap is deposit-only by design: it never pulls, so it cannot strand anything itself. A retainer whose pages fill up is skipped with a log line, not an error - the stock deposits on a later sweep.\n- The AutoRetainer-driven path is unchanged: AutoRetainer decides which retainer is last in its own cycle, and this plugin cannot append sessions to it.\n\nv0.1.41.0 (2026-09-12)\n\n\n- **Category-routing moves now land in a real empty slot instead of swapping through one slot.** The 0.1.40.0 mover fired every move at destination slot 0 of the first destination container, treating it as a hint for the game to resolve. The slot is literal: when slot 0 held a different stack, the game swapped the two, so a run of pull-outs churned a single bag slot and pushed each earlier item back into the retainer, and a deposit could shove a retainer stack into the bags. The executor now resolves a concrete destination at execution time - an existing same-item stack that can absorb the whole move, else the first empty slot - and skips the move (with a log line) when neither exists (file: `AutoMarket/AutoMarketService.cs` `ExecuteRoutingMove`).\n- **A routing move now only counts as a success when its source slot is empty after the move.** 0.1.40.0 accepted \"the source slot no longer holds this item\", which a swap satisfies because the displaced stack sits there instead - so a chain of swaps graded itself as 45 successful moves. Anything still sitting in the source after the call is now a failure and the stack is left where it is (file: `AutoMarket/AutoMarketService.cs` `ExecuteRoutingMove`).\n\n\n- Items that appeared to shuffle in place during a 0.1.40.0 run were swaps, not losses: every stack is still in a retainer or the bags, and the next sweep with this build re-routes them correctly.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IsHide": false,
@@ -4631,7 +4631,7 @@
     "Author": "Sevii",
     "DalamudApiLevel": 15,
     "Description": "Auto updates mods and allows for more customization such as color and compositing onto other files",
-    "DownloadCount": 267649,
+    "DownloadCount": 267710,
     "DownloadLinkInstall": "https://aetherment.sevii.dev/plugin/install",
     "DownloadLinkTesting": "https://aetherment.sevii.dev/plugin/install",
     "DownloadLinkUpdate": "https://aetherment.sevii.dev/plugin/update",
