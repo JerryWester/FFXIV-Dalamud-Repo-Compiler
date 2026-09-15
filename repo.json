@@ -165,31 +165,6 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/12"
   },
   {
-    "Author": "Taurenkey, NightmareXIV, croizat",
-    "Name": "Pandora's Box",
-    "Punchline": "Do you dare to open Pandora's Box?",
-    "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
-    "Tags": [
-      "qol",
-      "tweaks",
-      "automation",
-      "convenience"
-    ],
-    "InternalName": "PandorasBox",
-    "DownloadCount": 1347947,
-    "LastUpdate": 1780112081,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.4/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.4/update/latest.zip",
-    "AssemblyVersion": "1.6.4.4",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "- Update open all coffers to work when inventory is hidden (such as with inventory replacement plugins).\n- Fix Pandora Gathering UI.",
-    "TestingAssemblyVersion": "1.6.4.2",
-    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.2/install/testing.zip",
-    "TestingDalamudApiLevel": "15",
-    "IconUrl": "https://puni.sh/api/plugins/icon/8"
-  },
-  {
     "Author": "kawaii, NightmareXIV",
     "Name": "Avarice",
     "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
@@ -198,7 +173,7 @@
       "combat"
     ],
     "InternalName": "Avarice",
-    "DownloadCount": 389014,
+    "DownloadCount": 389085,
     "LastUpdate": 1785546003,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.13/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.13/update/latest.zip",
@@ -212,6 +187,31 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/11"
   },
   {
+    "Author": "Taurenkey, NightmareXIV, croizat",
+    "Name": "Pandora's Box",
+    "Punchline": "Do you dare to open Pandora's Box?",
+    "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
+    "Tags": [
+      "qol",
+      "tweaks",
+      "automation",
+      "convenience"
+    ],
+    "InternalName": "PandorasBox",
+    "DownloadCount": 1347961,
+    "LastUpdate": 1780112081,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.4/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.4/update/latest.zip",
+    "AssemblyVersion": "1.6.4.4",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "- Update open all coffers to work when inventory is hidden (such as with inventory replacement plugins).\n- Fix Pandora Gathering UI.",
+    "TestingAssemblyVersion": "1.6.4.2",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.2/install/testing.zip",
+    "TestingDalamudApiLevel": "15",
+    "IconUrl": "https://puni.sh/api/plugins/icon/8"
+  },
+  {
     "Author": "Det, croizat",
     "Name": "AutoHook",
     "Punchline": "Makes fishing less (or more) boring",
@@ -221,7 +221,7 @@
       "Fishing"
     ],
     "InternalName": "AutoHook",
-    "DownloadCount": 2506706,
+    "DownloadCount": 2506894,
     "LastUpdate": 1789142683,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.0.98/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.0.98/update/latest.zip",
@@ -246,7 +246,7 @@
       "palace"
     ],
     "InternalName": "PalacePal",
-    "DownloadCount": 250865,
+    "DownloadCount": 250867,
     "LastUpdate": 1777738875,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/update/latest.zip",
@@ -268,7 +268,7 @@
       "other"
     ],
     "InternalName": "LazyLoot",
-    "DownloadCount": 247822,
+    "DownloadCount": 247831,
     "LastUpdate": 1777584039,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.3/update/latest.zip",
@@ -279,29 +279,23 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/9"
   },
   {
-    "Author": "the Puni.sh Quest Squad",
-    "Name": "Questionable",
-    "Punchline": "A tiny quest helper plugin.",
-    "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
+    "Author": "Chalkos, NightmareXIV",
+    "Name": "Marketbuddy",
+    "Punchline": "Less clicks, more gil!",
+    "Description": "Helper for your day-to-day market operations.",
     "Tags": [
-      "quest",
-      "msq",
-      "qol",
-      "utility"
+      "marketboard"
     ],
-    "InternalName": "Questionable",
-    "DownloadCount": 2177885,
-    "LastUpdate": 1789442820,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.756.2.17/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.756.2.17/update/latest.zip",
-    "AssemblyVersion": "15.756.2.17",
+    "InternalName": "Marketbuddy",
+    "DownloadCount": 21634,
+    "LastUpdate": 1777575334,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/131/Marketbuddy/versions/0.2.4.2/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/131/Marketbuddy/versions/0.2.4.2/update/latest.zip",
+    "AssemblyVersion": "0.2.4.2",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
-    "Changelog": "- Feature: Added step to clean up job quests/other priority quests before continuing with msq -alydev\n- Change: crystal icon now always visible, hovering shows available job quests/other priority quests. grey when empty, amber when not -alydev",
-    "TestingAssemblyVersion": "15.293.1.0",
-    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.293.1.0/install/testing.zip",
-    "TestingDalamudApiLevel": "15",
-    "IconUrl": "https://puni.sh/api/plugins/icon/94"
+    "Changelog": "- 7.5",
+    "IconUrl": "https://puni.sh/api/plugins/icon/131"
   },
   {
     "Author": "daemitus, croizat",
@@ -310,7 +304,7 @@
     "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
     "Tags": [],
     "InternalName": "YesAlready",
-    "DownloadCount": 1378814,
+    "DownloadCount": 1380309,
     "LastUpdate": 1789488007,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.5.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.5.0/update/latest.zip",
@@ -330,7 +324,7 @@
     "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
     "Tags": [],
     "InternalName": "AutoRetainer",
-    "DownloadCount": 2500109,
+    "DownloadCount": 2500271,
     "LastUpdate": 1788386232,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.1.34/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.1.34/update/latest.zip",
@@ -344,23 +338,29 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/24"
   },
   {
-    "Author": "Chalkos, NightmareXIV",
-    "Name": "Marketbuddy",
-    "Punchline": "Less clicks, more gil!",
-    "Description": "Helper for your day-to-day market operations.",
+    "Author": "the Puni.sh Quest Squad",
+    "Name": "Questionable",
+    "Punchline": "A tiny quest helper plugin.",
+    "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
     "Tags": [
-      "marketboard"
+      "quest",
+      "msq",
+      "qol",
+      "utility"
     ],
-    "InternalName": "Marketbuddy",
-    "DownloadCount": 21631,
-    "LastUpdate": 1777575334,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/131/Marketbuddy/versions/0.2.4.2/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/131/Marketbuddy/versions/0.2.4.2/update/latest.zip",
-    "AssemblyVersion": "0.2.4.2",
+    "InternalName": "Questionable",
+    "DownloadCount": 2178496,
+    "LastUpdate": 1789442820,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.756.2.17/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.756.2.17/update/latest.zip",
+    "AssemblyVersion": "15.756.2.17",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
-    "Changelog": "- 7.5",
-    "IconUrl": "https://puni.sh/api/plugins/icon/131"
+    "Changelog": "- Feature: Added step to clean up job quests/other priority quests before continuing with msq -alydev\n- Change: crystal icon now always visible, hovering shows available job quests/other priority quests. grey when empty, amber when not -alydev",
+    "TestingAssemblyVersion": "15.293.1.0",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.293.1.0/install/testing.zip",
+    "TestingDalamudApiLevel": "15",
+    "IconUrl": "https://puni.sh/api/plugins/icon/94"
   },
   {
     "Author": "Team Wrath",
@@ -373,7 +373,7 @@
       "pvp"
     ],
     "InternalName": "WrathCombo",
-    "DownloadCount": 1202375,
+    "DownloadCount": 1202533,
     "LastUpdate": 1789289944,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.25/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.25/update/latest.zip",
@@ -396,7 +396,7 @@
       "Accessibility"
     ],
     "InternalName": "Splatoon",
-    "DownloadCount": 2238721,
+    "DownloadCount": 2238754,
     "LastUpdate": 1787793609,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.25/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.25/update/latest.zip",
@@ -410,27 +410,6 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/10"
   },
   {
-    "Author": "Taurenkey, Kage, NightmareXIV",
-    "Name": "Saucy",
-    "Punchline": "When working for MGP is too much effort.",
-    "Description": "Automates certain Gold Saucer mini-games.",
-    "Tags": [
-      "gold saucer",
-      "mgp",
-      "automation"
-    ],
-    "InternalName": "Saucy",
-    "DownloadCount": 1090173,
-    "LastUpdate": 1788197704,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.2.2/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.2.2/update/latest.zip",
-    "AssemblyVersion": "2.1.2.2",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "fix jumbo cactpot",
-    "IconUrl": "https://puni.sh/api/plugins/icon/7"
-  },
-  {
     "Author": "Taurenkey, kawaii, NightmareXIV",
     "Name": "Artisan",
     "Punchline": "A 'simple' crafting plugin.",
@@ -439,7 +418,7 @@
       "crafting"
     ],
     "InternalName": "Artisan",
-    "DownloadCount": 5982048,
+    "DownloadCount": 5982714,
     "LastUpdate": 1789308686,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.20/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.20/update/latest.zip",
@@ -451,6 +430,27 @@
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.16/install/testing.zip",
     "TestingDalamudApiLevel": "15",
     "IconUrl": "https://puni.sh/api/plugins/icon/6"
+  },
+  {
+    "Author": "Taurenkey, Kage, NightmareXIV",
+    "Name": "Saucy",
+    "Punchline": "When working for MGP is too much effort.",
+    "Description": "Automates certain Gold Saucer mini-games.",
+    "Tags": [
+      "gold saucer",
+      "mgp",
+      "automation"
+    ],
+    "InternalName": "Saucy",
+    "DownloadCount": 1090209,
+    "LastUpdate": 1788197704,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.2.2/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.2.2/update/latest.zip",
+    "AssemblyVersion": "2.1.2.2",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "fix jumbo cactpot",
+    "IconUrl": "https://puni.sh/api/plugins/icon/7"
   },
   {
     "Author": "Haselnussbomber",
@@ -1111,7 +1111,7 @@
     "Description": "Now for more than crafting!",
     "Tags": [],
     "InternalName": "SomethingNeedDoing",
-    "DownloadCount": 809361,
+    "DownloadCount": 809374,
     "LastUpdate": 1788728171,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/15.9/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/15.9/update/latest.zip",
@@ -1132,7 +1132,7 @@
       "tweaks"
     ],
     "InternalName": "Automaton",
-    "DownloadCount": 966374,
+    "DownloadCount": 966542,
     "LastUpdate": 1789366941,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.216/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.216/update/latest.zip",
@@ -1151,7 +1151,7 @@
       "glamour"
     ],
     "InternalName": "GlamourLog",
-    "DownloadCount": 32078,
+    "DownloadCount": 32086,
     "LastUpdate": 1788935774,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/136/GlamourLog/versions/15.68/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/136/GlamourLog/versions/15.68/update/latest.zip",
@@ -1191,7 +1191,7 @@
     "Description": "Make custom deliveries less annoying by automating the process.",
     "Tags": [],
     "InternalName": "vsatisfy",
-    "DownloadCount": 155058,
+    "DownloadCount": 155062,
     "LastUpdate": 1781106410,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/0.0.0.37/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/0.0.0.37/update/latest.zip",
@@ -1208,7 +1208,7 @@
     "Description": "Automate gathering, workshop assignments, etc.",
     "Tags": [],
     "InternalName": "visland",
-    "DownloadCount": 870512,
+    "DownloadCount": 870530,
     "LastUpdate": 1784403322,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.150/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.150/update/latest.zip",
@@ -1225,7 +1225,7 @@
     "Description": "Based on ezFauxHollows, but uses known patterns instead of general-purpose solver.",
     "Tags": [],
     "InternalName": "vfaux",
-    "DownloadCount": 98125,
+    "DownloadCount": 98128,
     "LastUpdate": 1777496806,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/29/vfaux/versions/0.0.0.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/29/vfaux/versions/0.0.0.12/update/latest.zip",
@@ -1242,7 +1242,7 @@
     "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
     "Tags": [],
     "InternalName": "BossMod",
-    "DownloadCount": 2566682,
+    "DownloadCount": 2566825,
     "LastUpdate": 1789161428,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/7.5.6.5/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/7.5.6.5/update/latest.zip",
@@ -1267,7 +1267,7 @@
     "Description": "Bot that does fall guys event automatically.",
     "Tags": [],
     "InternalName": "vfallguy",
-    "DownloadCount": 57130,
+    "DownloadCount": 57134,
     "LastUpdate": 1777500971,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/41/vfallguy/versions/0.0.0.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/41/vfallguy/versions/0.0.0.12/update/latest.zip",
@@ -1284,7 +1284,7 @@
     "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
     "Tags": [],
     "InternalName": "vnavmesh",
-    "DownloadCount": 1893345,
+    "DownloadCount": 1893412,
     "LastUpdate": 1787843275,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/1.2.3.14/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/1.2.3.14/update/latest.zip",
@@ -1480,7 +1480,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Tempered Release fix, smarter Quelling Wave by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1373\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.6.7...7.5.6.8",
-    "DownloadCount": 3223493
+    "DownloadCount": 3223984
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1513,7 +1513,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.11/latest.zip",
     "TestingAssemblyVersion": "7.4.5.11",
     "Changelog": "## What's Changed\r\n* First master board WIP bosses & improvements by @Equilius in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1354\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.5.6.8...7.5.6.9",
-    "DownloadCount": 3700956
+    "DownloadCount": 3702491
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1541,7 +1541,7 @@
     "AssemblyVersion": "7.5.5.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.5.5.1/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Move texture loading to the main thread, ran code cleanup by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/19\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.5.5.0...7.5.5.1",
-    "DownloadCount": 37828
+    "DownloadCount": 37831
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1570,7 +1570,7 @@
     "AssemblyVersion": "7.5.0.3",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.5.0.3/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* Added pr buildtest by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/17\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.5.0.2...7.5.0.3",
-    "DownloadCount": 62150
+    "DownloadCount": 62156
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1608,7 +1608,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.5.17/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.5.17",
     "Changelog": "## What's Changed\r\n* Validator/Food setting by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/665\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.5.2...7.5.5.3",
-    "DownloadCount": 1093147
+    "DownloadCount": 1093255
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1634,7 +1634,7 @@
     "AssemblyVersion": "7.5.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.5.0.0/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* api15 by @Shiori-Zephyr in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/16\r\n* API 15 compatibility by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/17\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.4.5.0...7.5.0.0",
-    "DownloadCount": 30898
+    "DownloadCount": 30900
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1665,7 +1665,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "## What's Changed\r\n* Add pr test and bump ecommons by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/8\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.5.0.0...7.5.0.1",
-    "DownloadCount": 20005
+    "DownloadCount": 20011
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1699,7 +1699,7 @@
     "AssemblyVersion": "7.5.6.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.5.6.0/latest.zip",
     "Changelog": "## What's Changed\r\n* Update for patch 7.56 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/28\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.5.5.1...7.5.6.0",
-    "DownloadCount": 47119
+    "DownloadCount": 47142
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1733,7 +1733,7 @@
     "AssemblyVersion": "7.5.5.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/NoSillyReborn/releases/download/7.5.5.0/latest.zip",
     "Changelog": "## What's Changed\r\n* Update for 7.55 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/NoSillyReborn/pull/5\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/NoSillyReborn/compare/7.5.0.2...7.5.5.0",
-    "DownloadCount": 7352
+    "DownloadCount": 7358
   },
   {
     "Author": "Churin",
@@ -1764,7 +1764,7 @@
     "AssemblyVersion": "1.0.0.8",
     "DownloadLinkUpdate": "https://github.com/aventurescence/Understudy/releases/download/v1.0.0.8/latest.zip",
     "Changelog": "### chore: update Dalamud API level to 15 in pluginmanifest\r\n\n\n---\n*Assembly version: 1.0.0.8*\n\n\n**Full Changelog**: https://github.com/aventurescence/Understudy/compare/v1.0.0.7...v1.0.0.8",
-    "DownloadCount": 3511
+    "DownloadCount": 3513
   },
   {
     "Author": "Risa and Contributors",
@@ -2063,6 +2063,28 @@
     "_Dip17Channel": null
   },
   {
+    "Author": "kawaii",
+    "Name": "Chocoholic",
+    "Punchline": "Kweh!",
+    "Description": "Chocoholic is a plugin to automatically queue for and complete Chocobo races in FFXIV.",
+    "Tags": [
+      "chocobo",
+      "gold saucer",
+      "race",
+      "mgp"
+    ],
+    "InternalName": "Chocoholic",
+    "DownloadCount": 5691,
+    "LastUpdate": 1778089832,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/update/latest.zip",
+    "AssemblyVersion": "0.0.0.3",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "Update for Dalamud API 15 and 2026.04.21.0000.0000.",
+    "IconUrl": "https://puni.sh/api/plugins/icon/116"
+  },
+  {
     "Author": "kawaii, NightmareXIV",
     "Name": "Hyperborea",
     "Punchline": "What if we GPosed in the Mordion Gaol?",
@@ -2071,7 +2093,7 @@
       "gpose"
     ],
     "InternalName": "Hyperborea",
-    "DownloadCount": 48752,
+    "DownloadCount": 48758,
     "LastUpdate": 1787504034,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.1.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.1.2/update/latest.zip",
@@ -2089,34 +2111,12 @@
   },
   {
     "Author": "kawaii",
-    "Name": "Chocoholic",
-    "Punchline": "Kweh!",
-    "Description": "Chocoholic is a plugin to automatically queue for and complete Chocobo races in FFXIV.",
-    "Tags": [
-      "chocobo",
-      "gold saucer",
-      "race",
-      "mgp"
-    ],
-    "InternalName": "Chocoholic",
-    "DownloadCount": 5689,
-    "LastUpdate": 1778089832,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/update/latest.zip",
-    "AssemblyVersion": "0.0.0.3",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "Update for Dalamud API 15 and 2026.04.21.0000.0000.",
-    "IconUrl": "https://puni.sh/api/plugins/icon/116"
-  },
-  {
-    "Author": "kawaii",
     "Name": "Dropbox",
     "Punchline": "Your personal vending machine.",
     "Description": "Your personal vending machine.",
     "Tags": [],
     "InternalName": "Dropbox",
-    "DownloadCount": 49274,
+    "DownloadCount": 49279,
     "LastUpdate": 1783980806,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.15/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.15/update/latest.zip",
@@ -2139,7 +2139,7 @@
       "Sanctuary"
     ],
     "InternalName": "ExplorersIcebox",
-    "DownloadCount": 52888,
+    "DownloadCount": 52894,
     "LastUpdate": 1779884677,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/64/ExplorersIcebox/versions/1.1.0.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/64/ExplorersIcebox/versions/1.1.0.3/update/latest.zip",
@@ -2160,7 +2160,7 @@
       "Gatherers"
     ],
     "InternalName": "ChilledLeves",
-    "DownloadCount": 106707,
+    "DownloadCount": 106710,
     "LastUpdate": 1777774705,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/68/ChilledLeves/versions/1.0.1.24/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/68/ChilledLeves/versions/1.0.1.24/update/latest.zip",
@@ -2179,7 +2179,7 @@
       "Gatherers"
     ],
     "InternalName": "ICE",
-    "DownloadCount": 1235563,
+    "DownloadCount": 1235589,
     "LastUpdate": 1787363615,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/70/ICE/versions/1.0.0.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/70/ICE/versions/1.0.0.2/update/latest.zip",
@@ -2205,7 +2205,7 @@
     "Description": "Your personal Henchman doing all the heavy lifting for you!\n\n- A/B Rank Farmer\n- Hunt Logs\n- Hunt Bills\n- Retainer Creation\n- Character Creation\n- Multi Account Trading\n- Ocean Fishing\n- Chocobokeeps\nand more to come.",
     "Tags": [],
     "InternalName": "Henchman",
-    "DownloadCount": 186337,
+    "DownloadCount": 186351,
     "LastUpdate": 1788540101,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/85/Henchman/versions/3.0.1.26/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/85/Henchman/versions/3.0.1.26/update/latest.zip",
@@ -2225,7 +2225,7 @@
     "Description": "Better Grand Company Deliveries",
     "Tags": [],
     "InternalName": "Deliveroo",
-    "DownloadCount": 18282,
+    "DownloadCount": 18283,
     "LastUpdate": 1777864065,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/79/Deliveroo/versions/7.5.0.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/79/Deliveroo/versions/7.5.0.2/update/latest.zip",
@@ -2247,7 +2247,7 @@
       "yeet"
     ],
     "InternalName": "ARDiscard",
-    "DownloadCount": 4604,
+    "DownloadCount": 4605,
     "LastUpdate": 1777603212,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/80/ARDiscard/versions/8.5/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/80/ARDiscard/versions/8.5/update/latest.zip",
@@ -2322,7 +2322,7 @@
       "gearsets"
     ],
     "InternalName": "Gearsetter",
-    "DownloadCount": 35776,
+    "DownloadCount": 35787,
     "LastUpdate": 1777759856,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/98/Gearsetter/versions/4.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/98/Gearsetter/versions/4.3/update/latest.zip",
@@ -2369,7 +2369,7 @@
       "\"AoE\""
     ],
     "InternalName": "VIWI",
-    "DownloadCount": 43700,
+    "DownloadCount": 43702,
     "LastUpdate": 1780272595,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/108/VIWI/versions/0.0.0.62/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/108/VIWI/versions/0.0.0.62/update/latest.zip",
@@ -2395,7 +2395,7 @@
       "erdelf"
     ],
     "InternalName": "AutoDuty",
-    "DownloadCount": 1882869,
+    "DownloadCount": 1882970,
     "LastUpdate": 1786992730,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.335/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.335/update/latest.zip",
@@ -2516,7 +2516,7 @@
       "venture lists"
     ],
     "InternalName": "ARControl",
-    "DownloadCount": 4364,
+    "DownloadCount": 4365,
     "LastUpdate": 1787594633,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/99/ARControl/versions/8.7/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/99/ARControl/versions/8.7/update/latest.zip",
@@ -2537,7 +2537,7 @@
       "Ready"
     ],
     "InternalName": "IAmReady",
-    "DownloadCount": 216,
+    "DownloadCount": 217,
     "LastUpdate": 1778900353,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/121/IAmReady/versions/1.1.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/121/IAmReady/versions/1.1.0.0/update/latest.zip",
@@ -2645,7 +2645,7 @@
       "automation"
     ],
     "InternalName": "CopeSeetheMeld",
-    "DownloadCount": 6601,
+    "DownloadCount": 6603,
     "LastUpdate": 1783019821,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/69/CopeSeetheMeld/versions/0.0.3.1/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/69/CopeSeetheMeld/versions/0.0.3.1/update/latest.zip",
@@ -2670,7 +2670,7 @@
       "dungeon"
     ],
     "InternalName": "NecroLens",
-    "DownloadCount": 77002,
+    "DownloadCount": 77003,
     "LastUpdate": 1777738526,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/53/NecroLens/versions/1.0.8.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/53/NecroLens/versions/1.0.8.12/update/latest.zip",
@@ -2734,7 +2734,7 @@
     "Description": "Advanced inventory management with safety filters and auto-discard",
     "Tags": [],
     "InternalName": "wahventory",
-    "DownloadCount": 61655,
+    "DownloadCount": 61657,
     "LastUpdate": 1780756377,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/91/wahventory/versions/4.6.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/91/wahventory/versions/4.6.0.0/update/latest.zip",
@@ -2793,7 +2793,7 @@
       "travel"
     ],
     "InternalName": "BstHelper",
-    "DownloadCount": 549,
+    "DownloadCount": 554,
     "LastUpdate": 1789231486,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/176/BstHelper/versions/0.1.7.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/176/BstHelper/versions/0.1.7.0/update/latest.zip",
@@ -2876,7 +2876,7 @@
       "Cutscene"
     ],
     "InternalName": "Skippy",
-    "DownloadCount": 3301,
+    "DownloadCount": 3303,
     "LastUpdate": 1778506288,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/130/Skippy/versions/2.2.4.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/130/Skippy/versions/2.2.4.2/update/latest.zip",
@@ -2969,7 +2969,7 @@
     "LastUpdate": 1789477328,
     "Changelog": "Aethertek Plugin Manager for Dalamud.",
     "IsTestingExclusive": false,
-    "DownloadCount": 31,
+    "DownloadCount": 32,
     "RepoTitle": "XA Enterprise",
     "SourceRepoName": "Aethertek-Plugin-Manager",
     "SourceRepoUrl": "https://github.com/xa-io/Aethertek-Plugin-Manager",
@@ -2999,7 +2999,7 @@
     "LastUpdate": 1788904288,
     "Changelog": "v0.0.0.41 release of XA-Database",
     "IsTestingExclusive": false,
-    "DownloadCount": 2468,
+    "DownloadCount": 2469,
     "RepoTitle": "XA Enterprise",
     "SourceRepoName": "XA-Database",
     "SourceRepoUrl": "https://github.com/xa-io/XA-Database",
@@ -3060,7 +3060,7 @@
     "LastUpdate": 1788911397,
     "Changelog": "v0.0.0.9 release of XA-HUD-Navigator",
     "IsTestingExclusive": false,
-    "DownloadCount": 1371,
+    "DownloadCount": 1373,
     "RepoTitle": "XA Enterprise",
     "SourceRepoName": "XA-HUD-Navigator",
     "SourceRepoUrl": "https://github.com/xa-io/XA-HUD-Navigator"
@@ -3114,7 +3114,7 @@
     "LastUpdate": 1788958212,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 7341,
+    "DownloadCount": 7343,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "FrenRider",
     "SourceRepoUrl": "https://github.com/McVaxius/FrenRider",
@@ -3159,7 +3159,7 @@
     "LastUpdate": 1788924410,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 9051,
+    "DownloadCount": 9052,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "LootGoblin",
     "SourceRepoUrl": "https://github.com/McVaxius/LootGoblin",
@@ -3183,16 +3183,16 @@
       "other"
     ],
     "InternalName": "MOGTOME",
-    "AssemblyVersion": "1.1.0.0",
+    "AssemblyVersion": "1.1.1.0",
     "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://github.com/McVaxius/MOGTOME/releases/download/v1.1.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/MOGTOME/releases/download/v1.1.0.0/latest.zip",
-    "LastUpdate": 1789506135,
+    "DownloadLinkInstall": "https://github.com/McVaxius/MOGTOME/releases/download/v1.1.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/MOGTOME/releases/download/v1.1.1.0/latest.zip",
+    "LastUpdate": 1789510899,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 4565,
+    "DownloadCount": 4585,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "MOGTOME",
     "SourceRepoUrl": "https://github.com/McVaxius/MOGTOME",
@@ -3216,15 +3216,15 @@
       "other"
     ],
     "InternalName": "VERMAXION",
-    "AssemblyVersion": "0.4.0.5",
+    "AssemblyVersion": "0.4.0.6",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://github.com/McVaxius/VERMAXION/releases/download/v0.4.0.5/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/VERMAXION/releases/download/v0.4.0.5/latest.zip",
-    "LastUpdate": 1789505423,
+    "DownloadLinkInstall": "https://github.com/McVaxius/VERMAXION/releases/download/v0.4.0.6/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/VERMAXION/releases/download/v0.4.0.6/latest.zip",
+    "LastUpdate": 1789513655,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 5982,
+    "DownloadCount": 5999,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "VERMAXION",
     "SourceRepoUrl": "https://github.com/McVaxius/VERMAXION",
@@ -3254,7 +3254,7 @@
     "LastUpdate": 1788893862,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 1900,
+    "DownloadCount": 1901,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "HelloFellowHuman",
     "SourceRepoUrl": "https://github.com/McVaxius/HelloFellowHuman",
@@ -3283,7 +3283,7 @@
     "LastUpdate": 1788893859,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 1694,
+    "DownloadCount": 1697,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "ChocoboColourized",
     "SourceRepoUrl": "https://github.com/McVaxius/ChocoboColourized",
@@ -3313,7 +3313,7 @@
     "LastUpdate": 1777533612,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 1069,
+    "DownloadCount": 1071,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "DhogGPT",
     "SourceRepoUrl": "https://github.com/McVaxius/DhogGPT",
@@ -3344,7 +3344,7 @@
     "LastUpdate": 1787887230,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 1906,
+    "DownloadCount": 1908,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "DPS",
     "SourceRepoUrl": "https://github.com/McVaxius/DPS",
@@ -3374,7 +3374,7 @@
     "LastUpdate": 1784771348,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 788,
+    "DownloadCount": 790,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "dheacon",
     "SourceRepoUrl": "https://github.com/McVaxius/dheacon",
@@ -3404,7 +3404,7 @@
     "LastUpdate": 1787837054,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 1107,
+    "DownloadCount": 1108,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "Krangler",
     "SourceRepoUrl": "https://github.com/McVaxius/Krangler",
@@ -3433,7 +3433,7 @@
     "LastUpdate": 1787939642,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 960,
+    "DownloadCount": 963,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "ChokeAbo",
     "SourceRepoUrl": "https://github.com/McVaxius/ChokeAbo",
@@ -3464,7 +3464,7 @@
     "LastUpdate": 1785603656,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 1182,
+    "DownloadCount": 1183,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "TTSL",
     "SourceRepoUrl": "https://github.com/McVaxius/TTSL",
@@ -3498,7 +3498,7 @@
     "LastUpdate": 1784752600,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 641,
+    "DownloadCount": 645,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "botology",
     "SourceRepoUrl": "https://github.com/McVaxius/botology",
@@ -3529,7 +3529,7 @@
     "LastUpdate": 1788893908,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 129,
+    "DownloadCount": 132,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "BFE",
     "SourceRepoUrl": "https://github.com/McVaxius/BFE",
@@ -3561,7 +3561,7 @@
     "LastUpdate": 1789241398,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 250,
+    "DownloadCount": 253,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "Coppelia",
     "SourceRepoUrl": "https://github.com/McVaxius/Coppelia",
@@ -3591,7 +3591,7 @@
     "LastUpdate": 1784989430,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 272,
+    "DownloadCount": 273,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "footballer",
     "SourceRepoUrl": "https://github.com/McVaxius/footballer",
@@ -3622,7 +3622,7 @@
     "LastUpdate": 1789278965,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 5487,
+    "DownloadCount": 5493,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "ADS",
     "SourceRepoUrl": "https://github.com/McVaxius/ADS",
@@ -3654,7 +3654,7 @@
     "LastUpdate": 1789277813,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 450,
+    "DownloadCount": 453,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "dad",
     "SourceRepoUrl": "https://github.com/McVaxius/dad",
@@ -3695,7 +3695,7 @@
       "automation"
     ],
     "InternalName": "Mogmail",
-    "DownloadCount": 2531,
+    "DownloadCount": 2533,
     "LastUpdate": 1787390610,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/148/Mogmail/versions/1.2.6.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/148/Mogmail/versions/1.2.6.0/update/latest.zip",
@@ -3723,7 +3723,7 @@
       "automation"
     ],
     "InternalName": "FCCH",
-    "DownloadCount": 2637,
+    "DownloadCount": 2638,
     "LastUpdate": 1788388208,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/149/FCCH/versions/2.5.1.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/149/FCCH/versions/2.5.1.0/update/latest.zip",
@@ -4222,7 +4222,7 @@
     "Description": "Gluttony Combo - lalalazy fork of Gluttony Combo. XIVCombo for very lazy players.",
     "InternalName": "GluttonyCombo",
     "AssemblyVersion": "1.0.4.177",
-    "Changelog": "v1.0.4.197 (2026-09-12) [testing]\n- **Fixed the hard game crash introduced by v1.0.4.196** (the game closing outright with no error window). The mover was re-issuing the vnavmesh move command every 250 ms tick even while vnavmesh was still computing the previous path, and the mesh walkability checks added in v1.0.4.196 could hit the navigation mesh at the same moment vnavmesh's own background path search was using it - two native mesh readers racing, which kills the process without any plugin error. The mover now issues no nav commands and no mesh probes while a path search is running, does not re-prime a move that is already running toward essentially the same spot, and answers each walkability probe at most once per ground cell per tick instead of hundreds of times. (files: `AutoRotation/SmartMover.cs` - `Tick` nav-busy sampling, `Execute` re-issue gate, `WalkableAt` probe cache; the crash session log showed repeated \"Pathfinding task is in progress\" errors in the second before the process died)\n- **Smart Movement no longer twitches when several overlapping AoEs force repeated dodging.** While a dodge is already committed, its destination is kept as long as it stays outside every live danger zone and on walkable ground; the sampler's \"nearest safe point\" wobbles a yalm or two between ticks when zones overlap, and every wobble used to re-aim the dodge and hand the pathfinder a fresh destination. A fresh dodge - the moment danger is first detected, or when the held destination stops being safe - still commits immediately. (file: `AutoRotation/SmartMoverCore.cs` dodge branch, `Hysteresis.LastDodge`)\n- **Smart Movement has its own one-click server-bar toggle, independent of auto-rotation.** A new \"Gluttony Smart Movement\" entry appears next to the existing auto-rotation icon in the server info bar (and in Umbra, which shows these entries natively): one click turns Smart Movement off when it acts up, another click turns it back on. The auto-rotation sword icon and the opener icon are unchanged. The entry can be hidden per-plugin in Umbra or under `/xlsettings` -> Server Info Bar. (file: `GluttonyCombo.cs` - `SmartDtr` entry and `OnFrameworkUpdate` text; setting: `RotationConfig.DPSSettings.SmartMover`)\n- Telemetry (testing): the `MVD|`/`MVU|` omen debug lines now follow the existing \"Movement Telemetry\" setting instead of a separate hidden debug flag, so the diagnostic taps run whenever movement telemetry is on. A new `MVS|omen` marker line prints at most every 30 seconds while in combat with the omen layer enabled but zero hostile ground effects seen - separating \"the instant-AoE detection layer is dead\" from \"no instant AoEs this fight\", which live telemetry could not (the ovz field read 0 on every movement line ever logged). (file: `AutoRotation/SmartMover.cs` - `CollectOmenZones` gate, `Tick` marker)\n- Offline harness extended from 137 to 140 cases: dodge-destination continuity (a held dodge destination is kept while still safe, released the moment a new zone covers it). (file: `tests/GluttonyCombo.SmartMoverHarness/Program.cs`)\n\nv1.0.4.196 (2026-09-12) [testing]\n- **Smart Movement dodge and engage destinations are now filtered through the real navmesh, not just distance from the target.** The old arena-bounds check was a straight-line \"within 15 yalms of the target\" heuristic (v1.0.4.193), which accepts a point that is the right distance away but sits off the walkable floor - a doorway, a wall corner, a pit. Every sampled dodge ring and the melee/ranged positional ring now also asks vnavmesh whether the candidate point is actually on the mesh; a point that fails is skipped the same way a point inside a danger zone already is. The distance clamp stays as an independent backstop (a walkable corridor can still lead well outside the intended encounter). With vnavmesh absent or not ready the check is skipped entirely and behavior is byte-identical to v1.0.4.195 - Smart Movement remains fully independent of any third-party plugin. (file: `AutoRotation/SmartMoverCore.cs` new `Walkable`, `MoverWorld.IsPointWalkable`, `FindSafePoint`/`FindSafeRingPoint` new parameter; `Services/IPC_Subscriber/NavmeshIPC.cs` new `Query.Mesh.PointOnFloor` wrapper `IsPointWalkable`; `AutoRotation/SmartMover.cs` new `WalkableAt`)\n- Offline harness extended from 129 to 137 cases: dodge and engage destinations respecting a simulated mesh boundary, a negative control proving the same scene is unconstrained by that boundary when no mesh predicate is supplied, `FindSafePoint`/`FindSafeRingPoint` unit cases for a fully-blocked mesh (hold, never fabricate a landing spot) and a partially-blocked one (still finds a point), and a case proving the pre-existing distance clamp still applies even when the mesh predicate allows everything. (file: `tests/GluttonyCombo.SmartMoverHarness/Program.cs`)\n- Gap 1 of the 5-gap BMR feature-parity program (kanban card t_810c6a20): true arena-geometry bounds via vnavmesh mesh walkability, corroboration-only design (no BMR dependency). Gaps 2-5 (gaze/facing, donut inner radius from telemetry, BMR oracle corroboration) remain.\n\nv1.0.4.195 (2026-09-12) [testing]\n- **Smart Movement: instant enemy AoEs with no cast bar are now dodged too - omen ground telegraphs become danger zones.** Cast-bar reading misses every instant attack; the ground omen graphic the game spawns for them is their only telegraph. Every live omen VFX cast by a hostile enemy is now decoded from its omen path fragment the same way BossMod does (\"fan\" fragments carry their full cone angle) and becomes a conservative danger zone - unknown sizes degrade to generous circles and donuts, so the failure direction is over-dodging. A zone lives exactly as long as its telegraph graphic: the danger ends when the game destroys the VFX. No new game hooks - ECommons' VfxManager already tracks every live VFX since plugin start; detection only reads that list. (file: new `AutoRotation/OmenVfxModel.cs`, `AutoRotation/SmartMover.cs` new `CollectOmenZones`; toggle: \"Omen telegraphs (instant AoEs)\" in the Auto-Rotation tab, on by default when Smart Movement is on)\n- **Movement telemetry (MV|) lines gain a ninth field: the count of live omen-derived zones** (ovz), so dodge decisions can be graded against what the omen layer actually saw. (file: `AutoRotation/MovementTelemetryFormat.cs`, `BuildLine`)\n- New \"Omen debug log\" setting (off by default): MVD| lines record every decoded omen telegraph (path, shape, caster, age, aim) and MVU| lines record hostile VFX that did not classify as omens - the live check on detection coverage. (file: `AutoRotation/SmartMover.cs`, `CollectOmenZones`/`LogUnmatchedHostileVfx`; setting: \"Omen debug log\" in the Auto-Rotation tab)\n- Offline harness extended from 96 to 129 cases: omen path classification (fan/donut/line/sircle fragments and the three-digit cone-angle parse), conservative zone building per shape, the caster-facing convention for cone aim, the symmetric rect anchor that survives a 180-degree rotation error, quaternion near-identity rejection, the omen age window, and end-to-end dodges from omen zones with a far-zone negative control. (file: `tests/GluttonyCombo.SmartMoverHarness/Program.cs`, new `AutoRotation/OmenVfxModel.cs`)\n\nv1.0.4.194 (2026-09-12) [testing]\n- **Movement-ability safety gate (Auto-Rotation, on by default): auto-fired gap-closers and dashes now pass one shared safety check before they may fire** - never during Smart Movement's dodge (the dodge destination is safety-chosen and a dash would override it), never while another dash is executing, and never with the ability's landing point inside a live danger zone plus the configured buffer. Covers Beastmaster Shield Charge (both the gap-closer and the overcharge arms, previously unguarded), Warrior Onslaught, Paladin Intervene, Red Mage Corps-a-corps (both the melee-combo gap-closer and the in-range damage weave), and Occult Crescent Phantom Kick. The landing point is computed as the target's melee ring, not the target's centre, since gap-closers stop at melee range. The dodge and zone checks read Smart Movement's state and apply when it is enabled; the mid-dash check always applies. The gate abstains only - it never stands the rotation down. Toggle: \"Movement ability safety gate\" in the Auto-Rotation tab. (file: `AutoRotation/MovementGate.cs`, new `AutoRotation/MovementGateCore.cs`, `AutoRotation/SmartMover.cs` new `IsDodging`/`ZonesUnsafe` exports; gated sites: `Combos/PvE/BST/BST.cs` `TryShieldCharge`, `Combos/PvE/WAR/WAR_Helper.cs` onslaught block, `Combos/PvE/PLD/PLD_Helper.cs` intervene block, `Combos/PvE/RDM/RDM.cs` both Corps-a-corps sites, `Combos/PvE/Content/OccultCrescent/OccultCrescent.cs` Phantom Kick)\n- **Timed casts are no longer held during the slidecast window.** The global cast gate (a timed cast may start only while standing still) predates Smart Movement and idled the rotation through the last 0.5 s of every cast - exactly when the character is supposed to be moving. While the cast already in progress has 0.5 s or less remaining, movement no longer blocks the queue. The client still refuses a cast start on ground that is physically moving when the action executes, the same failure mode as any cast pressed while running. (file: `AutoRotation/AutoRotationController.cs`, new `MovementBlocksCastStart`; used by the ExecuteST, ExecuteAoE and heal cast gates)\n- Beastmaster trait table: Enhanced Shield Charge is learned at level 36, not 30. Comment-only correction; no rotation behavior change. (file: `Combos/PvE/BST/BST_Helper.cs`, class `Traits`)\n- Offline harness extended from 89 to 96 cases: the movement-gate contract (all-clear, dodge-hold, mid-dash hold, landing-inside-zone refusal with real derived-zone geometry, buffer margin, and the gate-disabled pass-through that proves stock behavior is identical when the gate is off). (file: `tests/GluttonyCombo.SmartMoverHarness/Program.cs`, new `AutoRotation/MovementGateCore.cs`)\n\nv1.0.4.193 (2026-09-12) [testing]\n- **Smart Movement: a ranged caster standing inside attack range could be walked backwards out of melee range in the middle of the melee combo.** The \"in range\" test demanded the character stand at least half the ring radius away from the target, so a 20-yalm-range caster at melee distance failed it and the mover backed the character away to widen the gap. The range check now only cares about being too far; being closer than the band is always acceptable and the mover never steps away on its own. (file: `AutoRotation/SmartMoverCore.cs`, function: `PositionOk`)\n- **Smart Movement: a dodge could send the character far outside the boss arena.** The escape sampler searched a 24-yalm ring in every direction for safety and took the first safe point, however far from the fight that was. Candidate destinations are now rejected when they would land farther than 15 yalms from the engaged target, so escapes stay in the arena neighbourhood, and when no in-bounds safe point exists the mover holds position instead of wandering off. (file: `AutoRotation/SmartMoverCore.cs`, function: `FindSafePoint`)\n- **Smart Movement: ground danger stopped mattering the instant the enemy cast bar ended.** Telegraphs anchored to the ground (circles, donuts, crosses and ground lines) leave a damaging field after the cast resolves; the mover used to forget them at resolution and could stand the character in the field. Resolved ground zones now linger as danger for 3 seconds, tracked per caster, so the character keeps avoiding them while they persist. (files: `AutoRotation/DangerZoneModel.cs`, new class `LingeringZones`; `AutoRotation/SmartMover.cs`, function: `CollectZones`)\n- Offline harness extended from 82 to 89 cases: never-back-away band regressions (ranged job at melee distance and melee job inside the band both settle), the arena-clamp rejection with an unclamped negative control, and the lingering-zone lifecycle (active/remaining, sweep, clear). (file: `tests/GluttonyCombo.SmartMoverHarness/Program.cs`)\n\nv1.0.4.192 (2026-09-12) [testing]\n- **Smart Movement: danger avoidance never triggered while playing solo, because every enemy cast aimed at the character was discarded as \"undodgeable\" before its shape was ever considered.** That rule genuinely applies to attacks anchored to the target's own feet - a ground circle drawn under the character follows the character and cannot be outrun - but it was being applied to every cast shape, including point-blank circles, cones, lines and charges anchored to the caster, which can always be walked out of no matter who they are aimed at. Solo, nearly every enemy telegraph targets the character, so the live danger-zone list stayed empty and the mover never had anything to dodge. The skip now applies only to the four genuinely target-anchored shapes; caster-anchored telegraphs aimed at the character are dodged like any other. (file: `AutoRotation/DangerZoneModel.cs`, functions: `BuildZone`, new `IsPlayerAnchoredUndodgeable`)\n- **Smart Movement: changing auto-rotation targets quickly could leave the character steering toward the previous target for up to a second.** The destination-hold check compared each new destination against the held one and then discarded the result - both outcomes returned the held destination, so a materially different destination (a new target across the battlefield) waited out the hold. A new destination more than a yalm from the held one is now adopted immediately; small fluctuations are still smoothed away. (file: `AutoRotation/SmartMoverCore.cs`, function: `Commit`)\n- Offline harness extended from 70 to 82 cases: solo regression cases for every caster-anchored cast shape aimed at the character (each failed on the previous build), a solo end-to-end dodge case, and a quick-retarget hysteresis case. (file: `tests/GluttonyCombo.SmartMoverHarness/Program.cs`)",
+    "Changelog": "v1.0.4.200 (2026-09-15) [testing]\n- **Smart Movement on melee now walks into range before combat instead of standing down invisibly.** The whole mover, engage included, was gated on the in-combat flag with the toggle-off reason, which telemetry filters: targeting a hostile out of combat produced zero motion and zero log lines, which graded as \"Automove does not move me to the target\" (Shirogane NIN report on 1.0.4.198). The mover now engages hostile targets out of combat so melee can walk into range to pull; anything else out of combat (no target, friendly target) stands down with its own visible `ooc` reason instead of hiding behind toggle-off, and dodging stays combat-gated. (files: `AutoRotation/SmartMoverCore.cs` - `Decide` ooc gate plus `ReasonOocCode`, `MoverWorld.TargetHostile`; `AutoRotation/SmartMover.cs` - `BuildWorld` hostility, `ReasonString`, `Emit` filter; `AutoRotation/MovementTelemetryFormat.cs` - `DecisionCode`; UI help text)\n- Offline harness now runs 149 cases: pre-combat hostile engage, friendly and no-target ooc standdown with the reason mapping, no out-of-combat dodge, and the ooc telemetry code. (file: `tests/GluttonyCombo.SmartMoverHarness/Program.cs`)\n- In-game grading with Smart Movement ON: target a hostile out of combat and expect the character to walk into attack range (melee first), `MV|..|ooc` lines when holding with no hostile target, then the Occult Crescent dodge grading.\n\nv1.0.4.199 (2026-09-15) [testing]\n- **Beastmaster familiar loop no longer sacrifices the pet before it acts.** Below 100 familiar TP with the hold-for-Vantage toggle off, Parting Blow was offered even when Trick had never fired this summon: a fresh familiar (0 TP, still building through auto-attacks) was retreated instantly, spending Borrow and Tempered Release for nothing while burning the Battlehorn slot into its recast, which read in game as an instant sacrifice followed by no resummon (Sept-14 in-game report). Parting Blow is now held until Trick has fired once per summon, at every level bracket and under either toggle; the hold reports `partingblow:waiting-pet-action` on the BT| decline tap. The normal Trick-then-retreat cycle is unchanged. (files: `Combos/PvE/BST/BST_RotationLogic.cs` - `ChooseFamiliarCandidates`/`ChooseFamiliarStep` new `trickedThisSummon` gate; `Combos/PvE/BST/BST.cs` - live-half Trick timestamp)\n- Offline BST rotation harness extended from 114 to 121 cases: the premature-sacrifice regression (pre-act hold at any level and toggle, decline taxonomy, pet-acts-then-retreat cycle) plus the candidate sweep widened to 1280 input combinations. (file: `tests/GluttonyCombo.BSTRotationHarness/Program.cs`)\n\nv1.0.4.198 (2026-09-15) [testing]\n- **Smart Movement with the toggle ON no longer goes silently blind when the navigation layer is not ready.** A dead nav layer (vnavmesh not ready for the zone, or a failing nav call killing the mover tick before it could report) used to look exactly like the toggle being OFF: no dodge attempts and no telemetry at all. A nav-not-ready standdown now logs its own visible `MV|..|nav` line instead of being filtered as toggle-off, so the mover state can actually be graded from the log. (files: `AutoRotation/SmartMoverCore.cs` - `Decide` returns `ReasonNavCode`; `AutoRotation/SmartMover.cs` - `Emit` filter)\n- **The omen and danger-awareness instruments now reach the log.** Every `MVD|`/`MVU|` omen tap, the `MVS|omen` silence marker and mover tick failures were written with a debug call that never reaches the log file in normal builds, so the whole danger-detection layer was unobservable by construction. They now log at information level behind the existing \"Movement Telemetry\" setting with the same throttles (once per telegraph, 30-second silence marker, 60-second tick-failure cap). (file: `AutoRotation/SmartMover.cs`)\n- **A failing navigation call no longer kills the mover tick silently.** The move command is now guarded so a nav failure is absorbed and re-evaluated on the next tick instead of aborting the tick before the mover could emit its decision. (file: `AutoRotation/SmartMover.cs` - `Execute`)\n- No dodge behavior change by itself: same zones, same sampler, same gates. What changes is observability plus the fail-open guard. In-game grading with Smart Movement ON in the same content: expect `MVD|`/`MVU|` lines settling the omen feed, `MV|..|nav` lines if the nav layer is dead, and dodge attempts on telegraphs.\n- Offline harness now runs 143 cases, including nav-not-ready reason mapping and the toggle-off negative control proving toggle-off still emits nothing. (file: `tests/GluttonyCombo.SmartMoverHarness/Program.cs`)\n\nv1.0.4.197 (2026-09-12) [testing]\n- **Fixed the hard game crash introduced by v1.0.4.196** (the game closing outright with no error window). The mover was re-issuing the vnavmesh move command every 250 ms tick even while vnavmesh was still computing the previous path, and the mesh walkability checks added in v1.0.4.196 could hit the navigation mesh at the same moment vnavmesh's own background path search was using it - two native mesh readers racing, which kills the process without any plugin error. The mover now issues no nav commands and no mesh probes while a path search is running, does not re-prime a move that is already running toward essentially the same spot, and answers each walkability probe at most once per ground cell per tick instead of hundreds of times. (files: `AutoRotation/SmartMover.cs` - `Tick` nav-busy sampling, `Execute` re-issue gate, `WalkableAt` probe cache; the crash session log showed repeated \"Pathfinding task is in progress\" errors in the second before the process died)\n- **Smart Movement no longer twitches when several overlapping AoEs force repeated dodging.** While a dodge is already committed, its destination is kept as long as it stays outside every live danger zone and on walkable ground; the sampler's \"nearest safe point\" wobbles a yalm or two between ticks when zones overlap, and every wobble used to re-aim the dodge and hand the pathfinder a fresh destination. A fresh dodge - the moment danger is first detected, or when the held destination stops being safe - still commits immediately. (file: `AutoRotation/SmartMoverCore.cs` dodge branch, `Hysteresis.LastDodge`)\n- **Smart Movement has its own one-click server-bar toggle, independent of auto-rotation.** A new \"Gluttony Smart Movement\" entry appears next to the existing auto-rotation icon in the server info bar (and in Umbra, which shows these entries natively): one click turns Smart Movement off when it acts up, another click turns it back on. The auto-rotation sword icon and the opener icon are unchanged. The entry can be hidden per-plugin in Umbra or under `/xlsettings` -> Server Info Bar. (file: `GluttonyCombo.cs` - `SmartDtr` entry and `OnFrameworkUpdate` text; setting: `RotationConfig.DPSSettings.SmartMover`)\n- Telemetry (testing): the `MVD|`/`MVU|` omen debug lines now follow the existing \"Movement Telemetry\" setting instead of a separate hidden debug flag, so the diagnostic taps run whenever movement telemetry is on. A new `MVS|omen` marker line prints at most every 30 seconds while in combat with the omen layer enabled but zero hostile ground effects seen - separating \"the instant-AoE detection layer is dead\" from \"no instant AoEs this fight\", which live telemetry could not (the ovz field read 0 on every movement line ever logged). (file: `AutoRotation/SmartMover.cs` - `CollectOmenZones` gate, `Tick` marker)\n- Offline harness extended from 137 to 140 cases: dodge-destination continuity (a held dodge destination is kept while still safe, released the moment a new zone covers it). (file: `tests/GluttonyCombo.SmartMoverHarness/Program.cs`)\n\nv1.0.4.196 (2026-09-12) [testing]\n- **Smart Movement dodge and engage destinations are now filtered through the real navmesh, not just distance from the target.** The old arena-bounds check was a straight-line \"within 15 yalms of the target\" heuristic (v1.0.4.193), which accepts a point that is the right distance away but sits off the walkable floor - a doorway, a wall corner, a pit. Every sampled dodge ring and the melee/ranged positional ring now also asks vnavmesh whether the candidate point is actually on the mesh; a point that fails is skipped the same way a point inside a danger zone already is. The distance clamp stays as an independent backstop (a walkable corridor can still lead well outside the intended encounter). With vnavmesh absent or not ready the check is skipped entirely and behavior is byte-identical to v1.0.4.195 - Smart Movement remains fully independent of any third-party plugin. (file: `AutoRotation/SmartMoverCore.cs` new `Walkable`, `MoverWorld.IsPointWalkable`, `FindSafePoint`/`FindSafeRingPoint` new parameter; `Services/IPC_Subscriber/NavmeshIPC.cs` new `Query.Mesh.PointOnFloor` wrapper `IsPointWalkable`; `AutoRotation/SmartMover.cs` new `WalkableAt`)\n- Offline harness extended from 129 to 137 cases: dodge and engage destinations respecting a simulated mesh boundary, a negative control proving the same scene is unconstrained by that boundary when no mesh predicate is supplied, `FindSafePoint`/`FindSafeRingPoint` unit cases for a fully-blocked mesh (hold, never fabricate a landing spot) and a partially-blocked one (still finds a point), and a case proving the pre-existing distance clamp still applies even when the mesh predicate allows everything. (file: `tests/GluttonyCombo.SmartMoverHarness/Program.cs`)\n- Gap 1 of the 5-gap BMR feature-parity program (kanban card t_810c6a20): true arena-geometry bounds via vnavmesh mesh walkability, corroboration-only design (no BMR dependency). Gaps 2-5 (gaze/facing, donut inner radius from telemetry, BMR oracle corroboration) remain.\n\nv1.0.4.195 (2026-09-12) [testing]\n- **Smart Movement: instant enemy AoEs with no cast bar are now dodged too - omen ground telegraphs become danger zones.** Cast-bar reading misses every instant attack; the ground omen graphic the game spawns for them is their only telegraph. Every live omen VFX cast by a hostile enemy is now decoded from its omen path fragment the same way BossMod does (\"fan\" fragments carry their full cone angle) and becomes a conservative danger zone - unknown sizes degrade to generous circles and donuts, so the failure direction is over-dodging. A zone lives exactly as long as its telegraph graphic: the danger ends when the game destroys the VFX. No new game hooks - ECommons' VfxManager already tracks every live VFX since plugin start; detection only reads that list. (file: new `AutoRotation/OmenVfxModel.cs`, `AutoRotation/SmartMover.cs` new `CollectOmenZones`; toggle: \"Omen telegraphs (instant AoEs)\" in the Auto-Rotation tab, on by default when Smart Movement is on)\n- **Movement telemetry (MV|) lines gain a ninth field: the count of live omen-derived zones** (ovz), so dodge decisions can be graded against what the omen layer actually saw. (file: `AutoRotation/MovementTelemetryFormat.cs`, `BuildLine`)\n- New \"Omen debug log\" setting (off by default): MVD| lines record every decoded omen telegraph (path, shape, caster, age, aim) and MVU| lines record hostile VFX that did not classify as omens - the live check on detection coverage. (file: `AutoRotation/SmartMover.cs`, `CollectOmenZones`/`LogUnmatchedHostileVfx`; setting: \"Omen debug log\" in the Auto-Rotation tab)\n- Offline harness extended from 96 to 129 cases: omen path classification (fan/donut/line/sircle fragments and the three-digit cone-angle parse), conservative zone building per shape, the caster-facing convention for cone aim, the symmetric rect anchor that survives a 180-degree rotation error, quaternion near-identity rejection, the omen age window, and end-to-end dodges from omen zones with a far-zone negative control. (file: `tests/GluttonyCombo.SmartMoverHarness/Program.cs`, new `AutoRotation/OmenVfxModel.cs`)",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IsHide": false,
@@ -4249,7 +4249,7 @@
     ],
     "DownloadCount": 0,
     "LastUpdate": "1785138374",
-    "TestingAssemblyVersion": "1.0.4.197",
+    "TestingAssemblyVersion": "1.0.4.200",
     "TestingDalamudApiLevel": 15
   },
   {
@@ -4670,7 +4670,7 @@
     "Author": "Sevii",
     "DalamudApiLevel": 15,
     "Description": "Auto updates mods and allows for more customization such as color and compositing onto other files",
-    "DownloadCount": 268892,
+    "DownloadCount": 268913,
     "DownloadLinkInstall": "https://aetherment.sevii.dev/plugin/install",
     "DownloadLinkTesting": "https://aetherment.sevii.dev/plugin/install",
     "DownloadLinkUpdate": "https://aetherment.sevii.dev/plugin/update",
