@@ -94,7 +94,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.24/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.24/latest.zip",
-    "DownloadCount": 82629,
+    "DownloadCount": 82702,
     "LastUpdate": "1777510404"
   },
   {
@@ -119,7 +119,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.5.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.5.1/latest.zip",
-    "DownloadCount": 24447,
+    "DownloadCount": 24474,
     "LastUpdate": "1777513055"
   },
   {
@@ -144,7 +144,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.1.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.1.2/latest.zip",
-    "DownloadCount": 54756,
+    "DownloadCount": 54817,
     "LastUpdate": "1777904465"
   },
   {
@@ -154,7 +154,7 @@
     "Description": "Locks player movement while casting and allows for maximum caster uptime during the course of a fight.",
     "Tags": [],
     "InternalName": "Orbwalker",
-    "DownloadCount": 86548,
+    "DownloadCount": 86555,
     "LastUpdate": 1777528744,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/1.0.1.10/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/1.0.1.10/update/latest.zip",
@@ -173,7 +173,7 @@
       "combat"
     ],
     "InternalName": "Avarice",
-    "DownloadCount": 391040,
+    "DownloadCount": 391140,
     "LastUpdate": 1785546003,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.13/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.13/update/latest.zip",
@@ -198,7 +198,7 @@
       "convenience"
     ],
     "InternalName": "PandorasBox",
-    "DownloadCount": 1348463,
+    "DownloadCount": 1348499,
     "LastUpdate": 1780112081,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.4/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.4/update/latest.zip",
@@ -221,7 +221,7 @@
       "Fishing"
     ],
     "InternalName": "AutoHook",
-    "DownloadCount": 2536649,
+    "DownloadCount": 2537817,
     "LastUpdate": 1789553934,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.0.99/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.0.99/update/latest.zip",
@@ -229,32 +229,10 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Changelog": "",
-    "TestingAssemblyVersion": "6.0.1.1",
-    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.1.1/install/testing.zip",
+    "TestingAssemblyVersion": "6.0.1.2",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.1.2/install/testing.zip",
     "TestingDalamudApiLevel": "15",
     "IconUrl": "https://puni.sh/api/plugins/icon/47"
-  },
-  {
-    "Author": "kawaii, jukka",
-    "Name": "Palace Pal",
-    "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
-    "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
-    "Tags": [
-      "potd",
-      "hoh",
-      "splatoon",
-      "palace"
-    ],
-    "InternalName": "PalacePal",
-    "DownloadCount": 251089,
-    "LastUpdate": 1777738875,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/update/latest.zip",
-    "AssemblyVersion": "4.16.0.0",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "",
-    "IconUrl": "https://puni.sh/api/plugins/icon/32"
   },
   {
     "Author": "Taurenkey, Gid, NightmareXIV",
@@ -268,7 +246,7 @@
       "other"
     ],
     "InternalName": "LazyLoot",
-    "DownloadCount": 247965,
+    "DownloadCount": 247976,
     "LastUpdate": 1777584039,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.3/update/latest.zip",
@@ -277,6 +255,28 @@
     "DalamudApiLevel": "15",
     "Changelog": "- 7.5",
     "IconUrl": "https://puni.sh/api/plugins/icon/9"
+  },
+  {
+    "Author": "kawaii, jukka",
+    "Name": "Palace Pal",
+    "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
+    "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
+    "Tags": [
+      "potd",
+      "hoh",
+      "splatoon",
+      "palace"
+    ],
+    "InternalName": "PalacePal",
+    "DownloadCount": 251105,
+    "LastUpdate": 1777738875,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/update/latest.zip",
+    "AssemblyVersion": "4.16.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "",
+    "IconUrl": "https://puni.sh/api/plugins/icon/32"
   },
   {
     "Author": "the Puni.sh Quest Squad",
@@ -290,7 +290,7 @@
       "utility"
     ],
     "InternalName": "Questionable",
-    "DownloadCount": 2210362,
+    "DownloadCount": 2211989,
     "LastUpdate": 1789705547,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.756.3.6/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.756.3.6/update/latest.zip",
@@ -312,7 +312,7 @@
       "marketboard"
     ],
     "InternalName": "Marketbuddy",
-    "DownloadCount": 21789,
+    "DownloadCount": 21799,
     "LastUpdate": 1777575334,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/131/Marketbuddy/versions/0.2.4.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/131/Marketbuddy/versions/0.2.4.2/update/latest.zip",
@@ -323,33 +323,13 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/131"
   },
   {
-    "Author": "daemitus, croizat",
-    "Name": "Yes Already",
-    "Punchline": "Clicks Yes in various dialogs you've specified.",
-    "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
-    "Tags": [],
-    "InternalName": "YesAlready",
-    "DownloadCount": 1409076,
-    "LastUpdate": 1789683782,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.5.2/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.5.2/update/latest.zip",
-    "AssemblyVersion": "1.15.5.2",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "",
-    "TestingAssemblyVersion": "1.10.4.0",
-    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.10.4.0/install/testing.zip",
-    "TestingDalamudApiLevel": "12",
-    "IconUrl": "https://puni.sh/api/plugins/icon/26"
-  },
-  {
     "Author": "kawaii, NightmareXIV",
     "Name": "AutoRetainer",
     "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
     "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
     "Tags": [],
     "InternalName": "AutoRetainer",
-    "DownloadCount": 2502389,
+    "DownloadCount": 2502506,
     "LastUpdate": 1788386232,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.1.34/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.1.34/update/latest.zip",
@@ -363,6 +343,26 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/24"
   },
   {
+    "Author": "daemitus, croizat",
+    "Name": "Yes Already",
+    "Punchline": "Clicks Yes in various dialogs you've specified.",
+    "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
+    "Tags": [],
+    "InternalName": "YesAlready",
+    "DownloadCount": 1410628,
+    "LastUpdate": 1789683782,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.5.2/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.5.2/update/latest.zip",
+    "AssemblyVersion": "1.15.5.2",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "",
+    "TestingAssemblyVersion": "1.10.4.0",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.10.4.0/install/testing.zip",
+    "TestingDalamudApiLevel": "12",
+    "IconUrl": "https://puni.sh/api/plugins/icon/26"
+  },
+  {
     "Author": "Team Wrath",
     "Name": "Wrath Combo",
     "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
@@ -373,7 +373,7 @@
       "pvp"
     ],
     "InternalName": "WrathCombo",
-    "DownloadCount": 1206105,
+    "DownloadCount": 1206292,
     "LastUpdate": 1789289944,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.25/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.25/update/latest.zip",
@@ -396,7 +396,7 @@
       "Accessibility"
     ],
     "InternalName": "Splatoon",
-    "DownloadCount": 2239723,
+    "DownloadCount": 2239791,
     "LastUpdate": 1787793609,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.25/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.25/update/latest.zip",
@@ -418,7 +418,7 @@
       "crafting"
     ],
     "InternalName": "Artisan",
-    "DownloadCount": 5995726,
+    "DownloadCount": 5996467,
     "LastUpdate": 1789308686,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.20/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.20/update/latest.zip",
@@ -442,7 +442,7 @@
       "automation"
     ],
     "InternalName": "Saucy",
-    "DownloadCount": 1091131,
+    "DownloadCount": 1091206,
     "LastUpdate": 1788197704,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.2.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.2.2/update/latest.zip",
@@ -467,7 +467,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: HaselDebug now ships with custom Lumina.Excel. It uses the latest branch from EXDSchema (currently at f3cacf3b) for the Excel tab when the Experimental Sheets checkbox is selected.\n- Added: `Guid` structs are now displaying their text form and can be copied.\n- Fixed: TextNodes weren't displaying the text as macro string anymore since the change in Lumina.\n- Updated: ClientStructs now at f64a80e8 (compare).",
-    "DownloadCount": 145,
+    "DownloadCount": 173,
     "LastUpdate": 1789645767,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.75.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.75.0/latest.zip"
@@ -580,7 +580,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "HaselTweaks\n\n- Updated ClientStructs for Patch 7.56 HotFix 2.",
-    "DownloadCount": 3798,
+    "DownloadCount": 5232,
     "LastUpdate": 1789650039,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v50.0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v50.0.2/latest.zip"
@@ -601,7 +601,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: You can now click on the group header in the Type filter to filter for either all Fieldcraft, Tradecraft or Grand Company Leves.\n- Added: When GatherBuddy is installed, the Queue and Recipe Tree now display GatherBuddys tooltip on fish and spearfish, including info about the Bait, Time and Weather restrictions and the next uptimes.  \n  - Please note that GatherBuddy uses the client language, not Dalamuds UI language like LeveHelper. It's out of my control.\n- Fixed: Some gatherables did not show up in the Queue.\n\nRegarding the Levemete filter\n\nThe game's database doesn't list which Levemete issues which Levequests and multiple old NPCs also rotate their Levequests when you complete one.\n\nI used to scrape a wiki to gather this data, but two weeks ago, we added Levequest issuer tracking to the Tracky plugin and already have more entries than the wiki provided!\n\nSome entries that I could confirm through another wiki are still missing, so manually added those back in for now.\n\nIf you'd like to help us, please install the Tracky plugin and enable uploads in its settings.\n\nThank you! :)",
-    "DownloadCount": 1144,
+    "DownloadCount": 1159,
     "LastUpdate": 1789065548,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.6.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.6.0/latest.zip"
@@ -1099,7 +1099,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 1777765848,
-    "DownloadCount": 79541,
+    "DownloadCount": 79605,
     "DownloadLinkInstall": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.7.4.1/BDTHPlugin.zip",
     "DownloadLinkTesting": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.7.4.1/BDTHPlugin.zip",
     "DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.7.4.1/BDTHPlugin.zip"
@@ -1111,7 +1111,7 @@
     "Description": "Now for more than crafting!",
     "Tags": [],
     "InternalName": "SomethingNeedDoing",
-    "DownloadCount": 809755,
+    "DownloadCount": 809783,
     "LastUpdate": 1788728171,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/15.9/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/15.9/update/latest.zip",
@@ -1132,11 +1132,11 @@
       "tweaks"
     ],
     "InternalName": "Automaton",
-    "DownloadCount": 972889,
-    "LastUpdate": 1789718373,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.217/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.217/update/latest.zip",
-    "AssemblyVersion": "69.217",
+    "DownloadCount": 974985,
+    "LastUpdate": 1789744781,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.218/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.218/update/latest.zip",
+    "AssemblyVersion": "69.218",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "Changelog": "",
@@ -1151,7 +1151,7 @@
       "glamour"
     ],
     "InternalName": "GlamourLog",
-    "DownloadCount": 34413,
+    "DownloadCount": 34540,
     "LastUpdate": 1789643274,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/136/GlamourLog/versions/15.69/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/136/GlamourLog/versions/15.69/update/latest.zip",
@@ -1191,7 +1191,7 @@
     "Description": "Make custom deliveries less annoying by automating the process.",
     "Tags": [],
     "InternalName": "vsatisfy",
-    "DownloadCount": 155173,
+    "DownloadCount": 155176,
     "LastUpdate": 1781106410,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/0.0.0.37/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/0.0.0.37/update/latest.zip",
@@ -1208,7 +1208,7 @@
     "Description": "Automate gathering, workshop assignments, etc.",
     "Tags": [],
     "InternalName": "visland",
-    "DownloadCount": 884395,
+    "DownloadCount": 884768,
     "LastUpdate": 1789544765,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.151/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.151/update/latest.zip",
@@ -1225,7 +1225,7 @@
     "Description": "Based on ezFauxHollows, but uses known patterns instead of general-purpose solver.",
     "Tags": [],
     "InternalName": "vfaux",
-    "DownloadCount": 98203,
+    "DownloadCount": 98204,
     "LastUpdate": 1777496806,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/29/vfaux/versions/0.0.0.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/29/vfaux/versions/0.0.0.12/update/latest.zip",
@@ -1242,7 +1242,7 @@
     "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
     "Tags": [],
     "InternalName": "BossMod",
-    "DownloadCount": 2571728,
+    "DownloadCount": 2572019,
     "LastUpdate": 1789161428,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/7.5.6.5/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/7.5.6.5/update/latest.zip",
@@ -1267,7 +1267,7 @@
     "Description": "Bot that does fall guys event automatically.",
     "Tags": [],
     "InternalName": "vfallguy",
-    "DownloadCount": 57181,
+    "DownloadCount": 57182,
     "LastUpdate": 1777500971,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/41/vfallguy/versions/0.0.0.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/41/vfallguy/versions/0.0.0.12/update/latest.zip",
@@ -1284,7 +1284,7 @@
     "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
     "Tags": [],
     "InternalName": "vnavmesh",
-    "DownloadCount": 1895106,
+    "DownloadCount": 1895224,
     "LastUpdate": 1787843275,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/1.2.3.14/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/1.2.3.14/update/latest.zip",
@@ -1480,7 +1480,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Remove a debug line by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1374\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.6.8...7.5.6.9",
-    "DownloadCount": 3238508
+    "DownloadCount": 3239603
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1507,13 +1507,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "Punchline": "Don't fail at raid mechanics anymore",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.5.6.12/latest.zip",
-    "AssemblyVersion": "7.5.6.12",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.5.6.12/latest.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.5.6.13/latest.zip",
+    "AssemblyVersion": "7.5.6.13",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.5.6.13/latest.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.11/latest.zip",
     "TestingAssemblyVersion": "7.4.5.11",
-    "Changelog": "## What's Changed\r\n* fix latency issue in FTME1 module by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1358\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.5.6.11...7.5.6.12",
-    "DownloadCount": 3723302
+    "Changelog": "## What's Changed\r\n* Third board master some more bosses & improvements by @Equilius in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1359\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.5.6.12...7.5.6.13",
+    "DownloadCount": 3724831
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1541,7 +1541,7 @@
     "AssemblyVersion": "7.5.5.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.5.5.1/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Move texture loading to the main thread, ran code cleanup by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/19\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.5.5.0...7.5.5.1",
-    "DownloadCount": 37892
+    "DownloadCount": 37898
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1570,7 +1570,7 @@
     "AssemblyVersion": "7.5.0.3",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.5.0.3/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* Added pr buildtest by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/17\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.5.0.2...7.5.0.3",
-    "DownloadCount": 62210
+    "DownloadCount": 62216
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1608,7 +1608,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.5.17/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.5.17",
     "Changelog": "## What's Changed\r\n* Validator/Food setting by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/665\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.5.2...7.5.5.3",
-    "DownloadCount": 1094418
+    "DownloadCount": 1094521
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1634,7 +1634,7 @@
     "AssemblyVersion": "7.5.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.5.0.0/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* api15 by @Shiori-Zephyr in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/16\r\n* API 15 compatibility by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/17\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.4.5.0...7.5.0.0",
-    "DownloadCount": 30946
+    "DownloadCount": 30948
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1665,7 +1665,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "## What's Changed\r\n* Add pr test and bump ecommons by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/8\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.5.0.0...7.5.0.1",
-    "DownloadCount": 20081
+    "DownloadCount": 20086
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1699,7 +1699,7 @@
     "AssemblyVersion": "7.5.6.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.5.6.0/latest.zip",
     "Changelog": "## What's Changed\r\n* Update for patch 7.56 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/28\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.5.5.1...7.5.6.0",
-    "DownloadCount": 47387
+    "DownloadCount": 47404
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1733,7 +1733,7 @@
     "AssemblyVersion": "7.5.5.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/NoSillyReborn/releases/download/7.5.5.0/latest.zip",
     "Changelog": "## What's Changed\r\n* Update for 7.55 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/NoSillyReborn/pull/5\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/NoSillyReborn/compare/7.5.0.2...7.5.5.0",
-    "DownloadCount": 7381
+    "DownloadCount": 7385
   },
   {
     "Author": "Churin",
@@ -2063,6 +2063,28 @@
     "_Dip17Channel": null
   },
   {
+    "Author": "kawaii",
+    "Name": "Chocoholic",
+    "Punchline": "Kweh!",
+    "Description": "Chocoholic is a plugin to automatically queue for and complete Chocobo races in FFXIV.",
+    "Tags": [
+      "chocobo",
+      "gold saucer",
+      "race",
+      "mgp"
+    ],
+    "InternalName": "Chocoholic",
+    "DownloadCount": 5729,
+    "LastUpdate": 1778089832,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/update/latest.zip",
+    "AssemblyVersion": "0.0.0.3",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "Update for Dalamud API 15 and 2026.04.21.0000.0000.",
+    "IconUrl": "https://puni.sh/api/plugins/icon/116"
+  },
+  {
     "Author": "kawaii, NightmareXIV",
     "Name": "Hyperborea",
     "Punchline": "What if we GPosed in the Mordion Gaol?",
@@ -2071,7 +2093,7 @@
       "gpose"
     ],
     "InternalName": "Hyperborea",
-    "DownloadCount": 48858,
+    "DownloadCount": 48864,
     "LastUpdate": 1787504034,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.1.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.1.2/update/latest.zip",
@@ -2089,34 +2111,12 @@
   },
   {
     "Author": "kawaii",
-    "Name": "Chocoholic",
-    "Punchline": "Kweh!",
-    "Description": "Chocoholic is a plugin to automatically queue for and complete Chocobo races in FFXIV.",
-    "Tags": [
-      "chocobo",
-      "gold saucer",
-      "race",
-      "mgp"
-    ],
-    "InternalName": "Chocoholic",
-    "DownloadCount": 5726,
-    "LastUpdate": 1778089832,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/update/latest.zip",
-    "AssemblyVersion": "0.0.0.3",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "Update for Dalamud API 15 and 2026.04.21.0000.0000.",
-    "IconUrl": "https://puni.sh/api/plugins/icon/116"
-  },
-  {
-    "Author": "kawaii",
     "Name": "Dropbox",
     "Punchline": "Your personal vending machine.",
     "Description": "Your personal vending machine.",
     "Tags": [],
     "InternalName": "Dropbox",
-    "DownloadCount": 49349,
+    "DownloadCount": 49354,
     "LastUpdate": 1783980806,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.15/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.15/update/latest.zip",
@@ -2139,7 +2139,7 @@
       "Sanctuary"
     ],
     "InternalName": "ExplorersIcebox",
-    "DownloadCount": 52970,
+    "DownloadCount": 52977,
     "LastUpdate": 1779884677,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/64/ExplorersIcebox/versions/1.1.0.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/64/ExplorersIcebox/versions/1.1.0.3/update/latest.zip",
@@ -2160,7 +2160,7 @@
       "Gatherers"
     ],
     "InternalName": "ChilledLeves",
-    "DownloadCount": 106796,
+    "DownloadCount": 106803,
     "LastUpdate": 1777774705,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/68/ChilledLeves/versions/1.0.1.24/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/68/ChilledLeves/versions/1.0.1.24/update/latest.zip",
@@ -2179,7 +2179,7 @@
       "Gatherers"
     ],
     "InternalName": "ICE",
-    "DownloadCount": 1236159,
+    "DownloadCount": 1236197,
     "LastUpdate": 1787363615,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/70/ICE/versions/1.0.0.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/70/ICE/versions/1.0.0.2/update/latest.zip",
@@ -2205,7 +2205,7 @@
     "Description": "Your personal Henchman doing all the heavy lifting for you!\n\n- A/B Rank Farmer\n- Hunt Logs\n- Hunt Bills\n- Retainer Creation\n- Character Creation\n- Multi Account Trading\n- Ocean Fishing\n- Chocobokeeps\nand more to come.",
     "Tags": [],
     "InternalName": "Henchman",
-    "DownloadCount": 186547,
+    "DownloadCount": 186563,
     "LastUpdate": 1788540101,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/85/Henchman/versions/3.0.1.26/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/85/Henchman/versions/3.0.1.26/update/latest.zip",
@@ -2225,7 +2225,7 @@
     "Description": "Your personal shopper who will take care of all your currency spendings!\n\nKnightshopper: because even knights deserve a squire for their shopping.",
     "Tags": [],
     "InternalName": "Knightshopper",
-    "DownloadCount": 1328,
+    "DownloadCount": 1382,
     "LastUpdate": 1789732559,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/173/Knightshopper/versions/1.0.0.8/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/173/Knightshopper/versions/1.0.0.8/update/latest.zip",
@@ -2242,7 +2242,7 @@
     "Description": "Better Grand Company Deliveries",
     "Tags": [],
     "InternalName": "Deliveroo",
-    "DownloadCount": 18320,
+    "DownloadCount": 18321,
     "LastUpdate": 1777864065,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/79/Deliveroo/versions/7.5.0.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/79/Deliveroo/versions/7.5.0.2/update/latest.zip",
@@ -2264,7 +2264,7 @@
       "yeet"
     ],
     "InternalName": "ARDiscard",
-    "DownloadCount": 4642,
+    "DownloadCount": 4645,
     "LastUpdate": 1777603212,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/80/ARDiscard/versions/8.5/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/80/ARDiscard/versions/8.5/update/latest.zip",
@@ -2339,7 +2339,7 @@
       "gearsets"
     ],
     "InternalName": "Gearsetter",
-    "DownloadCount": 35966,
+    "DownloadCount": 35972,
     "LastUpdate": 1777759856,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/98/Gearsetter/versions/4.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/98/Gearsetter/versions/4.3/update/latest.zip",
@@ -2360,7 +2360,7 @@
       "missions"
     ],
     "InternalName": "Squadronista",
-    "DownloadCount": 8691,
+    "DownloadCount": 8693,
     "LastUpdate": 1778554077,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/101/Squadronista/versions/7.5.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/101/Squadronista/versions/7.5.0.0/update/latest.zip",
@@ -2386,7 +2386,7 @@
       "\"AoE\""
     ],
     "InternalName": "VIWI",
-    "DownloadCount": 43754,
+    "DownloadCount": 43758,
     "LastUpdate": 1780272595,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/108/VIWI/versions/0.0.0.62/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/108/VIWI/versions/0.0.0.62/update/latest.zip",
@@ -2412,7 +2412,7 @@
       "erdelf"
     ],
     "InternalName": "AutoDuty",
-    "DownloadCount": 1885737,
+    "DownloadCount": 1885922,
     "LastUpdate": 1786992730,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.335/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.335/update/latest.zip",
@@ -2445,7 +2445,7 @@
       "erdelf"
     ],
     "InternalName": "FCTracker",
-    "DownloadCount": 4026,
+    "DownloadCount": 4027,
     "LastUpdate": 1786699308,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/135/FCTracker/versions/0.0.0.38/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/135/FCTracker/versions/0.0.0.38/update/latest.zip",
@@ -2593,7 +2593,7 @@
       "calendar"
     ],
     "InternalName": "Burnout",
-    "DownloadCount": 295,
+    "DownloadCount": 297,
     "LastUpdate": 1780417356,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/123/Burnout/versions/1.0.0.1/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/123/Burnout/versions/1.0.0.1/update/latest.zip",
@@ -2639,7 +2639,7 @@
       "Chat"
     ],
     "InternalName": "BlackJackButtler",
-    "DownloadCount": 2694,
+    "DownloadCount": 2695,
     "LastUpdate": 1787778911,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/118/BlackJackButtler/versions/1.9.1.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/118/BlackJackButtler/versions/1.9.1.0/update/latest.zip",
@@ -2687,7 +2687,7 @@
       "dungeon"
     ],
     "InternalName": "NecroLens",
-    "DownloadCount": 77061,
+    "DownloadCount": 77066,
     "LastUpdate": 1777738526,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/53/NecroLens/versions/1.0.8.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/53/NecroLens/versions/1.0.8.12/update/latest.zip",
@@ -2714,7 +2714,7 @@
       "achievement"
     ],
     "InternalName": "HoardFarm",
-    "DownloadCount": 15610,
+    "DownloadCount": 15611,
     "LastUpdate": 1766600220,
     "TestingAssemblyVersion": "1.6.0.2",
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/52/HoardFarm/versions/1.6.0.2/install/testing.zip",
@@ -2735,7 +2735,7 @@
       "wah"
     ],
     "InternalName": "PaissaWah",
-    "DownloadCount": 445,
+    "DownloadCount": 446,
     "LastUpdate": 1778548030,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/139/PaissaWah/versions/1.0.0.7/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/139/PaissaWah/versions/1.0.0.7/update/latest.zip",
@@ -2810,7 +2810,7 @@
       "travel"
     ],
     "InternalName": "BstHelper",
-    "DownloadCount": 629,
+    "DownloadCount": 635,
     "LastUpdate": 1789231486,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/176/BstHelper/versions/0.1.7.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/176/BstHelper/versions/0.1.7.0/update/latest.zip",
@@ -2832,7 +2832,7 @@
       "quality of life"
     ],
     "InternalName": "RepairDeez",
-    "DownloadCount": 64,
+    "DownloadCount": 65,
     "LastUpdate": 1788733203,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/175/RepairDeez/versions/0.3.1.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/175/RepairDeez/versions/0.3.1.0/update/latest.zip",
@@ -2893,7 +2893,7 @@
       "Cutscene"
     ],
     "InternalName": "Skippy",
-    "DownloadCount": 3354,
+    "DownloadCount": 3356,
     "LastUpdate": 1778506288,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/130/Skippy/versions/2.2.4.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/130/Skippy/versions/2.2.4.2/update/latest.zip",
@@ -2986,7 +2986,7 @@
     "LastUpdate": 1789477328,
     "Changelog": "Aethertek Plugin Manager for Dalamud.",
     "IsTestingExclusive": false,
-    "DownloadCount": 41,
+    "DownloadCount": 42,
     "RepoTitle": "XA Enterprise",
     "SourceRepoName": "Aethertek-Plugin-Manager",
     "SourceRepoUrl": "https://github.com/xa-io/Aethertek-Plugin-Manager",
@@ -3016,7 +3016,7 @@
     "LastUpdate": 1788904288,
     "Changelog": "v0.0.0.41 release of XA-Database",
     "IsTestingExclusive": false,
-    "DownloadCount": 2495,
+    "DownloadCount": 2498,
     "RepoTitle": "XA Enterprise",
     "SourceRepoName": "XA-Database",
     "SourceRepoUrl": "https://github.com/xa-io/XA-Database",
@@ -3045,7 +3045,7 @@
     "LastUpdate": 1789742287,
     "Changelog": "v0.0.0.46 release of XA Slave.",
     "IsTestingExclusive": false,
-    "DownloadCount": 3562,
+    "DownloadCount": 3614,
     "RepoTitle": "XA Enterprise",
     "SourceRepoName": "XA-Slave",
     "SourceRepoUrl": "https://github.com/xa-io/XA-Slave",
@@ -3077,7 +3077,7 @@
     "LastUpdate": 1788911397,
     "Changelog": "v0.0.0.9 release of XA-HUD-Navigator",
     "IsTestingExclusive": false,
-    "DownloadCount": 1378,
+    "DownloadCount": 1379,
     "RepoTitle": "XA Enterprise",
     "SourceRepoName": "XA-HUD-Navigator",
     "SourceRepoUrl": "https://github.com/xa-io/XA-HUD-Navigator"
@@ -3102,7 +3102,7 @@
     "LastUpdate": 1789477503,
     "Changelog": "XA Zod early beta access information.",
     "IsTestingExclusive": false,
-    "DownloadCount": 21,
+    "DownloadCount": 22,
     "RepoTitle": "XA Enterprise",
     "SourceRepoName": "XA-Zod",
     "SourceRepoUrl": "https://github.com/xa-io/XA-Zod",
@@ -3131,7 +3131,7 @@
     "LastUpdate": 1789722760,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 7467,
+    "DownloadCount": 7481,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "FrenRider",
     "SourceRepoUrl": "https://github.com/McVaxius/FrenRider",
@@ -3176,7 +3176,7 @@
     "LastUpdate": 1789722760,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 9279,
+    "DownloadCount": 9295,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "LootGoblin",
     "SourceRepoUrl": "https://github.com/McVaxius/LootGoblin",
@@ -3209,7 +3209,7 @@
     "LastUpdate": 1789728991,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 4847,
+    "DownloadCount": 4863,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "MOGTOME",
     "SourceRepoUrl": "https://github.com/McVaxius/MOGTOME",
@@ -3241,7 +3241,7 @@
     "LastUpdate": 1789728978,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 6153,
+    "DownloadCount": 6164,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "VERMAXION",
     "SourceRepoUrl": "https://github.com/McVaxius/VERMAXION",
@@ -3271,7 +3271,7 @@
     "LastUpdate": 1789684314,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 1955,
+    "DownloadCount": 1970,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "HelloFellowHuman",
     "SourceRepoUrl": "https://github.com/McVaxius/HelloFellowHuman",
@@ -3300,7 +3300,7 @@
     "LastUpdate": 1789682433,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 1736,
+    "DownloadCount": 1738,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "ChocoboColourized",
     "SourceRepoUrl": "https://github.com/McVaxius/ChocoboColourized",
@@ -3330,7 +3330,7 @@
     "LastUpdate": 1789684397,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 1080,
+    "DownloadCount": 1081,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "DhogGPT",
     "SourceRepoUrl": "https://github.com/McVaxius/DhogGPT",
@@ -3361,7 +3361,7 @@
     "LastUpdate": 1789684415,
     "Changelog": "",
     "IsTestingExclusive": false,
-    "DownloadCount": 1952,
+    "DownloadCount": 1960,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "DPS",
     "SourceRepoUrl": "https://github.com/McVaxius/DPS",
@@ -3421,7 +3421,7 @@
     "LastUpdate": 1789682454,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 1120,
+    "DownloadCount": 1121,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "Krangler",
     "SourceRepoUrl": "https://github.com/McVaxius/Krangler",
@@ -3450,7 +3450,7 @@
     "LastUpdate": 1789682455,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 996,
+    "DownloadCount": 1000,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "ChokeAbo",
     "SourceRepoUrl": "https://github.com/McVaxius/ChokeAbo",
@@ -3481,7 +3481,7 @@
     "LastUpdate": 1789684440,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 1194,
+    "DownloadCount": 1196,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "TTSL",
     "SourceRepoUrl": "https://github.com/McVaxius/TTSL",
@@ -3515,7 +3515,7 @@
     "LastUpdate": 1789682471,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 706,
+    "DownloadCount": 717,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "botology",
     "SourceRepoUrl": "https://github.com/McVaxius/botology",
@@ -3546,7 +3546,7 @@
     "LastUpdate": 1789682447,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 156,
+    "DownloadCount": 159,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "BFE",
     "SourceRepoUrl": "https://github.com/McVaxius/BFE",
@@ -3639,7 +3639,7 @@
     "LastUpdate": 1789739738,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 5718,
+    "DownloadCount": 5740,
     "RepoTitle": "Dhog Dumpsterfire",
     "SourceRepoName": "ADS",
     "SourceRepoUrl": "https://github.com/McVaxius/ADS",
@@ -3740,7 +3740,7 @@
       "automation"
     ],
     "InternalName": "FCCH",
-    "DownloadCount": 2663,
+    "DownloadCount": 2665,
     "LastUpdate": 1788388208,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/149/FCCH/versions/2.5.1.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/149/FCCH/versions/2.5.1.0/update/latest.zip",
@@ -3907,7 +3907,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 9848,
+    "DownloadCount": 9867,
     "LastUpdate": "1787083573"
   },
   {
@@ -3935,7 +3935,7 @@
     "Punchline": "Doman Mahjong, solved for you.",
     "Description": "Reads your Doman Mahjong hand and either suggests the best discard or plays the match for you.",
     "Changelog": "v0.1.2.3: Fix the in-game suggestion highlight after a call. Once you called pon, chi, or kan, the highlight could jump to the wall along the top of the board or land on the wrong tile, because it located your hand by geometry and the shrunken hand let the perfectly-aligned wall slots win. It now anchors to the bottom-most row (your hand is always at the bottom) and ignores melded tiles, so the outline stays on the suggested discard. The hand reading and suggestion were always correct; only the on-tile outline was affected.",
-    "DownloadCount": 7567,
+    "DownloadCount": 7578,
     "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
@@ -3972,7 +3972,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 16583,
+    "DownloadCount": 16622,
     "LastUpdate": "1789492181"
   },
   {
@@ -4001,7 +4001,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 37189,
+    "DownloadCount": 37287,
     "LastUpdate": "1789497525"
   },
   {
@@ -4030,7 +4030,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 9991,
+    "DownloadCount": 10001,
     "LastUpdate": "1788805445"
   },
   {
@@ -4063,7 +4063,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-Aetherphone/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 322548,
+    "DownloadCount": 325173,
     "LastUpdate": "1789723744"
   },
   {
@@ -4093,7 +4093,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoHuntGrinder/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 447,
+    "DownloadCount": 458,
     "LastUpdate": "1789426078"
   },
   {
@@ -4145,7 +4145,7 @@
     "Punchline": "PvP-only auto-rotation",
     "Description": "PvP-only auto-rotation for FFXIV. Activates in PvP zones.",
     "InternalName": "PvPSolver",
-    "AssemblyVersion": "0.1.1.0",
+    "AssemblyVersion": "0.1.1.1",
     "TestingAssemblyVersion": "0.1.1.1",
     "Changelog": "v0.1.1.1 (2026-09-05)\n\n- Fixed a log line that repeated forever instead of once. The startup line \"MajorUpdater: first valid cycle\" sat behind a check that only asked whether rotations had loaded yet, but the flag that answers that is only ever set while actually in a PvP-valid state - so out of PvP it never flipped and the line printed on every single update cycle, including at the title screen with no character logged in. It now sits inside the block that really does load the rotations, so it prints once each time rotations are loaded and describes the state it claims to describe. (`PvPSolver/Updaters/MajorUpdater.cs`, `RSRGateUpdate`)\n- Impact: over one 5.5-hour sample this single line was 55,497 of the 106,116 log lines collected across every installed plugin - 52.3% of the whole log - and 29,152 of those were written at the title screen by a PvP plugin. The same window would now produce 91 of them, a 99.8% reduction, with no loss of information: the line still states what condition the plugin came up in.\n- No gameplay change. Rotation loading, targeting and the PvP rotations themselves are untouched; the only edit is where the log statement sits.\n\n- The paired \"triggering rotation load...\" line already fired 91 times in that sample rather than once, because `MajorUpdater.IsValid` resets `_rotationsLoaded` on every zone transition, logout and `Player.Available == false`. That reload behaviour is unchanged here and is tracked separately; it is why the line is \"once per rotation load\" rather than literally once per session.\n- Second log-spam fix in this plugin (v0.1.0.11 throttled the per-frame \"no rotation found\" warnings). Every other `PluginLog.Information` under `src/PvPSolver/` was audited this release: the 53 in `PvPSolver.Basic/Helpers/ObjectHelper.cs` are all gated behind `Service.Config.InDebug`, and nothing else logs at Information on a per-cycle path.\n\nv0.1.1.0 (2026-09-05)\n\n- Added the in-game \"What's new\" popup. After PvP Solver updates, its changelog now opens once inside the game so the changes are visible without a trip to GitHub. It waits until the character is logged in and out of combat, duty, cutscenes and zoning; closing it (Got it, X or Escape) marks it read. Type `/pvpsolver changelog` (or `/pvs changelog`) any time to reopen it.\n- No change to rotations or targeting: the sticky-target and team-pressure work from 0.1.0.13 is untouched, and the seen-version is stored in its own small file so upstream RotationSolverReborn syncs stay clean.\n\nv0.1.0.13 - 2026-08-25\n- **`PvPHighestPressure` targeting mode** (issue #4, requested by @Petra105). Selects the hostile the most members of the player's own side are currently targeting, breaking ties toward the lowest HP percentage. Party and alliance lists are both counted, so it behaves in Frontline (where the rest of the player's side arrives as alliance members) as well as in Crystalline Conflict. The player's current target is excluded from the count, otherwise the mode would reinforce whatever was already targeted. Appended to the end of `TargetingType`, so existing saved `TargetingTypes` indices are unaffected, and it is **not** added to the default list - it is opt-in from Target settings. (`PvPSolver.Basic/Data/TargetType.cs`, `PvPSolver.Basic/Actions/ActionTargetInfo.cs`)\n\n- **Auto-target abandoned an enemy mid damage-window** (issue #4, same report). `FindHostileRaw` re-ranked every hostile from scratch on each action and returned the top of the list, with no reference to the target already selected; `RSCommands.DoAction` then hard-assigned `Svc.Targets.Target` to it. Under an HP-based targeting mode this flips target the instant another enemy's HP crosses the player's, so a just-applied Wildfire is left on a target no longer being hit. `FindHostileRaw` now consults `FindStickyTarget` before returning: if the current target is still a legal candidate **for the action being used** and carries at least one status sourced from the player with `0 < RemainingTime <= StickyTargetMaxRemaining`, it is kept. (`PvPSolver.Basic/Actions/ActionTargetInfo.cs`)\n\n- Two new options under Target settings: **`StickyTarget`** (default **on**) and **`StickyTargetMaxRemaining`** (default 30s). The second exists so an effectively permanent aura cannot pin the target forever - `RemainingTime == 0` is this codebase's convention for a permanent status and is already excluded, and the cap covers long ones.\n\n- **Trade-off, by design:** while the debuff is ticking the rotation will stay on that target even if another enemy drops lower. That is the requested behavior, and turning `StickyTarget` off restores the previous snap-to-lowest-HP handling exactly.\n- **Scoped to PvP.** `FindStickyTarget` returns early unless `DataCenter.IsPvP`, so PvE target selection is byte-for-byte unchanged.\n- Sticky selection reads `Svc.Targets.Target`, i.e. the target the previous action settled on, which is what makes this hysteresis rather than a second independent pick.\n- `CountTeamPressure` scores every candidate once before sorting rather than inside the comparator; a comparator that re-reads live target data can throw `IComparer.Compare() returns inconsistent results` if a teammate switches target mid-sort.\n- **Not yet verified in-game** - shipped to the testing channel only.\n\nv0.1.0.12 - 2026-08-06\n- Synced upstream RotationSolverReborn `35ceb6e82` (\"Guard status check for Doom to ensure valid object\"): the PvP-rotation portion of that commit is a `GameVersion` attribute bump from `7.5` to `7.55` across all 21 PvP rotations.\n\n- **No gameplay change.** The Doom guard itself lives in `RotationSolver.Basic/Helpers/StatusHelper.cs` and upstream's PvE rotations - base classes this fork intentionally does not track (RUNBOOK 3.2). The fork's PvP rotations contain no Doom status checks, so there is nothing to port.\n- Synced via `tools/sync-upstream-rotations.sh`; all 21 PvP rotation files verified byte-identical to upstream `6c064f910` (CR-normalised).\n- **Promoted to production 2026-08-09.** `AssemblyVersion` 0.1.0.9 -> 0.1.0.12; both channels now ship this build. In-game gate waived: the 0.1.0.11 fix executes only outside PvP (guard on `DataCenter.IsPvP`) and this sync is attribute-only, so PvP play cannot exercise what changed; the user-facing check is the absence of the PvE `no rotation found` warning in `dalamud.log` (issue #3).\n\nv0.1.0.11 - 2026-08-03\n- **Per-frame log spam in all PvE content** (issue #3, reported by @TheWalkingDude19). `UpdateCustomRotation` is driven from the framework tick via `MajorUpdater.RSRRotationAndStateUpdate`, and emitted `WRN ... no rotation found for job=<job> combatType=PvE` roughly 50 times per second for as long as the player was outside PvP. PvPSolver is PvP-only and ships no PvE rotations, so the lookup could never succeed; worse, the miss path set `DataCenter.CurrentRotation = null` immediately before logging, which permanently defeated the unchanged-state guard at the top of the method and forced a full re-resolve every tick. (Updaters/RotationUpdater.cs)\n\n- `UpdateCustomRotation` now returns early when `DataCenter.IsPvP` is false, clearing `CurrentRotation`/`CurrentRotationActions` once on the PvP-to-PvE transition instead of every frame. `curCombatType` is consequently always `CombatType.PvP` below that guard.\n- Removed the ungated `PluginLog.Information($\"UpdateCustomRotation: job=..., IsPvP=..., groups=...\")` call. It ran unconditionally on every invocation, ahead of every early return - invisible to users filtering at Warning+, but hammering `dalamud.log` in PvP and PvE alike.\n- Both remaining \"no rotation\" warnings (`no rotation found for job=...` and `No valid rotations found for ...`) are now throttled by a `_lastNoRotationLogged` (job, combat type) tuple, so a persistent miss reports once rather than once per frame. Reset in `ChangeRotation` so a later successful load re-arms the warning.\n\n- **Shipped to production with 0.1.0.12 (2026-08-09).** In-game gate waived: every changed statement executes only when `DataCenter.IsPvP` is false, so in-PvP behavior is provably unchanged; the empirical check is that the PvE `no rotation found` warning stops firing (issue #3).\n- Both log lines date to the initial vendored commit `9b3652dae`, so this affected every release to date.\n- No rotation, targeting or combat behavior changes - the end state in PvE is identical (`CurrentRotation == null`), it is just no longer recomputed and re-logged every tick.\n\nv0.1.0.10 - 2026-07-31\n- Synced upstream RotationSolverReborn commit `2ac940563`: the `EmergencyGCD` hook now takes the queued next GCD as a parameter, bringing it in line with `EmergencyAbility`, interrupts, dispels and the heal hooks, which have all taken it for some time. Applied to the base engine (`PvPSolver.Basic/Rotations/CustomRotation_GCD.cs` declaration + both call sites, `PvPSolver.Basic/Rotations/Duties/DutyRotation.cs` declaration) and to the two rotations that override it (`RebornRotations/PVPRotations/Healer/WHM_Default.PVP.cs`, `RebornRotations/PVPRotations/Ranged/BRD_Default.PVP.cs`).\n\n- **No gameplay change.** The new `nextGCD` parameter is not read by any implementation of the hook — not in this fork, and not anywhere in upstream `641bd792e`. It is plumbing for future upstream use. Purify (stun / heavy / bind / silence / deep freeze / Miracle of Nature), Guard, Recuperate and Standard-issue Elixir priority are unchanged, as are the WHM Aquaveil and BRD The Warden's Paean cleanse paths.\n- `WHM_Default.PVP.cs` and `BRD_Default.PVP.cs` are now byte-identical to upstream `641bd792e` (verified by diff, CR-normalised).\n- First release on the **reinstated testing channel**. The channel was removed 2026-06-07; its previous entry never worked because `TestingDalamudApiLevel` was unset, so Dalamud hid the build. Now set to 15 alongside `TestingAssemblyVersion`. Production remains 0.1.0.9 until this build is verified in-game.\n- Escalated by the nightly upstream-merge on 2026-07-31 under RUNBOOK 3.2 (\"never pull base classes\"). RUNBOOK amended the same day with a signature-only carve-out so equivalent changes sync unattended.",
     "ApplicableVersion": "any",
@@ -4171,7 +4171,7 @@
     "Punchline": "Per-job HP, MP, and deep dungeon potion automation.",
     "Description": "Auto-uses the highest-tier HP potion, MP potion (Ether), and the deep dungeon regen potion (Sustaining / Eurekan / Orthos / Pilgrim's) at configurable thresholds. Each potion's threshold and on/off state is stored per-job, so casters and tanks can have completely different setups.",
     "InternalName": "AutoPotion",
-    "AssemblyVersion": "0.2.3.0",
+    "AssemblyVersion": "0.2.5.0",
     "Changelog": "v0.2.5.0 (2026-09-05)\n\n- New per-job option: \"Auto-use Echo Drops when silenced\". When it is on and Silence lands (mob silence spells, AoE silences, deep dungeon traps), AutoPotion uses Echo Drops from inventory to cure it automatically. Item use is not blocked by Silence, so the cure works exactly when nothing else can.\n- OFF by default like every option, and per job like the rest: tick the new box in the settings window for the jobs it should apply to. With it off (the default) nothing changes - not even a status check.\n- It reuses the same machinery as the potions: HQ Echo Drops are preferred over normal ones, the shared 750 ms cooldown after any potion use applies, and a Silence that arrives during that cooldown is cured on the next tick.\n- If the diagnostic tap is enabled, the cure logs as an `e` event; when it cannot fire the near-miss reasons are `edblocked` (on cooldown / blocked) or `ednostock` (none in the bags).\n- No change to potion behaviour. HP/MP/regen thresholds, the overshoot guard, the deep dungeon Rehabilitation lockout and the in-combat / in-duty gates all work exactly as before.\n\nv0.2.4.0 (2026-09-05)\n\n- Added an optional \"Log potion decisions\" diagnostic, OFF by default. Turn it on with `/autopotion telemetry on` or the new Advanced / Diagnostics section of the settings window, and AutoPotion writes one line to its plugin log every time it uses a potion, plus a rate-limited line when a threshold was crossed and nothing fired.\n- Purpose: the log line records the HP%, the MP%, the threshold that was in force and the job, so a threshold can be verified after the fact instead of guessed at. Nothing leaves the machine - the lines only go to the local Dalamud plugin log.\n- The \"nothing fired\" lines say WHY in a short code: `hpover` (a potion was available but the heal would have been wasted), `hpblocked` / `mpblocked` / `rgblocked` (on cooldown or blocked by a status), `hpnostock` / `mpnostock` / `rgnostock` (none left in inventory) and `rgrehab` (Rehabilitation still up in a deep dungeon).\n- These lines are heavily rate-limited on purpose: a repeated state logs once, not once per frame. Measured against 214 minutes of real play the near-miss lines come out under one line per minute, so the log stays readable.\n- No change to potion behaviour. Thresholds, per-job profiles, the overshoot guard, the deep dungeon Rehabilitation lockout and the in-combat / in-duty gates all work exactly as before, and with the setting off (the default) the plugin does not even build a log line.\n\nv0.2.3.0 (2026-09-05)\n\n- Added the in-game \"What's new\" popup. After AutoPotion updates, its changelog now opens once inside the game so the changes are visible without a trip to GitHub. It waits until the character is logged in and out of combat, duty, cutscenes and zoning; closing it (Got it, X or Escape) marks it read. Type `/autopotion changelog` any time to reopen it.\n- No change to potion behaviour: thresholds, per-job profiles and the in-combat / in-duty gates all work exactly as before.\n\nv0.2.2.1 - 2026-07-02\n- **Plugin icon now shows in the Dalamud installer.** The manifest (`AutoPotion.json`) had no\n\n- No behavior changes. Part of the 2026-07-02 lalalazy repo cleanup pass.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -4238,7 +4238,7 @@
     "Punchline": "Lalalazy fork of Wrath Combo - XIVCombo for very lazy players.",
     "Description": "Gluttony Combo - lalalazy fork of Gluttony Combo. XIVCombo for very lazy players.",
     "InternalName": "GluttonyCombo",
-    "AssemblyVersion": "1.0.4.177",
+    "AssemblyVersion": "1.0.4.217",
     "Changelog": "v1.0.4.217 (2026-09-18) [testing]\n- **Crucible familiar HP memory no longer forgets a hurt familiar after Parting Blow or a horn-swap.** The familiar party screen briefly reports full HP for a familiar that just left combat while it is still hurt. That lag used to overwrite the live HP the plugin had just recorded, so the remembered value jumped to 100 until the party screen caught up. Party readings that raise a remembered low familiar all the way to full are ignored for 90 seconds after that leave; lower readings, partial heals, and camp restores after the grace window still apply. (files: `Combos/PvE/BST/BST_CrucibleLogic.cs`, `Combos/PvE/BST/BST_Crucible.cs`)\n- Offline harness: 858 checks (+4 for the party-HP lag filter). TelemetryHarness OK. Graded from the first First Board run's `CR|` / `XP|` lines.\n\nv1.0.4.216 (2026-09-17) [testing]\n- **Smart Movement, Auto Positionals and the movement ability safety gate are removed.** The whole in-plugin movement system is gone: the telegraph-dodging mover and its planner, the melee auto-positional mover, the gap-closer landing gate, the \"Gluttony Smart Movement\" server-bar icon, the `/gluttony mvtel` command, the movement telemetry, and the vnavmesh and BossMod Reborn hint subscriptions that only they used. The corresponding settings are gone from the Auto-Rotation tab; saved values are ignored. Gap-closers (Shield Charge, Intervene, Onslaught, Corps-a-corps, Phantom Kick) fire on their previous conditions alone, and a cast simply waits until the character stops moving, as before the movement work. Movement is left to the player or to a dedicated movement plugin.\n\nv1.0.4.215 (2026-09-17) [testing]\n- **Updating the plugin no longer requires a game restart.** When an update loaded while a character was logged in, the auto-rotation controller's static raidwide-mitigation list registered its retargets before the retarget registry existed, threw once, and that single failure was cached by the runtime: every auto-rotation tick from then on failed (\"Pls no crash game ty\" in the log, more than 30,000 lines in three minutes) until the game was restarted. A fresh game start never hit it because the list was first touched after login. The list is now built on first use, the retarget registry is created before anything else in the plugin, and a retarget requested before the registry exists returns the action unchanged instead of throwing.\n\nv1.0.4.214 (2026-09-17) [testing]\n- **Room-wide telegraphs no longer send the character to the arena edge.** A rectangle at least 30 yalms long and 30 wide (Abductor's Buffet: 60 by 60 from the edge of the ring, hitting everyone with a knockback) and a cone of 360 degrees are treated as raidwides, like circles of 30 yalms or more already were. Nothing can be dodged by position there; planning around them ran the character up to 28 yalms toward the ring's edge, twice per cast.\n- **A resolved telegraph is gone at once.** The one-second linger after a ground telegraph resolved re-ran the escape after the hit had already landed; that is what sent the character to the edge a second time.\n- **Short casts keep a usable window.** The \"leave this early\" cushion is capped at 40% of the remaining cast, so a 0.7 s telegraph is still answered with a real move instead of being treated as already resolved.\n- **Unreachable exits are not run.** When the character stands in a telegraph whose nearest exit is farther than it can run before the telegraph resolves (plus 3 yalms), the mover holds, logs `stuck`, and lets the rotation keep casting instead of sprinting toward the edge for nothing. Eight-spoke stars from their own centre and 0.7 s circles at 2 yalms are hits either way.\n- From the first graded session of 1.0.4.213 (Abductor critical engagement): the 180-degree Wind Blade, the 5..60 Cyclonic Ring, the four Splinter circles and the 15-yalm Skydive were all dodged; Buffet and Hurricane hit all 19 players (undodgeable), and Tendon Ripper's eight spokes leave no gap within 13 yalms of their centre in 0.7 s.\n- Offline harness: 114 cases, adding Abductor replays (Wind Blade, Cyclonic Ring, Splinter, Tendon Ripper from a gap and from the centre, Buffet filtered), the capped cushion and the room-wide filters.\n\nv1.0.4.213 (2026-09-17) [testing]\n- **Smart Movement rebuilt as a time-aware planner with direct steering.** Every enemy telegraph is now placed on a half-yalm grid together with the moment it resolves, and a path is planned in seconds (Theta* over \"time until this cell is lethal\", ported from BossMod, BSD-3 attribution in `AutoRotation/Movement/THIRD_PARTY_NOTICES.md`). The character can cross a zone that resolves after it has passed, wait out a long cast in place, and always leaves a telegraph a configurable second before its cast bar ends (NPC casts resolve about 0.3 s after the bar; that offset is included).\n- **Dodges no longer go through the navigation mesh.** The movement input is steered directly each frame, the way BossMod does it, so a dodge runs at full run speed from the first frame. Re-issuing navmesh moves every quarter second was the cause of the earlier stop-start crawl and of dodges that never moved at all. vnavmesh is only asked to path when the target is more than 24 yalms away, once, and never re-issued while that path runs.\n- **The rotation and the mover coordinate casts.** The planner reports how long its path can wait; the rotation will not start a cast longer than that, and an in-flight cast is only cut when finishing it would mean standing in the telegraph past the slidecast window.\n- **Escapes prefer where the target can still be attacked.** The attack band and the wanted positional are goals on the same grid, so a frontal cone is answered with a step to the side or rear when one is safe; safety always outranks uptime.\n- **Actor-targeted circles land on the actor.** A telegraph cast at a character is anchored to that character's live position instead of the location recorded at cast start.\n- Telegraphs resolved on the ground linger one second instead of three.\n- Smart Movement stands down while mounted, flying, diving, in a cutscene, while another vnavmesh path or BossMod Reborn's AI is steering, and whenever the player presses a movement key; an optional held modifier key (new setting) suspends it as well.\n- New settings under Smart Movement: \"Leave telegraphs this early\" (seconds before the cast bar ends, default 1.0) and \"Suspend steering while holding\" (Ctrl/Alt/Shift). \"Danger zone buffer\" is renamed \"Danger zone margin\".\n- The omen-telegraph layer for cast-bar-less attacks is removed. It had never classified a telegraph, no plugin reads live omens, and across six graded sessions only 32 of 1582 cast-bar-less enemy uses were area attacks. Custom-shape casts (CastType 6) remain undodgeable until measured; a per-action override table now exists for them. The two omen settings are no longer shown.\n- Movement telemetry: `MV|` lines now carry the character position, assumed speed, path leeway, seconds the current cell stays safe and planner steps; new `MZ|` lines record every telegraph as it appears and disappears (actor, action, shape, centre, size, resolve time); one `MVH|` header per load lists the decision codes. While any telegraph is live the state re-logs at least once a second.\n- Offline harness rebuilt for the planner: 102 cases including shape distances, time-aware crossing of two sequential telegraphs, cast coupling, floor-mask walls, and replays of the logged failures (a wall of six 8-yalm circles at melee, a 4..40 donut at 4.16 yalms, four inward 60-degree cones, an actor-anchored circle, a radial exit from a 10-yalm circle, four repeating 5-yalm circles that never touch the character, a 0.7 s cast that cannot be dodged). Every replay ends with the character outside the telegraph at resolution.\n- Planning costs under two milliseconds per tick (10 Hz) with sixteen live telegraphs on the build machine; with none live, about half a millisecond.\n\nv1.0.4.212 (2026-09-17) [testing]\n- **A dodge now steps somewhere the target can still be attacked.** Escape points were sampled on rings around the character and the first safe one was taken. Every point on a ring is the same distance away, so the direction was effectively decided by sample order, and nothing asked whether the target was still in reach from there - a frontal cone or line was answered by walking out of range instead of stepping to the flank or the rear. Escape points that keep the target inside the standing band are now preferred, ordered by how close they are to the spot the mover wants to stand on (the current angle around the target, or the wanted positional), and the sweep reaches up to three yalms further to find one. When no such point exists the nearest safe point is still the answer - a telegraph that covers the whole melee band is still left. (file: `AutoRotation/SmartMoverCore.cs` - `FindSafePoint`)\n- **Standing inside a telegraph is no longer an answer the navigation-mesh check can force.** A candidate escape point rejected only by the mesh probe used to be discarded, and when the probe rejected the whole neighbourhood the character held position inside the live telegraph until it resolved. A donut telegraph whose safe centre was two yalms away was ridden out that way for a full six-second cast. The probe is a preference now: a sweep that finds nothing is retried without it, and the pathfinder - which resolves ground height itself - decides whether a route exists. It never walks off the mesh, so the worst case is the same standstill as before. The probe still wins whenever part of the neighbourhood answers, danger still vetoes every candidate, and the distance ceiling around the target still applies. (file: `AutoRotation/SmartMoverCore.cs` - `FindSafePoint`)\n- Movement telemetry: the no-command holds no longer share one name. `stuck` is the character standing inside a live telegraph with no escape sampled (the one that costs health), `ring` is a standing ring wholly covered by danger, `path` is a direct approach whose corridor crosses a telegraph, and `hold` keeps its meaning of a settled character waiting one out. Each carries its own emit key, so a transition between them is always logged. (files: `AutoRotation/SmartMoverCore.cs`, `AutoRotation/MovementTelemetryFormat.cs`, `AutoRotation/SmartMover.cs`)\n- Grading rule this buys: an `MV|..|stuck` line is a defect by itself - it names a character standing in danger with nowhere sampled to go - and it can no longer be confused with a safe wait.\n- Offline harness runs 244 cases, including a 60-degree frontal cone answered with a flank step that stays in range (with the old sample order replayed alongside it, landing out of range), the bounded extra reach and its limit, the donut telegraph replayed with the mesh probe rejecting everything, and the unchanged dodge, settle-hold, corridor-hold, approach, persistence and arrival coverage.\n- Unchanged: instant AoEs that never show a cast bar still depend on the omen-telegraph layer, which has not yet been seen to classify one.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -4339,7 +4339,7 @@
     "Punchline": "Fully automated FATE grinding utilizing vnavmesh, lifestream, and Gluttony Combo.",
     "Description": "Automates FATE grinding, including Zodiac Atma, Anima Luminous Crystals, Resistance Memories, Phantom Demiatmas, Yo-kai Watch Medals, and Bicolor Gemstones. Seamlessly integrates with vnavmesh for pathing and flight, lifestream for zone swapping, TextAdvance for dialogue skipping, and Gluttony Combo/BossMod for combat. Use /lazyfate to open.",
     "InternalName": "LazyFateAutomation",
-    "AssemblyVersion": "0.0.2.0",
+    "AssemblyVersion": "0.0.3.1",
     "Changelog": "v0.0.3.1 (2026-09-12)\n\n\n- Combat now prioritizes a Forlorn Maiden or the Forlorn (the rare bonus mob that can spawn mid-FATE and despawns quickly if not killed) over the FATE's normal targets. When one is present it becomes the automation's hard target until it is defeated or disappears; normal nearest-target behaviour resumes automatically afterward. New setting \"Prioritize Forlorn Maidens\" (on by default).\n- Debug log line when a Forlorn is detected or clears, for troubleshooting.\n\n\n- The fate-priority sort order list could grow duplicate entries over repeated updates (harmless to ordering, just clutter in the settings window). Existing installs are cleaned up automatically on the next load.\n\nv0.0.3.0 (2026-09-07)\n\n\n- Dashboard snapshot endpoint: the plugin now serves a read-only JSON snapshot of FATE and hunt state at http://127.0.0.1:10505/fates on the game host (new FateSnapshot.cs, FateSnapshotServer + FateSnapshotService). Loopback-only, no settings. The home dashboard relay polls it; nothing in the plugin's FATE automation behaviour changes.\n- The snapshot lists each active FATE with progress, seconds remaining, bonus flag, and whether the player is inside it, capped at the 12 most relevant (joined FATE first, soonest to expire next).\n- The snapshot carries a session counter of FATEs completed (a joined FATE that reaches 100% and then ends counts once) and the number of unlocked hunt bills with their total monster kills so far.\n- The snapshot names one live elite hunt mark present in the current zone (the game's own hunt-target check, MobHunt.IsHuntTarget); no name when none is up.\n- New debug command: \"/lazyfate snapshot\" prints the current snapshot state to the plugin log for troubleshooting.\n\n\n- The snapshot endpoint answers 503 only before the first character loads (title screen); afterwards it always serves the latest snapshot, matching LazyRetainerLive's behaviour.\n\nv0.0.2.0 (2026-09-05)\n\n- Added the in-game \"What's new\" popup. After Lazy Fate Automation updates, its changelog now opens once inside the game so the changes are visible without a trip to GitHub. It waits until the character is logged in and out of combat, duty, cutscenes and zoning; closing it (Got it, X or Escape) marks it read. Type `/lazyfate changelog` any time to reopen it.\n- No change to FATE grinding: zone swapping, the duty pause, the Gluttony lease and every sort/blacklist setting are unchanged.\n\nv0.0.1.45 - 2026-08-17\n- **Pauses inside instanced content and RELEASES the Gluttony lease.** `FateGrind` had no duty gate: queuing\n- **Auto-Rotation control actually works now.** `GluttonyComboIPC.Enable()` called `SetAutoRotationConfigState`\n- **`InvalidLease` handled on every IPC call** (`SetAutoRotationState`, `SetAutoRotationConfigState`,\n- IPC warnings are throttled to one per 10s.\n\nv0.0.1.44 - 2026-06-27\n- **Stop now halts vnavmesh immediately.** Hitting Stop (or `/lazyfate stop`) while the bot was pathfinding/flying to a FATE previously left vnavmesh navigating to the destination on its own - cancelling the plugin's task does not stop vnav's in-flight movement. `FateToolKit` Running=false and the `FateGrind` task teardown now call `Svc.Navmesh.PathfindCancelAll()` + `Svc.Navmesh.Stop()` (cancel any in-progress pathfind AND stop following the current path), so the character stops the moment Stop is pressed.\n\nv0.0.1.43 - 2026-06-27\n- **Stop now fully releases the Gluttony Combo lease** instead of only disabling auto-rotation. Previously, Stop (and `/lazyfate stop`, and auto-complete) left Gluttony \"controlled by Lazy Fate Automation\" with the lease still held, so manual/macro control of Gluttony stayed locked out. `FateToolKit` Running=false now calls `GluttonyComboIPC.Release()` (which calls `ReleaseControl`) instead of `Disable()`; a fresh lease is acquired on the next grind start. Between-FATE pauses still use `Disable()` (keep the lease, just stop the rotation).",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -4408,7 +4408,7 @@
     "Punchline": "Never forget to eat your food again.",
     "Description": "Auto-eats food in combat duties with per-job selection, auto-select based on best stats, and a low-food warning.",
     "InternalName": "LazyFoodBuff",
-    "AssemblyVersion": "0.1.3.1",
+    "AssemblyVersion": "0.1.4.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IsHide": false,
@@ -4478,7 +4478,7 @@
     "Punchline": "What can I make right now, what's it worth, and what would it take to make the rest?",
     "Description": "Catalogs every recipe you can craft, buckets them by how much effort the missing materials take, prices them with Universalis, and hands the missing-material work to Artisan / GBR / ARC / Lifestream.",
     "InternalName": "LazyCrafter",
-    "AssemblyVersion": "0.1.6.2",
+    "AssemblyVersion": "0.1.7.5",
     "TestingAssemblyVersion": "0.1.7.5",
     "TestingDalamudApiLevel": 15,
     "Changelog": "v0.1.7.5 (2026-09-16)\n\n- **The shopping-stop Resume popup window is gone.** The 0.1.7.4 test pass (2026-09-16): the full-screen popup opened at every shopping stop sat over the game and blocked mouse input with the client - verdict: remove the resume extra window. The window is removed and nothing else changed: a blocked shopping stop still says the what-to-do message in chat and on the Run tab exactly once, and Resume stays on the Run tab button, in chat (/lcraft resume) and the copied report - keyboard-only resume works (files: `Plugin.cs`, `UI/SettingsTab.cs`)\n\nv0.1.7.4 (2026-09-15)\n\n- **The retainer batch fetch no longer calls every session a zero-move without counting the bags.** The 0.1.6.16 early exit for an instantly-dead bell session sat ABOVE the bag-delta measurement with the moved counter still 0 from wave start, so every batch session ended as \"the retainer fetch moved nothing into the bags\", the cart held for Resume, and the per-item fallback never ran - the 0.1.7.3 test runs on 2026-09-11 and 2026-09-14 show exactly this shape (batch queued, retainers scanned, 0 counted). The exit now runs AFTER the measurement: a genuinely empty session still stops with the bell named, a session that moved anything trims the remainder into the per-item pass (files: `Adapters/DispatchService.cs` `Phase.BatchWait`)\n\nv0.1.7.3 (2026-09-10)\n\n- **The venture hand-off to ARC now actually uses ARC's new IPC surface instead of silently falling back to reflection forever.** The adapter subscribed to IPC callbacks named \"ARControl.AddItem\" and \"ARControl.GetInProgress\", but ARC registers them under a fixed \"ARC\" prefix independent of the plugin's internal name - so the subscription could never resolve, even against an ARC build that has the IPC, and every venture hand-off quietly used the older reflection path with no error anywhere. Found while preparing an in-game test of ARC's pending IPC pull request. The channel names are now decoupled from ARC's internal plugin name (files: Adapters/Dispatch/ArcDispatch.cs).\n\n- No behavior change for players on the current, unmodified ARC release: it has no IPC surface yet, so the reflection path is exercised exactly as before either way. This only changes what happens once ARC ships the IPC PR - the intended, faster hand-off finally engages instead of silently never firing.\n- Full harness: 364/364 PASS (no change in count - this fix touches IPC subscription wiring, not anything the offline harness exercises).\n\nv0.1.7.2 (2026-09-10)\n\n- **After a vendor-stop teleport across zones, the retainer-bell fetch no longer starts while the character is still loading into the new zone.** The wave-start gate that holds the fetch during a shopping-stop trip checked only whether the character was moving (Lifestream.IsBusy()) or a fixed 5-second clock (ShoppingStopGate.SettleWindow) had elapsed - and Lifestream's own teleport call returns the moment it is accepted, well before a cross-zone loading screen finishes. A Kugane vendor stop (2026-09-10) showed both halves failing together: the busy flag read false and the 5-second clock lapsed while still mid-load, so the fetch queued, Artisan's bell scan answered against stale object-table data from the old zone, and the character right-clicked at nothing for 42 seconds before the run was stopped by hand. The gate now also holds on the game's own 'a zone change' state (ConditionFlag.BetweenAreas), independent of the trip flag and the settle clock, until it clears or the existing 3-minute cap ends the wait (files: Core/ShoppingStopGate.cs Decide)\n\n- Proved offline before shipping: two new pins in tests/LazyCrafter.Harness ShoppingStopGateTests assert a zone change holds even after the settle window has lapsed and even when the trip flag itself already reads false - the exact Kugane failure shape - plus the existing cap-forces-Proceed pin now covers a zone-change hold too. Full harness: 364/364 PASS (361 prior + 3 new).\n- This does not change what happens once the character has actually arrived and the zone flag clears - the settle window and every existing at-the-bell exemption (standing at the bell, inside a retainer's inventory, a quantity prompt, a dialogue) are unchanged.\n\nv0.1.7.1 (2026-09-08)\n\n- **The plugin no longer prints one caught error on the first frame after an update while the client is already running.** The shopping-stop popup (v0.1.7.0) was wired to the UI tick before the dispatch service it reads was built, so an update mid-session could let one draw frame run with the service still null and log a single caught exception - harmless to the run, but exactly the noise this feature was built to remove. The popup is now wired after the service exists (files: `Plugin.cs` the `DrawStageModal` UI subscription moved after the `DispatchService` construction).\n\nv0.1.7.0 (2026-09-08)\n\n- **A cart run now takes its shopping stops first, with one popup per stop: buy, press Resume, then the run goes unattended.** When a cart needs things the player must buy in person (gil vendors, the market board, currency shops, manual sources), the run makes those stops its first order of business: each blocked wave shows exactly ONE modal - title \"LazyCrafter\", what to buy and where, a single \"Resume\" button - instead of a wall of chat errors. Pressing Resume re-checks the bags and continues the same cart; when the run believes the rest needs no player it kicks into unattended mode and behaves exactly as before, with no popups. Error spam is suppressed at the source: a blocked stage emits its popup once, at the stage transition, never per frame (files: `Core/RunStage.cs` new `RunStage`/`RunStageController`, `Adapters/DispatchService.cs` `TakeDecision`, `StartWave`, `Resume`, `StagePopupMessage`)\n- **New setting \"Run shopping stops first with a popup per stop (buy, press Resume, then unattended)\" (on by default).** Off restores the pre-0.1.7.0 run exactly: one continuous wave loop, no stage machine, no popups - so a bad stage machine can never brick the plugin (files: `Configuration.cs` config v9 `SequentialInterventionMode`, `UI/SettingsTab.cs`, `Plugin.cs` `DrawStageModal`)\n\n- The stage machine is pure Core (`Core/RunStage.cs`): it records Done / NeedsUser / Failed per stage and dedupes popup emissions by construction - a blocked stage re-recorded every framework tick still emits exactly one popup. Proved offline by the new `RunStageTests` suite in the harness (16 checks: one emission per blocked stage, no re-emit on 100 re-records, Resume advances without restarting, Done auto-continues, Failed records once, empty order = unattended).\n- The modal's Resume button routes into the same `DispatchService.Resume()` the Run tab button and `/lcraft resume` already use - the run continues from recorded state (re-plan from the live bags), never a plan restart.\n- A wave that blocks with NO shopping work (a fetch dead end, a refused hand-off) does not stage-block: the chat block already names everything, and a popup with nothing to do would be noise.",
@@ -4514,7 +4514,7 @@
     "Punchline": "Auto-lists your always-sell items and matches market board prices",
     "Description": "Keep an Auto-Market list of items you always sell. The companion lists them through your retainers in the stack size you choose (keeping a reserve in your bags if you want), prices every listing by matching the lowest board price instead of undercutting, and can do all of it inside AutoRetainer's venture cycle. Also re-prices existing listings (Auto Pinch). Successor to Dagobert Price Matcher; your old settings are imported automatically.",
     "InternalName": "LazyMarketCompanion",
-    "AssemblyVersion": "0.1.16.3",
+    "AssemblyVersion": "0.1.59.0",
     "TestingAssemblyVersion": "0.1.59.0",
     "TestingDalamudApiLevel": 15,
     "Changelog": "v0.1.59.0 (2026-09-17)\n\n\n- **A hold can no longer land on a stack that was never moved.** The check that decides whether a transfer survived records its result against the inventory slot the stack left, but it does not run until the retainer's next session, and Auto-Market empties and refills inventory slots throughout a run. Where another stack of the same item at the same quality had been pulled into that slot in the meantime, the hold fell on it instead: two stacks that had never been moved sat in the inventory for a day, skipped on every run and reported as transfers the game had refused. An inventory slot Auto-Market has refilled itself now cancels the pending check that names it, the same way such a slot already releases a hold recorded there.\n- **A deposit the retainer keeps in a different page slot is no longer read as a transfer the game refused.** A deposit was judged only on the exact page slot it was written to. After a session that empties dozens of slots around it, the game can hold the stack in another one - in one run all four deposits into a retainer were marked refused although not one of them had come back to the inventory. A deposit now counts as kept while the retainer holds the stack anywhere on its pages. This deliberately errs toward not holding: a retainer that already carries another stack of the same item reads as kept, which costs one re-planned move rather than a day-long hold on stock that is in the right place.\n- **The existing hold list is discarded once on update.** Every entry in it was recorded under the rule above, so an entry can name the wrong stack, and the two cannot be told apart after the fact. Held stacks are planned again on the first Auto-Market run after the update.\n\n\n- The settled-placement rule, the 24-hour retry, the Quarantined moves list and its release buttons are unchanged, and no move path was added or widened.\n- Offline-suite change: new case 120 pins that a pending check is cancelled when Auto-Market refills the slot its key names with the same item at the same quality, that a different item or a different quality in that slot leaves it alone, that a withdrawal's check is never cancelled by an inventory-slot refill, and the widened deposit verdict on both legs; new case 121 pins that a hold list written in the previous format is discarded whole while one written by this build still loads.\n\nv0.1.58.0 (2026-09-17)\n\n\n- **Stock the value gate vendors at the retainer, or a listing moves onto the market board, is no longer recorded as a transfer the game refused.** A deposit is judged on the retainer's next session by whether its page slot still holds the stack. The vendoring leg runs at the end of that same session and sells stacks that were deposited into those pages seconds earlier, and a listing takes its stack out of a page the same way, so those page slots are legitimately empty by the time the check runs - and the inventory slots they came from were put on hold, with a warning and a chat line, for transfers that had in fact landed. In one run every stack the gate vendored was held this way. A page slot Auto-Market itself emptied on purpose is no longer evidence about the transfer that filled it.\n\n\n- **Held stacks can be released from the Quarantined moves list.** Every row carries a retry button and the list carries one for all of them. A hold whose cause was momentary would otherwise sit out its full 24-hour retry window while the stack visibly stays put. Releasing removes the hold only - nothing is moved from the window - and the stack is planned again on the next Auto-Market run, with the result reported in the log the way a 24-hour retry is.\n\n\n- The settled-placement rule, the hold list the planner respects and the 24-hour retry are otherwise unchanged, and no move path was added or widened.\n- Offline-suite change: new case 119 pins that the pending check for a page slot this run vendored or listed out of is cancelled, that the other queued checks are left alone, that a page slot nothing here emptied is still judged, and the guards for an unrelated slot, an unresolved destination and an empty queue.\n\nv0.1.57.0 (2026-09-17)\n\n\n- **Auto-Market's stock routing no longer shuffles the same stacks out of the retainers and back every run.** A routing move was graded a second after it fired, while the client still showed the plugin's own view of it, so every move was recorded as successful. It was not: the game log of one run shows the second pass depositing into the exact page slots the first pass had filled fifty-five seconds earlier, and a run an hour later re-issuing all fifty of the previous run's withdrawals from the identical page slots. Nothing the mover moved was being kept, and because each run started from the same inventory it repeated the same work forever - stock leaving the inventory and being back in it on the next run. A move is now judged only once the retainer's session has closed and the game has sent that retainer's pages again, by re-reading the retainer side of the move: the page slot a deposit filled must still hold the stack, and the page slot a withdrawal emptied must not hold it again.\n- **The item transfer itself is now sent the way the game's own inventory move sends it.** The move call had been made with its final argument left at the library default; it is passed the way the working item-move paths elsewhere in this plugin family pass it. If that turns out not to be why the transfers were dropped, the new check above catches it on the very next retainer session instead of hiding it for another release.\n- **A move the game did not keep is held once and named, instead of being re-issued every run.** It goes into the same hold list the planner already respects, so the stack stops shuttling, appears in Auto-Market's Quarantined moves list with the time it was held, gets its one retry per 24-hour window, and is written out with its page slot and item in the log. A chat line reports it once per run.\n\n\n- The settled-placement rule is unchanged: a stack already on the retainer its category is assigned to is never taken out, and no move path was added or widened.\n- Offline-suite change: new cases 117-118 pin the persistence verdict for both legs (including high quality as part of stack identity and an empty slot never reading as a match), that a rejected move is skipped by the next plan on both legs, and that its hold survives a ledger save and load.\n\nv0.1.56.0 (2026-09-17)\n\n\n- **Auto-Market only holds back a stack when a move was actually refused, so marked stock stops piling up in the inventory.** The reconciliation ledger was recording every routing move that reported OK, not only the ones that failed to stick, and the planner skipped any stack matching one of those entries for the next half hour. Because the mover relays stock through the inventory, the same item legitimately lands back in a slot an earlier move emptied, which made those entries fire against work that was perfectly fine. One set of sweeps recorded 179 entries, graded all 179 as landed, and then skipped 96 stacks on them - the inventory simply stopped draining. Only a move graded still-in-place on the re-read now enters the ledger; a move that landed leaves no trace behind it.\n- **A ledger saved by the previous build is discarded once on load.** Those files hold one entry per move that landed, and a landed move cannot be told from a refused one after the fact, so the file is dropped and rewritten rather than carried forward. Every stack it held re-plans on the next sweep. Older builds still read the newer file - they skip the marker line as malformed.\n- **The routing log names every held stack instead of counting them.** A bare count read the same whether one stack was held or a hundred, which is how a quarantine covering most of the inventory stayed invisible in the log. Each skipped stack is now written out with its container slot and item alongside the note, on both the pull-out and the deposit leg.\n\n\n- Auto-Market's Quarantined moves list, the 24-hour expiry with one visible retry, and the settled-placement rule are unchanged. With the ledger narrowed to refused moves the list is expected to be empty on a healthy sweep.\n- Offline-suite change: new cases 115-116 pin that a ledger file from the previous format is discarded whole while the current format still loads, and that the skip note names the held stack on both legs and is absent when nothing is held.\n\nv0.1.55.0 (2026-09-17)\n\n\n- **Auto-Market no longer quarantines stock because of its own relaying, which was why marked items sat in the inventory sweep after sweep.** The reconciliation ledger identifies a stack by the slot it was moved out of, and the mover fills the first empty slot at the destination - so a deposit that frees an inventory slot, followed by a pull-out of the same item from another retainer, puts that item straight back into the slot the deposit had just emptied. The next sweep then read the deposit's own ledger entry as a stack still sitting in place, graded it a move the server had refused, and held it; because an entry whose stack is present is never pruned, that hold was permanent. The game log shows this accounting for nearly every entry in a fully quarantined ledger. A slot Auto-Market filled itself is no longer evidence of a refused move: every ledger entry naming such a slot is released whichever retainer session recorded it, and a source slot that reads occupied only because a later move in the same batch relayed the same item back into it is graded as landed. Both releases are named in the reconcile log line. Only a slot Auto-Market did not touch can now put a stack into quarantine.\n- **A ledger saved by an earlier build is discarded once on load instead of carried forward.** Those entries were recorded while the plugin's own relaying still counted as a refused move, so a saved ledger mostly held stacks that were never stuck - and held them for good. The file now carries a format marker; a file without one is dropped and rewritten, every stack it held re-plans normally on the next sweep, and older builds still read the newer file (they skip the marker line as malformed).\n\n\n- Offline-suite change: new cases 112-114 pin slot matching across retainer sessions (including the separator anchor that keeps a longer container id from matching), the release of every session's entry for a refilled slot, and the ledger format marker - a file without it discarded, a marked file loaded, and the marker always written.\n\nv0.1.54.0 (2026-09-17)\n\n\n- Reissued the 0.1.53.0 release notes without source-file path lists in the changelog text. Quarantine expiry, the one visible retry, and the in-game Quarantined moves list are unchanged from 0.1.53.0.",
@@ -4583,14 +4583,14 @@
     "Punchline": "Real-time retainer venture countdowns for your dashboard.",
     "Description": "Serves the logged-in character's live retainer and venture state on loopback HTTP (127.0.0.1:10504) so the ffxiv dashboard relay can show real-time venture countdowns instead of AutoRetainer's occasionally-stale file cache.",
     "InternalName": "LazyRetainerLive",
-    "AssemblyVersion": "0.0.0.0",
+    "AssemblyVersion": "0.1.0.1",
     "TestingAssemblyVersion": "0.1.0.1",
     "TestingDalamudApiLevel": 15,
     "Changelog": "v0.1.0.1 (2026-09-05)\n\n\n- Corrected a wrong claim in the v0.1.0.0 notes below (and on the mod's web page): **the endpoint does not answer 503 on logout.** Once logged in, it keeps serving that character's last known retainer state - including at the title screen - and only ever answers 503 if it has never read the retainer table at all since the plugin loaded (i.e. it started at the title screen and no login has happened yet). That freeze is deliberate and is the better behaviour: measured on 2026-09-05 the frozen live snapshot was still *newer* than AutoRetainer's file, so falling back to the file on logout would have shown the dashboard **older** data, not fresher. No behaviour was changed here - only the description was wrong (file: `HttpServer.cs`, `RetainerLiveService.cs`, `RetainerState.cs`).\n- The settings window no longer reports \"serving live snapshot\" while logged out. It now distinguishes three states: no snapshot yet, serving a live snapshot, or serving the last-known snapshot while the game is in transition (file: `ConfigWindow.cs`, new `RetainerLiveService.LastTickOk`).\n\n\n- For anything scripting against this endpoint: `readAt` is the time the request was **served**, not the time the data was read from the game, so it does not reveal how stale a frozen snapshot is. Use the settings window (or `/lazyretainerlive debug`) to tell live from frozen.\n\nv0.1.0.0 (2026-09-05)\n\n\n- First release. LazyRetainerLive reads the logged-in character's LIVE retainer table (the same in-memory data AutoRetainer uses to drive its own countdowns) and serves it as JSON on `http://127.0.0.1:10504/retainers`, so the ffxiv dashboard's retainer panel can show venture countdowns that update the moment a venture is collected instead of whenever AutoRetainer next saves its config file.\n- When not logged in (or the live table has no data yet) the endpoint answers HTTP 503, which tells the dashboard relay to fall back to AutoRetainer's file. Loopback only - the port is never reachable from other machines.\n\n\n- Companion of AutoRetainer - it reads, it never writes, assigns, or collects anything. Settings: Enabled (default on) and loopback port (default 10504). Commands: `/lazyretainerlive` opens settings, `/lazyretainerlive debug` dumps listener + snapshot state, `/lazyretainerlive changelog` reopens this popup.\n- Why this exists: AutoRetainer's `DefaultConfig.json` (which feeds the dashboard today) is saved only at AutoRetainer's own save points, so its venture rows can be tens of minutes stale while ventures are actually completing. The countdown for the logged-in character lives in the game's memory - this plugin is a small read-only window onto it.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IsHide": false,
-    "IsTestingExclusive": true,
+    "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/LazyRetainerLive/latest/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/LazyRetainerLive/latest/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/LazyRetainerLive/testing/testing.zip",
@@ -4687,7 +4687,7 @@
     "Author": "Sevii",
     "DalamudApiLevel": 15,
     "Description": "Auto updates mods and allows for more customization such as color and compositing onto other files",
-    "DownloadCount": 269443,
+    "DownloadCount": 269482,
     "DownloadLinkInstall": "https://aetherment.sevii.dev/plugin/install",
     "DownloadLinkTesting": "https://aetherment.sevii.dev/plugin/install",
     "DownloadLinkUpdate": "https://aetherment.sevii.dev/plugin/update",
