@@ -149,29 +149,12 @@
   },
   {
     "Author": "kawaii, NightmareXIV",
-    "Name": "Orbwalker",
-    "Punchline": "S P A C E G L I D I N G",
-    "Description": "Locks player movement while casting and allows for maximum caster uptime during the course of a fight.",
-    "Tags": [],
-    "InternalName": "Orbwalker",
-    "DownloadCount": 87115,
-    "LastUpdate": 1777528744,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/1.0.1.10/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/1.0.1.10/update/latest.zip",
-    "AssemblyVersion": "1.0.1.10",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "- 7.5",
-    "IconUrl": "https://puni.sh/api/plugins/icon/12"
-  },
-  {
-    "Author": "kawaii, NightmareXIV",
     "Name": "AutoRetainer",
     "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
     "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
     "Tags": [],
     "InternalName": "AutoRetainer",
-    "DownloadCount": 2580212,
+    "DownloadCount": 2580417,
     "LastUpdate": 1790277996,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.2.11/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.2.11/update/latest.zip",
@@ -186,25 +169,20 @@
   },
   {
     "Author": "kawaii, NightmareXIV",
-    "Name": "Avarice",
-    "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-    "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-    "Tags": [
-      "combat"
-    ],
-    "InternalName": "Avarice",
-    "DownloadCount": 397573,
-    "LastUpdate": 1785546003,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.13/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.13/update/latest.zip",
-    "AssemblyVersion": "2.2.0.13",
+    "Name": "Orbwalker",
+    "Punchline": "S P A C E G L I D I N G",
+    "Description": "Locks player movement while casting and allows for maximum caster uptime during the course of a fight.",
+    "Tags": [],
+    "InternalName": "Orbwalker",
+    "DownloadCount": 87117,
+    "LastUpdate": 1777528744,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/1.0.1.10/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/1.0.1.10/update/latest.zip",
+    "AssemblyVersion": "1.0.1.10",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
-    "Changelog": "- Update RSR IPC",
-    "TestingAssemblyVersion": "2.2.0.15",
-    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.15/install/testing.zip",
-    "TestingDalamudApiLevel": "15",
-    "IconUrl": "https://puni.sh/api/plugins/icon/11"
+    "Changelog": "- 7.5",
+    "IconUrl": "https://puni.sh/api/plugins/icon/12"
   },
   {
     "Author": "Taurenkey, NightmareXIV, croizat",
@@ -218,7 +196,7 @@
       "convenience"
     ],
     "InternalName": "PandorasBox",
-    "DownloadCount": 1374452,
+    "DownloadCount": 1374830,
     "LastUpdate": 1791047159,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.5/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.5/update/latest.zip",
@@ -232,6 +210,28 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/8"
   },
   {
+    "Author": "kawaii, NightmareXIV",
+    "Name": "Avarice",
+    "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+    "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+    "Tags": [
+      "combat"
+    ],
+    "InternalName": "Avarice",
+    "DownloadCount": 397611,
+    "LastUpdate": 1785546003,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.13/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.13/update/latest.zip",
+    "AssemblyVersion": "2.2.0.13",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "- Update RSR IPC",
+    "TestingAssemblyVersion": "2.2.0.15",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.15/install/testing.zip",
+    "TestingDalamudApiLevel": "15",
+    "IconUrl": "https://puni.sh/api/plugins/icon/11"
+  },
+  {
     "Author": "NightmareXIV",
     "Name": "Splatoon",
     "Punchline": "Scriptable overlay engine for drawing mechanics, markers, and indicators in real-time",
@@ -241,7 +241,7 @@
       "Accessibility"
     ],
     "InternalName": "Splatoon",
-    "DownloadCount": 2273411,
+    "DownloadCount": 2273510,
     "LastUpdate": 1790559322,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.28/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.28/update/latest.zip",
@@ -264,7 +264,7 @@
       "Fishing"
     ],
     "InternalName": "AutoHook",
-    "DownloadCount": 2686077,
+    "DownloadCount": 2688876,
     "LastUpdate": 1791293444,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.2.5/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.2.5/update/latest.zip",
@@ -289,7 +289,7 @@
       "other"
     ],
     "InternalName": "LazyLoot",
-    "DownloadCount": 249044,
+    "DownloadCount": 249049,
     "LastUpdate": 1777584039,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.3/update/latest.zip",
@@ -298,26 +298,6 @@
     "DalamudApiLevel": "15",
     "Changelog": "- 7.5",
     "IconUrl": "https://puni.sh/api/plugins/icon/9"
-  },
-  {
-    "Author": "daemitus, croizat",
-    "Name": "Yes Already",
-    "Punchline": "Clicks Yes in various dialogs you've specified.",
-    "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
-    "Tags": [],
-    "InternalName": "YesAlready",
-    "DownloadCount": 1487239,
-    "LastUpdate": 1790520673,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.7.1/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.7.1/update/latest.zip",
-    "AssemblyVersion": "1.15.7.1",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "",
-    "TestingAssemblyVersion": "1.10.4.0",
-    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.10.4.0/install/testing.zip",
-    "TestingDalamudApiLevel": "12",
-    "IconUrl": "https://puni.sh/api/plugins/icon/26"
   },
   {
     "Author": "the Puni.sh Quest Squad",
@@ -331,14 +311,14 @@
       "utility"
     ],
     "InternalName": "Questionable",
-    "DownloadCount": 2395833,
-    "LastUpdate": 1791272887,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.756.3.35/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.756.3.35/update/latest.zip",
-    "AssemblyVersion": "15.756.3.35",
+    "DownloadCount": 2397184,
+    "LastUpdate": 1791329645,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.756.3.36/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.756.3.36/update/latest.zip",
+    "AssemblyVersion": "15.756.3.36",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
-    "Changelog": "- Change: UX: adjust button position in Path Tools section so they remain in same place -alydev",
+    "Changelog": "- Feature: hide unobtainable quests from \"Unlocks\" tab in journal progress -alydev\n  - the triple triad section there is pretty broken, i'll fix it someday",
     "TestingAssemblyVersion": "15.293.1.0",
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.293.1.0/install/testing.zip",
     "TestingDalamudApiLevel": "15",
@@ -353,7 +333,7 @@
       "marketboard"
     ],
     "InternalName": "Marketbuddy",
-    "DownloadCount": 23012,
+    "DownloadCount": 23022,
     "LastUpdate": 1777575334,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/131/Marketbuddy/versions/0.2.4.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/131/Marketbuddy/versions/0.2.4.2/update/latest.zip",
@@ -362,6 +342,26 @@
     "DalamudApiLevel": "15",
     "Changelog": "- 7.5",
     "IconUrl": "https://puni.sh/api/plugins/icon/131"
+  },
+  {
+    "Author": "daemitus, croizat",
+    "Name": "Yes Already",
+    "Punchline": "Clicks Yes in various dialogs you've specified.",
+    "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
+    "Tags": [],
+    "InternalName": "YesAlready",
+    "DownloadCount": 1487334,
+    "LastUpdate": 1790520673,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.7.1/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.7.1/update/latest.zip",
+    "AssemblyVersion": "1.15.7.1",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "",
+    "TestingAssemblyVersion": "1.10.4.0",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.10.4.0/install/testing.zip",
+    "TestingDalamudApiLevel": "12",
+    "IconUrl": "https://puni.sh/api/plugins/icon/26"
   },
   {
     "Author": "Team Wrath",
@@ -374,7 +374,7 @@
       "pvp"
     ],
     "InternalName": "WrathCombo",
-    "DownloadCount": 1236474,
+    "DownloadCount": 1236526,
     "LastUpdate": 1789927995,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.26/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.26/update/latest.zip",
@@ -386,6 +386,49 @@
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.21/install/testing.zip",
     "TestingDalamudApiLevel": "15",
     "IconUrl": "https://puni.sh/api/plugins/icon/60"
+  },
+  {
+    "Author": "Taurenkey, kawaii, NightmareXIV",
+    "Name": "Artisan",
+    "Punchline": "A 'simple' crafting plugin.",
+    "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
+    "Tags": [
+      "crafting"
+    ],
+    "InternalName": "Artisan",
+    "DownloadCount": 6086902,
+    "LastUpdate": 1790362692,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.21/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.21/update/latest.zip",
+    "AssemblyVersion": "4.0.5.21",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "- Allow copy of premade lists into user lists.\n- Fix export of premade lists.",
+    "TestingAssemblyVersion": "4.0.5.16",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.16/install/testing.zip",
+    "TestingDalamudApiLevel": "15",
+    "IconUrl": "https://puni.sh/api/plugins/icon/6"
+  },
+  {
+    "Author": "Taurenkey, Kage, NightmareXIV",
+    "Name": "Saucy",
+    "Punchline": "When working for MGP is too much effort.",
+    "Description": "Automates certain Gold Saucer mini-games.",
+    "Tags": [
+      "gold saucer",
+      "mgp",
+      "automation"
+    ],
+    "InternalName": "Saucy",
+    "DownloadCount": 1132639,
+    "LastUpdate": 1790928819,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.2.4/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.2.4/update/latest.zip",
+    "AssemblyVersion": "2.1.2.4",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "- Triple Triad NPC stats window works again: wins, draws, losses, MGP and card drops are tracked per NPC after every match, including ones you play yourself and duplicate card drops\n- General code cleanup and a smaller download",
+    "IconUrl": "https://puni.sh/api/plugins/icon/7"
   },
   {
     "Author": "kawaii, Ice",
@@ -400,7 +443,7 @@
       "pilgrim's traverse"
     ],
     "InternalName": "Palantir",
-    "DownloadCount": 22,
+    "DownloadCount": 227,
     "LastUpdate": 1791317047,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/169/Palantir/versions/0.0.0.5/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/169/Palantir/versions/0.0.0.5/update/latest.zip",
@@ -409,49 +452,6 @@
     "DalamudApiLevel": "15",
     "Changelog": "Public release! ",
     "IconUrl": "https://puni.sh/api/plugins/icon/169"
-  },
-  {
-    "Author": "Taurenkey, Kage, NightmareXIV",
-    "Name": "Saucy",
-    "Punchline": "When working for MGP is too much effort.",
-    "Description": "Automates certain Gold Saucer mini-games.",
-    "Tags": [
-      "gold saucer",
-      "mgp",
-      "automation"
-    ],
-    "InternalName": "Saucy",
-    "DownloadCount": 1132387,
-    "LastUpdate": 1790928819,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.2.4/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.2.4/update/latest.zip",
-    "AssemblyVersion": "2.1.2.4",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "- Triple Triad NPC stats window works again: wins, draws, losses, MGP and card drops are tracked per NPC after every match, including ones you play yourself and duplicate card drops\n- General code cleanup and a smaller download",
-    "IconUrl": "https://puni.sh/api/plugins/icon/7"
-  },
-  {
-    "Author": "Taurenkey, kawaii, NightmareXIV",
-    "Name": "Artisan",
-    "Punchline": "A 'simple' crafting plugin.",
-    "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
-    "Tags": [
-      "crafting"
-    ],
-    "InternalName": "Artisan",
-    "DownloadCount": 6086658,
-    "LastUpdate": 1790362692,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.21/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.21/update/latest.zip",
-    "AssemblyVersion": "4.0.5.21",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "- Allow copy of premade lists into user lists.\n- Fix export of premade lists.",
-    "TestingAssemblyVersion": "4.0.5.16",
-    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.16/install/testing.zip",
-    "TestingDalamudApiLevel": "15",
-    "IconUrl": "https://puni.sh/api/plugins/icon/6"
   },
   {
     "Author": "Haselnussbomber",
@@ -1112,7 +1112,7 @@
     "Description": "Now for more than crafting!",
     "Tags": [],
     "InternalName": "SomethingNeedDoing",
-    "DownloadCount": 824301,
+    "DownloadCount": 824370,
     "LastUpdate": 1791046466,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/15.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/15.12/update/latest.zip",
@@ -1133,7 +1133,7 @@
       "tweaks"
     ],
     "InternalName": "Automaton",
-    "DownloadCount": 991562,
+    "DownloadCount": 991594,
     "LastUpdate": 1789744781,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.218/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.218/update/latest.zip",
@@ -1152,7 +1152,7 @@
       "glamour"
     ],
     "InternalName": "GlamourLog",
-    "DownloadCount": 40765,
+    "DownloadCount": 40776,
     "LastUpdate": 1790327151,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/136/GlamourLog/versions/15.73/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/136/GlamourLog/versions/15.73/update/latest.zip",
@@ -1192,7 +1192,7 @@
     "Description": "Make custom deliveries less annoying by automating the process.",
     "Tags": [],
     "InternalName": "vsatisfy",
-    "DownloadCount": 156055,
+    "DownloadCount": 156067,
     "LastUpdate": 1781106410,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/0.0.0.37/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/0.0.0.37/update/latest.zip",
@@ -1209,7 +1209,7 @@
     "Description": "Automate gathering, workshop assignments, etc.",
     "Tags": [],
     "InternalName": "visland",
-    "DownloadCount": 895882,
+    "DownloadCount": 895927,
     "LastUpdate": 1789544765,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.151/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.151/update/latest.zip",
@@ -1226,7 +1226,7 @@
     "Description": "Based on ezFauxHollows, but uses known patterns instead of general-purpose solver.",
     "Tags": [],
     "InternalName": "vfaux",
-    "DownloadCount": 98621,
+    "DownloadCount": 98630,
     "LastUpdate": 1777496806,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/29/vfaux/versions/0.0.0.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/29/vfaux/versions/0.0.0.12/update/latest.zip",
@@ -1243,7 +1243,7 @@
     "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
     "Tags": [],
     "InternalName": "BossMod",
-    "DownloadCount": 2633031,
+    "DownloadCount": 2633197,
     "LastUpdate": 1790090996,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/7.5.6.9/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/7.5.6.9/update/latest.zip",
@@ -1268,7 +1268,7 @@
     "Description": "Bot that does fall guys event automatically.",
     "Tags": [],
     "InternalName": "vfallguy",
-    "DownloadCount": 57696,
+    "DownloadCount": 57706,
     "LastUpdate": 1777500971,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/41/vfallguy/versions/0.0.0.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/41/vfallguy/versions/0.0.0.12/update/latest.zip",
@@ -1285,7 +1285,7 @@
     "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
     "Tags": [],
     "InternalName": "vnavmesh",
-    "DownloadCount": 1906267,
+    "DownloadCount": 1906339,
     "LastUpdate": 1787843275,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/1.2.3.14/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/1.2.3.14/update/latest.zip",
@@ -1481,7 +1481,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Minor UI fixes, see changelog window by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1388\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.6.18...7.5.6.19",
-    "DownloadCount": 3331274
+    "DownloadCount": 3333278
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1514,7 +1514,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.11/latest.zip",
     "TestingAssemblyVersion": "7.4.5.11",
     "Changelog": "## What's Changed\r\n* Drag support by @Battler624 in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1384\r\n\r\n## New Contributors\r\n* @Battler624 made their first contribution in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1384\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.5.6.30...7.5.6.31",
-    "DownloadCount": 3858975
+    "DownloadCount": 3859409
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1571,7 +1571,7 @@
     "AssemblyVersion": "7.5.0.3",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.5.0.3/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* Added pr buildtest by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/17\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.5.0.2...7.5.0.3",
-    "DownloadCount": 62728
+    "DownloadCount": 62730
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1609,7 +1609,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.5.17/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.5.17",
     "Changelog": "## What's Changed\r\n* Autogig fix by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/670\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.6.0...7.5.6.1",
-    "DownloadCount": 1129145
+    "DownloadCount": 1129217
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1635,7 +1635,7 @@
     "AssemblyVersion": "7.5.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.5.0.0/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* api15 by @Shiori-Zephyr in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/16\r\n* API 15 compatibility by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/17\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.4.5.0...7.5.0.0",
-    "DownloadCount": 31313
+    "DownloadCount": 31320
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1666,7 +1666,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "## What's Changed\r\n* Update AutoDuty IPCs by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/12\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.5.6.0...7.5.6.1",
-    "DownloadCount": 25626
+    "DownloadCount": 25639
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1700,7 +1700,7 @@
     "AssemblyVersion": "7.5.6.4",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.5.6.4/latest.zip",
     "Changelog": "## What's Changed\r\n* Finished all planned features, added PCR icon to UI, fixed columns in PFWindow, and cleaned up old code by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/32\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.5.6.3...7.5.6.4",
-    "DownloadCount": 55308
+    "DownloadCount": 55339
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1734,7 +1734,7 @@
     "AssemblyVersion": "7.5.5.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/NoSillyReborn/releases/download/7.5.5.0/latest.zip",
     "Changelog": "## What's Changed\r\n* Update for 7.55 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/NoSillyReborn/pull/5\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/NoSillyReborn/compare/7.5.0.2...7.5.5.0",
-    "DownloadCount": 7624
+    "DownloadCount": 7627
   },
   {
     "Author": "Churin",
@@ -1765,7 +1765,7 @@
     "AssemblyVersion": "1.0.0.8",
     "DownloadLinkUpdate": "https://github.com/aventurescence/Understudy/releases/download/v1.0.0.8/latest.zip",
     "Changelog": "### chore: update Dalamud API level to 15 in pluginmanifest\r\n\n\n---\n*Assembly version: 1.0.0.8*\n\n\n**Full Changelog**: https://github.com/aventurescence/Understudy/compare/v1.0.0.7...v1.0.0.8",
-    "DownloadCount": 3614
+    "DownloadCount": 3619
   },
   {
     "Author": "Risa and Contributors",
@@ -2075,7 +2075,7 @@
       "mgp"
     ],
     "InternalName": "Chocoholic",
-    "DownloadCount": 6111,
+    "DownloadCount": 6113,
     "LastUpdate": 1778089832,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/update/latest.zip",
@@ -2094,7 +2094,7 @@
       "gpose"
     ],
     "InternalName": "Hyperborea",
-    "DownloadCount": 49417,
+    "DownloadCount": 49422,
     "LastUpdate": 1787504034,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.1.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.1.2/update/latest.zip",
@@ -2117,7 +2117,7 @@
     "Description": "Your personal vending machine.",
     "Tags": [],
     "InternalName": "Dropbox",
-    "DownloadCount": 49898,
+    "DownloadCount": 49900,
     "LastUpdate": 1783980806,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.15/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.15/update/latest.zip",
@@ -2140,7 +2140,7 @@
       "Sanctuary"
     ],
     "InternalName": "ExplorersIcebox",
-    "DownloadCount": 53696,
+    "DownloadCount": 53705,
     "LastUpdate": 1779884677,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/64/ExplorersIcebox/versions/1.1.0.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/64/ExplorersIcebox/versions/1.1.0.3/update/latest.zip",
@@ -2161,7 +2161,7 @@
       "Gatherers"
     ],
     "InternalName": "ChilledLeves",
-    "DownloadCount": 107556,
+    "DownloadCount": 107561,
     "LastUpdate": 1777774705,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/68/ChilledLeves/versions/1.0.1.24/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/68/ChilledLeves/versions/1.0.1.24/update/latest.zip",
@@ -2180,7 +2180,7 @@
       "Gatherers"
     ],
     "InternalName": "ICE",
-    "DownloadCount": 1262383,
+    "DownloadCount": 1262491,
     "LastUpdate": 1790691083,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/70/ICE/versions/1.0.0.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/70/ICE/versions/1.0.0.3/update/latest.zip",
@@ -2206,7 +2206,7 @@
     "Description": "Your personal Henchman doing all the heavy lifting for you!\n\n- A/B Rank Farmer\n- Hunt Logs\n- Hunt Bills\n- Retainer Creation\n- Character Creation\n- Multi Account Trading\n- Ocean Fishing\n- Chocobokeeps\nand more to come.",
     "Tags": [],
     "InternalName": "Henchman",
-    "DownloadCount": 216731,
+    "DownloadCount": 216752,
     "LastUpdate": 1790780271,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/85/Henchman/versions/3.0.1.33/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/85/Henchman/versions/3.0.1.33/update/latest.zip",
@@ -2226,7 +2226,7 @@
     "Description": "Your personal shopper who will take care of all your currency spendings!\n\nKnightshopper: because even knights deserve a squire for their shopping.",
     "Tags": [],
     "InternalName": "Knightshopper",
-    "DownloadCount": 4125,
+    "DownloadCount": 4134,
     "LastUpdate": 1791136362,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/173/Knightshopper/versions/1.0.1.6/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/173/Knightshopper/versions/1.0.1.6/update/latest.zip",
@@ -2246,7 +2246,7 @@
     "Description": "Better Grand Company Deliveries",
     "Tags": [],
     "InternalName": "Deliveroo",
-    "DownloadCount": 18690,
+    "DownloadCount": 18692,
     "LastUpdate": 1777864065,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/79/Deliveroo/versions/7.5.0.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/79/Deliveroo/versions/7.5.0.2/update/latest.zip",
@@ -2268,7 +2268,7 @@
       "yeet"
     ],
     "InternalName": "ARDiscard",
-    "DownloadCount": 4824,
+    "DownloadCount": 4827,
     "LastUpdate": 1777603212,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/80/ARDiscard/versions/8.5/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/80/ARDiscard/versions/8.5/update/latest.zip",
@@ -2343,7 +2343,7 @@
       "gearsets"
     ],
     "InternalName": "Gearsetter",
-    "DownloadCount": 37396,
+    "DownloadCount": 37403,
     "LastUpdate": 1777759856,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/98/Gearsetter/versions/4.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/98/Gearsetter/versions/4.3/update/latest.zip",
@@ -2364,7 +2364,7 @@
       "missions"
     ],
     "InternalName": "Squadronista",
-    "DownloadCount": 8966,
+    "DownloadCount": 8968,
     "LastUpdate": 1778554077,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/101/Squadronista/versions/7.5.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/101/Squadronista/versions/7.5.0.0/update/latest.zip",
@@ -2390,7 +2390,7 @@
       "\"AoE\""
     ],
     "InternalName": "VIWI",
-    "DownloadCount": 44159,
+    "DownloadCount": 44164,
     "LastUpdate": 1780272595,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/108/VIWI/versions/0.0.0.62/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/108/VIWI/versions/0.0.0.62/update/latest.zip",
@@ -2416,7 +2416,7 @@
       "erdelf"
     ],
     "InternalName": "AutoDuty",
-    "DownloadCount": 2170464,
+    "DownloadCount": 2173029,
     "LastUpdate": 1791313072,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.381/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.381/update/latest.zip",
@@ -2449,7 +2449,7 @@
       "erdelf"
     ],
     "InternalName": "FCTracker",
-    "DownloadCount": 4640,
+    "DownloadCount": 4645,
     "LastUpdate": 1791032611,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/135/FCTracker/versions/0.0.0.39/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/135/FCTracker/versions/0.0.0.39/update/latest.zip",
@@ -2600,7 +2600,7 @@
       "Lifestream"
     ],
     "InternalName": "ActiveVenueFinder",
-    "DownloadCount": 812,
+    "DownloadCount": 814,
     "LastUpdate": 1790897935,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/129/ActiveVenueFinder/versions/2.2.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/129/ActiveVenueFinder/versions/2.2.0.0/update/latest.zip",
@@ -2668,7 +2668,7 @@
       "automation"
     ],
     "InternalName": "CopeSeetheMeld",
-    "DownloadCount": 6715,
+    "DownloadCount": 6716,
     "LastUpdate": 1783019821,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/69/CopeSeetheMeld/versions/0.0.3.1/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/69/CopeSeetheMeld/versions/0.0.3.1/update/latest.zip",
@@ -2693,7 +2693,7 @@
       "dungeon"
     ],
     "InternalName": "NecroLens",
-    "DownloadCount": 77489,
+    "DownloadCount": 77499,
     "LastUpdate": 1777738526,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/53/NecroLens/versions/1.0.8.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/53/NecroLens/versions/1.0.8.12/update/latest.zip",
@@ -2739,7 +2739,7 @@
     "Description": "Advanced inventory management with safety filters and auto-discard",
     "Tags": [],
     "InternalName": "wahventory",
-    "DownloadCount": 62180,
+    "DownloadCount": 62192,
     "LastUpdate": 1791139911,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/91/wahventory/versions/20.0.0.4/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/91/wahventory/versions/20.0.0.4/update/latest.zip",
@@ -2755,7 +2755,7 @@
     "Description": "Jumping Puzzle Directory for the Strange Housing Discord",
     "Tags": [],
     "InternalName": "WahJumps",
-    "DownloadCount": 3034,
+    "DownloadCount": 3048,
     "LastUpdate": 1791139742,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/93/WahJumps/versions/20.0.0.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/93/WahJumps/versions/20.0.0.2/update/latest.zip",
@@ -2992,7 +2992,7 @@
     "LastUpdate": 1790309138,
     "Changelog": "Aethertek Plugin Manager for Dalamud.",
     "IsTestingExclusive": false,
-    "DownloadCount": 163,
+    "DownloadCount": 166,
     "RepoTitle": "XA",
     "SourceRepoName": "Aethertek-Plugin-Manager",
     "SourceRepoUrl": "https://github.com/xa-io/Aethertek-Plugin-Manager",
@@ -3022,7 +3022,7 @@
     "LastUpdate": 1791149855,
     "Changelog": "v0.0.0.45 release of XA-Database",
     "IsTestingExclusive": false,
-    "DownloadCount": 3231,
+    "DownloadCount": 3239,
     "RepoTitle": "XA",
     "SourceRepoName": "XA-Database",
     "SourceRepoUrl": "https://github.com/xa-io/XA-Database",
@@ -3051,7 +3051,7 @@
     "LastUpdate": 1791150256,
     "Changelog": "v0.0.0.50 release of XA Slave.",
     "IsTestingExclusive": false,
-    "DownloadCount": 4857,
+    "DownloadCount": 4865,
     "RepoTitle": "XA",
     "SourceRepoName": "XA-Slave",
     "SourceRepoUrl": "https://github.com/xa-io/XA-Slave",
@@ -3083,7 +3083,7 @@
     "LastUpdate": 1791150352,
     "Changelog": "v0.0.0.10 release of XA-HUD-Navigator",
     "IsTestingExclusive": false,
-    "DownloadCount": 1461,
+    "DownloadCount": 1465,
     "RepoTitle": "XA",
     "SourceRepoName": "XA-HUD-Navigator",
     "SourceRepoUrl": "https://github.com/xa-io/XA-HUD-Navigator"
@@ -3108,7 +3108,7 @@
     "LastUpdate": 1790431835,
     "Changelog": "XA Zod early beta access information.",
     "IsTestingExclusive": false,
-    "DownloadCount": 99,
+    "DownloadCount": 101,
     "RepoTitle": "XA",
     "SourceRepoName": "XA-Zod",
     "SourceRepoUrl": "https://github.com/xa-io/XA-Zod",
@@ -3182,7 +3182,7 @@
     "LastUpdate": 1791317610,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 9786,
+    "DownloadCount": 9812,
     "RepoTitle": "Dhog",
     "SourceRepoName": "LootGoblin",
     "SourceRepoUrl": "https://github.com/McVaxius/LootGoblin",
@@ -3277,7 +3277,7 @@
     "LastUpdate": 1791317563,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 2074,
+    "DownloadCount": 2078,
     "RepoTitle": "Dhog",
     "SourceRepoName": "HelloFellowHuman",
     "SourceRepoUrl": "https://github.com/McVaxius/HelloFellowHuman",
@@ -3306,7 +3306,7 @@
     "LastUpdate": 1791317503,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 1813,
+    "DownloadCount": 1821,
     "RepoTitle": "Dhog",
     "SourceRepoName": "ChocoboColourized",
     "SourceRepoUrl": "https://github.com/McVaxius/ChocoboColourized",
@@ -3336,7 +3336,7 @@
     "LastUpdate": 1791317543,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 1124,
+    "DownloadCount": 1126,
     "RepoTitle": "Dhog",
     "SourceRepoName": "DhogGPT",
     "SourceRepoUrl": "https://github.com/McVaxius/DhogGPT",
@@ -3367,7 +3367,7 @@
     "LastUpdate": 1791316988,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 2182,
+    "DownloadCount": 2192,
     "RepoTitle": "Dhog",
     "SourceRepoName": "DPS",
     "SourceRepoUrl": "https://github.com/McVaxius/DPS",
@@ -3427,7 +3427,7 @@
     "LastUpdate": 1791317589,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 1179,
+    "DownloadCount": 1181,
     "RepoTitle": "Dhog",
     "SourceRepoName": "Krangler",
     "SourceRepoUrl": "https://github.com/McVaxius/Krangler",
@@ -3456,7 +3456,7 @@
     "LastUpdate": 1791317513,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 1095,
+    "DownloadCount": 1110,
     "RepoTitle": "Dhog",
     "SourceRepoName": "ChokeAbo",
     "SourceRepoUrl": "https://github.com/McVaxius/ChokeAbo",
@@ -3487,7 +3487,7 @@
     "LastUpdate": 1791317660,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 1241,
+    "DownloadCount": 1246,
     "RepoTitle": "Dhog",
     "SourceRepoName": "TTSL",
     "SourceRepoUrl": "https://github.com/McVaxius/TTSL",
@@ -3521,7 +3521,7 @@
     "LastUpdate": 1791317497,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 953,
+    "DownloadCount": 975,
     "RepoTitle": "Dhog",
     "SourceRepoName": "botology",
     "SourceRepoUrl": "https://github.com/McVaxius/botology",
@@ -3534,7 +3534,7 @@
     "Punchline": "Recovered Bunnies automation for Eureka bunny fate runs.",
     "Description": "BFE now carries the real Bunnies automation surface: Pyros bunny fate routing, coffer hunt movement, optional repair and retainer support, and run statistics with Dhog-standard local window controls.",
     "InternalName": "BFE",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.0.1",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Tags": [
@@ -3547,12 +3547,12 @@
     "CategoryTags": [
       "utility"
     ],
-    "DownloadLinkInstall": "https://github.com/McVaxius/BFE/releases/download/v1.0.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/BFE/releases/download/v1.0.0.0/latest.zip",
-    "LastUpdate": 1791317492,
+    "DownloadLinkInstall": "https://github.com/McVaxius/BFE/releases/download/v1.0.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/BFE/releases/download/v1.0.0.1/latest.zip",
+    "LastUpdate": 1791328051,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 214,
+    "DownloadCount": 223,
     "RepoTitle": "Dhog",
     "SourceRepoName": "BFE",
     "SourceRepoUrl": "https://github.com/McVaxius/BFE",
@@ -3584,7 +3584,7 @@
     "LastUpdate": 1791317533,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 362,
+    "DownloadCount": 369,
     "RepoTitle": "Dhog",
     "SourceRepoName": "Coppelia",
     "SourceRepoUrl": "https://github.com/McVaxius/Coppelia",
@@ -3614,7 +3614,7 @@
     "LastUpdate": 1791317555,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 342,
+    "DownloadCount": 344,
     "RepoTitle": "Dhog",
     "SourceRepoName": "footballer",
     "SourceRepoUrl": "https://github.com/McVaxius/footballer",
@@ -3677,7 +3677,7 @@
     "LastUpdate": 1791317569,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 639,
+    "DownloadCount": 648,
     "RepoTitle": "Dhog",
     "SourceRepoName": "dad",
     "SourceRepoUrl": "https://github.com/McVaxius/dad",
@@ -3708,7 +3708,7 @@
     "LastUpdate": 1791317596,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 76,
+    "DownloadCount": 80,
     "RepoTitle": "Dhog",
     "SourceRepoName": "mom-public",
     "SourceRepoUrl": "https://github.com/McVaxius/mom-public"
@@ -3763,7 +3763,7 @@
     "LastUpdate": 1791317515,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 155,
+    "DownloadCount": 167,
     "RepoTitle": "Dhog",
     "SourceRepoName": "dduck-public",
     "SourceRepoUrl": "https://github.com/McVaxius/dduck-public",
@@ -3795,7 +3795,7 @@
     "LastUpdate": 1790448824,
     "Changelog": "## WigglyQuest v7.5.27\n\npushStable triggered by WigglyMuffin via dashboard\n\n### Installation Files\n- `latest.zip` - **Plugin archive for installation**\n- `WigglyQuest.json` - Plugin manifest\n",
     "IsTestingExclusive": false,
-    "DownloadCount": 13470,
+    "DownloadCount": 13498,
     "RepoTitle": "Wiggly",
     "SourceRepoName": "Questionable",
     "SourceRepoUrl": "https://github.com/WigglyMuffin/Questionable"
@@ -3820,7 +3820,7 @@
     "LastUpdate": 1779242296,
     "Changelog": "## Influx v7.5.4\n\npushStable triggered by WigglyMuffin via dashboard\n\n### Installation Files\n- `latest.zip` - **Plugin archive for installation**\n- `Influx.json` - Plugin manifest\n",
     "IsTestingExclusive": false,
-    "DownloadCount": 3612,
+    "DownloadCount": 3634,
     "RepoTitle": "Wiggly",
     "SourceRepoName": "Influx",
     "SourceRepoUrl": "https://github.com/WigglyMuffin/Influx",
@@ -3857,7 +3857,7 @@
     "LastUpdate": 1791225596,
     "Changelog": "No description provided\n",
     "IsTestingExclusive": false,
-    "DownloadCount": 5977,
+    "DownloadCount": 5985,
     "RepoTitle": "Matsuuzo",
     "SourceRepoName": "QSTCompanion",
     "SourceRepoUrl": "https://github.com/MacaronDream/QSTCompanion"
@@ -4091,7 +4091,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 15186,
+    "DownloadCount": 15203,
     "LastUpdate": "1790674037"
   },
   {
@@ -4119,7 +4119,7 @@
     "Punchline": "Doman Mahjong, solved for you.",
     "Description": "Reads your Doman Mahjong hand and either suggests the best discard or plays the match for you.",
     "Changelog": "v0.1.2.3: Fix the in-game suggestion highlight after a call. Once you called pon, chi, or kan, the highlight could jump to the wall along the top of the board or land on the wrong tile, because it located your hand by geometry and the shrunken hand let the perfectly-aligned wall slots win. It now anchors to the bottom-most row (your hand is always at the bottom) and ignores melded tiles, so the outline stays on the suggested discard. The hand reading and suggestion were always correct; only the on-tile outline was affected.",
-    "DownloadCount": 10541,
+    "DownloadCount": 10545,
     "DownloadLinkInstall": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver/releases/latest/download/latest.zip",
@@ -4156,7 +4156,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 26883,
+    "DownloadCount": 26898,
     "LastUpdate": "1790674062"
   },
   {
@@ -4185,7 +4185,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 58996,
+    "DownloadCount": 59028,
     "LastUpdate": "1790704519"
   },
   {
@@ -4215,7 +4215,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 16862,
+    "DownloadCount": 16877,
     "LastUpdate": "1790674040"
   },
   {
@@ -4248,7 +4248,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-Aetherphone/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 443776,
+    "DownloadCount": 446150,
     "LastUpdate": "1791294947"
   },
   {
@@ -4278,7 +4278,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoHuntGrinder/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 5100,
+    "DownloadCount": 5113,
     "LastUpdate": "1790674058"
   },
   {
@@ -4308,7 +4308,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoHuntTrain/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 685,
+    "DownloadCount": 692,
     "LastUpdate": "1790674044"
   },
   {
@@ -4338,7 +4338,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoSightseeingLog/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 2429,
+    "DownloadCount": 2439,
     "LastUpdate": "1790674054"
   },
   {
@@ -4368,7 +4368,7 @@
     "DownloadLinkTesting": "https://github.com/XeldarAlz/FFXIV-AutoTripleTriadGrind/releases/latest/download/latest.zip",
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
-    "DownloadCount": 1711,
+    "DownloadCount": 1722,
     "LastUpdate": "1790674044"
   },
   {
@@ -4514,12 +4514,12 @@
     "Description": "Gluttony Combo - lalalazy fork of Gluttony Combo. XIVCombo for very lazy players.",
     "InternalName": "GluttonyCombo",
     "AssemblyVersion": "1.0.4.287",
-    "Changelog": "v1.0.4.288 (2026-10-06) [testing]\n- **Beastmaster in the Crucible of the Unbroken: the cover Snarl before a known tankbuster now knows which difficulty degree the board is on.** Hits on a First Degree board land about 1.5 to 2 times as hard as the Standard hits every recorded number comes from, so the previous release held back from covering any cast a familiar could not survive twice over, which also gave up covers that worked at Standard. With the degree known, the familiar's recorded hit is scaled to that degree and the margin is 25%: at Standard Sweeping Evisceration is covered again for a familiar with ordinary HP, at First Degree it is not (the same cast knocked a 3,492 HP familiar out in 11 of 15 casts), and Obliterate, Grim Fate, Salivous Snap and Toxic Vomit are covered wherever the familiar holds enough HP for that degree's hit. Second and Third Degree keep the previous, more cautious margin until their hits are measured. A character already below the scaled hit is still covered whatever the familiar's HP.\n- **Beastmaster in the Crucible of the Unbroken: the guard against a heavy cast that hits the character now fires at the HP those hits actually take on a First, Second or Third Degree board.** The raid-wide Rotten Stench and Atomic Ray lines were recorded at Standard, so at First Degree the potion or Beastskin came too late; they are now scaled up by 1.75 on those degrees.\n- **Beastmaster in the Crucible of the Unbroken: a familiar that holds the enemy is no longer recalled into a tankbuster it can take.** A Parting Blow takes the familiar's attention with it, so the hit lands on the character: in 47 recalls made while a familiar held the enemy and a tankbuster landed within 6 seconds, 36 landed on the character, where a familiar left alone took 76 of 94 casts. The cycle exit and the add-pack Parting Blow now wait until the hit has landed. Recalls that save a low familiar, the Self-destruct burst and recalls where the logs show the familiar would not survive the hit are not held.\n- **The Crucible log line names the board's degree (`dg=`: 0 Standard, 1 First, 2 Second, 3 Third, x when not yet seen).** The degree is read from LazyCrucible 0.1.9.13 or newer; without it, or before the degree has been set since the plugin loaded, the plugin behaves as 1.0.4.287.\n- Testing channel only; the production channel is unchanged.\n\nv1.0.4.287 (2026-10-06) [testing]\n- **Beastmaster in the Crucible of the Unbroken: the Snarl, then Parting Blow, tankbuster dodge no longer hands the hit back to the character.** Parting Blow removed the familiar that had taken the enemy's attention just before the hit, the enemy picked the character again about 1.25 seconds later, and the hit landed on the character in roughly nine casts out of ten (about 150 casts across every board, at every timing from half a second to six seconds before the hit). A Snarl on its own left the hit on the familiar in four casts out of five. The Parting Blow step is now off, so the recalls it caused and the 90-second horn locks that followed them are gone as well; Sweeping Evisceration alone had been taking more than half of the character's health in a Gargoyle fight.\n- **A Snarl ahead of a known tankbuster now covers only the casts a familiar survives.** The familiar must hold at least twice the largest hit recorded on a familiar for that cast (Obliterate, Salivous Snap, Toxic Vomit and Grim Fate qualify). On the harder First Degree board Sweeping Evisceration hits a familiar for 3,300 to 3,900 and knocked a 3,492 HP familiar out in 11 of 15 casts, so it stays with the character, as does every cast with no recorded hit on a familiar. A character whose health is already below the cast's recorded hit is still covered whatever the familiar's health.\n- **Lease telemetry (`LS|` log lines).** When another plugin takes control of Gluttony Combo through the lease interface (AutoDuty through the Wrath Combo bridge, Questionable and others), one line records the lease being taken, Auto-Rotation being switched, each option it overrides (the leased value next to the saved one and whether they differ) and the lease ending. A repeated value is not logged again. Overrides last only as long as the lease and are never written to the saved settings; until now nothing recorded which values a run actually used.\n- The Crucible option \"Dodge known tankbusters with Snarl then Parting Blow\" is now \"Cover known tankbusters with Snarl\" and its Parting Blow timing slider is gone. The stored value is unchanged.\n- Testing channel only; the production channel is unchanged.\n\nv1.0.4.286 (2026-10-06) [testing]\n- **Ninja single-target mode: the ninjutsu block can start Doton when exactly two enemies are in range of the target.** A new toggle under the single-target ninjutsu options, with an HP-percentage slider (default 40), casts Doton while the current target sits above the threshold and the target is standing still; at one enemy or at three or more the single-target nuke (Raiton) is unchanged, so the area mode keeps owning three-plus targets. Before, single-target mode never offered Doton at any enemy count and kept pressing Raiton through two-enemy pulls.\n\nv1.0.4.285 (2026-10-05) [testing]\n- **Beastmaster in the Crucible of the Unbroken: the Forward Guard recall no longer leaves the character with no familiar and no way to turn the Bone Knight.** The familiar is recalled with Parting Blow before the Knight's guard lands only when a horn is ready to bring a familiar back. With every horn locked it stays out, because only a familiar's Snarl turns the Knight so it can be hit from behind; the declined recall is logged as `crucible:petsave-guard-no-resummon-horn`. Before, the recall fired regardless: a healthy familiar was sent away with all three horns locked, and the guard then stood until the board's Bleeding penalty ended the run (reproduced from a Second Degree run of the First Board; the same sequence happened on an earlier run).\n- **Beastmaster in the Crucible of the Unbroken: a hold no longer starves the summon, the Snarl or the cleanse.** While the rotation deliberately sends no weaponskill (a directional parry facing the character, a counter stance, an invulnerable or do-not-attack target) the idle global cooldown now counts as a window for abilities. Before, in melee a horn that came back during a hold was never pressed (the decision log read `summon:waiting-weave` until the end of the fight), and the Snarl that turns a guarded enemy and the cleanse waited behind the same window. Nothing changes outside a hold or outside the Crucible.\n- Testing channel only; the production channel is unchanged.\n\nv1.0.4.284 (2026-10-05) [testing]\n- **Diagnostics only: calls to Boss Mod Reborn now name their slow ones in the log.** Every call\n- Testing channel only; production stays on 1.0.4.282.\n\nv1.0.4.283 (2026-10-05) [testing]\n- **Auto-rotation no longer cycles through enemies several times a second when the chosen enemy is out of reach.** The out-of-range fallback (an in-range enemy takes the press when the chosen one cannot be reached) left that enemy as the current target after the press and re-picked it from scratch on every press, so the current target alternated between the chosen enemy and the fallback enemy, most visibly in the Crucible's add waves. The fallback now redirects only that one press: the current target stays on the chosen enemy, and the enemy a press is redirected to is kept for as long as it stays reachable.\n- **A DPS target pick now changes at most once per second.** Targeting modes, the Crucible kill order and the boss-mod target are re-evaluated every frame from distance, health and line of sight, so near-ties could flip the target between frames. The first pick, a pick whose enemy has died or become untargetable, and the Crucible's interrupt, kill-the-caster, dispel-carrier and boss-mod targets still take effect immediately.\n- A new log line (`TS|`) records every change of the DPS pick with the reason, so target behavior can be graded from play logs.\n- Testing channel only; production stays on 1.0.4.282.",
+    "Changelog": "v1.0.4.289 (2026-10-06) [testing]\n- **Beastmaster in the Crucible of the Unbroken: the recall that saves a familiar from Curtains for Rank 5 now fires from the moment the cast starts, whatever the GCD is doing.** The recall used to wait for the cast's final 2.5 seconds and a weave window; with the GCD idle or in its second half it never fired at all and the familiar was left to a knockout that ignores its health. The cast gives about 6 seconds of warning and the retreat takes a little over 2, so recalling from the cast start keeps every GCD state well inside the retreat the familiar needs (the recorded recalls went out with 1.2 to 1.5 seconds to spare and the familiar survived each one).\n- **Beastmaster in the Crucible of the Unbroken: no Snarl is pressed onto a familiar that Parting Blow is already sending away.** The familiar stays selectable for a few seconds after the recall starts, and a Snarl pressed onto the leaving familiar did nothing while the enemy stayed on the character; for three seconds after any recall the aggro rules hold off.\n- Testing channel only; the production channel is unchanged.\n\nv1.0.4.288 (2026-10-06) [testing]\n- **Beastmaster in the Crucible of the Unbroken: the cover Snarl before a known tankbuster now knows which difficulty degree the board is on.** Hits on a First Degree board land about 1.5 to 2 times as hard as the Standard hits every recorded number comes from, so the previous release held back from covering any cast a familiar could not survive twice over, which also gave up covers that worked at Standard. With the degree known, the familiar's recorded hit is scaled to that degree and the margin is 25%: at Standard Sweeping Evisceration is covered again for a familiar with ordinary HP, at First Degree it is not (the same cast knocked a 3,492 HP familiar out in 11 of 15 casts), and Obliterate, Grim Fate, Salivous Snap and Toxic Vomit are covered wherever the familiar holds enough HP for that degree's hit. Second and Third Degree keep the previous, more cautious margin until their hits are measured. A character already below the scaled hit is still covered whatever the familiar's HP.\n- **Beastmaster in the Crucible of the Unbroken: the guard against a heavy cast that hits the character now fires at the HP those hits actually take on a First, Second or Third Degree board.** The raid-wide Rotten Stench and Atomic Ray lines were recorded at Standard, so at First Degree the potion or Beastskin came too late; they are now scaled up by 1.75 on those degrees.\n- **Beastmaster in the Crucible of the Unbroken: a familiar that holds the enemy is no longer recalled into a tankbuster it can take.** A Parting Blow takes the familiar's attention with it, so the hit lands on the character: in 47 recalls made while a familiar held the enemy and a tankbuster landed within 6 seconds, 36 landed on the character, where a familiar left alone took 76 of 94 casts. The cycle exit and the add-pack Parting Blow now wait until the hit has landed. Recalls that save a low familiar, the Self-destruct burst and recalls where the logs show the familiar would not survive the hit are not held.\n- **The Crucible log line names the board's degree (`dg=`: 0 Standard, 1 First, 2 Second, 3 Third, x when not yet seen).** The degree is read from LazyCrucible 0.1.9.13 or newer; without it, or before the degree has been set since the plugin loaded, the plugin behaves as 1.0.4.287.\n- Testing channel only; the production channel is unchanged.\n\nv1.0.4.287 (2026-10-06) [testing]\n- **Beastmaster in the Crucible of the Unbroken: the Snarl, then Parting Blow, tankbuster dodge no longer hands the hit back to the character.** Parting Blow removed the familiar that had taken the enemy's attention just before the hit, the enemy picked the character again about 1.25 seconds later, and the hit landed on the character in roughly nine casts out of ten (about 150 casts across every board, at every timing from half a second to six seconds before the hit). A Snarl on its own left the hit on the familiar in four casts out of five. The Parting Blow step is now off, so the recalls it caused and the 90-second horn locks that followed them are gone as well; Sweeping Evisceration alone had been taking more than half of the character's health in a Gargoyle fight.\n- **A Snarl ahead of a known tankbuster now covers only the casts a familiar survives.** The familiar must hold at least twice the largest hit recorded on a familiar for that cast (Obliterate, Salivous Snap, Toxic Vomit and Grim Fate qualify). On the harder First Degree board Sweeping Evisceration hits a familiar for 3,300 to 3,900 and knocked a 3,492 HP familiar out in 11 of 15 casts, so it stays with the character, as does every cast with no recorded hit on a familiar. A character whose health is already below the cast's recorded hit is still covered whatever the familiar's health.\n- **Lease telemetry (`LS|` log lines).** When another plugin takes control of Gluttony Combo through the lease interface (AutoDuty through the Wrath Combo bridge, Questionable and others), one line records the lease being taken, Auto-Rotation being switched, each option it overrides (the leased value next to the saved one and whether they differ) and the lease ending. A repeated value is not logged again. Overrides last only as long as the lease and are never written to the saved settings; until now nothing recorded which values a run actually used.\n- The Crucible option \"Dodge known tankbusters with Snarl then Parting Blow\" is now \"Cover known tankbusters with Snarl\" and its Parting Blow timing slider is gone. The stored value is unchanged.\n- Testing channel only; the production channel is unchanged.\n\nv1.0.4.286 (2026-10-06) [testing]\n- **Ninja single-target mode: the ninjutsu block can start Doton when exactly two enemies are in range of the target.** A new toggle under the single-target ninjutsu options, with an HP-percentage slider (default 40), casts Doton while the current target sits above the threshold and the target is standing still; at one enemy or at three or more the single-target nuke (Raiton) is unchanged, so the area mode keeps owning three-plus targets. Before, single-target mode never offered Doton at any enemy count and kept pressing Raiton through two-enemy pulls.\n\nv1.0.4.285 (2026-10-05) [testing]\n- **Beastmaster in the Crucible of the Unbroken: the Forward Guard recall no longer leaves the character with no familiar and no way to turn the Bone Knight.** The familiar is recalled with Parting Blow before the Knight's guard lands only when a horn is ready to bring a familiar back. With every horn locked it stays out, because only a familiar's Snarl turns the Knight so it can be hit from behind; the declined recall is logged as `crucible:petsave-guard-no-resummon-horn`. Before, the recall fired regardless: a healthy familiar was sent away with all three horns locked, and the guard then stood until the board's Bleeding penalty ended the run (reproduced from a Second Degree run of the First Board; the same sequence happened on an earlier run).\n- **Beastmaster in the Crucible of the Unbroken: a hold no longer starves the summon, the Snarl or the cleanse.** While the rotation deliberately sends no weaponskill (a directional parry facing the character, a counter stance, an invulnerable or do-not-attack target) the idle global cooldown now counts as a window for abilities. Before, in melee a horn that came back during a hold was never pressed (the decision log read `summon:waiting-weave` until the end of the fight), and the Snarl that turns a guarded enemy and the cleanse waited behind the same window. Nothing changes outside a hold or outside the Crucible.\n- Testing channel only; the production channel is unchanged.\n\nv1.0.4.284 (2026-10-05) [testing]\n- **Diagnostics only: calls to Boss Mod Reborn now name their slow ones in the log.** Every call\n- Testing channel only; production stays on 1.0.4.282.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/dajoey/lalalazy/releases/download/GluttonyCombo-v1.0.4.288/GluttonyCombo-testing.zip",
+    "DownloadLinkTesting": "https://github.com/dajoey/lalalazy/releases/download/GluttonyCombo-v1.0.4.289/GluttonyCombo-testing.zip",
     "DownloadLinkInstall": "https://github.com/dajoey/lalalazy/releases/download/GluttonyCombo-v1.0.4.287/GluttonyCombo.zip",
     "DownloadLinkUpdate": "https://github.com/dajoey/lalalazy/releases/download/GluttonyCombo-v1.0.4.287/GluttonyCombo.zip",
     "Tags": [
@@ -4541,7 +4541,7 @@
     ],
     "DownloadCount": 0,
     "LastUpdate": "1790560588",
-    "TestingAssemblyVersion": "1.0.4.288",
+    "TestingAssemblyVersion": "1.0.4.289",
     "TestingDalamudApiLevel": 15
   },
   {
@@ -4790,16 +4790,16 @@
     "Description": "Keep an Auto-Market list of items you always sell. The companion lists them through your retainers in the stack size you choose (keeping a reserve in your bags if you want), prices every listing by matching the lowest board price instead of undercutting, and can do all of it inside AutoRetainer's venture cycle. Also re-prices existing listings (Auto Pinch). Successor to Dagobert Price Matcher; your old settings are imported automatically.",
     "InternalName": "LazyMarketCompanion",
     "AssemblyVersion": "0.2.8.1",
-    "TestingAssemblyVersion": "0.2.8.3",
+    "TestingAssemblyVersion": "0.2.8.5",
     "TestingDalamudApiLevel": 15,
-    "Changelog": "v0.2.8.3 (2026-10-06) [testing]\n- **Auto-Market marker dots are back on the item icons.** After the game's inventory layout change on 2026-09-15, the node each dot was anchored to stopped carrying a live position, so every dot drew at the same place on the screen instead of on its item: no dots on the bag or retainer icons, and one stray dot left in the screen's top-left corner. Each dot is now anchored to the node the game actually places in the inventory window, and a cell whose position does not resolve draws no dot at all instead of a dot at the screen's edge. When positions cannot be resolved, one log line counts how many cells were skipped and reports the position the node claims, so the next report can say which half of the anchor is wrong.\n- Testing channel only; the production channel is unchanged.\n\nv0.2.8.2 (2026-10-04) [testing]\n- **A rare game crash when the plugin updates while the game is running.** While a retainer venture item command hook is active and the plugin is updated again, it is disabled only after any call still inside it has finished, so a call can no longer land on a hook that is already gone. Auto-Market and everything else is unchanged.\n- Testing channel only; the production channel is unchanged.\n\nv0.2.8.1 (2026-10-03) [testing]\n- **Quick controls for the Lazy Hub window.** The plugin now offers the Auto-Market switch and the display settings (bag markers, Auto-Market chat messages, errors in chat, price adjustment messages, retainer names, the inventory owner tooltip, the inventory right-click entry and price decision logging) to Lazy Hub (`/lazy`) over Dalamud IPC, so they can be changed from one window next to the other lalalazy plugins. Each change does exactly what the matching setting in the plugin's own window does.\n- The Auto-Market switch asks for a confirmation before it turns on and is locked while a run is in progress. Nothing that changes what Auto-Market lists, prices, vends or pulls is offered.\n- Testing channel only; the production channel is unchanged.\n- Without Lazy Hub installed the plugin behaves exactly as before.\n\nv0.2.8.0 (2026-09-28) [testing]\n\n\n- **Items on the Auto-Market list are no longer left in place just because their price could not be confirmed.** The value gate held every listed item whose Universalis quote was missing, stale or empty, which left sellable stock sitting in bags and retainer inventories while market slots stayed free. Those items now list like any other. The listing is priced by the normal pricing pass (the live board through Auto Pinch by default), so the quote only ever has to decide whether an item is junk. A price request that fails or times out no longer keeps items off the board either.\n- **A data-center price can no longer send stock to the vendor or pull a listing.** When a stale home-world quote was replaced by the data-center fallback, the fallback's number was the cheapest listing across every world of the data center, so items worth many times more on the home world were judged as junk and vendored. Only a fresh quote from the home world itself can vendor an item or pull a listing now. A data-center quote can still let an item list. With the data-center price setting on, every price is a data-center price, so nothing is vendored or pulled at all.\n- The value-gate settings tooltip, the gate log line and the chat line now describe what actually happens to an item whose price is unconfirmed: it lists at the live board price and is never vendored or pulled.\n\nv0.2.7.0 (2026-09-28) [testing]\n\n\n- **Auto-Market no longer sells anything that is not on the Auto-Market list.** The off-list \"bag filler\" stage added in 0.2.6.0 is removed entirely. Free retainer market slots stay free unless a configured listing fills them; marketable items that are not enrolled on the list are never listed, deposited or vendored automatically - they are manual-review territory, exactly as before 0.2.6.0. A configuration migration retires the stage's switch and turns it off once for any install that picked it up, so returning to list-only behaviour needs no action.\n\nv0.2.6.0 (2026-09-28) [testing]\n\n\n- **Marketable bag stock that is not on the Auto-Market list now sells too.** Free retainer market slots left over after the configured listings are filled by marketable items sitting in the character's bags, listed from the bags at a confirmed market price only (world or data-center scope, inside the freshness window). Off-list stock is never vendored and never parked into retainer storage; items with no confirmed price anywhere stay in the bags, named in the log. Category routing divides off-list stock the same way as configured stock; a board already selling an item does not get a second listing of it. One chat line per pass names how many off-list stacks were listed, and a configuration switch (\"bag filler\", on by default) turns the stage off entirely.\n\n\n- **A market withdrawal is no longer reported as failed when the server accepted it.** A pull whose market slot still read occupied after the bounded confirmation window logged \"FAILED ... rc=0; leaving the listing on the board\" for a withdrawal that had landed. The return code is now treated as what it is - the server's acceptance - and a lagging slot read is reported as accepted-with-lag; the next pass re-reads the board.\n- **A storage deposit no longer reports failure for stock the listing pass already listed.** The deposit guard now mirrors the real, price-gated listing plan (it used to plan without the price gate, so unpriced items crowded the free slots and a priced item kept a doomed deposit). A deposit whose source slot is already empty is logged as a skip with the reason, not as a failure claiming the stack stayed put.\n- **The data-center price fallback is wall-time bounded.** A fully stale price set no longer extends the fallback re-asks without limit; past the bound the remaining items stay held (unconfirmed means hold) and are retried on the next pass. This removes the task-chain starvation a large fallback run could cause.\n- **The closing \"Auto-Market run done\" line is run-scoped.** Every run (a full sweep, a single-retainer run, an automated postprocess session) now logs a numbered start line and its done line carries the same number, so the counts reconcile against that run's operations - a game session with several runs no longer reads as undercounted.",
+    "Changelog": "v0.2.8.5 (2026-10-06) [testing]\n- **A diagnostic probe for the marker dots.** Two fixes in a row removed every way the marker log could detect a misplaced dot, and the dots were still landing in the wrong place, so the log now records the numbers themselves: for the first few draws and any later moment the anchors move, one line per grid lists each marked item's exact position data - where the marker computed the dot, where the game itself says the cell sits, the cell's rectangle and scale, and which dot it drew. No drawing behavior changed; every gate from the previous build stays.\n- Testing channel only; the production channel is unchanged.\n\nv0.2.8.4 (2026-10-06) [testing]\n- **Auto-Market marker dots can no longer draw away from their items.** A follow-up case to the previous fix remained: every dot drew at one spot near the screen's top-left instead of on its item, because the marker's own position math and the game's layout could disagree without the marker noticing. A dot now draws only when the game's own layout confirms the position computed for it, and only one dot may occupy a screen position, so a wrong or shared position skips the dot instead of placing it somewhere wrong. When dots are skipped, one log line counts how many and reports the position the node claims next to the position the game computed, so a remaining report can say exactly which half disagrees.\n- Testing channel only; the production channel is unchanged.\n\nv0.2.8.3 (2026-10-06) [testing]\n- **Auto-Market marker dots are back on the item icons.** After the game's inventory layout change on 2026-09-15, the node each dot was anchored to stopped carrying a live position, so every dot drew at the same place on the screen instead of on its item: no dots on the bag or retainer icons, and one stray dot left in the screen's top-left corner. Each dot is now anchored to the node the game actually places in the inventory window, and a cell whose position does not resolve draws no dot at all instead of a dot at the screen's edge. When positions cannot be resolved, one log line counts how many cells were skipped and reports the position the node claims, so the next report can say which half of the anchor is wrong.\n- Testing channel only; the production channel is unchanged.\n\nv0.2.8.2 (2026-10-04) [testing]\n- **A rare game crash when the plugin updates while the game is running.** While a retainer venture item command hook is active and the plugin is updated again, it is disabled only after any call still inside it has finished, so a call can no longer land on a hook that is already gone. Auto-Market and everything else is unchanged.\n- Testing channel only; the production channel is unchanged.\n\nv0.2.8.1 (2026-10-03) [testing]\n- **Quick controls for the Lazy Hub window.** The plugin now offers the Auto-Market switch and the display settings (bag markers, Auto-Market chat messages, errors in chat, price adjustment messages, retainer names, the inventory owner tooltip, the inventory right-click entry and price decision logging) to Lazy Hub (`/lazy`) over Dalamud IPC, so they can be changed from one window next to the other lalalazy plugins. Each change does exactly what the matching setting in the plugin's own window does.\n- The Auto-Market switch asks for a confirmation before it turns on and is locked while a run is in progress. Nothing that changes what Auto-Market lists, prices, vends or pulls is offered.\n- Testing channel only; the production channel is unchanged.\n- Without Lazy Hub installed the plugin behaves exactly as before.\n\nv0.2.8.0 (2026-09-28) [testing]\n\n\n- **Items on the Auto-Market list are no longer left in place just because their price could not be confirmed.** The value gate held every listed item whose Universalis quote was missing, stale or empty, which left sellable stock sitting in bags and retainer inventories while market slots stayed free. Those items now list like any other. The listing is priced by the normal pricing pass (the live board through Auto Pinch by default), so the quote only ever has to decide whether an item is junk. A price request that fails or times out no longer keeps items off the board either.\n- **A data-center price can no longer send stock to the vendor or pull a listing.** When a stale home-world quote was replaced by the data-center fallback, the fallback's number was the cheapest listing across every world of the data center, so items worth many times more on the home world were judged as junk and vendored. Only a fresh quote from the home world itself can vendor an item or pull a listing now. A data-center quote can still let an item list. With the data-center price setting on, every price is a data-center price, so nothing is vendored or pulled at all.\n- The value-gate settings tooltip, the gate log line and the chat line now describe what actually happens to an item whose price is unconfirmed: it lists at the live board price and is never vendored or pulled.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://github.com/dajoey/lalalazy/releases/download/LazyMarketCompanion-v0.2.8.1/LazyMarketCompanion.zip",
     "DownloadLinkUpdate": "https://github.com/dajoey/lalalazy/releases/download/LazyMarketCompanion-v0.2.8.1/LazyMarketCompanion.zip",
-    "DownloadLinkTesting": "https://github.com/dajoey/lalalazy/releases/download/LazyMarketCompanion-v0.2.8.3/LazyMarketCompanion-testing.zip",
+    "DownloadLinkTesting": "https://github.com/dajoey/lalalazy/releases/download/LazyMarketCompanion-v0.2.8.5/LazyMarketCompanion-testing.zip",
     "Tags": [
       "marketboard",
       "retainer",
@@ -4998,7 +4998,7 @@
     "Author": "Sevii",
     "DalamudApiLevel": 15,
     "Description": "Auto updates mods and allows for more customization such as color and compositing onto other files",
-    "DownloadCount": 271338,
+    "DownloadCount": 271346,
     "DownloadLinkInstall": "https://aetherment.sevii.dev/plugin/install",
     "DownloadLinkTesting": "https://aetherment.sevii.dev/plugin/install",
     "DownloadLinkUpdate": "https://aetherment.sevii.dev/plugin/update",
