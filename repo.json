@@ -154,7 +154,7 @@
     "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
     "Tags": [],
     "InternalName": "AutoRetainer",
-    "DownloadCount": 2667498,
+    "DownloadCount": 2667840,
     "LastUpdate": 1792368614,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.2.14/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.2.14/update/latest.zip",
@@ -174,7 +174,7 @@
     "Description": "Locks player movement while casting and allows for maximum caster uptime during the course of a fight.",
     "Tags": [],
     "InternalName": "Orbwalker",
-    "DownloadCount": 87753,
+    "DownloadCount": 87758,
     "LastUpdate": 1777528744,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/1.0.1.10/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/1.0.1.10/update/latest.zip",
@@ -196,7 +196,7 @@
       "convenience"
     ],
     "InternalName": "PandorasBox",
-    "DownloadCount": 1424764,
+    "DownloadCount": 1424937,
     "LastUpdate": 1791992270,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.6/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.6/update/latest.zip",
@@ -210,28 +210,6 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/8"
   },
   {
-    "Author": "Taurenkey, Gid, NightmareXIV",
-    "Name": "LazyLoot",
-    "Punchline": "Dungeon Loot but Lazy.",
-    "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
-    "Tags": [
-      "plugin",
-      "loot",
-      "utility",
-      "other"
-    ],
-    "InternalName": "LazyLoot",
-    "DownloadCount": 250202,
-    "LastUpdate": 1777584039,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.3/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.3/update/latest.zip",
-    "AssemblyVersion": "5.3.3.3",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "- 7.5",
-    "IconUrl": "https://puni.sh/api/plugins/icon/9"
-  },
-  {
     "Author": "kawaii, NightmareXIV",
     "Name": "Avarice",
     "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
@@ -240,7 +218,7 @@
       "combat"
     ],
     "InternalName": "Avarice",
-    "DownloadCount": 402855,
+    "DownloadCount": 402907,
     "LastUpdate": 1785546003,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.13/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.13/update/latest.zip",
@@ -254,6 +232,28 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/11"
   },
   {
+    "Author": "Taurenkey, Gid, NightmareXIV",
+    "Name": "LazyLoot",
+    "Punchline": "Dungeon Loot but Lazy.",
+    "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
+    "Tags": [
+      "plugin",
+      "loot",
+      "utility",
+      "other"
+    ],
+    "InternalName": "LazyLoot",
+    "DownloadCount": 250221,
+    "LastUpdate": 1777584039,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.3/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.3/update/latest.zip",
+    "AssemblyVersion": "5.3.3.3",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "- 7.5",
+    "IconUrl": "https://puni.sh/api/plugins/icon/9"
+  },
+  {
     "Author": "Det, croizat",
     "Name": "AutoHook",
     "Punchline": "Makes fishing less (or more) boring",
@@ -263,7 +263,7 @@
       "Fishing"
     ],
     "InternalName": "AutoHook",
-    "DownloadCount": 2917172,
+    "DownloadCount": 2919737,
     "LastUpdate": 1793525536,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.3.1/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/6.0.3.1/update/latest.zip",
@@ -285,7 +285,7 @@
       "marketboard"
     ],
     "InternalName": "Marketbuddy",
-    "DownloadCount": 24551,
+    "DownloadCount": 24564,
     "LastUpdate": 1777575334,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/131/Marketbuddy/versions/0.2.4.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/131/Marketbuddy/versions/0.2.4.2/update/latest.zip",
@@ -302,7 +302,7 @@
     "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
     "Tags": [],
     "InternalName": "YesAlready",
-    "DownloadCount": 1576902,
+    "DownloadCount": 1577955,
     "LastUpdate": 1793450211,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.7.7/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.7.7/update/latest.zip",
@@ -327,7 +327,7 @@
       "utility"
     ],
     "InternalName": "Questionable",
-    "DownloadCount": 2593486,
+    "DownloadCount": 2594530,
     "LastUpdate": 1793480225,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.756.3.60/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/94/Questionable/versions/15.756.3.60/update/latest.zip",
@@ -351,7 +351,7 @@
       "pvp"
     ],
     "InternalName": "WrathCombo",
-    "DownloadCount": 1267740,
+    "DownloadCount": 1267896,
     "LastUpdate": 1792168226,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.27/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.27/update/latest.zip",
@@ -374,7 +374,7 @@
       "Accessibility"
     ],
     "InternalName": "Splatoon",
-    "DownloadCount": 2353461,
+    "DownloadCount": 2353623,
     "LastUpdate": 1792020246,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.32/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.32/update/latest.zip",
@@ -386,27 +386,6 @@
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.33/install/testing.zip",
     "TestingDalamudApiLevel": "15",
     "IconUrl": "https://puni.sh/api/plugins/icon/10"
-  },
-  {
-    "Author": "Taurenkey, Kage, NightmareXIV",
-    "Name": "Saucy",
-    "Punchline": "When working for MGP is too much effort.",
-    "Description": "Automates certain Gold Saucer mini-games.",
-    "Tags": [
-      "gold saucer",
-      "mgp",
-      "automation"
-    ],
-    "InternalName": "Saucy",
-    "DownloadCount": 1218711,
-    "LastUpdate": 1793290579,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.2.9/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.2.9/update/latest.zip",
-    "AssemblyVersion": "2.1.2.9",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "Brawler:\nAdjusted requeue timings\nA (hopefully) working keyboard yesno fix as I did want to pull my keyboard to test it.\nStop at MGC Cap\nStop after x runs\n\nAlso added:\nGATE Timeline based on https://github.com/rooroodev/ffxivgateschedule\nGATE Runner inspired by https://github.com/NeoGriever/Saru \nMGP and Run stops for other repeatable minigames.",
-    "IconUrl": "https://puni.sh/api/plugins/icon/7"
   },
   {
     "Author": "kawaii, Ice",
@@ -421,7 +400,7 @@
       "pilgrim's traverse"
     ],
     "InternalName": "Palantir",
-    "DownloadCount": 16300,
+    "DownloadCount": 16363,
     "LastUpdate": 1793134310,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/169/Palantir/versions/0.0.0.9/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/169/Palantir/versions/0.0.0.9/update/latest.zip",
@@ -432,6 +411,27 @@
     "IconUrl": "https://puni.sh/api/plugins/icon/169"
   },
   {
+    "Author": "Taurenkey, Kage, NightmareXIV",
+    "Name": "Saucy",
+    "Punchline": "When working for MGP is too much effort.",
+    "Description": "Automates certain Gold Saucer mini-games.",
+    "Tags": [
+      "gold saucer",
+      "mgp",
+      "automation"
+    ],
+    "InternalName": "Saucy",
+    "DownloadCount": 1219295,
+    "LastUpdate": 1793290579,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.2.9/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.1.2.9/update/latest.zip",
+    "AssemblyVersion": "2.1.2.9",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "Brawler:\nAdjusted requeue timings\nA (hopefully) working keyboard yesno fix as I did want to pull my keyboard to test it.\nStop at MGC Cap\nStop after x runs\n\nAlso added:\nGATE Timeline based on https://github.com/rooroodev/ffxivgateschedule\nGATE Runner inspired by https://github.com/NeoGriever/Saru \nMGP and Run stops for other repeatable minigames.",
+    "IconUrl": "https://puni.sh/api/plugins/icon/7"
+  },
+  {
     "Author": "Taurenkey, kawaii, NightmareXIV",
     "Name": "Artisan",
     "Punchline": "A 'simple' crafting plugin.",
@@ -440,7 +440,7 @@
       "crafting"
     ],
     "InternalName": "Artisan",
-    "DownloadCount": 6116898,
+    "DownloadCount": 6117153,
     "LastUpdate": 1790362692,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.21/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.5.21/update/latest.zip",
@@ -468,7 +468,7 @@
     "Punchline": "Various tools to debug things.",
     "AcceptsFeedback": true,
     "Changelog": "Update for Patch 7.57.\n\n- Updated: ClientStructs now at 78975d83 (compare).",
-    "DownloadCount": 391,
+    "DownloadCount": 393,
     "LastUpdate": 1791925416,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.75.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.75.3/latest.zip"
@@ -581,7 +581,7 @@
     "Punchline": "A collection of quality of life tweaks.",
     "AcceptsFeedback": true,
     "Changelog": "Hide MSQ Complete\n\n- Added: The tweak now also checks if you have access to the expansion required for the next Main Scenario Quest. (Thanks to @alydevs)",
-    "DownloadCount": 7183,
+    "DownloadCount": 7647,
     "LastUpdate": 1793293793,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v50.0.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v50.0.3/latest.zip"
@@ -602,7 +602,7 @@
     "Punchline": "A little helper for Levequests.",
     "AcceptsFeedback": true,
     "Changelog": "- Added: You can now click on the group header in the Type filter to filter for either all Fieldcraft, Tradecraft or Grand Company Leves.\n- Added: When GatherBuddy is installed, the Queue and Recipe Tree now display GatherBuddys tooltip on fish and spearfish, including info about the Bait, Time and Weather restrictions and the next uptimes.  \n  - Please note that GatherBuddy uses the client language, not Dalamuds UI language like LeveHelper. It's out of my control.\n- Fixed: Some gatherables did not show up in the Queue.\n\nRegarding the Levemete filter\n\nThe game's database doesn't list which Levemete issues which Levequests and multiple old NPCs also rotate their Levequests when you complete one.\n\nI used to scrape a wiki to gather this data, but two weeks ago, we added Levequest issuer tracking to the Tracky plugin and already have more entries than the wiki provided!\n\nSome entries that I could confirm through another wiki are still missing, so manually added those back in for now.\n\nIf you'd like to help us, please install the Tracky plugin and enable uploads in its settings.\n\nThank you! :)",
-    "DownloadCount": 1812,
+    "DownloadCount": 1817,
     "LastUpdate": 1789065548,
     "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.6.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.6.0/latest.zip"
@@ -1099,7 +1099,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 1791948307,
-    "DownloadCount": 48529,
+    "DownloadCount": 49055,
     "DownloadLinkInstall": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.7.4.2/BDTHPlugin.zip",
     "DownloadLinkTesting": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.7.4.2/BDTHPlugin.zip",
     "DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.7.4.2/BDTHPlugin.zip"
@@ -1111,7 +1111,7 @@
     "Description": "Now for more than crafting!",
     "Tags": [],
     "InternalName": "SomethingNeedDoing",
-    "DownloadCount": 833425,
+    "DownloadCount": 833759,
     "LastUpdate": 1793469190,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/15.13/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/15.13/update/latest.zip",
@@ -1132,7 +1132,7 @@
       "tweaks"
     ],
     "InternalName": "Automaton",
-    "DownloadCount": 1075488,
+    "DownloadCount": 1075990,
     "LastUpdate": 1793406987,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.228/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.228/update/latest.zip",
@@ -1151,7 +1151,7 @@
       "glamour"
     ],
     "InternalName": "GlamourLog",
-    "DownloadCount": 53014,
+    "DownloadCount": 53164,
     "LastUpdate": 1793441814,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/136/GlamourLog/versions/15.76/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/136/GlamourLog/versions/15.76/update/latest.zip",
@@ -1191,7 +1191,7 @@
     "Description": "Make custom deliveries less annoying by automating the process.",
     "Tags": [],
     "InternalName": "vsatisfy",
-    "DownloadCount": 157207,
+    "DownloadCount": 157216,
     "LastUpdate": 1781106410,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/0.0.0.37/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/0.0.0.37/update/latest.zip",
@@ -1208,7 +1208,7 @@
     "Description": "Automate gathering, workshop assignments, etc.",
     "Tags": [],
     "InternalName": "visland",
-    "DownloadCount": 901567,
+    "DownloadCount": 901629,
     "LastUpdate": 1789544765,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.151/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.151/update/latest.zip",
@@ -1225,7 +1225,7 @@
     "Description": "Based on ezFauxHollows, but uses known patterns instead of general-purpose solver.",
     "Tags": [],
     "InternalName": "vfaux",
-    "DownloadCount": 99234,
+    "DownloadCount": 99243,
     "LastUpdate": 1777496806,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/29/vfaux/versions/0.0.0.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/29/vfaux/versions/0.0.0.12/update/latest.zip",
@@ -1242,7 +1242,7 @@
     "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
     "Tags": [],
     "InternalName": "BossMod",
-    "DownloadCount": 2792519,
+    "DownloadCount": 2793013,
     "LastUpdate": 1793203982,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/7.5.7.16/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/7.5.7.16/update/latest.zip",
@@ -1267,7 +1267,7 @@
     "Description": "Bot that does fall guys event automatically.",
     "Tags": [],
     "InternalName": "vfallguy",
-    "DownloadCount": 69532,
+    "DownloadCount": 69557,
     "LastUpdate": 1791755090,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/41/vfallguy/versions/0.0.0.13/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/41/vfallguy/versions/0.0.0.13/update/latest.zip",
@@ -1284,7 +1284,7 @@
     "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
     "Tags": [],
     "InternalName": "vnavmesh",
-    "DownloadCount": 1918001,
+    "DownloadCount": 1918159,
     "LastUpdate": 1787843275,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/1.2.3.14/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/1.2.3.14/update/latest.zip",
@@ -1480,7 +1480,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Add DRN territory ID by @ixovar in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1413\r\n\r\n## New Contributors\r\n* @ixovar made their first contribution in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1413\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.7.12...7.5.7.13",
-    "DownloadCount": 3486550
+    "DownloadCount": 3487281
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1513,7 +1513,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.5.7.3/latest.zip",
     "TestingAssemblyVersion": "7.5.7.3",
     "Changelog": "## What's Changed\r\n* feat: shinryu's domain (unreal) module by @Le-Vagabond-gh in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1388\r\n\r\n## New Contributors\r\n* @Le-Vagabond-gh made their first contribution in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1388\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.5.7.1...7.5.7.2",
-    "DownloadCount": 3939575
+    "DownloadCount": 3939848
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1541,7 +1541,7 @@
     "AssemblyVersion": "7.5.7.4",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.5.7.4/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* UI feedback thing by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/25\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.5.7.3...7.5.7.4",
-    "DownloadCount": 42667
+    "DownloadCount": 42697
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1570,7 +1570,7 @@
     "AssemblyVersion": "7.5.0.3",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.5.0.3/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* Added pr buildtest by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/17\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.5.0.2...7.5.0.3",
-    "DownloadCount": 63368
+    "DownloadCount": 63378
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1608,7 +1608,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.5.17/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.5.17",
     "Changelog": "## What's Changed\r\n* Autogig fix by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/670\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.6.0...7.5.6.1",
-    "DownloadCount": 1137842
+    "DownloadCount": 1137926
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1634,7 +1634,7 @@
     "AssemblyVersion": "7.5.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.5.0.0/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* api15 by @Shiori-Zephyr in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/16\r\n* API 15 compatibility by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/17\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.4.5.0...7.5.0.0",
-    "DownloadCount": 31744
+    "DownloadCount": 31751
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1665,7 +1665,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "## What's Changed\r\n* Update AutoDuty IPCs by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/12\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.5.6.0...7.5.6.1",
-    "DownloadCount": 26675
+    "DownloadCount": 26684
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1699,7 +1699,7 @@
     "AssemblyVersion": "7.5.7.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.5.7.1/latest.zip",
     "Changelog": "## What's Changed\r\n* Restructured so its not a nightmare to maintain, nuget bump, misc fixes by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/35\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.5.7.0...7.5.7.1",
-    "DownloadCount": 66453
+    "DownloadCount": 66548
   },
   {
     "Author": "The Combat Reborn Team",
@@ -1733,7 +1733,7 @@
     "AssemblyVersion": "7.5.5.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/NoSillyReborn/releases/download/7.5.5.0/latest.zip",
     "Changelog": "## What's Changed\r\n* Update for 7.55 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/NoSillyReborn/pull/5\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/NoSillyReborn/compare/7.5.0.2...7.5.5.0",
-    "DownloadCount": 7888
+    "DownloadCount": 7893
   },
   {
     "Author": "Churin",
@@ -2005,7 +2005,7 @@
     "Description": "A bunch of utilities to simplify multi-boxing, and a IPC broadcaster",
     "Tags": [],
     "InternalName": "MBT",
-    "DownloadCount": 1752,
+    "DownloadCount": 1754,
     "LastUpdate": 1725604589,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/59/MBT/versions/0.0.0.16/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/59/MBT/versions/0.0.0.16/update/latest.zip",
@@ -2063,6 +2063,28 @@
     "_Dip17Channel": null
   },
   {
+    "Author": "kawaii",
+    "Name": "Chocoholic",
+    "Punchline": "Kweh!",
+    "Description": "Chocoholic is a plugin to automatically queue for and complete Chocobo races in FFXIV.",
+    "Tags": [
+      "chocobo",
+      "gold saucer",
+      "race",
+      "mgp"
+    ],
+    "InternalName": "Chocoholic",
+    "DownloadCount": 6473,
+    "LastUpdate": 1778089832,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/update/latest.zip",
+    "AssemblyVersion": "0.0.0.3",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "Update for Dalamud API 15 and 2026.04.21.0000.0000.",
+    "IconUrl": "https://puni.sh/api/plugins/icon/116"
+  },
+  {
     "Author": "kawaii, NightmareXIV",
     "Name": "Hyperborea",
     "Punchline": "What if we GPosed in the Mordion Gaol?",
@@ -2071,7 +2093,7 @@
       "gpose"
     ],
     "InternalName": "Hyperborea",
-    "DownloadCount": 49976,
+    "DownloadCount": 49988,
     "LastUpdate": 1787504034,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.1.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.1.2/update/latest.zip",
@@ -2089,34 +2111,12 @@
   },
   {
     "Author": "kawaii",
-    "Name": "Chocoholic",
-    "Punchline": "Kweh!",
-    "Description": "Chocoholic is a plugin to automatically queue for and complete Chocobo races in FFXIV.",
-    "Tags": [
-      "chocobo",
-      "gold saucer",
-      "race",
-      "mgp"
-    ],
-    "InternalName": "Chocoholic",
-    "DownloadCount": 6463,
-    "LastUpdate": 1778089832,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/update/latest.zip",
-    "AssemblyVersion": "0.0.0.3",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "Update for Dalamud API 15 and 2026.04.21.0000.0000.",
-    "IconUrl": "https://puni.sh/api/plugins/icon/116"
-  },
-  {
-    "Author": "kawaii",
     "Name": "Dropbox",
     "Punchline": "Your personal vending machine.",
     "Description": "Your personal vending machine.",
     "Tags": [],
     "InternalName": "Dropbox",
-    "DownloadCount": 50561,
+    "DownloadCount": 50569,
     "LastUpdate": 1783980806,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.15/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.15/update/latest.zip",
@@ -2139,7 +2139,7 @@
       "automation"
     ],
     "InternalName": "MeowNET",
-    "DownloadCount": 36,
+    "DownloadCount": 37,
     "LastUpdate": 1792858864,
     "TestingAssemblyVersion": "0.0.0.2",
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/183/MeowNET/versions/0.0.0.2/install/testing.zip",
@@ -2161,7 +2161,7 @@
       "Sanctuary"
     ],
     "InternalName": "ExplorersIcebox",
-    "DownloadCount": 54460,
+    "DownloadCount": 54475,
     "LastUpdate": 1779884677,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/64/ExplorersIcebox/versions/1.1.0.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/64/ExplorersIcebox/versions/1.1.0.3/update/latest.zip",
@@ -2182,7 +2182,7 @@
       "Gatherers"
     ],
     "InternalName": "ChilledLeves",
-    "DownloadCount": 108611,
+    "DownloadCount": 108628,
     "LastUpdate": 1777774705,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/68/ChilledLeves/versions/1.0.1.24/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/68/ChilledLeves/versions/1.0.1.24/update/latest.zip",
@@ -2201,7 +2201,7 @@
       "Gatherers"
     ],
     "InternalName": "ICE",
-    "DownloadCount": 1337256,
+    "DownloadCount": 1337539,
     "LastUpdate": 1793097566,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/70/ICE/versions/1.0.0.6/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/70/ICE/versions/1.0.0.6/update/latest.zip",
@@ -2227,7 +2227,7 @@
     "Description": "Your personal Henchman doing all the heavy lifting for you!\n\n- A/B Rank Farmer\n- Hunt Logs\n- Hunt Bills\n- Retainer Creation\n- Character Creation\n- Multi Account Trading\n- Multicharacter Ocean Fishing Cycler\n- Chocobokeeps\nand more to come.",
     "Tags": [],
     "InternalName": "Henchman",
-    "DownloadCount": 237020,
+    "DownloadCount": 237127,
     "LastUpdate": 1793312163,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/85/Henchman/versions/3.0.1.40/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/85/Henchman/versions/3.0.1.40/update/latest.zip",
@@ -2244,7 +2244,7 @@
     "Description": "Your personal shopper who will take care of all your currency spendings!\n\nKnightshopper: because even knights deserve a squire for their shopping.",
     "Tags": [],
     "InternalName": "Knightshopper",
-    "DownloadCount": 7225,
+    "DownloadCount": 7234,
     "LastUpdate": 1792772009,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/173/Knightshopper/versions/1.0.1.9/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/173/Knightshopper/versions/1.0.1.9/update/latest.zip",
@@ -2261,7 +2261,7 @@
     "Description": "Better Grand Company Deliveries",
     "Tags": [],
     "InternalName": "Deliveroo",
-    "DownloadCount": 19130,
+    "DownloadCount": 19139,
     "LastUpdate": 1777864065,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/79/Deliveroo/versions/7.5.0.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/79/Deliveroo/versions/7.5.0.2/update/latest.zip",
@@ -2283,7 +2283,7 @@
       "yeet"
     ],
     "InternalName": "ARDiscard",
-    "DownloadCount": 5022,
+    "DownloadCount": 5027,
     "LastUpdate": 1777603212,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/80/ARDiscard/versions/8.5/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/80/ARDiscard/versions/8.5/update/latest.zip",
@@ -2302,7 +2302,7 @@
       "fishing"
     ],
     "InternalName": "FishNotify",
-    "DownloadCount": 473,
+    "DownloadCount": 475,
     "LastUpdate": 1768047503,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/81/FishNotify/versions/10.1/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/81/FishNotify/versions/10.1/update/latest.zip",
@@ -2321,7 +2321,7 @@
       "character switch"
     ],
     "InternalName": "KitchenSink",
-    "DownloadCount": 977,
+    "DownloadCount": 979,
     "LastUpdate": 1755808371,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/95/KitchenSink/versions/4.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/95/KitchenSink/versions/4.0/update/latest.zip",
@@ -2338,7 +2338,7 @@
     "Description": "Better Company Workshop Turn-In",
     "Tags": [],
     "InternalName": "Workshoppa",
-    "DownloadCount": 4266,
+    "DownloadCount": 4270,
     "LastUpdate": 1766205466,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/97/Workshoppa/versions/9.2.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/97/Workshoppa/versions/9.2.0.0/update/latest.zip",
@@ -2358,7 +2358,7 @@
       "gearsets"
     ],
     "InternalName": "Gearsetter",
-    "DownloadCount": 38928,
+    "DownloadCount": 38955,
     "LastUpdate": 1777759856,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/98/Gearsetter/versions/4.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/98/Gearsetter/versions/4.3/update/latest.zip",
@@ -2379,7 +2379,7 @@
       "missions"
     ],
     "InternalName": "Squadronista",
-    "DownloadCount": 9291,
+    "DownloadCount": 9295,
     "LastUpdate": 1778554077,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/101/Squadronista/versions/7.5.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/101/Squadronista/versions/7.5.0.0/update/latest.zip",
@@ -2405,7 +2405,7 @@
       "\"AoE\""
     ],
     "InternalName": "VIWI",
-    "DownloadCount": 44658,
+    "DownloadCount": 44670,
     "LastUpdate": 1780272595,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/108/VIWI/versions/0.0.0.62/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/108/VIWI/versions/0.0.0.62/update/latest.zip",
@@ -2431,7 +2431,7 @@
       "erdelf"
     ],
     "InternalName": "AutoDuty",
-    "DownloadCount": 2346888,
+    "DownloadCount": 2350241,
     "LastUpdate": 1793569739,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.396/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.396/update/latest.zip",
@@ -2464,7 +2464,7 @@
       "erdelf"
     ],
     "InternalName": "FCTracker",
-    "DownloadCount": 5850,
+    "DownloadCount": 5853,
     "LastUpdate": 1792268318,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/135/FCTracker/versions/0.0.0.42/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/135/FCTracker/versions/0.0.0.42/update/latest.zip",
@@ -2552,7 +2552,7 @@
       "venture lists"
     ],
     "InternalName": "ARControl",
-    "DownloadCount": 4541,
+    "DownloadCount": 4545,
     "LastUpdate": 1787594633,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/99/ARControl/versions/8.7/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/99/ARControl/versions/8.7/update/latest.zip",
@@ -2573,7 +2573,7 @@
       "Ready"
     ],
     "InternalName": "IAmReady",
-    "DownloadCount": 318,
+    "DownloadCount": 320,
     "LastUpdate": 1778900353,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/121/IAmReady/versions/1.1.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/121/IAmReady/versions/1.1.0.0/update/latest.zip",
@@ -2593,7 +2593,7 @@
       "calendar"
     ],
     "InternalName": "Burnout",
-    "DownloadCount": 372,
+    "DownloadCount": 374,
     "LastUpdate": 1780417356,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/123/Burnout/versions/1.0.0.1/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/123/Burnout/versions/1.0.0.1/update/latest.zip",
@@ -2615,7 +2615,7 @@
       "Lifestream"
     ],
     "InternalName": "ActiveVenueFinder",
-    "DownloadCount": 1052,
+    "DownloadCount": 1056,
     "LastUpdate": 1791940244,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/129/ActiveVenueFinder/versions/2.2.0.1/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/129/ActiveVenueFinder/versions/2.2.0.1/update/latest.zip",
@@ -2639,7 +2639,7 @@
       "Automation"
     ],
     "InternalName": "Saru",
-    "DownloadCount": 212,
+    "DownloadCount": 214,
     "LastUpdate": 1790295491,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/179/Saru/versions/1.0.3.5/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/179/Saru/versions/1.0.3.5/update/latest.zip",
@@ -2663,7 +2663,7 @@
       "Chat"
     ],
     "InternalName": "BlackJackButtler",
-    "DownloadCount": 3258,
+    "DownloadCount": 3262,
     "LastUpdate": 1792830167,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/118/BlackJackButtler/versions/1.9.1.3/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/118/BlackJackButtler/versions/1.9.1.3/update/latest.zip",
@@ -2692,7 +2692,7 @@
       "gear"
     ],
     "InternalName": "ThrowCrapOut",
-    "DownloadCount": 28,
+    "DownloadCount": 29,
     "LastUpdate": 1792541371,
     "TestingAssemblyVersion": "0.6.0.3",
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/182/ThrowCrapOut/versions/0.6.0.3/install/testing.zip",
@@ -2719,7 +2719,7 @@
       "automation"
     ],
     "InternalName": "CopeSeetheMeld",
-    "DownloadCount": 6801,
+    "DownloadCount": 6805,
     "LastUpdate": 1783019821,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/69/CopeSeetheMeld/versions/0.0.3.1/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/69/CopeSeetheMeld/versions/0.0.3.1/update/latest.zip",
@@ -2744,7 +2744,7 @@
       "dungeon"
     ],
     "InternalName": "NecroLens",
-    "DownloadCount": 78075,
+    "DownloadCount": 78079,
     "LastUpdate": 1777738526,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/53/NecroLens/versions/1.0.8.12/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/53/NecroLens/versions/1.0.8.12/update/latest.zip",
@@ -2790,7 +2790,7 @@
     "Description": "Advanced inventory management with safety filters and auto-discard",
     "Tags": [],
     "InternalName": "wahventory",
-    "DownloadCount": 63782,
+    "DownloadCount": 63791,
     "LastUpdate": 1793037175,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/91/wahventory/versions/20.0.0.6/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/91/wahventory/versions/20.0.0.6/update/latest.zip",
@@ -2806,7 +2806,7 @@
     "Description": "Jumping Puzzle Directory for the Strange Housing Discord",
     "Tags": [],
     "InternalName": "WahJumps",
-    "DownloadCount": 3375,
+    "DownloadCount": 3378,
     "LastUpdate": 1791139742,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/93/WahJumps/versions/20.0.0.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/93/WahJumps/versions/20.0.0.2/update/latest.zip",
@@ -2828,7 +2828,7 @@
       "utility"
     ],
     "InternalName": "PluginPresetManager",
-    "DownloadCount": 983,
+    "DownloadCount": 985,
     "LastUpdate": 1785017411,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/105/PluginPresetManager/versions/1.0.7.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/105/PluginPresetManager/versions/1.0.7.0/update/latest.zip",
@@ -2846,7 +2846,7 @@
       "wah"
     ],
     "InternalName": "PaissaWah",
-    "DownloadCount": 646,
+    "DownloadCount": 648,
     "LastUpdate": 1778548030,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/139/PaissaWah/versions/1.0.0.7/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/139/PaissaWah/versions/1.0.0.7/update/latest.zip",
@@ -2868,7 +2868,7 @@
       "quality of life"
     ],
     "InternalName": "RepairDeez",
-    "DownloadCount": 302,
+    "DownloadCount": 306,
     "LastUpdate": 1793364938,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/175/RepairDeez/versions/20.0.0.6/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/175/RepairDeez/versions/20.0.0.6/update/latest.zip",
@@ -2889,7 +2889,7 @@
       "travel"
     ],
     "InternalName": "BstHelper",
-    "DownloadCount": 1188,
+    "DownloadCount": 1190,
     "LastUpdate": 1789231486,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/176/BstHelper/versions/0.1.7.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/176/BstHelper/versions/0.1.7.0/update/latest.zip",
@@ -2911,7 +2911,7 @@
       "utility"
     ],
     "InternalName": "WahTools",
-    "DownloadCount": 3785,
+    "DownloadCount": 3851,
     "LastUpdate": 1793562879,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/180/WahTools/versions/20.0.0.24/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/180/WahTools/versions/20.0.0.24/update/latest.zip",
@@ -2933,7 +2933,7 @@
       "ui"
     ],
     "InternalName": "wahbuttons",
-    "DownloadCount": 88,
+    "DownloadCount": 90,
     "LastUpdate": 1793395691,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/181/wahbuttons/versions/20.0.0.2/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/181/wahbuttons/versions/20.0.0.2/update/latest.zip",
@@ -2994,7 +2994,7 @@
       "Cutscene"
     ],
     "InternalName": "Skippy",
-    "DownloadCount": 5421,
+    "DownloadCount": 5449,
     "LastUpdate": 1793215440,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/130/Skippy/versions/2.2.5.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/130/Skippy/versions/2.2.5.0/update/latest.zip",
@@ -3087,7 +3087,7 @@
     "LastUpdate": 1793281677,
     "Changelog": "Aethertek Plugin Manager for Dalamud.",
     "IsTestingExclusive": false,
-    "DownloadCount": 269,
+    "DownloadCount": 275,
     "RepoTitle": "XA",
     "SourceRepoName": "Aethertek-Plugin-Manager",
     "SourceRepoUrl": "https://github.com/xa-io/Aethertek-Plugin-Manager",
@@ -3117,7 +3117,7 @@
     "LastUpdate": 1793145054,
     "Changelog": "v0.0.0.49 release of XA-Database",
     "IsTestingExclusive": false,
-    "DownloadCount": 4317,
+    "DownloadCount": 4323,
     "RepoTitle": "XA",
     "SourceRepoName": "XA-Database",
     "SourceRepoUrl": "https://github.com/xa-io/XA-Database",
@@ -3146,7 +3146,7 @@
     "LastUpdate": 1793286699,
     "Changelog": "v0.0.0.60 release of XA Slave.",
     "IsTestingExclusive": false,
-    "DownloadCount": 7311,
+    "DownloadCount": 7321,
     "RepoTitle": "XA",
     "SourceRepoName": "XA-Slave",
     "SourceRepoUrl": "https://github.com/xa-io/XA-Slave",
@@ -3178,7 +3178,7 @@
     "LastUpdate": 1792943314,
     "Changelog": "v0.0.0.11 release of XA-HUD-Navigator",
     "IsTestingExclusive": false,
-    "DownloadCount": 1610,
+    "DownloadCount": 1611,
     "RepoTitle": "XA",
     "SourceRepoName": "XA-HUD-Navigator",
     "SourceRepoUrl": "https://github.com/xa-io/XA-HUD-Navigator"
@@ -3203,7 +3203,7 @@
     "LastUpdate": 1791345841,
     "Changelog": "XA Zod early beta access information.",
     "IsTestingExclusive": false,
-    "DownloadCount": 179,
+    "DownloadCount": 180,
     "RepoTitle": "XA",
     "SourceRepoName": "XA-Zod",
     "SourceRepoUrl": "https://github.com/xa-io/XA-Zod",
@@ -3213,7 +3213,7 @@
     "Author": "McVaxius",
     "Name": "God Mod Companion",
     "InternalName": "BMRVariantLoader",
-    "AssemblyVersion": "3.0.0.1",
+    "AssemblyVersion": "3.1.0.1",
     "Description": "Encounter additions, Praetorium timelines and bundled cooldown plans, with AethertekUI appearance for BMR settings, autorotation and AI. BossModReborn must be installed and enabled.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -3227,15 +3227,15 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": -100,
-    "IconUrl": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v3.0.0.1/icon.png",
+    "IconUrl": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v3.1.0.1/icon.png",
     "Punchline": "Experimental encounters, plans and tools; currently for BossModReborn",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v3.0.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v3.0.0.1/latest.zip",
-    "LastUpdate": 1793564116,
+    "DownloadLinkInstall": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v3.1.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v3.1.0.1/latest.zip",
+    "LastUpdate": 1793593298,
     "Changelog": "Public encounter modules, including Praetorium timelines and bundled cooldown plans. BossModReborn must be installed and enabled.",
     "IsTestingExclusive": false,
-    "DownloadCount": 3086,
+    "DownloadCount": 3118,
     "RepoTitle": "Dhog",
     "SourceRepoName": "BMRVariantLoader-Public",
     "SourceRepoUrl": "https://github.com/McVaxius/BMRVariantLoader-Public"
@@ -3263,7 +3263,7 @@
     "LastUpdate": 1793581150,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 10416,
+    "DownloadCount": 10445,
     "RepoTitle": "Dhog",
     "SourceRepoName": "FrenRider",
     "SourceRepoUrl": "https://github.com/McVaxius/FrenRider",
@@ -3308,7 +3308,7 @@
     "LastUpdate": 1793581159,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 11971,
+    "DownloadCount": 12011,
     "RepoTitle": "Dhog",
     "SourceRepoName": "LootGoblin",
     "SourceRepoUrl": "https://github.com/McVaxius/LootGoblin",
@@ -3341,7 +3341,7 @@
     "LastUpdate": 1793581177,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 7954,
+    "DownloadCount": 7990,
     "RepoTitle": "Dhog",
     "SourceRepoName": "MOGTOME",
     "SourceRepoUrl": "https://github.com/McVaxius/MOGTOME",
@@ -3403,7 +3403,7 @@
     "LastUpdate": 1793350703,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 3021,
+    "DownloadCount": 3022,
     "RepoTitle": "Dhog",
     "SourceRepoName": "HelloFellowHuman",
     "SourceRepoUrl": "https://github.com/McVaxius/HelloFellowHuman",
@@ -3432,7 +3432,7 @@
     "LastUpdate": 1793350649,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 2410,
+    "DownloadCount": 2411,
     "RepoTitle": "Dhog",
     "SourceRepoName": "ChocoboColourized",
     "SourceRepoUrl": "https://github.com/McVaxius/ChocoboColourized",
@@ -3462,7 +3462,7 @@
     "LastUpdate": 1793350668,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 1406,
+    "DownloadCount": 1408,
     "RepoTitle": "Dhog",
     "SourceRepoName": "DhogGPT",
     "SourceRepoUrl": "https://github.com/McVaxius/DhogGPT",
@@ -3493,7 +3493,7 @@
     "LastUpdate": 1792805880,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 2616,
+    "DownloadCount": 2618,
     "RepoTitle": "Dhog",
     "SourceRepoName": "DPS",
     "SourceRepoUrl": "https://github.com/McVaxius/DPS",
@@ -3523,7 +3523,7 @@
     "LastUpdate": 1793350702,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 976,
+    "DownloadCount": 977,
     "RepoTitle": "Dhog",
     "SourceRepoName": "dheacon",
     "SourceRepoUrl": "https://github.com/McVaxius/dheacon",
@@ -3553,7 +3553,7 @@
     "LastUpdate": 1793350656,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 1452,
+    "DownloadCount": 1454,
     "RepoTitle": "Dhog",
     "SourceRepoName": "Krangler",
     "SourceRepoUrl": "https://github.com/McVaxius/Krangler",
@@ -3582,7 +3582,7 @@
     "LastUpdate": 1793350669,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 1967,
+    "DownloadCount": 1972,
     "RepoTitle": "Dhog",
     "SourceRepoName": "ChokeAbo",
     "SourceRepoUrl": "https://github.com/McVaxius/ChokeAbo",
@@ -3613,7 +3613,7 @@
     "LastUpdate": 1793350788,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 1483,
+    "DownloadCount": 1485,
     "RepoTitle": "Dhog",
     "SourceRepoName": "TTSL",
     "SourceRepoUrl": "https://github.com/McVaxius/TTSL",
@@ -3647,7 +3647,7 @@
     "LastUpdate": 1793350662,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 2322,
+    "DownloadCount": 2323,
     "RepoTitle": "Dhog",
     "SourceRepoName": "botology",
     "SourceRepoUrl": "https://github.com/McVaxius/botology",
@@ -3679,7 +3679,7 @@
     "LastUpdate": 1793350662,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 746,
+    "DownloadCount": 747,
     "RepoTitle": "Dhog",
     "SourceRepoName": "Coppelia",
     "SourceRepoUrl": "https://github.com/McVaxius/Coppelia",
@@ -3712,7 +3712,7 @@
     "LastUpdate": 1793351235,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 608,
+    "DownloadCount": 610,
     "RepoTitle": "Dhog",
     "SourceRepoName": "footballer",
     "SourceRepoUrl": "https://github.com/McVaxius/footballer",
@@ -3743,7 +3743,7 @@
     "LastUpdate": 1793454319,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 9993,
+    "DownloadCount": 10006,
     "RepoTitle": "Dhog",
     "SourceRepoName": "ADS",
     "SourceRepoUrl": "https://github.com/McVaxius/ADS",
@@ -3775,7 +3775,7 @@
     "LastUpdate": 1793390058,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 1525,
+    "DownloadCount": 1528,
     "RepoTitle": "Dhog",
     "SourceRepoName": "dad",
     "SourceRepoUrl": "https://github.com/McVaxius/dad",
@@ -3803,7 +3803,7 @@
     "IconUrl": "https://raw.githubusercontent.com/McVaxius/mom-public/main/icon.png",
     "DownloadLinkInstall": "https://github.com/McVaxius/mom-public/releases/download/v5.0.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/mom-public/releases/download/v5.0.0.0/latest.zip",
-    "LastUpdate": 1793130531,
+    "LastUpdate": 1793588605,
     "Changelog": null,
     "IsTestingExclusive": false,
     "DownloadCount": 345,
@@ -3829,7 +3829,7 @@
     "IconUrl": "https://raw.githubusercontent.com/McVaxius/dhognav-public/main/icon.png",
     "DownloadLinkInstall": "https://github.com/McVaxius/dhognav-public/releases/download/v3.0.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/dhognav-public/releases/download/v3.0.0.0/latest.zip",
-    "LastUpdate": 1793130547,
+    "LastUpdate": 1793588604,
     "Changelog": null,
     "IsTestingExclusive": false,
     "DownloadCount": 228,
@@ -3843,7 +3843,7 @@
     "Punchline": "Deep Ducking public host and authenticated module access.",
     "Description": "The Deep Ducking public host provides the introduction, community links and authenticated loading of separately supplied DDuck modules. /deepducking and /dduck open the introduction when no module is loaded.\n\nFull module required for all commands below except opening the host window.\n\nCommands (use /deepducking; /dduck is an alias):\n/deepducking [toggle main window]\n/dduck [alias for /deepducking; accepts all commands below]\n/deepducking mini [toggle Mini]\n/deepducking settings [open Settings]\n/deepducking config [open Settings]\n/deepducking debug [reveal and open Advanced for this plugin load]\n/deepducking help [open command help]\n/deepducking start [floor] [start or continue selected save; optional fresh-run floor]\n/deepducking party-start [floor] [alias for start]\n/deepducking party [select fixed-party POTD while idle]\n/deepducking adopt [bind eligible already-entered party dungeon]\n/deepducking hold [pause local output; retain run for Resume]\n/deepducking resume [resume retained local run after readiness checks]\n/deepducking nextstop [exit after next boss]\n/deepducking ns [exit after next boss]\n/deepducking stop [FULL STOP; persist local lock across reloads; stay in duty]\n/deepducking reset-stop [clear eligible FULL STOP after cleanup; do not start]\n/deepducking status [print local status]\n/deepducking inspect [record read-only client and native observations]\n/deepducking saves [open Saves]\n/deepducking saves info <dungeon> [inspect native saves]\n/deepducking saves delete <dungeon> <1|2> [delete selected save after native checks; no extra confirmation]\n/deepducking saves dof <dungeon> <1|2> <on|off> [set future-failure deletion preference; no deletion now]\n/deepducking saves cancel [cancel pending save or Start preparation; completed actions remain]\n\nDungeon arguments: potd, hoh, eo, pt. [floor] is optional; <...> is required. Choose one value for 1|2 or on|off; omit brackets when typing. Start can replace stopped state; Resume can release an eligible retained in-dungeon run. nextstop and ns retain the save and keep Mini open until return is observed; repeat to confirm the same request. Use the existing boss-break button to cancel.\n\nIf DailyDuty is installed, /dd is unavailable for Deep Ducking; use /deepducking. An alias owned by another plugin is preserved.",
     "InternalName": "DDuck",
-    "AssemblyVersion": "2.0.0.1",
+    "AssemblyVersion": "2.0.0.2",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Tags": [
@@ -3856,12 +3856,12 @@
     "CategoryTags": [
       "utility"
     ],
-    "DownloadLinkInstall": "https://github.com/McVaxius/dduck-public/releases/download/v2.0.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/dduck-public/releases/download/v2.0.0.1/latest.zip",
-    "LastUpdate": 1793143798,
+    "DownloadLinkInstall": "https://github.com/McVaxius/dduck-public/releases/download/v2.0.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/dduck-public/releases/download/v2.0.0.2/latest.zip",
+    "LastUpdate": 1793588594,
     "Changelog": null,
     "IsTestingExclusive": false,
-    "DownloadCount": 636,
+    "DownloadCount": 712,
     "RepoTitle": "Dhog",
     "SourceRepoName": "dduck-public",
     "SourceRepoUrl": "https://github.com/McVaxius/dduck-public",
@@ -3893,7 +3893,7 @@
     "LastUpdate": 1793303144,
     "Changelog": "## WigglyQuest v7.5.31\n\npushStable triggered by WigglyMuffin via dashboard\n\n### Installation Files\n- `latest.zip` - **Plugin archive for installation**\n- `WigglyQuest.json` - Plugin manifest\n",
     "IsTestingExclusive": false,
-    "DownloadCount": 15739,
+    "DownloadCount": 15756,
     "RepoTitle": "Wiggly",
     "SourceRepoName": "Questionable",
     "SourceRepoUrl": "https://github.com/WigglyMuffin/Questionable"
@@ -3918,7 +3918,7 @@
     "LastUpdate": 1779242296,
     "Changelog": "## Influx v7.5.4\n\npushStable triggered by WigglyMuffin via dashboard\n\n### Installation Files\n- `latest.zip` - **Plugin archive for installation**\n- `Influx.json` - Plugin manifest\n",
     "IsTestingExclusive": false,
-    "DownloadCount": 4650,
+    "DownloadCount": 4652,
     "RepoTitle": "Wiggly",
     "SourceRepoName": "Influx",
     "SourceRepoUrl": "https://github.com/WigglyMuffin/Influx",
@@ -3955,7 +3955,7 @@
     "LastUpdate": 1793532718,
     "Changelog": "No description provided\n",
     "IsTestingExclusive": false,
-    "DownloadCount": 7281,
+    "DownloadCount": 7300,
     "RepoTitle": "Matsuuzo",
     "SourceRepoName": "QSTCompanion",
     "SourceRepoUrl": "https://github.com/MacaronDream/QSTCompanion"
@@ -4032,7 +4032,7 @@
       "automation"
     ],
     "InternalName": "Mogmail",
-    "DownloadCount": 2708,
+    "DownloadCount": 2711,
     "LastUpdate": 1787390610,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/148/Mogmail/versions/1.2.6.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/148/Mogmail/versions/1.2.6.0/update/latest.zip",
@@ -4060,7 +4060,7 @@
       "automation"
     ],
     "InternalName": "FCCH",
-    "DownloadCount": 3384,
+    "DownloadCount": 3387,
     "LastUpdate": 1790863091,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/149/FCCH/versions/2.6.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/149/FCCH/versions/2.6.0.0/update/latest.zip",
@@ -4160,17 +4160,17 @@
       "Sound"
     ],
     "InternalName": "VFXEditor-Beta",
-    "AssemblyVersion": "1.9.4.5",
-    "TestingAssemblyVersion": "1.9.4.5",
+    "AssemblyVersion": "1.9.4.6",
+    "TestingAssemblyVersion": "1.9.4.6",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 1,
     "LastUpdate": 1618608322,
-    "DownloadLinkInstall": "https://github.com/0ceal0t/Dalamud-VFXEditor/releases/download/1.9.4.5/VFXEditor-Beta.zip",
-    "DownloadLinkUpdate": "https://github.com/0ceal0t/Dalamud-VFXEditor/releases/download/1.9.4.5/VFXEditor-Beta.zip",
-    "DownloadLinkTesting": "https://github.com/0ceal0t/Dalamud-VFXEditor/releases/download/1.9.4.5/VFXEditor-Beta.zip",
+    "DownloadLinkInstall": "https://github.com/0ceal0t/Dalamud-VFXEditor/releases/download/1.9.4.6/VFXEditor-Beta.zip",
+    "DownloadLinkUpdate": "https://github.com/0ceal0t/Dalamud-VFXEditor/releases/download/1.9.4.6/VFXEditor-Beta.zip",
+    "DownloadLinkTesting": "https://github.com/0ceal0t/Dalamud-VFXEditor/releases/download/1.9.4.6/VFXEditor-Beta.zip",
     "IconUrl": "https://raw.githubusercontent.com/0ceal0t/Dalamud-VFXEditor/main/assets/icon.png"
   },
   {
@@ -4829,7 +4829,7 @@
     "Author": "Sevii",
     "DalamudApiLevel": 15,
     "Description": "Auto updates mods and allows for more customization such as color and compositing onto other files",
-    "DownloadCount": 272976,
+    "DownloadCount": 272994,
     "DownloadLinkInstall": "https://aetherment.sevii.dev/plugin/install",
     "DownloadLinkTesting": "https://aetherment.sevii.dev/plugin/install",
     "DownloadLinkUpdate": "https://aetherment.sevii.dev/plugin/update",
